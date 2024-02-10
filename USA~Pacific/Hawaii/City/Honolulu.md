@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::21.32] 
 [name::Honolulu] 
 Country :: [[../../../../United_States_of_America]]  
-State :: [[../../../../../Oceania/Hawaii]]  
+State ::[[../../../../../Oceania/Polynesia/Hawaii]]]  
 [Population::] 
 [Unknown::] 
 

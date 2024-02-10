@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::21.37] 
 [name::Pearl Harbor] 
 Country :: [[../../../../United_States_of_America]]  
-State :: [[../../../../../Oceania/Hawaii]]  
+State ::[[../../../../../Oceania/Polynesia/Hawaii]]]  
 [Population::] 
 [Unknown::] 
 
