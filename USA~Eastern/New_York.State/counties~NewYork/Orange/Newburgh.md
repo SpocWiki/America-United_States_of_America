@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::41.5] 
 [name::Newburgh] 
 Country :: [[../../../../United_States_of_America]]  
-State :: [[../../New_York.State]] 
+State :: [[New_York.State]] 
 [Population::] 
 [Unknown::] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [38.89,-77.01] 
 type: State
 tags:
@@ -22,7 +22,7 @@ Capital :: [[District_of_Columbia/City/Washington~City]]
 
 ```leaflet
 id: District_of_Columbia
-geojsonFolder: ./District_of_Columbia/
+geojsonFolder: ./District_of_Columbia//
 markerFolder: ./District_of_Columbia/
 zoomFeatures: true 
 minZoom: 2 

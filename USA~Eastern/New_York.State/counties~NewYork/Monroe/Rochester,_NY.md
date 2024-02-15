@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::43.1656] 
 [name::Rochester, NY] 
 Country :: [[../../../../United_States_of_America]]  
-State :: [[../../New_York.State]] 
+State :: [[New_York.State]] 
 [Population::] 
 [Unknown::] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [41.7627,-72.6743] 
 type: State
 tags:
@@ -26,7 +26,7 @@ Capital :: [[Connecticut/City/Hartford]]
 
 ```leaflet
 id: Connecticut
-geojsonFolder: ./Connecticut/
+geojsonFolder: ./Connecticut//
 markerFolder: ./Connecticut/
 zoomFeatures: true 
 minZoom: 2 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [42.48,-71.2] 
 type: State
 tags:
@@ -26,8 +26,8 @@ Capital :: [[Massachusetts/City/Boston]]
 
 ```leaflet
 id: Massachusetts
-geojsonFolder: ./Massachusetts/
-markerFolder: ./Massachusetts/
+geojsonFolder: ./Massachusetts//
+markerFolder: ./Massachusetts//
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

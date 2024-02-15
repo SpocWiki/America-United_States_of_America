@@ -1,4 +1,4 @@
-﻿---
+---
 location: [39.371,-75.0483] 
 type: State
 tags:
@@ -26,7 +26,7 @@ Capital :: [[Delaware]]
 
 ```leaflet
 id: Delaware
-geojsonFolder: ./Delaware/
+geojsonFolder: ./Delaware//
 markerFolder: ./Delaware/
 zoomFeatures: true 
 minZoom: 2 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [28.4672,-82.2062] 
 type: State
 tags:
@@ -25,7 +25,7 @@ Capital :: [[Florida/City/Tallahassee]]
 
 ```leaflet
 id: Florida
-geojsonFolder: ./Florida/
+geojsonFolder: ./Florida//
 markerFolder: ./Florida/
 zoomFeatures: true 
 minZoom: 2 

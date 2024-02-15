@@ -25,8 +25,10 @@ State :: [[../../New_York.State]]
 id: Albany
 coordinates: [[Albany]] 
 markerFile: [[Albany]] 
-defaultZoom: 11 
+defaultZoom: 10 
 maxZoom: 18
+geojsonFolder: ./Albany//
+markerFolder: ./Albany/
 ```
 
 
