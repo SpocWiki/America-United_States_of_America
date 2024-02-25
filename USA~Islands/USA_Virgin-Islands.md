@@ -1,4 +1,4 @@
-﻿---
+---
 type: Country
 tags:
 - geo/Country
@@ -100,13 +100,17 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 [ISO2::VI] 
 [ISO3::VIR] 
+
+## #has_/map 
+
+
 ```leaflet
 id: Virgin Islands (U.S.)
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./USA_Virgin~Islands/
-markerFolder: ./USA_Virgin~Islands/
+geojsonFolder: ./USA_Virgin-Islands/
+markerFolder: ./USA_Virgin-Islands/
 ```
 
 [name-en::Virgin Islands (U.S.)] 
@@ -124,10 +128,10 @@ Continent :: [[South-America]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA_Outlying~Islands/USA_Virgin~Islands|USA_Virgin~Islands]] 
-- [[../../../../../_public/geo/Continent/America~North/USA_Outlying~Islands/USA_Virgin~Islands.public|USA_Virgin~Islands.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA_Outlying~Islands/USA_Virgin~Islands.internal|USA_Virgin~Islands.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA_Outlying~Islands/USA_Virgin~Islands.protect|USA_Virgin~Islands.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA_Outlying~Islands/USA_Virgin~Islands.private|USA_Virgin~Islands.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA_Outlying~Islands/USA_Virgin~Islands.personal|USA_Virgin~Islands.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA_Outlying~Islands/USA_Virgin~Islands.secret|USA_Virgin~Islands.secret]] 
+- [[../../../../../_Standards/geo/Continent/America~North/USA_Outlying-Islands/USA_Virgin-Islands|USA_Virgin-Islands]] 
+- [[../../../../../_public/geo/Continent/America~North/USA_Outlying-Islands/USA_Virgin-Islands.public|USA_Virgin-Islands.public]] 
+- [[../../../../../_internal/geo/Continent/America~North/USA_Outlying-Islands/USA_Virgin-Islands.internal|USA_Virgin-Islands.internal]] 
+- [[../../../../../_protect/geo/Continent/America~North/USA_Outlying-Islands/USA_Virgin-Islands.protect|USA_Virgin-Islands.protect]] 
+- [[../../../../../_private/geo/Continent/America~North/USA_Outlying-Islands/USA_Virgin-Islands.private|USA_Virgin-Islands.private]] 
+- [[../../../../../_personal/geo/Continent/America~North/USA_Outlying-Islands/USA_Virgin-Islands.personal|USA_Virgin-Islands.personal]] 
+- [[../../../../../_secret/geo/Continent/America~North/USA_Outlying-Islands/USA_Virgin-Islands.secret|USA_Virgin-Islands.secret]] 
