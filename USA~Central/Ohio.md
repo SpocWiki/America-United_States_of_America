@@ -16,7 +16,7 @@ confidential: public
 ![[Ohio/Seal_of_Ohio.svg|350]]  
 
 
-Country :: [[../../United_States_of_America]]  
+Country :: [[../../USA]]  
 Capital :: [[Ohio/City/Columbus]]  
 [geo-lon::-83.8678] 
 [geo-lat::39.8944] 
@@ -35,10 +35,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Ohio|Ohio]] 
-- [[../../../../../_public/geo/Continent/America~North/United_States_of_America/Ohio.public|Ohio.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/United_States_of_America/Ohio.internal|Ohio.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/United_States_of_America/Ohio.protect|Ohio.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/United_States_of_America/Ohio.private|Ohio.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/United_States_of_America/Ohio.personal|Ohio.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/United_States_of_America/Ohio.secret|Ohio.secret]] 
+- [[../../../../../_Standards/geo/Continent/America~North/USA/Ohio|Ohio]] 
+- [[../../../../../_public/geo/Continent/America~North/USA/Ohio.public|Ohio.public]] 
+- [[../../../../../_internal/geo/Continent/America~North/USA/Ohio.internal|Ohio.internal]] 
+- [[../../../../../_protect/geo/Continent/America~North/USA/Ohio.protect|Ohio.protect]] 
+- [[../../../../../_private/geo/Continent/America~North/USA/Ohio.private|Ohio.private]] 
+- [[../../../../../_personal/geo/Continent/America~North/USA/Ohio.personal|Ohio.personal]] 
+- [[../../../../../_secret/geo/Continent/America~North/USA/Ohio.secret|Ohio.secret]] 

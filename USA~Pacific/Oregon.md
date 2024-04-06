@@ -18,7 +18,7 @@ confidential: public
 ![[Oregon/Flag_of_Oregon.svg|350]] 
 
 
-Country :: [[../../United_States_of_America]]  
+Country :: [[../../USA]]  
 Capital :: [[Oregon/City/Oregon~Salem]]  
 [geo-lon::-122.814] 
 [geo-lat::45.2404] 
@@ -37,10 +37,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Oregon|Oregon]] 
-- [[../../../../../_public/geo/Continent/America~North/United_States_of_America/Oregon.public|Oregon.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/United_States_of_America/Oregon.internal|Oregon.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/United_States_of_America/Oregon.protect|Oregon.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/United_States_of_America/Oregon.private|Oregon.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/United_States_of_America/Oregon.personal|Oregon.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/United_States_of_America/Oregon.secret|Oregon.secret]] 
+- [[../../../../../_Standards/geo/Continent/America~North/USA/Oregon|Oregon]] 
+- [[../../../../../_public/geo/Continent/America~North/USA/Oregon.public|Oregon.public]] 
+- [[../../../../../_internal/geo/Continent/America~North/USA/Oregon.internal|Oregon.internal]] 
+- [[../../../../../_protect/geo/Continent/America~North/USA/Oregon.protect|Oregon.protect]] 
+- [[../../../../../_private/geo/Continent/America~North/USA/Oregon.private|Oregon.private]] 
+- [[../../../../../_personal/geo/Continent/America~North/USA/Oregon.personal|Oregon.personal]] 
+- [[../../../../../_secret/geo/Continent/America~North/USA/Oregon.secret|Oregon.secret]] 

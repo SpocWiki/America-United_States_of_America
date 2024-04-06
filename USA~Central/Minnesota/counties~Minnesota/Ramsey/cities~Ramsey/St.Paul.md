@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-93.17] 
 [geo-lat::45] 
 [name::St.Paul] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Minnesota]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Minnesota/City/St.Paul|St.Paul]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Minnesota/City/St.Paul.public|St.Paul.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Minnesota/City/St.Paul.internal|St.Paul.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Minnesota/City/St.Paul.protect|St.Paul.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Minnesota/City/St.Paul.private|St.Paul.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Minnesota/City/St.Paul.personal|St.Paul.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Minnesota/City/St.Paul.secret|St.Paul.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Minnesota/City/St.Paul|St.Paul]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Minnesota/City/St.Paul.public|St.Paul.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Minnesota/City/St.Paul.internal|St.Paul.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Minnesota/City/St.Paul.protect|St.Paul.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Minnesota/City/St.Paul.private|St.Paul.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Minnesota/City/St.Paul.personal|St.Paul.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Minnesota/City/St.Paul.secret|St.Paul.secret]] 

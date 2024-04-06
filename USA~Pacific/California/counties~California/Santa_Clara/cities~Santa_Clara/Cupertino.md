@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-121.95] 
 [geo-lat::37.35] 
 [name::Cupertino] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../California]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/California/City/Cupertino|Cupertino]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/California/City/Cupertino.public|Cupertino.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/California/City/Cupertino.internal|Cupertino.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/California/City/Cupertino.protect|Cupertino.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/California/City/Cupertino.private|Cupertino.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/California/City/Cupertino.personal|Cupertino.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/California/City/Cupertino.secret|Cupertino.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/California/City/Cupertino|Cupertino]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/California/City/Cupertino.public|Cupertino.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/California/City/Cupertino.internal|Cupertino.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/California/City/Cupertino.protect|Cupertino.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/California/City/Cupertino.private|Cupertino.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/California/City/Cupertino.personal|Cupertino.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/California/City/Cupertino.secret|Cupertino.secret]] 

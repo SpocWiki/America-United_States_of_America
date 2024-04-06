@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-92.17361] 
 [geo-lat::38.57667] 
 [name::Jefferson City] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Missouri]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Missouri/City/Jefferson~City|Jefferson~City]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Missouri/City/Jefferson~City.public|Jefferson~City.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Missouri/City/Jefferson~City.internal|Jefferson~City.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Missouri/City/Jefferson~City.protect|Jefferson~City.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Missouri/City/Jefferson~City.private|Jefferson~City.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Missouri/City/Jefferson~City.personal|Jefferson~City.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Missouri/City/Jefferson~City.secret|Jefferson~City.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Missouri/City/Jefferson~City|Jefferson~City]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Missouri/City/Jefferson~City.public|Jefferson~City.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Missouri/City/Jefferson~City.internal|Jefferson~City.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Missouri/City/Jefferson~City.protect|Jefferson~City.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Missouri/City/Jefferson~City.private|Jefferson~City.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Missouri/City/Jefferson~City.personal|Jefferson~City.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Missouri/City/Jefferson~City.secret|Jefferson~City.secret]] 

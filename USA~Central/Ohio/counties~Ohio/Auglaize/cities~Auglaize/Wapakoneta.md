@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-84.2] 
 [geo-lat::40.57] 
 [name::Wapakoneta] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Ohio]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Ohio/City/Wapakoneta|Wapakoneta]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Ohio/City/Wapakoneta.public|Wapakoneta.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Ohio/City/Wapakoneta.internal|Wapakoneta.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Ohio/City/Wapakoneta.protect|Wapakoneta.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Ohio/City/Wapakoneta.private|Wapakoneta.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Ohio/City/Wapakoneta.personal|Wapakoneta.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Ohio/City/Wapakoneta.secret|Wapakoneta.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Ohio/City/Wapakoneta|Wapakoneta]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Ohio/City/Wapakoneta.public|Wapakoneta.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Ohio/City/Wapakoneta.internal|Wapakoneta.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Ohio/City/Wapakoneta.protect|Wapakoneta.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Ohio/City/Wapakoneta.private|Wapakoneta.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Ohio/City/Wapakoneta.personal|Wapakoneta.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Ohio/City/Wapakoneta.secret|Wapakoneta.secret]] 

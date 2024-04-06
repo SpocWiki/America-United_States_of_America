@@ -17,7 +17,7 @@ confidential: public
 
 ![[Maryland/Flag_of_Maryland.svg|350]] 
 
-Country :: [[../../United_States_of_America]]  
+Country :: [[../../USA]]  
 Capital :: [[Maryland/City/Annapolis]]  
 [geo-lon::-76.4406] 
 [geo-lat::39.2765] 
@@ -34,10 +34,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Maryland|Maryland]] 
-- [[../../../../../_public/geo/Continent/America~North/United_States_of_America/Maryland.public|Maryland.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/United_States_of_America/Maryland.internal|Maryland.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/United_States_of_America/Maryland.protect|Maryland.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/United_States_of_America/Maryland.private|Maryland.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/United_States_of_America/Maryland.personal|Maryland.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/United_States_of_America/Maryland.secret|Maryland.secret]] 
+- [[../../../../../_Standards/geo/Continent/America~North/USA/Maryland|Maryland]] 
+- [[../../../../../_public/geo/Continent/America~North/USA/Maryland.public|Maryland.public]] 
+- [[../../../../../_internal/geo/Continent/America~North/USA/Maryland.internal|Maryland.internal]] 
+- [[../../../../../_protect/geo/Continent/America~North/USA/Maryland.protect|Maryland.protect]] 
+- [[../../../../../_private/geo/Continent/America~North/USA/Maryland.private|Maryland.private]] 
+- [[../../../../../_personal/geo/Continent/America~North/USA/Maryland.personal|Maryland.personal]] 
+- [[../../../../../_secret/geo/Continent/America~North/USA/Maryland.secret|Maryland.secret]] 

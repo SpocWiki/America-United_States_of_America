@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-75.12] 
 [geo-lat::39.95] 
 [name::Philadelphia] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Pennsylvania]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Pennsylvania/City/Philadelphia|Philadelphia]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Pennsylvania/City/Philadelphia.public|Philadelphia.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Pennsylvania/City/Philadelphia.internal|Philadelphia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Pennsylvania/City/Philadelphia.protect|Philadelphia.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Pennsylvania/City/Philadelphia.private|Philadelphia.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Pennsylvania/City/Philadelphia.personal|Philadelphia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Pennsylvania/City/Philadelphia.secret|Philadelphia.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Pennsylvania/City/Philadelphia|Philadelphia]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Pennsylvania/City/Philadelphia.public|Philadelphia.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Pennsylvania/City/Philadelphia.internal|Philadelphia.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Pennsylvania/City/Philadelphia.protect|Philadelphia.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Pennsylvania/City/Philadelphia.private|Philadelphia.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Pennsylvania/City/Philadelphia.personal|Philadelphia.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Pennsylvania/City/Philadelphia.secret|Philadelphia.secret]] 

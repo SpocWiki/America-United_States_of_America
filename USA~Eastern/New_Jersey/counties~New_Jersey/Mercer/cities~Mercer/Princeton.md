@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-74.6702] 
 [geo-lat::40.3571] 
 [name::Princeton] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../New_Jersey]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/New_Jersey/City/Princeton|Princeton]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/New_Jersey/City/Princeton.public|Princeton.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/New_Jersey/City/Princeton.internal|Princeton.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/New_Jersey/City/Princeton.protect|Princeton.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/New_Jersey/City/Princeton.private|Princeton.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/New_Jersey/City/Princeton.personal|Princeton.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/New_Jersey/City/Princeton.secret|Princeton.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/New_Jersey/City/Princeton|Princeton]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/New_Jersey/City/Princeton.public|Princeton.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/New_Jersey/City/Princeton.internal|Princeton.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/New_Jersey/City/Princeton.protect|Princeton.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/New_Jersey/City/Princeton.private|Princeton.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/New_Jersey/City/Princeton.personal|Princeton.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/New_Jersey/City/Princeton.secret|Princeton.secret]] 

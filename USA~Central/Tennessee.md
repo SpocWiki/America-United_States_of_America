@@ -16,7 +16,7 @@ confidential: public
 ![[Tennessee/Flag_of_Tennessee.svg|350]]  
 
 
-Country :: [[../../United_States_of_America]]  
+Country :: [[../../USA]]  
 Capital :: [[Tennessee/City/Nashville]]  
 [geo-lon::-86.9211] 
 [geo-lat::35.7556] 
@@ -35,10 +35,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Tennessee|Tennessee]] 
-- [[../../../../../_public/geo/Continent/America~North/United_States_of_America/Tennessee.public|Tennessee.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/United_States_of_America/Tennessee.internal|Tennessee.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/United_States_of_America/Tennessee.protect|Tennessee.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/United_States_of_America/Tennessee.private|Tennessee.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/United_States_of_America/Tennessee.personal|Tennessee.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/United_States_of_America/Tennessee.secret|Tennessee.secret]] 
+- [[../../../../../_Standards/geo/Continent/America~North/USA/Tennessee|Tennessee]] 
+- [[../../../../../_public/geo/Continent/America~North/USA/Tennessee.public|Tennessee.public]] 
+- [[../../../../../_internal/geo/Continent/America~North/USA/Tennessee.internal|Tennessee.internal]] 
+- [[../../../../../_protect/geo/Continent/America~North/USA/Tennessee.protect|Tennessee.protect]] 
+- [[../../../../../_private/geo/Continent/America~North/USA/Tennessee.private|Tennessee.private]] 
+- [[../../../../../_personal/geo/Continent/America~North/USA/Tennessee.personal|Tennessee.personal]] 
+- [[../../../../../_secret/geo/Continent/America~North/USA/Tennessee.secret|Tennessee.secret]] 

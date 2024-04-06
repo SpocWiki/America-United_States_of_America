@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-71.35] 
 [geo-lat::45.05] 
 [name::Pittsburg] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../New_Hampshire]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/New_Hampshire/City/Pittsburg|Pittsburg]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/New_Hampshire/City/Pittsburg.public|Pittsburg.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/New_Hampshire/City/Pittsburg.internal|Pittsburg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/New_Hampshire/City/Pittsburg.protect|Pittsburg.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/New_Hampshire/City/Pittsburg.private|Pittsburg.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/New_Hampshire/City/Pittsburg.personal|Pittsburg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/New_Hampshire/City/Pittsburg.secret|Pittsburg.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/New_Hampshire/City/Pittsburg|Pittsburg]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/New_Hampshire/City/Pittsburg.public|Pittsburg.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/New_Hampshire/City/Pittsburg.internal|Pittsburg.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/New_Hampshire/City/Pittsburg.protect|Pittsburg.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/New_Hampshire/City/Pittsburg.private|Pittsburg.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/New_Hampshire/City/Pittsburg.personal|Pittsburg.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/New_Hampshire/City/Pittsburg.secret|Pittsburg.secret]] 

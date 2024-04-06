@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-75.47] 
 [geo-lat::39.72] 
 [name::Penns Grove] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../New_Jersey]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/New_Jersey/City/Penns_Grove|Penns_Grove]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/New_Jersey/City/Penns_Grove.public|Penns_Grove.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/New_Jersey/City/Penns_Grove.internal|Penns_Grove.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/New_Jersey/City/Penns_Grove.protect|Penns_Grove.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/New_Jersey/City/Penns_Grove.private|Penns_Grove.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/New_Jersey/City/Penns_Grove.personal|Penns_Grove.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/New_Jersey/City/Penns_Grove.secret|Penns_Grove.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/New_Jersey/City/Penns_Grove|Penns_Grove]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/New_Jersey/City/Penns_Grove.public|Penns_Grove.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/New_Jersey/City/Penns_Grove.internal|Penns_Grove.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/New_Jersey/City/Penns_Grove.protect|Penns_Grove.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/New_Jersey/City/Penns_Grove.private|Penns_Grove.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/New_Jersey/City/Penns_Grove.personal|Penns_Grove.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/New_Jersey/City/Penns_Grove.secret|Penns_Grove.secret]] 

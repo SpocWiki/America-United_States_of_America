@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-84.42] 
 [geo-lat::39.13] 
 [name::Cincinnatti] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Ohio]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Ohio/City/Cincinnatti|Cincinnatti]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Ohio/City/Cincinnatti.public|Cincinnatti.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Ohio/City/Cincinnatti.internal|Cincinnatti.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Ohio/City/Cincinnatti.protect|Cincinnatti.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Ohio/City/Cincinnatti.private|Cincinnatti.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Ohio/City/Cincinnatti.personal|Cincinnatti.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Ohio/City/Cincinnatti.secret|Cincinnatti.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Ohio/City/Cincinnatti|Cincinnatti]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Ohio/City/Cincinnatti.public|Cincinnatti.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Ohio/City/Cincinnatti.internal|Cincinnatti.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Ohio/City/Cincinnatti.protect|Cincinnatti.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Ohio/City/Cincinnatti.private|Cincinnatti.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Ohio/City/Cincinnatti.personal|Cincinnatti.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Ohio/City/Cincinnatti.secret|Cincinnatti.secret]] 

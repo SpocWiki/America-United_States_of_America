@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-71.53806] 
 [geo-lat::43.20667] 
 [name::Concord] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../New_Hampshire]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/New_Hampshire/City/Concord|Concord]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/New_Hampshire/City/Concord.public|Concord.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/New_Hampshire/City/Concord.internal|Concord.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/New_Hampshire/City/Concord.protect|Concord.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/New_Hampshire/City/Concord.private|Concord.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/New_Hampshire/City/Concord.personal|Concord.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/New_Hampshire/City/Concord.secret|Concord.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/New_Hampshire/City/Concord|Concord]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/New_Hampshire/City/Concord.public|Concord.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/New_Hampshire/City/Concord.internal|Concord.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/New_Hampshire/City/Concord.protect|Concord.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/New_Hampshire/City/Concord.private|Concord.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/New_Hampshire/City/Concord.personal|Concord.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/New_Hampshire/City/Concord.secret|Concord.secret]] 

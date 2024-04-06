@@ -43,11 +43,11 @@ markerFolder: ./Baker-Island/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Baker_Island|Baker_Island]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Baker_Island.public|Baker_Island.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Baker_Island.internal|Baker_Island.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Baker_Island.protect|Baker_Island.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Baker_Island.private|Baker_Island.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Baker_Island.personal|Baker_Island.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Baker_Island.secret|Baker_Island.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/USA~Islands/Counties/Baker_Island|Baker_Island]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/USA~Islands/Counties/Baker_Island.public|Baker_Island.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/USA~Islands/Counties/Baker_Island.internal|Baker_Island.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/USA~Islands/Counties/Baker_Island.protect|Baker_Island.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/USA~Islands/Counties/Baker_Island.private|Baker_Island.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/USA~Islands/Counties/Baker_Island.personal|Baker_Island.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/USA~Islands/Counties/Baker_Island.secret|Baker_Island.secret]] 
 

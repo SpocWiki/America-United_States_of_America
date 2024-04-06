@@ -15,7 +15,7 @@ confidential: public
 ![[Nebraska/Seal_of_Nebraska.svg|350]]  
 ![[Nebraska/Flag_of_Nebraska.svg|350]]  
 
-Country :: [[../../United_States_of_America]]  
+Country :: [[../../USA]]  
 Capital :: [[Nebraska/City/Lincoln]]  
 [geo-lon::-96.8733] 
 [geo-lat::41.5333] 
@@ -34,10 +34,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Nebraska|Nebraska]] 
-- [[../../../../../_public/geo/Continent/America~North/United_States_of_America/Nebraska.public|Nebraska.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/United_States_of_America/Nebraska.internal|Nebraska.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/United_States_of_America/Nebraska.protect|Nebraska.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/United_States_of_America/Nebraska.private|Nebraska.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/United_States_of_America/Nebraska.personal|Nebraska.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/United_States_of_America/Nebraska.secret|Nebraska.secret]] 
+- [[../../../../../_Standards/geo/Continent/America~North/USA/Nebraska|Nebraska]] 
+- [[../../../../../_public/geo/Continent/America~North/USA/Nebraska.public|Nebraska.public]] 
+- [[../../../../../_internal/geo/Continent/America~North/USA/Nebraska.internal|Nebraska.internal]] 
+- [[../../../../../_protect/geo/Continent/America~North/USA/Nebraska.protect|Nebraska.protect]] 
+- [[../../../../../_private/geo/Continent/America~North/USA/Nebraska.private|Nebraska.private]] 
+- [[../../../../../_personal/geo/Continent/America~North/USA/Nebraska.personal|Nebraska.personal]] 
+- [[../../../../../_secret/geo/Continent/America~North/USA/Nebraska.secret|Nebraska.secret]] 

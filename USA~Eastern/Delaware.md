@@ -16,7 +16,7 @@ confidential: public
 ![[Delaware/Seal_of_Delaware.svg|350]]  
 ![[Delaware/Flag_of_Delaware.svg|350]]  
 
-Country :: [[../../United_States_of_America]]  
+Country :: [[../../USA]]  
 Capital :: [[Delaware]]  
 [geo-lon::-75.0483] 
 [geo-lat::39.371] 
@@ -35,10 +35,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Delaware|Delaware]] 
-- [[../../../../../_public/geo/Continent/America~North/United_States_of_America/Delaware.public|Delaware.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/United_States_of_America/Delaware.internal|Delaware.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/United_States_of_America/Delaware.protect|Delaware.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/United_States_of_America/Delaware.private|Delaware.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/United_States_of_America/Delaware.personal|Delaware.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/United_States_of_America/Delaware.secret|Delaware.secret]] 
+- [[../../../../../_Standards/geo/Continent/America~North/USA/Delaware|Delaware]] 
+- [[../../../../../_public/geo/Continent/America~North/USA/Delaware.public|Delaware.public]] 
+- [[../../../../../_internal/geo/Continent/America~North/USA/Delaware.internal|Delaware.internal]] 
+- [[../../../../../_protect/geo/Continent/America~North/USA/Delaware.protect|Delaware.protect]] 
+- [[../../../../../_private/geo/Continent/America~North/USA/Delaware.private|Delaware.private]] 
+- [[../../../../../_personal/geo/Continent/America~North/USA/Delaware.personal|Delaware.personal]] 
+- [[../../../../../_secret/geo/Continent/America~North/USA/Delaware.secret|Delaware.secret]] 

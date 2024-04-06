@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-165.2] 
 [geo-lat::64.5] 
 [name::Nome] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Alaska]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Alaska/City/Nome|Nome]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Alaska/City/Nome.public|Nome.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Alaska/City/Nome.internal|Nome.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Alaska/City/Nome.protect|Nome.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Alaska/City/Nome.private|Nome.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Alaska/City/Nome.personal|Nome.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Alaska/City/Nome.secret|Nome.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Alaska/City/Nome|Nome]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Alaska/City/Nome.public|Nome.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Alaska/City/Nome.internal|Nome.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Alaska/City/Nome.protect|Nome.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Alaska/City/Nome.private|Nome.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Alaska/City/Nome.personal|Nome.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Alaska/City/Nome.secret|Nome.secret]] 

@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-89.4] 
 [geo-lat::43.06667] 
 [name::Madison] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Wisconsin]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Wisconsin/City/Madison|Madison]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Wisconsin/City/Madison.public|Madison.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Wisconsin/City/Madison.internal|Madison.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Wisconsin/City/Madison.protect|Madison.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Wisconsin/City/Madison.private|Madison.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Wisconsin/City/Madison.personal|Madison.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Wisconsin/City/Madison.secret|Madison.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Wisconsin/City/Madison|Madison]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Wisconsin/City/Madison.public|Madison.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Wisconsin/City/Madison.internal|Madison.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Wisconsin/City/Madison.protect|Madison.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Wisconsin/City/Madison.private|Madison.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Wisconsin/City/Madison.personal|Madison.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Wisconsin/City/Madison.secret|Madison.secret]] 

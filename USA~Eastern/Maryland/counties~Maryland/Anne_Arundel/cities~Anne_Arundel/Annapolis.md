@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-76.50116] 
 [geo-lat::38.97295] 
 [name::Annapolis] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Maryland]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Maryland/City/Annapolis|Annapolis]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Maryland/City/Annapolis.public|Annapolis.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Maryland/City/Annapolis.internal|Annapolis.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Maryland/City/Annapolis.protect|Annapolis.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Maryland/City/Annapolis.private|Annapolis.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Maryland/City/Annapolis.personal|Annapolis.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Maryland/City/Annapolis.secret|Annapolis.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Maryland/City/Annapolis|Annapolis]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Maryland/City/Annapolis.public|Annapolis.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Maryland/City/Annapolis.internal|Annapolis.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Maryland/City/Annapolis.protect|Annapolis.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Maryland/City/Annapolis.private|Annapolis.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Maryland/City/Annapolis.personal|Annapolis.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Maryland/City/Annapolis.secret|Annapolis.secret]] 

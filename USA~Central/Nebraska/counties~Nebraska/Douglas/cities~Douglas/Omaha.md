@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-95.95] 
 [geo-lat::41.27] 
 [name::Omaha] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Nebraska]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Nebraska/City/Omaha|Omaha]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Nebraska/City/Omaha.public|Omaha.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Nebraska/City/Omaha.internal|Omaha.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Nebraska/City/Omaha.protect|Omaha.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Nebraska/City/Omaha.private|Omaha.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Nebraska/City/Omaha.personal|Omaha.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Nebraska/City/Omaha.secret|Omaha.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Nebraska/City/Omaha|Omaha]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Nebraska/City/Omaha.public|Omaha.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Nebraska/City/Omaha.internal|Omaha.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Nebraska/City/Omaha.protect|Omaha.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Nebraska/City/Omaha.private|Omaha.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Nebraska/City/Omaha.personal|Omaha.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Nebraska/City/Omaha.secret|Omaha.secret]] 

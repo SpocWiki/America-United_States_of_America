@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-122.8931] 
 [geo-lat::47.0425] 
 [name::Olympia] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Washington]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Washington/City/Olympia|Olympia]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Washington/City/Olympia.public|Olympia.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Washington/City/Olympia.internal|Olympia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Washington/City/Olympia.protect|Olympia.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Washington/City/Olympia.private|Olympia.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Washington/City/Olympia.personal|Olympia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Washington/City/Olympia.secret|Olympia.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Washington/City/Olympia|Olympia]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Washington/City/Olympia.public|Olympia.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Washington/City/Olympia.internal|Olympia.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Washington/City/Olympia.protect|Olympia.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Washington/City/Olympia.private|Olympia.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Washington/City/Olympia.personal|Olympia.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Washington/City/Olympia.secret|Olympia.secret]] 

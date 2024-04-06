@@ -16,7 +16,7 @@ confidential: public
 ![[Missouri/Seal_of_Missouri.svg|350]]  
 ![[Missouri/Flag_of_Missouri.svg|350]]  
 
-Country :: [[../../United_States_of_America]]  
+Country :: [[../../USA]]  
 Capital :: [[Jefferson_City]]  
 [geo-lon::-91.3967] 
 [geo-lat::38.2853] 
@@ -35,10 +35,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Missouri|Missouri]] 
-- [[../../../../../_public/geo/Continent/America~North/United_States_of_America/Missouri.public|Missouri.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/United_States_of_America/Missouri.internal|Missouri.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/United_States_of_America/Missouri.protect|Missouri.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/United_States_of_America/Missouri.private|Missouri.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/United_States_of_America/Missouri.personal|Missouri.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/United_States_of_America/Missouri.secret|Missouri.secret]] 
+- [[../../../../../_Standards/geo/Continent/America~North/USA/Missouri|Missouri]] 
+- [[../../../../../_public/geo/Continent/America~North/USA/Missouri.public|Missouri.public]] 
+- [[../../../../../_internal/geo/Continent/America~North/USA/Missouri.internal|Missouri.internal]] 
+- [[../../../../../_protect/geo/Continent/America~North/USA/Missouri.protect|Missouri.protect]] 
+- [[../../../../../_private/geo/Continent/America~North/USA/Missouri.private|Missouri.private]] 
+- [[../../../../../_personal/geo/Continent/America~North/USA/Missouri.personal|Missouri.personal]] 
+- [[../../../../../_secret/geo/Continent/America~North/USA/Missouri.secret|Missouri.secret]] 

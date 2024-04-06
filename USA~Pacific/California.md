@@ -17,7 +17,7 @@ confidential: public
 
 ![[California/Flag_of_California.svg|350]] 
 
-Country :: [[../../United_States_of_America]]  
+Country :: [[../../USA]]  
 Capital :: [[California/City/Sacramento]]  
 [geo-lon::-119.78] 
 [geo-lat::35.7336] 
@@ -36,10 +36,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/United_States_of_America/California|California]] 
-- [[../../../../../_public/geo/Continent/America~North/United_States_of_America/California.public|California.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/United_States_of_America/California.internal|California.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/United_States_of_America/California.protect|California.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/United_States_of_America/California.private|California.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/United_States_of_America/California.personal|California.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/United_States_of_America/California.secret|California.secret]] 
+- [[../../../../../_Standards/geo/Continent/America~North/USA/California|California]] 
+- [[../../../../../_public/geo/Continent/America~North/USA/California.public|California.public]] 
+- [[../../../../../_internal/geo/Continent/America~North/USA/California.internal|California.internal]] 
+- [[../../../../../_protect/geo/Continent/America~North/USA/California.protect|California.protect]] 
+- [[../../../../../_private/geo/Continent/America~North/USA/California.private|California.private]] 
+- [[../../../../../_personal/geo/Continent/America~North/USA/California.personal|California.personal]] 
+- [[../../../../../_secret/geo/Continent/America~North/USA/California.secret|California.secret]] 

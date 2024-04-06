@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-92.33111] 
 [geo-lat::34.73611] 
 [name::Little Rock] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Arkansas]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Arkansas/City/Little_Rock|Little_Rock]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Arkansas/City/Little_Rock.public|Little_Rock.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Arkansas/City/Little_Rock.internal|Little_Rock.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Arkansas/City/Little_Rock.protect|Little_Rock.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Arkansas/City/Little_Rock.private|Little_Rock.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Arkansas/City/Little_Rock.personal|Little_Rock.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Arkansas/City/Little_Rock.secret|Little_Rock.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Arkansas/City/Little_Rock|Little_Rock]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Arkansas/City/Little_Rock.public|Little_Rock.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Arkansas/City/Little_Rock.internal|Little_Rock.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Arkansas/City/Little_Rock.protect|Little_Rock.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Arkansas/City/Little_Rock.private|Little_Rock.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Arkansas/City/Little_Rock.personal|Little_Rock.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Arkansas/City/Little_Rock.secret|Little_Rock.secret]] 

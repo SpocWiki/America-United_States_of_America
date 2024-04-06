@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-105.9644] 
 [geo-lat::35.66722] 
 [name::Santa Fe] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../New_Mexico]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/New_Mexico/City/Santa_Fe|Santa_Fe]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/New_Mexico/City/Santa_Fe.public|Santa_Fe.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/New_Mexico/City/Santa_Fe.internal|Santa_Fe.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/New_Mexico/City/Santa_Fe.protect|Santa_Fe.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/New_Mexico/City/Santa_Fe.private|Santa_Fe.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/New_Mexico/City/Santa_Fe.personal|Santa_Fe.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/New_Mexico/City/Santa_Fe.secret|Santa_Fe.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/New_Mexico/City/Santa_Fe|Santa_Fe]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/New_Mexico/City/Santa_Fe.public|Santa_Fe.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/New_Mexico/City/Santa_Fe.internal|Santa_Fe.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/New_Mexico/City/Santa_Fe.protect|Santa_Fe.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/New_Mexico/City/Santa_Fe.private|Santa_Fe.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/New_Mexico/City/Santa_Fe.personal|Santa_Fe.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/New_Mexico/City/Santa_Fe.secret|Santa_Fe.secret]] 

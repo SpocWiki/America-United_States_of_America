@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-112.02] 
 [geo-lat::46.6] 
 [name::Helena] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Montana]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Montana/City/Helena|Helena]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Montana/City/Helena.public|Helena.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Montana/City/Helena.internal|Helena.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Montana/City/Helena.protect|Helena.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Montana/City/Helena.private|Helena.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Montana/City/Helena.personal|Helena.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Montana/City/Helena.secret|Helena.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Montana/City/Helena|Helena]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Montana/City/Helena.public|Helena.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Montana/City/Helena.internal|Helena.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Montana/City/Helena.protect|Helena.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Montana/City/Helena.private|Helena.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Montana/City/Helena.personal|Helena.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Montana/City/Helena.secret|Helena.secret]] 

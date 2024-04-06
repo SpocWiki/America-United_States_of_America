@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-84.86311] 
 [geo-lat::38.19727] 
 [name::Frankfort] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Kentucky]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Kentucky/City/Frankfort|Frankfort]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Kentucky/City/Frankfort.public|Frankfort.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Kentucky/City/Frankfort.internal|Frankfort.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Kentucky/City/Frankfort.protect|Frankfort.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Kentucky/City/Frankfort.private|Frankfort.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Kentucky/City/Frankfort.personal|Frankfort.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Kentucky/City/Frankfort.secret|Frankfort.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Kentucky/City/Frankfort|Frankfort]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Kentucky/City/Frankfort.public|Frankfort.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Kentucky/City/Frankfort.internal|Frankfort.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Kentucky/City/Frankfort.protect|Frankfort.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Kentucky/City/Frankfort.private|Frankfort.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Kentucky/City/Frankfort.personal|Frankfort.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Kentucky/City/Frankfort.secret|Frankfort.secret]] 

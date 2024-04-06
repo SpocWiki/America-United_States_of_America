@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-104.8019] 
 [geo-lat::41.14556] 
 [name::Cheyenne] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Wyoming]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Wyoming/City/Cheyenne|Cheyenne]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Wyoming/City/Cheyenne.public|Cheyenne.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Wyoming/City/Cheyenne.internal|Cheyenne.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Wyoming/City/Cheyenne.protect|Cheyenne.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Wyoming/City/Cheyenne.private|Cheyenne.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Wyoming/City/Cheyenne.personal|Cheyenne.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Wyoming/City/Cheyenne.secret|Cheyenne.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Wyoming/City/Cheyenne|Cheyenne]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Wyoming/City/Cheyenne.public|Cheyenne.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Wyoming/City/Cheyenne.internal|Cheyenne.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Wyoming/City/Cheyenne.protect|Cheyenne.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Wyoming/City/Cheyenne.private|Cheyenne.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Wyoming/City/Cheyenne.personal|Cheyenne.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Wyoming/City/Cheyenne.secret|Cheyenne.secret]] 

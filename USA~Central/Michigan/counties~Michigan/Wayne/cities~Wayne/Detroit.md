@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-83.05] 
 [geo-lat::42.33] 
 [name::Detroit] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Michigan]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Michigan/City/Detroit|Detroit]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Michigan/City/Detroit.public|Detroit.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Michigan/City/Detroit.internal|Detroit.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Michigan/City/Detroit.protect|Detroit.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Michigan/City/Detroit.private|Detroit.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Michigan/City/Detroit.personal|Detroit.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Michigan/City/Detroit.secret|Detroit.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Michigan/City/Detroit|Detroit]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Michigan/City/Detroit.public|Detroit.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Michigan/City/Detroit.internal|Detroit.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Michigan/City/Detroit.protect|Detroit.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Michigan/City/Detroit.private|Detroit.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Michigan/City/Detroit.personal|Detroit.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Michigan/City/Detroit.secret|Detroit.secret]] 

@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-81.63333] 
 [geo-lat::38.34722] 
 [name::Charleston] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../West_Virginia]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/West_Virginia/City/Charleston|Charleston]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/West_Virginia/City/Charleston.public|Charleston.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/West_Virginia/City/Charleston.internal|Charleston.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/West_Virginia/City/Charleston.protect|Charleston.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/West_Virginia/City/Charleston.private|Charleston.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/West_Virginia/City/Charleston.personal|Charleston.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/West_Virginia/City/Charleston.secret|Charleston.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/West_Virginia/City/Charleston|Charleston]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/West_Virginia/City/Charleston.public|Charleston.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/West_Virginia/City/Charleston.internal|Charleston.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/West_Virginia/City/Charleston.protect|Charleston.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/West_Virginia/City/Charleston.private|Charleston.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/West_Virginia/City/Charleston.personal|Charleston.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/West_Virginia/City/Charleston.secret|Charleston.secret]] 

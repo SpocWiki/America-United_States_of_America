@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-90.12] 
 [geo-lat::29.97] 
 [name::New Orleans] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Louisiana]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Louisiana/City/New_Orleans|New_Orleans]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Louisiana/City/New_Orleans.public|New_Orleans.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Louisiana/City/New_Orleans.internal|New_Orleans.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Louisiana/City/New_Orleans.protect|New_Orleans.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Louisiana/City/New_Orleans.private|New_Orleans.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Louisiana/City/New_Orleans.personal|New_Orleans.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Louisiana/City/New_Orleans.secret|New_Orleans.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Louisiana/City/New_Orleans|New_Orleans]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Louisiana/City/New_Orleans.public|New_Orleans.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Louisiana/City/New_Orleans.internal|New_Orleans.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Louisiana/City/New_Orleans.protect|New_Orleans.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Louisiana/City/New_Orleans.private|New_Orleans.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Louisiana/City/New_Orleans.personal|New_Orleans.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Louisiana/City/New_Orleans.secret|New_Orleans.secret]] 

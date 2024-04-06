@@ -40,11 +40,11 @@ markerFolder: ./Howland-Island/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Howland-Island|Howland-Island]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Howland-Island.public|Howland-Island.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Howland-Island.internal|Howland-Island.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Howland-Island.protect|Howland-Island.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Howland-Island.private|Howland-Island.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Howland-Island.personal|Howland-Island.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Howland-Island.secret|Howland-Island.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/USA~Islands/Counties/Howland-Island|Howland-Island]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/USA~Islands/Counties/Howland-Island.public|Howland-Island.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/USA~Islands/Counties/Howland-Island.internal|Howland-Island.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/USA~Islands/Counties/Howland-Island.protect|Howland-Island.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/USA~Islands/Counties/Howland-Island.private|Howland-Island.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/USA~Islands/Counties/Howland-Island.personal|Howland-Island.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/USA~Islands/Counties/Howland-Island.secret|Howland-Island.secret]] 
 

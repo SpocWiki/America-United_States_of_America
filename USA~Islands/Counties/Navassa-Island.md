@@ -44,11 +44,11 @@ markerFolder: ./Navassa-Island/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Navassa-Island|Navassa-Island]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Navassa-Island.public|Navassa-Island.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Navassa-Island.internal|Navassa-Island.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Navassa-Island.protect|Navassa-Island.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Navassa-Island.private|Navassa-Island.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Navassa-Island.personal|Navassa-Island.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Navassa-Island.secret|Navassa-Island.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/USA~Islands/Counties/Navassa-Island|Navassa-Island]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/USA~Islands/Counties/Navassa-Island.public|Navassa-Island.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/USA~Islands/Counties/Navassa-Island.internal|Navassa-Island.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/USA~Islands/Counties/Navassa-Island.protect|Navassa-Island.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/USA~Islands/Counties/Navassa-Island.private|Navassa-Island.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/USA~Islands/Counties/Navassa-Island.personal|Navassa-Island.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/USA~Islands/Counties/Navassa-Island.secret|Navassa-Island.secret]] 
 

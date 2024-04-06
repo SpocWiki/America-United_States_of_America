@@ -15,7 +15,7 @@ confidential: public
 ![[Illinois/Seal_of_Illinois.svg|350]]  
 ![[Illinois/Flag_of_Illinois.svg|350]]  
 
-Country :: [[../../United_States_of_America]]  
+Country :: [[../../USA]]  
 Capital :: [[Illinois/City/Springfield]]  
 [geo-lon::-89.1829] 
 [geo-lat::40.9405] 
@@ -34,10 +34,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Illinois|Illinois]] 
-- [[../../../../../_public/geo/Continent/America~North/United_States_of_America/Illinois.public|Illinois.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/United_States_of_America/Illinois.internal|Illinois.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/United_States_of_America/Illinois.protect|Illinois.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/United_States_of_America/Illinois.private|Illinois.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/United_States_of_America/Illinois.personal|Illinois.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/United_States_of_America/Illinois.secret|Illinois.secret]] 
+- [[../../../../../_Standards/geo/Continent/America~North/USA/Illinois|Illinois]] 
+- [[../../../../../_public/geo/Continent/America~North/USA/Illinois.public|Illinois.public]] 
+- [[../../../../../_internal/geo/Continent/America~North/USA/Illinois.internal|Illinois.internal]] 
+- [[../../../../../_protect/geo/Continent/America~North/USA/Illinois.protect|Illinois.protect]] 
+- [[../../../../../_private/geo/Continent/America~North/USA/Illinois.private|Illinois.private]] 
+- [[../../../../../_personal/geo/Continent/America~North/USA/Illinois.personal|Illinois.personal]] 
+- [[../../../../../_secret/geo/Continent/America~North/USA/Illinois.secret|Illinois.secret]] 

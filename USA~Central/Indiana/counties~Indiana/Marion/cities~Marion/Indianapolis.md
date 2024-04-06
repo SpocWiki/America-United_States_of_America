@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-86.14768] 
 [geo-lat::39.79094] 
 [name::Indianapolis] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Indiana]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Indiana/City/Indianapolis|Indianapolis]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Indiana/City/Indianapolis.public|Indianapolis.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Indiana/City/Indianapolis.internal|Indianapolis.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Indiana/City/Indianapolis.protect|Indianapolis.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Indiana/City/Indianapolis.private|Indianapolis.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Indiana/City/Indianapolis.personal|Indianapolis.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Indiana/City/Indianapolis.secret|Indianapolis.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Indiana/City/Indianapolis|Indianapolis]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Indiana/City/Indianapolis.public|Indianapolis.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Indiana/City/Indianapolis.internal|Indianapolis.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Indiana/City/Indianapolis.protect|Indianapolis.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Indiana/City/Indianapolis.private|Indianapolis.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Indiana/City/Indianapolis.personal|Indianapolis.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Indiana/City/Indianapolis.secret|Indianapolis.secret]] 

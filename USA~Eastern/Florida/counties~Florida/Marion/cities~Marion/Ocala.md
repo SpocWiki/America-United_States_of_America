@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-82.15] 
 [geo-lat::29.18] 
 [name::Ocala] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Florida]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Florida/City/Ocala|Ocala]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Florida/City/Ocala.public|Ocala.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Florida/City/Ocala.internal|Ocala.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Florida/City/Ocala.protect|Ocala.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Florida/City/Ocala.private|Ocala.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Florida/City/Ocala.personal|Ocala.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Florida/City/Ocala.secret|Ocala.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Florida/City/Ocala|Ocala]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Florida/City/Ocala.public|Ocala.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Florida/City/Ocala.internal|Ocala.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Florida/City/Ocala.protect|Ocala.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Florida/City/Ocala.private|Ocala.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Florida/City/Ocala.personal|Ocala.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Florida/City/Ocala.secret|Ocala.secret]] 

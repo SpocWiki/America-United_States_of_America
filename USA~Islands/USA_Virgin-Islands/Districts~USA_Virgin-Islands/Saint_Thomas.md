@@ -40,11 +40,11 @@ markerFolder: ./Saint_Thomas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_Thomas|Saint_Thomas]] 
-- [[../../../../../../../../_public/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_Thomas.public|Saint_Thomas.public]] 
-- [[../../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_Thomas.internal|Saint_Thomas.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_Thomas.protect|Saint_Thomas.protect]] 
-- [[../../../../../../../../_private/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_Thomas.private|Saint_Thomas.private]] 
-- [[../../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_Thomas.personal|Saint_Thomas.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/USA~Islands/USA_Virgin~Islands/Counties/Saint_Thomas.secret|Saint_Thomas.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/America~North/USA/USA~Islands/USA_Virgin~Islands/Counties/Saint_Thomas|Saint_Thomas]] 
+- [[../../../../../../../../_public/geo/Continent/America~North/USA/USA~Islands/USA_Virgin~Islands/Counties/Saint_Thomas.public|Saint_Thomas.public]] 
+- [[../../../../../../../../_internal/geo/Continent/America~North/USA/USA~Islands/USA_Virgin~Islands/Counties/Saint_Thomas.internal|Saint_Thomas.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/America~North/USA/USA~Islands/USA_Virgin~Islands/Counties/Saint_Thomas.protect|Saint_Thomas.protect]] 
+- [[../../../../../../../../_private/geo/Continent/America~North/USA/USA~Islands/USA_Virgin~Islands/Counties/Saint_Thomas.private|Saint_Thomas.private]] 
+- [[../../../../../../../../_personal/geo/Continent/America~North/USA/USA~Islands/USA_Virgin~Islands/Counties/Saint_Thomas.personal|Saint_Thomas.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/America~North/USA/USA~Islands/USA_Virgin~Islands/Counties/Saint_Thomas.secret|Saint_Thomas.secret]] 
 

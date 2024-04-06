@@ -16,7 +16,7 @@ confidential: public
 ![[Connecticut/Seal_of_Connecticut.svg|250]]  
 ![[Connecticut/Flag_of_Connecticut.svg|250]]  
 
-Country :: [[../../United_States_of_America]]  
+Country :: [[../../USA]]  
 Capital :: [[Connecticut/City/Hartford]]  
 [geo-lon::-72.6743] 
 [geo-lat::41.7627] 
@@ -35,10 +35,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Connecticut|Connecticut]] 
-- [[../../../../../_public/geo/Continent/America~North/United_States_of_America/Connecticut.public|Connecticut.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/United_States_of_America/Connecticut.internal|Connecticut.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/United_States_of_America/Connecticut.protect|Connecticut.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/United_States_of_America/Connecticut.private|Connecticut.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/United_States_of_America/Connecticut.personal|Connecticut.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/United_States_of_America/Connecticut.secret|Connecticut.secret]] 
+- [[../../../../../_Standards/geo/Continent/America~North/USA/Connecticut|Connecticut]] 
+- [[../../../../../_public/geo/Continent/America~North/USA/Connecticut.public|Connecticut.public]] 
+- [[../../../../../_internal/geo/Continent/America~North/USA/Connecticut.internal|Connecticut.internal]] 
+- [[../../../../../_protect/geo/Continent/America~North/USA/Connecticut.protect|Connecticut.protect]] 
+- [[../../../../../_private/geo/Continent/America~North/USA/Connecticut.private|Connecticut.private]] 
+- [[../../../../../_personal/geo/Continent/America~North/USA/Connecticut.personal|Connecticut.personal]] 
+- [[../../../../../_secret/geo/Continent/America~North/USA/Connecticut.secret|Connecticut.secret]] 

@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-74.57] 
 [geo-lat::39.58] 
 [name::Delaware] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Delaware]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Delaware/City/Delaware-City|Delaware-City]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Delaware/City/Delaware-City.public|Delaware-City.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Delaware/City/Delaware-City.internal|Delaware-City.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Delaware/City/Delaware-City.protect|Delaware-City.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Delaware/City/Delaware-City.private|Delaware-City.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Delaware/City/Delaware-City.personal|Delaware-City.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Delaware/City/Delaware-City.secret|Delaware-City.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Delaware/City/Delaware-City|Delaware-City]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Delaware/City/Delaware-City.public|Delaware-City.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Delaware/City/Delaware-City.internal|Delaware-City.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Delaware/City/Delaware-City.protect|Delaware-City.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Delaware/City/Delaware-City.private|Delaware-City.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Delaware/City/Delaware-City.personal|Delaware-City.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Delaware/City/Delaware-City.secret|Delaware-City.secret]] 

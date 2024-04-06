@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-121.4689] 
 [geo-lat::38.55556] 
 [name::Sacramento] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../California]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/California/City/Sacramento|Sacramento]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/California/City/Sacramento.public|Sacramento.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/California/City/Sacramento.internal|Sacramento.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/California/City/Sacramento.protect|Sacramento.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/California/City/Sacramento.private|Sacramento.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/California/City/Sacramento.personal|Sacramento.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/California/City/Sacramento.secret|Sacramento.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/California/City/Sacramento|Sacramento]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/California/City/Sacramento.public|Sacramento.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/California/City/Sacramento.internal|Sacramento.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/California/City/Sacramento.protect|Sacramento.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/California/City/Sacramento.private|Sacramento.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/California/City/Sacramento.personal|Sacramento.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/California/City/Sacramento.secret|Sacramento.secret]] 

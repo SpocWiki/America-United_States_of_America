@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-90.17] 
 [geo-lat::38.9] 
 [name::Alton] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Illinois]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Illinois/City/Alton|Alton]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Illinois/City/Alton.public|Alton.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Illinois/City/Alton.internal|Alton.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Illinois/City/Alton.protect|Alton.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Illinois/City/Alton.private|Alton.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Illinois/City/Alton.personal|Alton.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Illinois/City/Alton.secret|Alton.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Illinois/City/Alton|Alton]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Illinois/City/Alton.public|Alton.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Illinois/City/Alton.internal|Alton.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Illinois/City/Alton.protect|Alton.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Illinois/City/Alton.private|Alton.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Illinois/City/Alton.personal|Alton.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Illinois/City/Alton.secret|Alton.secret]] 

@@ -40,11 +40,11 @@ markerFolder: ./_Rivers/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/USA~Mountain/Arizona/Rivers~Arizona/_Rivers|_Rivers]] 
-- [[../../../../../../../../_public/geo/Continent/America~North/United_States_of_America/USA~Mountain/Arizona/Rivers~Arizona/_Rivers.public|_Rivers.public]] 
-- [[../../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/USA~Mountain/Arizona/Rivers~Arizona/_Rivers.internal|_Rivers.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/USA~Mountain/Arizona/Rivers~Arizona/_Rivers.protect|_Rivers.protect]] 
-- [[../../../../../../../../_private/geo/Continent/America~North/United_States_of_America/USA~Mountain/Arizona/Rivers~Arizona/_Rivers.private|_Rivers.private]] 
-- [[../../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/USA~Mountain/Arizona/Rivers~Arizona/_Rivers.personal|_Rivers.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/USA~Mountain/Arizona/Rivers~Arizona/_Rivers.secret|_Rivers.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/America~North/USA/USA~Mountain/Arizona/Rivers~Arizona/_Rivers|_Rivers]] 
+- [[../../../../../../../../_public/geo/Continent/America~North/USA/USA~Mountain/Arizona/Rivers~Arizona/_Rivers.public|_Rivers.public]] 
+- [[../../../../../../../../_internal/geo/Continent/America~North/USA/USA~Mountain/Arizona/Rivers~Arizona/_Rivers.internal|_Rivers.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/America~North/USA/USA~Mountain/Arizona/Rivers~Arizona/_Rivers.protect|_Rivers.protect]] 
+- [[../../../../../../../../_private/geo/Continent/America~North/USA/USA~Mountain/Arizona/Rivers~Arizona/_Rivers.private|_Rivers.private]] 
+- [[../../../../../../../../_personal/geo/Continent/America~North/USA/USA~Mountain/Arizona/Rivers~Arizona/_Rivers.personal|_Rivers.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/America~North/USA/USA~Mountain/Arizona/Rivers~Arizona/_Rivers.secret|_Rivers.secret]] 
 

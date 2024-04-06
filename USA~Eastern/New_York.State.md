@@ -18,7 +18,7 @@ confidential: public
 
 ![[New_York.State/Flag_of_New_York.svg|350]]  
 
-Country :: [[../../United_States_of_America]]  
+Country :: [[../../USA]]  
 Capital :: [[Albany]]  
 [geo-lon::-73.9355] 
 [geo-lat::41.2905] 
@@ -37,10 +37,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/United_States_of_America/New_York.State|New_York.State]] 
-- [[../../../../../_public/geo/Continent/America~North/United_States_of_America/New_York.State.public|New_York.State.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/United_States_of_America/New_York.State.internal|New_York.State.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/United_States_of_America/New_York.State.protect|New_York.State.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/United_States_of_America/New_York.State.private|New_York.State.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/United_States_of_America/New_York.State.personal|New_York.State.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/United_States_of_America/New_York.State.secret|New_York.State.secret]] 
+- [[../../../../../_Standards/geo/Continent/America~North/USA/New_York.State|New_York.State]] 
+- [[../../../../../_public/geo/Continent/America~North/USA/New_York.State.public|New_York.State.public]] 
+- [[../../../../../_internal/geo/Continent/America~North/USA/New_York.State.internal|New_York.State.internal]] 
+- [[../../../../../_protect/geo/Continent/America~North/USA/New_York.State.protect|New_York.State.protect]] 
+- [[../../../../../_private/geo/Continent/America~North/USA/New_York.State.private|New_York.State.private]] 
+- [[../../../../../_personal/geo/Continent/America~North/USA/New_York.State.personal|New_York.State.personal]] 
+- [[../../../../../_secret/geo/Continent/America~North/USA/New_York.State.secret|New_York.State.secret]] 

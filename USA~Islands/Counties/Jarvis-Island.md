@@ -44,11 +44,11 @@ markerFolder: ./Jarvis-Island/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Jarvis-Island|Jarvis-Island]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Jarvis-Island.public|Jarvis-Island.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Jarvis-Island.internal|Jarvis-Island.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Jarvis-Island.protect|Jarvis-Island.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Jarvis-Island.private|Jarvis-Island.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Jarvis-Island.personal|Jarvis-Island.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Jarvis-Island.secret|Jarvis-Island.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/USA~Islands/Counties/Jarvis-Island|Jarvis-Island]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/USA~Islands/Counties/Jarvis-Island.public|Jarvis-Island.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/USA~Islands/Counties/Jarvis-Island.internal|Jarvis-Island.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/USA~Islands/Counties/Jarvis-Island.protect|Jarvis-Island.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/USA~Islands/Counties/Jarvis-Island.private|Jarvis-Island.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/USA~Islands/Counties/Jarvis-Island.personal|Jarvis-Island.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/USA~Islands/Counties/Jarvis-Island.secret|Jarvis-Island.secret]] 
 

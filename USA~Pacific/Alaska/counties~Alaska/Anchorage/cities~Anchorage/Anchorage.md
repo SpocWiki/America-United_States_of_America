@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-149.88] 
 [geo-lat::61.22] 
 [name::Anchorage] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Alaska]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Alaska/City/Anchorage|Anchorage]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Alaska/City/Anchorage.public|Anchorage.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Alaska/City/Anchorage.internal|Anchorage.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Alaska/City/Anchorage.protect|Anchorage.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Alaska/City/Anchorage.private|Anchorage.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Alaska/City/Anchorage.personal|Anchorage.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Alaska/City/Anchorage.secret|Anchorage.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Alaska/City/Anchorage|Anchorage]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Alaska/City/Anchorage.public|Anchorage.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Alaska/City/Anchorage.internal|Anchorage.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Alaska/City/Anchorage.protect|Anchorage.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Alaska/City/Anchorage.private|Anchorage.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Alaska/City/Anchorage.personal|Anchorage.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Alaska/City/Anchorage.secret|Anchorage.secret]] 

@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-116.86] 
 [geo-lat::33.36] 
 [name::Mt.Palomar] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../California]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/California/City/Mt.Palomar|Mt.Palomar]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/California/City/Mt.Palomar.public|Mt.Palomar.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/California/City/Mt.Palomar.internal|Mt.Palomar.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/California/City/Mt.Palomar.protect|Mt.Palomar.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/California/City/Mt.Palomar.private|Mt.Palomar.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/California/City/Mt.Palomar.personal|Mt.Palomar.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/California/City/Mt.Palomar.secret|Mt.Palomar.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/California/City/Mt.Palomar|Mt.Palomar]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/California/City/Mt.Palomar.public|Mt.Palomar.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/California/City/Mt.Palomar.internal|Mt.Palomar.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/California/City/Mt.Palomar.protect|Mt.Palomar.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/California/City/Mt.Palomar.private|Mt.Palomar.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/California/City/Mt.Palomar.personal|Mt.Palomar.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/California/City/Mt.Palomar.secret|Mt.Palomar.secret]] 

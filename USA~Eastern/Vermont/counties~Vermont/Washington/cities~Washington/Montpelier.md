@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-72.56667] 
 [geo-lat::44.25] 
 [name::Montpelier] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Vermont]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Vermont/City/Montpelier|Montpelier]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Vermont/City/Montpelier.public|Montpelier.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Vermont/City/Montpelier.internal|Montpelier.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Vermont/City/Montpelier.protect|Montpelier.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Vermont/City/Montpelier.private|Montpelier.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Vermont/City/Montpelier.personal|Montpelier.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Vermont/City/Montpelier.secret|Montpelier.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Vermont/City/Montpelier|Montpelier]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Vermont/City/Montpelier.public|Montpelier.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Vermont/City/Montpelier.internal|Montpelier.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Vermont/City/Montpelier.protect|Montpelier.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Vermont/City/Montpelier.private|Montpelier.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Vermont/City/Montpelier.personal|Montpelier.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Vermont/City/Montpelier.secret|Montpelier.secret]] 

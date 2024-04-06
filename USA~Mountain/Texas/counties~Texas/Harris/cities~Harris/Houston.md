@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-95.37] 
 [geo-lat::29.77] 
 [name::Houston] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Texas]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Texas/City/Houston|Houston]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Texas/City/Houston.public|Houston.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Texas/City/Houston.internal|Houston.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Texas/City/Houston.protect|Houston.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Texas/City/Houston.private|Houston.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Texas/City/Houston.personal|Houston.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Texas/City/Houston.secret|Houston.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Texas/City/Houston|Houston]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Texas/City/Houston.public|Houston.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Texas/City/Houston.internal|Houston.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Texas/City/Houston.protect|Houston.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Texas/City/Houston.private|Houston.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Texas/City/Houston.personal|Houston.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Texas/City/Houston.secret|Houston.secret]] 

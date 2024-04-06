@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-96.7] 
 [geo-lat::40.8] 
 [name::Lincoln] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Nebraska]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Nebraska/City/Lincoln|Lincoln]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Nebraska/City/Lincoln.public|Lincoln.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Nebraska/City/Lincoln.internal|Lincoln.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Nebraska/City/Lincoln.protect|Lincoln.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Nebraska/City/Lincoln.private|Lincoln.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Nebraska/City/Lincoln.personal|Lincoln.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Nebraska/City/Lincoln.secret|Lincoln.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Nebraska/City/Lincoln|Lincoln]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Nebraska/City/Lincoln.public|Lincoln.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Nebraska/City/Lincoln.internal|Lincoln.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Nebraska/City/Lincoln.protect|Lincoln.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Nebraska/City/Lincoln.private|Lincoln.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Nebraska/City/Lincoln.personal|Lincoln.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Nebraska/City/Lincoln.secret|Lincoln.secret]] 

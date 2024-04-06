@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-73.75732] 
 [geo-lat::42.6526] 
 [name::Albany] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../New_York.State]] 
 [Population::] 
 [Unknown::] 
@@ -33,10 +33,10 @@ markerFolder: ./Albany/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/New_York/City/Albany|Albany]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/New_York/City/Albany.public|Albany.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/New_York/City/Albany.internal|Albany.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/New_York/City/Albany.protect|Albany.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/New_York/City/Albany.private|Albany.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/New_York/City/Albany.personal|Albany.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/New_York/City/Albany.secret|Albany.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/New_York/City/Albany|Albany]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/New_York/City/Albany.public|Albany.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/New_York/City/Albany.internal|Albany.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/New_York/City/Albany.protect|Albany.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/New_York/City/Albany.private|Albany.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/New_York/City/Albany.personal|Albany.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/New_York/City/Albany.secret|Albany.secret]] 

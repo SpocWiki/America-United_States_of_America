@@ -17,7 +17,7 @@ confidential: public
 
 ![[Idaho/Flag_of_Idaho.svg|350]] 
 
-Country :: [[../../United_States_of_America]]  
+Country :: [[../../USA]]  
 Capital :: [[Idaho/City/Boise]]  
 [geo-lon::-116.238] 
 [geo-lat::43.6137] 
@@ -36,10 +36,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Idaho|Idaho]] 
-- [[../../../../../_public/geo/Continent/America~North/United_States_of_America/Idaho.public|Idaho.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/United_States_of_America/Idaho.internal|Idaho.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/United_States_of_America/Idaho.protect|Idaho.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/United_States_of_America/Idaho.private|Idaho.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/United_States_of_America/Idaho.personal|Idaho.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/United_States_of_America/Idaho.secret|Idaho.secret]] 
+- [[../../../../../_Standards/geo/Continent/America~North/USA/Idaho|Idaho]] 
+- [[../../../../../_public/geo/Continent/America~North/USA/Idaho.public|Idaho.public]] 
+- [[../../../../../_internal/geo/Continent/America~North/USA/Idaho.internal|Idaho.internal]] 
+- [[../../../../../_protect/geo/Continent/America~North/USA/Idaho.protect|Idaho.protect]] 
+- [[../../../../../_private/geo/Continent/America~North/USA/Idaho.private|Idaho.private]] 
+- [[../../../../../_personal/geo/Continent/America~North/USA/Idaho.personal|Idaho.personal]] 
+- [[../../../../../_secret/geo/Continent/America~North/USA/Idaho.secret|Idaho.secret]] 

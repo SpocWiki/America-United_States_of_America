@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-90.18] 
 [geo-lat::38.63] 
 [name::Saint Louis] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Missouri]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Missouri/City/Saint_Louis|Saint_Louis]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Missouri/City/Saint_Louis.public|Saint_Louis.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Missouri/City/Saint_Louis.internal|Saint_Louis.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Missouri/City/Saint_Louis.protect|Saint_Louis.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Missouri/City/Saint_Louis.private|Saint_Louis.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Missouri/City/Saint_Louis.personal|Saint_Louis.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Missouri/City/Saint_Louis.secret|Saint_Louis.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Missouri/City/Saint_Louis|Saint_Louis]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Missouri/City/Saint_Louis.public|Saint_Louis.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Missouri/City/Saint_Louis.internal|Saint_Louis.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Missouri/City/Saint_Louis.protect|Saint_Louis.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Missouri/City/Saint_Louis.private|Saint_Louis.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Missouri/City/Saint_Louis.personal|Saint_Louis.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Missouri/City/Saint_Louis.secret|Saint_Louis.secret]] 

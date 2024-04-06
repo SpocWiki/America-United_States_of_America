@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-122.43] 
 [geo-lat::37.79] 
 [name::San Francisco] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../California]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/California/City/San_Francisco|San_Francisco]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/California/City/San_Francisco.public|San_Francisco.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/California/City/San_Francisco.internal|San_Francisco.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/California/City/San_Francisco.protect|San_Francisco.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/California/City/San_Francisco.private|San_Francisco.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/California/City/San_Francisco.personal|San_Francisco.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/California/City/San_Francisco.secret|San_Francisco.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/California/City/San_Francisco|San_Francisco]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/California/City/San_Francisco.public|San_Francisco.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/California/City/San_Francisco.internal|San_Francisco.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/California/City/San_Francisco.protect|San_Francisco.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/California/City/San_Francisco.private|San_Francisco.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/California/City/San_Francisco.personal|San_Francisco.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/California/City/San_Francisco.secret|San_Francisco.secret]] 

@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-73.96] 
 [geo-lat::40.81] 
 [name::Idlewild] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../New_York.State]] 
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/New_York/City/Idlewild|Idlewild]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/New_York/City/Idlewild.public|Idlewild.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/New_York/City/Idlewild.internal|Idlewild.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/New_York/City/Idlewild.protect|Idlewild.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/New_York/City/Idlewild.private|Idlewild.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/New_York/City/Idlewild.personal|Idlewild.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/New_York/City/Idlewild.secret|Idlewild.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/New_York/City/Idlewild|Idlewild]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/New_York/City/Idlewild.public|Idlewild.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/New_York/City/Idlewild.internal|Idlewild.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/New_York/City/Idlewild.protect|Idlewild.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/New_York/City/Idlewild.private|Idlewild.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/New_York/City/Idlewild.personal|Idlewild.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/New_York/City/Idlewild.secret|Idlewild.secret]] 

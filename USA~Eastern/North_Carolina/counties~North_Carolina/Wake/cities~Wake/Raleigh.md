@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-78.64472] 
 [geo-lat::35.81889] 
 [name::Raleigh] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../North_Carolina]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/North_Carolina/City/Raleigh|Raleigh]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/North_Carolina/City/Raleigh.public|Raleigh.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/North_Carolina/City/Raleigh.internal|Raleigh.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/North_Carolina/City/Raleigh.protect|Raleigh.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/North_Carolina/City/Raleigh.private|Raleigh.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/North_Carolina/City/Raleigh.personal|Raleigh.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/North_Carolina/City/Raleigh.secret|Raleigh.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/North_Carolina/City/Raleigh|Raleigh]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/North_Carolina/City/Raleigh.public|Raleigh.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/North_Carolina/City/Raleigh.internal|Raleigh.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/North_Carolina/City/Raleigh.protect|Raleigh.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/North_Carolina/City/Raleigh.private|Raleigh.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/North_Carolina/City/Raleigh.personal|Raleigh.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/North_Carolina/City/Raleigh.secret|Raleigh.secret]] 

@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-86.48] 
 [geo-lat::38.72] 
 [name::Mitchell] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Indiana]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Indiana/City/Mitchell|Mitchell]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Indiana/City/Mitchell.public|Mitchell.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Indiana/City/Mitchell.internal|Mitchell.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Indiana/City/Mitchell.protect|Mitchell.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Indiana/City/Mitchell.private|Mitchell.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Indiana/City/Mitchell.personal|Mitchell.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Indiana/City/Mitchell.secret|Mitchell.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Indiana/City/Mitchell|Mitchell]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Indiana/City/Mitchell.public|Mitchell.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Indiana/City/Mitchell.internal|Mitchell.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Indiana/City/Mitchell.protect|Mitchell.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Indiana/City/Mitchell.private|Mitchell.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Indiana/City/Mitchell.personal|Mitchell.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Indiana/City/Mitchell.secret|Mitchell.secret]] 

@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-121] 
 [geo-lat::37.62] 
 [name::Modesto] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../California]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/California/City/Modesto|Modesto]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/California/City/Modesto.public|Modesto.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/California/City/Modesto.internal|Modesto.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/California/City/Modesto.protect|Modesto.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/California/City/Modesto.private|Modesto.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/California/City/Modesto.personal|Modesto.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/California/City/Modesto.secret|Modesto.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/California/City/Modesto|Modesto]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/California/City/Modesto.public|Modesto.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/California/City/Modesto.internal|Modesto.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/California/City/Modesto.protect|Modesto.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/California/City/Modesto.private|Modesto.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/California/City/Modesto.personal|Modesto.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/California/City/Modesto.secret|Modesto.secret]] 

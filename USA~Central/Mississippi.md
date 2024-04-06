@@ -15,7 +15,7 @@ confidential: public
 ![[Mississippi/Coat_of_arms_of_Mississippi.svg|350]]  
 ![[Mississippi/Flag_of_Mississippi.svg|350]]  
 
-Country :: [[../../United_States_of_America]]  
+Country :: [[../../USA]]  
 Capital :: [[Mississippi/City/Jackson]]  
 [geo-lon::-90.1847] 
 [geo-lat::32.2989] 
@@ -34,10 +34,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Mississippi|Mississippi]] 
-- [[../../../../../_public/geo/Continent/America~North/United_States_of_America/Mississippi.public|Mississippi.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/United_States_of_America/Mississippi.internal|Mississippi.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/United_States_of_America/Mississippi.protect|Mississippi.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/United_States_of_America/Mississippi.private|Mississippi.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/United_States_of_America/Mississippi.personal|Mississippi.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/United_States_of_America/Mississippi.secret|Mississippi.secret]] 
+- [[../../../../../_Standards/geo/Continent/America~North/USA/Mississippi|Mississippi]] 
+- [[../../../../../_public/geo/Continent/America~North/USA/Mississippi.public|Mississippi.public]] 
+- [[../../../../../_internal/geo/Continent/America~North/USA/Mississippi.internal|Mississippi.internal]] 
+- [[../../../../../_protect/geo/Continent/America~North/USA/Mississippi.protect|Mississippi.protect]] 
+- [[../../../../../_private/geo/Continent/America~North/USA/Mississippi.private|Mississippi.private]] 
+- [[../../../../../_personal/geo/Continent/America~North/USA/Mississippi.personal|Mississippi.personal]] 
+- [[../../../../../_secret/geo/Continent/America~North/USA/Mississippi.secret|Mississippi.secret]] 

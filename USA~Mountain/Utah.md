@@ -20,7 +20,7 @@ confidential: public
 ![[Utah/Flag_of_Utah.svg|350]] 
 
 
-Country :: [[../../United_States_of_America]]  
+Country :: [[../../USA]]  
 Capital :: [[Utah/City/Salt_Lake_City]]  
 [geo-lon::-111.883] 
 [geo-lat::40.75] 
@@ -39,10 +39,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Utah|Utah]] 
-- [[../../../../../_public/geo/Continent/America~North/United_States_of_America/Utah.public|Utah.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/United_States_of_America/Utah.internal|Utah.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/United_States_of_America/Utah.protect|Utah.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/United_States_of_America/Utah.private|Utah.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/United_States_of_America/Utah.personal|Utah.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/United_States_of_America/Utah.secret|Utah.secret]] 
+- [[../../../../../_Standards/geo/Continent/America~North/USA/Utah|Utah]] 
+- [[../../../../../_public/geo/Continent/America~North/USA/Utah.public|Utah.public]] 
+- [[../../../../../_internal/geo/Continent/America~North/USA/Utah.internal|Utah.internal]] 
+- [[../../../../../_protect/geo/Continent/America~North/USA/Utah.protect|Utah.protect]] 
+- [[../../../../../_private/geo/Continent/America~North/USA/Utah.private|Utah.private]] 
+- [[../../../../../_personal/geo/Continent/America~North/USA/Utah.personal|Utah.personal]] 
+- [[../../../../../_secret/geo/Continent/America~North/USA/Utah.secret|Utah.secret]] 

@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-120.49] 
 [geo-lat::37.28] 
 [name::Merced] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../California]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/California/City/Merced|Merced]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/California/City/Merced.public|Merced.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/California/City/Merced.internal|Merced.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/California/City/Merced.protect|Merced.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/California/City/Merced.private|Merced.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/California/City/Merced.personal|Merced.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/California/City/Merced.secret|Merced.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/California/City/Merced|Merced]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/California/City/Merced.public|Merced.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/California/City/Merced.internal|Merced.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/California/City/Merced.protect|Merced.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/California/City/Merced.private|Merced.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/California/City/Merced.personal|Merced.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/California/City/Merced.secret|Merced.secret]] 

@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-74.02] 
 [geo-lat::40.72] 
 [name::New York] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../New_York.State]] 
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/New_York/City/New_York-City|New_York-City]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/New_York/City/New_York-City.public|New_York-City.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/New_York/City/New_York-City.internal|New_York-City.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/New_York/City/New_York-City.protect|New_York-City.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/New_York/City/New_York-City.private|New_York-City.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/New_York/City/New_York-City.personal|New_York-City.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/New_York/City/New_York-City.secret|New_York-City.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/New_York/City/New_York-City|New_York-City]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/New_York/City/New_York-City.public|New_York-City.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/New_York/City/New_York-City.internal|New_York-City.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/New_York/City/New_York-City.protect|New_York-City.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/New_York/City/New_York-City.private|New_York-City.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/New_York/City/New_York-City.personal|New_York-City.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/New_York/City/New_York-City.secret|New_York-City.secret]] 

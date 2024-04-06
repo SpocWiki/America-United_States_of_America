@@ -40,11 +40,11 @@ markerFolder: ./Kingman_Reef/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Kingman_Reef|Kingman_Reef]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Kingman_Reef.public|Kingman_Reef.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Kingman_Reef.internal|Kingman_Reef.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Kingman_Reef.protect|Kingman_Reef.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Kingman_Reef.private|Kingman_Reef.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Kingman_Reef.personal|Kingman_Reef.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Kingman_Reef.secret|Kingman_Reef.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/USA~Islands/Counties/Kingman_Reef|Kingman_Reef]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/USA~Islands/Counties/Kingman_Reef.public|Kingman_Reef.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/USA~Islands/Counties/Kingman_Reef.internal|Kingman_Reef.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/USA~Islands/Counties/Kingman_Reef.protect|Kingman_Reef.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/USA~Islands/Counties/Kingman_Reef.private|Kingman_Reef.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/USA~Islands/Counties/Kingman_Reef.personal|Kingman_Reef.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/USA~Islands/Counties/Kingman_Reef.secret|Kingman_Reef.secret]] 
 

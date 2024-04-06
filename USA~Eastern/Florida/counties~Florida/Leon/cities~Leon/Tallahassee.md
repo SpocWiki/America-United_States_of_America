@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-84.26853] 
 [geo-lat::30.45167] 
 [name::Tallahassee] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Florida]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Florida/City/Tallahassee|Tallahassee]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Florida/City/Tallahassee.public|Tallahassee.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Florida/City/Tallahassee.internal|Tallahassee.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Florida/City/Tallahassee.protect|Tallahassee.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Florida/City/Tallahassee.private|Tallahassee.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Florida/City/Tallahassee.personal|Tallahassee.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Florida/City/Tallahassee.secret|Tallahassee.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Florida/City/Tallahassee|Tallahassee]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Florida/City/Tallahassee.public|Tallahassee.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Florida/City/Tallahassee.internal|Tallahassee.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Florida/City/Tallahassee.protect|Tallahassee.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Florida/City/Tallahassee.private|Tallahassee.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Florida/City/Tallahassee.personal|Tallahassee.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Florida/City/Tallahassee.secret|Tallahassee.secret]] 

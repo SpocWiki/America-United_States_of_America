@@ -16,7 +16,7 @@ confidential: public
 ![[Oklahoma/Flag_of_Oklahoma.svg|350]]  
 
 
-Country :: [[../../United_States_of_America]]  
+Country :: [[../../USA]]  
 Capital :: [[Oklahoma_City]]  
 [geo-lon::-96.735] 
 [geo-lat::35.825] 
@@ -35,10 +35,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Oklahoma|Oklahoma]] 
-- [[../../../../../_public/geo/Continent/America~North/United_States_of_America/Oklahoma.public|Oklahoma.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/United_States_of_America/Oklahoma.internal|Oklahoma.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/United_States_of_America/Oklahoma.protect|Oklahoma.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/United_States_of_America/Oklahoma.private|Oklahoma.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/United_States_of_America/Oklahoma.personal|Oklahoma.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/United_States_of_America/Oklahoma.secret|Oklahoma.secret]] 
+- [[../../../../../_Standards/geo/Continent/America~North/USA/Oklahoma|Oklahoma]] 
+- [[../../../../../_public/geo/Continent/America~North/USA/Oklahoma.public|Oklahoma.public]] 
+- [[../../../../../_internal/geo/Continent/America~North/USA/Oklahoma.internal|Oklahoma.internal]] 
+- [[../../../../../_protect/geo/Continent/America~North/USA/Oklahoma.protect|Oklahoma.protect]] 
+- [[../../../../../_private/geo/Continent/America~North/USA/Oklahoma.private|Oklahoma.private]] 
+- [[../../../../../_personal/geo/Continent/America~North/USA/Oklahoma.personal|Oklahoma.personal]] 
+- [[../../../../../_secret/geo/Continent/America~North/USA/Oklahoma.secret|Oklahoma.secret]] 

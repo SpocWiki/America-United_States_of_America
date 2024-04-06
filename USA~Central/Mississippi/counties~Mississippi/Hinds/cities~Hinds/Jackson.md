@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-90.18472] 
 [geo-lat::32.29889] 
 [name::Jackson] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Mississippi]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Mississippi/City/Jackson|Jackson]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Mississippi/City/Jackson.public|Jackson.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Mississippi/City/Jackson.internal|Jackson.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Mississippi/City/Jackson.protect|Jackson.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Mississippi/City/Jackson.private|Jackson.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Mississippi/City/Jackson.personal|Jackson.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Mississippi/City/Jackson.secret|Jackson.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Mississippi/City/Jackson|Jackson]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Mississippi/City/Jackson.public|Jackson.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Mississippi/City/Jackson.internal|Jackson.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Mississippi/City/Jackson.protect|Jackson.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Mississippi/City/Jackson.private|Jackson.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Mississippi/City/Jackson.personal|Jackson.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Mississippi/City/Jackson.secret|Jackson.secret]] 

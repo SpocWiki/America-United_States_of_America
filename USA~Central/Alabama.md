@@ -19,7 +19,7 @@ confidential: public
 
 ![[Alabama/Flag_of_Alabama.svg|350]] 
 
-Country :: [[../../United_States_of_America]]  
+Country :: [[../../USA]]  
 Capital :: [[Alabama/City/Montgomery]]  
 [geo-lon::-86.2792] 
 [geo-lat::32.3617] 
@@ -38,10 +38,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Alabama|Alabama]] 
-- [[../../../../../_public/geo/Continent/America~North/United_States_of_America/Alabama.public|Alabama.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/United_States_of_America/Alabama.internal|Alabama.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/United_States_of_America/Alabama.protect|Alabama.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/United_States_of_America/Alabama.private|Alabama.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/United_States_of_America/Alabama.personal|Alabama.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/United_States_of_America/Alabama.secret|Alabama.secret]] 
+- [[../../../../../_Standards/geo/Continent/America~North/USA/Alabama|Alabama]] 
+- [[../../../../../_public/geo/Continent/America~North/USA/Alabama.public|Alabama.public]] 
+- [[../../../../../_internal/geo/Continent/America~North/USA/Alabama.internal|Alabama.internal]] 
+- [[../../../../../_protect/geo/Continent/America~North/USA/Alabama.protect|Alabama.protect]] 
+- [[../../../../../_private/geo/Continent/America~North/USA/Alabama.private|Alabama.private]] 
+- [[../../../../../_personal/geo/Continent/America~North/USA/Alabama.personal|Alabama.personal]] 
+- [[../../../../../_secret/geo/Continent/America~North/USA/Alabama.secret|Alabama.secret]] 

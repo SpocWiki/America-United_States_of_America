@@ -18,7 +18,7 @@ confidential: public
 ![[Vermont/Flag_of_Vermont.svg|350]] 
 
 
-Country :: [[../../United_States_of_America]]  
+Country :: [[../../USA]]  
 Capital :: [[Vermont/City/Montpelier]]  
 [geo-lon::-72.5667] 
 [geo-lat::44.25] 
@@ -37,10 +37,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Vermont|Vermont]] 
-- [[../../../../../_public/geo/Continent/America~North/United_States_of_America/Vermont.public|Vermont.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/United_States_of_America/Vermont.internal|Vermont.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/United_States_of_America/Vermont.protect|Vermont.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/United_States_of_America/Vermont.private|Vermont.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/United_States_of_America/Vermont.personal|Vermont.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/United_States_of_America/Vermont.secret|Vermont.secret]] 
+- [[../../../../../_Standards/geo/Continent/America~North/USA/Vermont|Vermont]] 
+- [[../../../../../_public/geo/Continent/America~North/USA/Vermont.public|Vermont.public]] 
+- [[../../../../../_internal/geo/Continent/America~North/USA/Vermont.internal|Vermont.internal]] 
+- [[../../../../../_protect/geo/Continent/America~North/USA/Vermont.protect|Vermont.protect]] 
+- [[../../../../../_private/geo/Continent/America~North/USA/Vermont.private|Vermont.private]] 
+- [[../../../../../_personal/geo/Continent/America~North/USA/Vermont.personal|Vermont.personal]] 
+- [[../../../../../_secret/geo/Continent/America~North/USA/Vermont.secret|Vermont.secret]] 

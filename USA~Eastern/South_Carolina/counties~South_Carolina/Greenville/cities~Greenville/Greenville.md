@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-82.38] 
 [geo-lat::34.85] 
 [name::Greenville] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../South_Carolina]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/South_Carolina/City/Greenville|Greenville]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/South_Carolina/City/Greenville.public|Greenville.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/South_Carolina/City/Greenville.internal|Greenville.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/South_Carolina/City/Greenville.protect|Greenville.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/South_Carolina/City/Greenville.private|Greenville.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/South_Carolina/City/Greenville.personal|Greenville.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/South_Carolina/City/Greenville.secret|Greenville.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/South_Carolina/City/Greenville|Greenville]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/South_Carolina/City/Greenville.public|Greenville.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/South_Carolina/City/Greenville.internal|Greenville.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/South_Carolina/City/Greenville.protect|Greenville.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/South_Carolina/City/Greenville.private|Greenville.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/South_Carolina/City/Greenville.personal|Greenville.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/South_Carolina/City/Greenville.secret|Greenville.secret]] 

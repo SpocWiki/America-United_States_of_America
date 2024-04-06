@@ -29,7 +29,7 @@ icon: flag-us
 
 # United States of America 
 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-United_States_of_America 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-USA 
 
 [name-en::United States of America] 
 [name-de::Vereinigte Staaten von Amerika] 
@@ -38,14 +38,14 @@ icon: flag-us
 [ISO3::USA] 
 
 This Repository/Folder/Wiki/Vault contains freely usable Text and Data 
-covering the Country of [United_States_of_America](https://en.wikipedia.org/wiki/United_States_of_America).   
+covering the Country of [USA](https://en.wikipedia.org/wiki/USA).   
 
 This Repository is intended to be shared as a common basis, 
 by including it as a Sub-Repository in local File-Systems, 
 specifically as part of the [\_Standards](https://github.com/SpocWiki/_Standards) Repository. 
 
 Check out this Repository into this Subfolder: 
-\_Standards/geo/Continent/America~North/United_States_of_America
+\_Standards/geo/Continent/America~North/USA
 
 ## #has_/text_of_/abstract  
 
@@ -85,7 +85,7 @@ markerFolder: ./
 [Area-Land::9573110] 
 has_place_continent:: [[North-America]]  
 [VehicleCode::USA] 
-Capital :: [[United_States_of_America/USA~Eastern/District_of_Columbia/City/Washington~City]]  
+Capital :: [[USA/USA~Eastern/District_of_Columbia/City/Washington~City]]  
 [Alcohol-l::9.4] 
 [Language-Id::499] 
 [has_place_longitude::-94.8153]
@@ -94,9 +94,9 @@ Capital :: [[United_States_of_America/USA~Eastern/District_of_Columbia/City/Wash
 
 
 ## Confidential Links & Embeds: 
-- [[United_States_of_America|United_States_of_America]] 
-- [[../../../../_internal/geo/Continent/America~North/United_States_of_America.internal|United_States_of_America.internal]] 
-- [[../../../../_protect/geo/Continent/America~North/United_States_of_America.protect|United_States_of_America.protect]] 
-- [[../../../../_private/geo/Continent/America~North/United_States_of_America.private|United_States_of_America.private]] 
-- [[../../../../_personal/geo/Continent/America~North/United_States_of_America.personal|United_States_of_America.personal]] 
-- [[../../../../_secret/geo/Continent/America~North/United_States_of_America.secret|United_States_of_America.secret]] 
+- [[USA|USA]] 
+- [[../../../../_internal/geo/Continent/America~North/USA.internal|USA.internal]] 
+- [[../../../../_protect/geo/Continent/America~North/USA.protect|USA.protect]] 
+- [[../../../../_private/geo/Continent/America~North/USA.private|USA.private]] 
+- [[../../../../_personal/geo/Continent/America~North/USA.personal|USA.personal]] 
+- [[../../../../_secret/geo/Continent/America~North/USA.secret|USA.secret]] 

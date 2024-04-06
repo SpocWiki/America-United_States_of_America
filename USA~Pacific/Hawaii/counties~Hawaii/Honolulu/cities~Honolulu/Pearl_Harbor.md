@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-158] 
 [geo-lat::21.37] 
 [name::Pearl Harbor] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State ::[[../../../../../Oceania/Polynesia/Hawaii]]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Hawaii/City/Pearl_Harbor|Pearl_Harbor]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Hawaii/City/Pearl_Harbor.public|Pearl_Harbor.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Hawaii/City/Pearl_Harbor.internal|Pearl_Harbor.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Hawaii/City/Pearl_Harbor.protect|Pearl_Harbor.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Hawaii/City/Pearl_Harbor.private|Pearl_Harbor.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Hawaii/City/Pearl_Harbor.personal|Pearl_Harbor.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Hawaii/City/Pearl_Harbor.secret|Pearl_Harbor.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Hawaii/City/Pearl_Harbor|Pearl_Harbor]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Hawaii/City/Pearl_Harbor.public|Pearl_Harbor.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Hawaii/City/Pearl_Harbor.internal|Pearl_Harbor.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Hawaii/City/Pearl_Harbor.protect|Pearl_Harbor.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Hawaii/City/Pearl_Harbor.private|Pearl_Harbor.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Hawaii/City/Pearl_Harbor.personal|Pearl_Harbor.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Hawaii/City/Pearl_Harbor.secret|Pearl_Harbor.secret]] 

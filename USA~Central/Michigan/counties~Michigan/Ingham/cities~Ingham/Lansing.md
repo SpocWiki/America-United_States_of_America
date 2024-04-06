@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-84.5467] 
 [geo-lat::42.7335] 
 [name::Lansing] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Michigan]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Michigan/City/Lansing|Lansing]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Michigan/City/Lansing.public|Lansing.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Michigan/City/Lansing.internal|Lansing.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Michigan/City/Lansing.protect|Lansing.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Michigan/City/Lansing.private|Lansing.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Michigan/City/Lansing.personal|Lansing.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Michigan/City/Lansing.secret|Lansing.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Michigan/City/Lansing|Lansing]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Michigan/City/Lansing.public|Lansing.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Michigan/City/Lansing.internal|Lansing.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Michigan/City/Lansing.protect|Lansing.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Michigan/City/Lansing.private|Lansing.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Michigan/City/Lansing.personal|Lansing.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Michigan/City/Lansing.secret|Lansing.secret]] 

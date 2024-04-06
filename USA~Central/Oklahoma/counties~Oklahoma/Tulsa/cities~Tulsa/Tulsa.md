@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-95.97] 
 [geo-lat::36.15] 
 [name::Tulsa] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Oklahoma]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Oklahoma/City/Tulsa|Tulsa]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Oklahoma/City/Tulsa.public|Tulsa.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Oklahoma/City/Tulsa.internal|Tulsa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Oklahoma/City/Tulsa.protect|Tulsa.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Oklahoma/City/Tulsa.private|Tulsa.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Oklahoma/City/Tulsa.personal|Tulsa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Oklahoma/City/Tulsa.secret|Tulsa.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Oklahoma/City/Tulsa|Tulsa]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Oklahoma/City/Tulsa.public|Tulsa.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Oklahoma/City/Tulsa.internal|Tulsa.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Oklahoma/City/Tulsa.protect|Tulsa.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Oklahoma/City/Tulsa.private|Tulsa.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Oklahoma/City/Tulsa.personal|Tulsa.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Oklahoma/City/Tulsa.secret|Tulsa.secret]] 

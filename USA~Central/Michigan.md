@@ -16,7 +16,7 @@ confidential: public
 ![[Michigan/Seal_of_Michigan.svg|350]]  
 ![[Michigan/Flag_of_Michigan.svg|350]]  
 
-Country :: [[../../United_States_of_America]]  
+Country :: [[../../USA]]  
 Capital :: [[Michigan/City/Lansing]]  
 [geo-lon::-84.4222] 
 [geo-lat::42.6778] 
@@ -35,10 +35,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Michigan|Michigan]] 
-- [[../../../../../_public/geo/Continent/America~North/United_States_of_America/Michigan.public|Michigan.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/United_States_of_America/Michigan.internal|Michigan.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/United_States_of_America/Michigan.protect|Michigan.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/United_States_of_America/Michigan.private|Michigan.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/United_States_of_America/Michigan.personal|Michigan.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/United_States_of_America/Michigan.secret|Michigan.secret]] 
+- [[../../../../../_Standards/geo/Continent/America~North/USA/Michigan|Michigan]] 
+- [[../../../../../_public/geo/Continent/America~North/USA/Michigan.public|Michigan.public]] 
+- [[../../../../../_internal/geo/Continent/America~North/USA/Michigan.internal|Michigan.internal]] 
+- [[../../../../../_protect/geo/Continent/America~North/USA/Michigan.protect|Michigan.protect]] 
+- [[../../../../../_private/geo/Continent/America~North/USA/Michigan.private|Michigan.private]] 
+- [[../../../../../_personal/geo/Continent/America~North/USA/Michigan.personal|Michigan.personal]] 
+- [[../../../../../_secret/geo/Continent/America~North/USA/Michigan.secret|Michigan.secret]] 

@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-84.38] 
 [geo-lat::33.76] 
 [name::Atlanta] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../../../Europe/Georgia~Europe]] ] 
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Georgia~USA/City/Atlanta|Atlanta]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Georgia~USA/City/Atlanta.public|Atlanta.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Georgia~USA/City/Atlanta.internal|Atlanta.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Georgia~USA/City/Atlanta.protect|Atlanta.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Georgia~USA/City/Atlanta.private|Atlanta.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Georgia~USA/City/Atlanta.personal|Atlanta.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Georgia~USA/City/Atlanta.secret|Atlanta.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Georgia~USA/City/Atlanta|Atlanta]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Georgia~USA/City/Atlanta.public|Atlanta.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Georgia~USA/City/Atlanta.internal|Atlanta.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Georgia~USA/City/Atlanta.protect|Atlanta.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Georgia~USA/City/Atlanta.private|Atlanta.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Georgia~USA/City/Atlanta.personal|Atlanta.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Georgia~USA/City/Atlanta.secret|Atlanta.secret]] 

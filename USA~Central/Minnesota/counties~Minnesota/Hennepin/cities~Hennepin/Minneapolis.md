@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-93.22] 
 [geo-lat::44.98] 
 [name::Minneapolis] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Minnesota]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Minnesota/City/Minneapolis|Minneapolis]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Minnesota/City/Minneapolis.public|Minneapolis.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Minnesota/City/Minneapolis.internal|Minneapolis.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Minnesota/City/Minneapolis.protect|Minneapolis.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Minnesota/City/Minneapolis.private|Minneapolis.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Minnesota/City/Minneapolis.personal|Minneapolis.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Minnesota/City/Minneapolis.secret|Minneapolis.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Minnesota/City/Minneapolis|Minneapolis]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Minnesota/City/Minneapolis.public|Minneapolis.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Minnesota/City/Minneapolis.internal|Minneapolis.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Minnesota/City/Minneapolis.protect|Minneapolis.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Minnesota/City/Minneapolis.private|Minneapolis.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Minnesota/City/Minneapolis.personal|Minneapolis.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Minnesota/City/Minneapolis.secret|Minneapolis.secret]] 

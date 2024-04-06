@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-97.45] 
 [geo-lat::45.08] 
 [name::Wallace] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../South_Dakota]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/South_Dakota/City/Wallace|Wallace]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/South_Dakota/City/Wallace.public|Wallace.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/South_Dakota/City/Wallace.internal|Wallace.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/South_Dakota/City/Wallace.protect|Wallace.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/South_Dakota/City/Wallace.private|Wallace.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/South_Dakota/City/Wallace.personal|Wallace.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/South_Dakota/City/Wallace.secret|Wallace.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/South_Dakota/City/Wallace|Wallace]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/South_Dakota/City/Wallace.public|Wallace.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/South_Dakota/City/Wallace.internal|Wallace.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/South_Dakota/City/Wallace.protect|Wallace.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/South_Dakota/City/Wallace.private|Wallace.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/South_Dakota/City/Wallace.personal|Wallace.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/South_Dakota/City/Wallace.secret|Wallace.secret]] 

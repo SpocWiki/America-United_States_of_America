@@ -17,7 +17,7 @@ confidential: public
 
 ![[Kansas/Flag_of_Kansas.svg|350]] 
 
-Country :: [[../../United_States_of_America]]  
+Country :: [[../../USA]]  
 Capital :: [[Kansas/City/Topeka]]  
 [geo-lon::-96.9697] 
 [geo-lat::39.0679] 
@@ -36,10 +36,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Kansas|Kansas]] 
-- [[../../../../../_public/geo/Continent/America~North/United_States_of_America/Kansas.public|Kansas.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/United_States_of_America/Kansas.internal|Kansas.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/United_States_of_America/Kansas.protect|Kansas.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/United_States_of_America/Kansas.private|Kansas.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/United_States_of_America/Kansas.personal|Kansas.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/United_States_of_America/Kansas.secret|Kansas.secret]] 
+- [[../../../../../_Standards/geo/Continent/America~North/USA/Kansas|Kansas]] 
+- [[../../../../../_public/geo/Continent/America~North/USA/Kansas.public|Kansas.public]] 
+- [[../../../../../_internal/geo/Continent/America~North/USA/Kansas.internal|Kansas.internal]] 
+- [[../../../../../_protect/geo/Continent/America~North/USA/Kansas.protect|Kansas.protect]] 
+- [[../../../../../_private/geo/Continent/America~North/USA/Kansas.private|Kansas.private]] 
+- [[../../../../../_personal/geo/Continent/America~North/USA/Kansas.personal|Kansas.personal]] 
+- [[../../../../../_secret/geo/Continent/America~North/USA/Kansas.secret|Kansas.secret]] 

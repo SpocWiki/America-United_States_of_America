@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-71.42223] 
 [geo-lat::41.82361] 
 [name::Providence] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Rhode_Island]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Rhode_Island/City/Providence|Providence]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Rhode_Island/City/Providence.public|Providence.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Rhode_Island/City/Providence.internal|Providence.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Rhode_Island/City/Providence.protect|Providence.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Rhode_Island/City/Providence.private|Providence.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Rhode_Island/City/Providence.personal|Providence.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Rhode_Island/City/Providence.secret|Providence.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Rhode_Island/City/Providence|Providence]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Rhode_Island/City/Providence.public|Providence.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Rhode_Island/City/Providence.internal|Providence.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Rhode_Island/City/Providence.protect|Providence.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Rhode_Island/City/Providence.private|Providence.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Rhode_Island/City/Providence.personal|Providence.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Rhode_Island/City/Providence.secret|Providence.secret]] 

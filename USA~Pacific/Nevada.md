@@ -17,7 +17,7 @@ confidential: public
 
 ![[Nevada/Flag_of_Nevada.svg|350]] 
 
-Country :: [[../../United_States_of_America]]  
+Country :: [[../../USA]]  
 Capital :: [[Carson_City]]  
 [geo-lon::-119.754] 
 [geo-lat::39.1608] 
@@ -36,10 +36,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Nevada|Nevada]] 
-- [[../../../../../_public/geo/Continent/America~North/United_States_of_America/Nevada.public|Nevada.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/United_States_of_America/Nevada.internal|Nevada.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/United_States_of_America/Nevada.protect|Nevada.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/United_States_of_America/Nevada.private|Nevada.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/United_States_of_America/Nevada.personal|Nevada.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/United_States_of_America/Nevada.secret|Nevada.secret]] 
+- [[../../../../../_Standards/geo/Continent/America~North/USA/Nevada|Nevada]] 
+- [[../../../../../_public/geo/Continent/America~North/USA/Nevada.public|Nevada.public]] 
+- [[../../../../../_internal/geo/Continent/America~North/USA/Nevada.internal|Nevada.internal]] 
+- [[../../../../../_protect/geo/Continent/America~North/USA/Nevada.protect|Nevada.protect]] 
+- [[../../../../../_private/geo/Continent/America~North/USA/Nevada.private|Nevada.private]] 
+- [[../../../../../_personal/geo/Continent/America~North/USA/Nevada.personal|Nevada.personal]] 
+- [[../../../../../_secret/geo/Continent/America~North/USA/Nevada.secret|Nevada.secret]] 

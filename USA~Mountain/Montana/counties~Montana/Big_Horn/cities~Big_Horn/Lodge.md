@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-107.37] 
 [geo-lat::45.32] 
 [name::Lodge] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Montana]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Montana/City/Lodge|Lodge]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Montana/City/Lodge.public|Lodge.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Montana/City/Lodge.internal|Lodge.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Montana/City/Lodge.protect|Lodge.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Montana/City/Lodge.private|Lodge.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Montana/City/Lodge.personal|Lodge.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Montana/City/Lodge.secret|Lodge.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Montana/City/Lodge|Lodge]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Montana/City/Lodge.public|Lodge.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Montana/City/Lodge.internal|Lodge.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Montana/City/Lodge.protect|Lodge.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Montana/City/Lodge.private|Lodge.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Montana/City/Lodge.personal|Lodge.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Montana/City/Lodge.secret|Lodge.secret]] 

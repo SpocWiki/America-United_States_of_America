@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-93.0852] 
 [geo-lat::44.9441] 
 [name::Saint Paul] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Minnesota]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Minnesota/City/Saint_Paul|Saint_Paul]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Minnesota/City/Saint_Paul.public|Saint_Paul.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Minnesota/City/Saint_Paul.internal|Saint_Paul.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Minnesota/City/Saint_Paul.protect|Saint_Paul.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Minnesota/City/Saint_Paul.private|Saint_Paul.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Minnesota/City/Saint_Paul.personal|Saint_Paul.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Minnesota/City/Saint_Paul.secret|Saint_Paul.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Minnesota/City/Saint_Paul|Saint_Paul]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Minnesota/City/Saint_Paul.public|Saint_Paul.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Minnesota/City/Saint_Paul.internal|Saint_Paul.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Minnesota/City/Saint_Paul.protect|Saint_Paul.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Minnesota/City/Saint_Paul.private|Saint_Paul.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Minnesota/City/Saint_Paul.personal|Saint_Paul.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Minnesota/City/Saint_Paul.secret|Saint_Paul.secret]] 

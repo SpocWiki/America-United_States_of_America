@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-122.3331] 
 [geo-lat::47.6097] 
 [name::Seattle] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Washington]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Washington/City/Seattle|Seattle]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Washington/City/Seattle.public|Seattle.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Washington/City/Seattle.internal|Seattle.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Washington/City/Seattle.protect|Seattle.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Washington/City/Seattle.private|Seattle.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Washington/City/Seattle.personal|Seattle.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Washington/City/Seattle.secret|Seattle.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Washington/City/Seattle|Seattle]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Washington/City/Seattle.public|Seattle.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Washington/City/Seattle.internal|Seattle.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Washington/City/Seattle.protect|Seattle.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Washington/City/Seattle.private|Seattle.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Washington/City/Seattle.personal|Seattle.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Washington/City/Seattle.secret|Seattle.secret]] 

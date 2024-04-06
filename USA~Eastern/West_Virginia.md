@@ -19,7 +19,7 @@ confidential: public
 ![[West_Virginia/Flag_of_West_Virginia.svg|350]] 
 
 
-Country :: [[../../United_States_of_America]]  
+Country :: [[../../USA]]  
 Capital :: [[West_Virginia/City/Charleston]]  
 [geo-lon::-81.6333] 
 [geo-lat::38.3472] 
@@ -38,10 +38,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/United_States_of_America/West_Virginia|West_Virginia]] 
-- [[../../../../../_public/geo/Continent/America~North/United_States_of_America/West_Virginia.public|West_Virginia.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/United_States_of_America/West_Virginia.internal|West_Virginia.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/United_States_of_America/West_Virginia.protect|West_Virginia.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/United_States_of_America/West_Virginia.private|West_Virginia.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/United_States_of_America/West_Virginia.personal|West_Virginia.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/United_States_of_America/West_Virginia.secret|West_Virginia.secret]] 
+- [[../../../../../_Standards/geo/Continent/America~North/USA/West_Virginia|West_Virginia]] 
+- [[../../../../../_public/geo/Continent/America~North/USA/West_Virginia.public|West_Virginia.public]] 
+- [[../../../../../_internal/geo/Continent/America~North/USA/West_Virginia.internal|West_Virginia.internal]] 
+- [[../../../../../_protect/geo/Continent/America~North/USA/West_Virginia.protect|West_Virginia.protect]] 
+- [[../../../../../_private/geo/Continent/America~North/USA/West_Virginia.private|West_Virginia.private]] 
+- [[../../../../../_personal/geo/Continent/America~North/USA/West_Virginia.personal|West_Virginia.personal]] 
+- [[../../../../../_secret/geo/Continent/America~North/USA/West_Virginia.secret|West_Virginia.secret]] 

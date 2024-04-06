@@ -43,11 +43,11 @@ markerFolder: ./Palmyra-Atoll/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Palmyra-Atoll|Palmyra-Atoll]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Palmyra-Atoll.public|Palmyra-Atoll.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Palmyra-Atoll.internal|Palmyra-Atoll.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Palmyra-Atoll.protect|Palmyra-Atoll.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Palmyra-Atoll.private|Palmyra-Atoll.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Palmyra-Atoll.personal|Palmyra-Atoll.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/USA~Islands/Counties/Palmyra-Atoll.secret|Palmyra-Atoll.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/USA~Islands/Counties/Palmyra-Atoll|Palmyra-Atoll]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/USA~Islands/Counties/Palmyra-Atoll.public|Palmyra-Atoll.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/USA~Islands/Counties/Palmyra-Atoll.internal|Palmyra-Atoll.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/USA~Islands/Counties/Palmyra-Atoll.protect|Palmyra-Atoll.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/USA~Islands/Counties/Palmyra-Atoll.private|Palmyra-Atoll.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/USA~Islands/Counties/Palmyra-Atoll.personal|Palmyra-Atoll.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/USA~Islands/Counties/Palmyra-Atoll.secret|Palmyra-Atoll.secret]] 
 

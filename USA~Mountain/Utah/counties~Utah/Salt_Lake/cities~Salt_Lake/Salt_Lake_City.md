@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-111.8833] 
 [geo-lat::40.75] 
 [name::Salt Lake City] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Utah]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Utah/City/Salt_Lake_City|Salt_Lake_City]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Utah/City/Salt_Lake_City.public|Salt_Lake_City.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Utah/City/Salt_Lake_City.internal|Salt_Lake_City.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Utah/City/Salt_Lake_City.protect|Salt_Lake_City.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Utah/City/Salt_Lake_City.private|Salt_Lake_City.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Utah/City/Salt_Lake_City.personal|Salt_Lake_City.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Utah/City/Salt_Lake_City.secret|Salt_Lake_City.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Utah/City/Salt_Lake_City|Salt_Lake_City]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Utah/City/Salt_Lake_City.public|Salt_Lake_City.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Utah/City/Salt_Lake_City.internal|Salt_Lake_City.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Utah/City/Salt_Lake_City.protect|Salt_Lake_City.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Utah/City/Salt_Lake_City.private|Salt_Lake_City.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Utah/City/Salt_Lake_City.personal|Salt_Lake_City.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Utah/City/Salt_Lake_City.secret|Salt_Lake_City.secret]] 

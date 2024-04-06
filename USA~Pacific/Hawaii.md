@@ -17,7 +17,7 @@ confidential: public
 
 ![[Hawaii/Flag_of_Hawaii.svg|350]] 
 
-Country :: [[../../United_States_of_America]]  
+Country :: [[../../USA]]  
 Capital :: [[Hawaii/City/Honolulu]]  
 [geo-lon::-157.935] 
 [geo-lat::21.345] 
@@ -36,10 +36,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Hawaii|Hawaii]] 
-- [[../../../../../_public/geo/Continent/America~North/United_States_of_America/Hawaii.public|Hawaii.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/United_States_of_America/Hawaii.internal|Hawaii.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/United_States_of_America/Hawaii.protect|Hawaii.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/United_States_of_America/Hawaii.private|Hawaii.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/United_States_of_America/Hawaii.personal|Hawaii.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/United_States_of_America/Hawaii.secret|Hawaii.secret]] 
+- [[../../../../../_Standards/geo/Continent/America~North/USA/Hawaii|Hawaii]] 
+- [[../../../../../_public/geo/Continent/America~North/USA/Hawaii.public|Hawaii.public]] 
+- [[../../../../../_internal/geo/Continent/America~North/USA/Hawaii.internal|Hawaii.internal]] 
+- [[../../../../../_protect/geo/Continent/America~North/USA/Hawaii.protect|Hawaii.protect]] 
+- [[../../../../../_private/geo/Continent/America~North/USA/Hawaii.private|Hawaii.private]] 
+- [[../../../../../_personal/geo/Continent/America~North/USA/Hawaii.personal|Hawaii.personal]] 
+- [[../../../../../_secret/geo/Continent/America~North/USA/Hawaii.secret|Hawaii.secret]] 

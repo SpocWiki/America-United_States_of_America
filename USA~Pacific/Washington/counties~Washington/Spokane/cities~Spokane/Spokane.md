@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-117.42] 
 [geo-lat::47.63] 
 [name::Spokane] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Washington]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Washington/City/Spokane|Spokane]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Washington/City/Spokane.public|Spokane.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Washington/City/Spokane.internal|Spokane.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Washington/City/Spokane.protect|Spokane.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Washington/City/Spokane.private|Spokane.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Washington/City/Spokane.personal|Spokane.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Washington/City/Spokane.secret|Spokane.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Washington/City/Spokane|Spokane]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Washington/City/Spokane.public|Spokane.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Washington/City/Spokane.internal|Spokane.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Washington/City/Spokane.protect|Spokane.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Washington/City/Spokane.private|Spokane.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Washington/City/Spokane.personal|Spokane.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Washington/City/Spokane.secret|Spokane.secret]] 

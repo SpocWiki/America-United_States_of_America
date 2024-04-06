@@ -15,7 +15,7 @@ confidential: public
 [geo-lon::-93.62083] 
 [geo-lat::41.59083] 
 [name::Des Moines] 
-Country :: [[../../../../United_States_of_America]]  
+Country :: [[../../../../USA]]  
 State :: [[../../Iowa]]  
 [Population::] 
 [Unknown::] 
@@ -31,10 +31,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Iowa/City/Des_Moines|Des_Moines]] 
-- [[../../../../../../../_public/geo/Continent/America~North/United_States_of_America/Iowa/City/Des_Moines.public|Des_Moines.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/United_States_of_America/Iowa/City/Des_Moines.internal|Des_Moines.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/United_States_of_America/Iowa/City/Des_Moines.protect|Des_Moines.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/United_States_of_America/Iowa/City/Des_Moines.private|Des_Moines.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/United_States_of_America/Iowa/City/Des_Moines.personal|Des_Moines.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/United_States_of_America/Iowa/City/Des_Moines.secret|Des_Moines.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Iowa/City/Des_Moines|Des_Moines]] 
+- [[../../../../../../../_public/geo/Continent/America~North/USA/Iowa/City/Des_Moines.public|Des_Moines.public]] 
+- [[../../../../../../../_internal/geo/Continent/America~North/USA/Iowa/City/Des_Moines.internal|Des_Moines.internal]] 
+- [[../../../../../../../_protect/geo/Continent/America~North/USA/Iowa/City/Des_Moines.protect|Des_Moines.protect]] 
+- [[../../../../../../../_private/geo/Continent/America~North/USA/Iowa/City/Des_Moines.private|Des_Moines.private]] 
+- [[../../../../../../../_personal/geo/Continent/America~North/USA/Iowa/City/Des_Moines.personal|Des_Moines.personal]] 
+- [[../../../../../../../_secret/geo/Continent/America~North/USA/Iowa/City/Des_Moines.secret|Des_Moines.secret]] 

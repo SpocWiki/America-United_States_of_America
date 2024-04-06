@@ -17,7 +17,7 @@ confidential: public
 
 ![[Arkansas/Flag_of_Arkansas.svg|350]] 
 
-Country :: [[../../United_States_of_America]]  
+Country :: [[../../USA]]  
 Capital :: [[Arkansas/City/Little_Rock]]  
 [geo-lon::-92.3311] 
 [geo-lat::34.7361] 
@@ -36,10 +36,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/United_States_of_America/Arkansas|Arkansas]] 
-- [[../../../../../_public/geo/Continent/America~North/United_States_of_America/Arkansas.public|Arkansas.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/United_States_of_America/Arkansas.internal|Arkansas.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/United_States_of_America/Arkansas.protect|Arkansas.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/United_States_of_America/Arkansas.private|Arkansas.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/United_States_of_America/Arkansas.personal|Arkansas.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/United_States_of_America/Arkansas.secret|Arkansas.secret]] 
+- [[../../../../../_Standards/geo/Continent/America~North/USA/Arkansas|Arkansas]] 
+- [[../../../../../_public/geo/Continent/America~North/USA/Arkansas.public|Arkansas.public]] 
+- [[../../../../../_internal/geo/Continent/America~North/USA/Arkansas.internal|Arkansas.internal]] 
+- [[../../../../../_protect/geo/Continent/America~North/USA/Arkansas.protect|Arkansas.protect]] 
+- [[../../../../../_private/geo/Continent/America~North/USA/Arkansas.private|Arkansas.private]] 
+- [[../../../../../_personal/geo/Continent/America~North/USA/Arkansas.personal|Arkansas.personal]] 
+- [[../../../../../_secret/geo/Continent/America~North/USA/Arkansas.secret|Arkansas.secret]] 
