@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-104.8019] 
-[geo-lat::41.14556] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-104.8019] 
+[has_place_latitude::41.14556] 
 [name::Cheyenne] 
 Country :: [[../../../../USA]]  
 State :: [[../../Wyoming]]  

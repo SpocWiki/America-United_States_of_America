@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-88.72] 
-[geo-lat::34.27] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-88.72] 
+[has_place_latitude::34.27] 
 [name::Tupelo] 
 Country :: [[../../../../USA]]  
 State :: [[../../Missouri]]  

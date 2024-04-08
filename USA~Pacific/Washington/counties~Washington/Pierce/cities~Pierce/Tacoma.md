@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-122.45] 
-[geo-lat::47.25] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-122.45] 
+[has_place_latitude::47.25] 
 [name::Tacoma] 
 Country :: [[../../../../USA]]  
 State :: [[../../Washington]]  

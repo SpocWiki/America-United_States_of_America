@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-118.5] 
-[geo-lat::34.02] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-118.5] 
+[has_place_latitude::34.02] 
 [name::Santa Monika] 
 Country :: [[../../../../USA]]  
 State :: [[../../California]]  

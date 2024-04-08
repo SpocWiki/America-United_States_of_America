@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-83.05] 
-[geo-lat::42.33] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-83.05] 
+[has_place_latitude::42.33] 
 [name::Detroit] 
 Country :: [[../../../../USA]]  
 State :: [[../../Michigan]]  

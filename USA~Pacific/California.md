@@ -19,8 +19,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[California/City/Sacramento]]  
-[geo-lon::-119.78] 
-[geo-lat::35.7336] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-119.78] 
+[has_place_latitude::35.7336] 
 [Population::] 
 
 

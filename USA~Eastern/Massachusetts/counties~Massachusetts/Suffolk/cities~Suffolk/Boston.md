@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-71.08] 
-[geo-lat::42.33] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-71.08] 
+[has_place_latitude::42.33] 
 [name::Boston] 
 Country :: [[../../../../USA]]  
 State :: [[../../Massachusetts]]  

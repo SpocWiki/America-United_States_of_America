@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-90.18472] 
-[geo-lat::32.29889] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-90.18472] 
+[has_place_latitude::32.29889] 
 [name::Jackson] 
 Country :: [[../../../../USA]]  
 State :: [[../../Mississippi]]  

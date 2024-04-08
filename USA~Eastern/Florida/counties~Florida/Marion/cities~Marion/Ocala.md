@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-82.15] 
-[geo-lat::29.18] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-82.15] 
+[has_place_latitude::29.18] 
 [name::Ocala] 
 Country :: [[../../../../USA]]  
 State :: [[../../Florida]]  

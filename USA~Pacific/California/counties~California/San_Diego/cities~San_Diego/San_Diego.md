@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-117.15] 
-[geo-lat::32.72] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-117.15] 
+[has_place_latitude::32.72] 
 [name::San Diego] 
 Country :: [[../../../../USA]]  
 State :: [[../../California]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-118.25] 
-[geo-lat::34.06] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-118.25] 
+[has_place_latitude::34.06] 
 [name::Los Angeles] 
 Country :: [[../../../../USA]]  
 State :: [[../../California]]  

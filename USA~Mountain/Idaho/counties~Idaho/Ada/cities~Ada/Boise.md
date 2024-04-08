@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-116.2376] 
-[geo-lat::43.61374] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-116.2376] 
+[has_place_latitude::43.61374] 
 [name::Boise] 
 Country :: [[../../../../USA]]  
 State :: [[../../Idaho]]  

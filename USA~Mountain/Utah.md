@@ -22,8 +22,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[Utah/City/Salt_Lake_City]]  
-[geo-lon::-111.883] 
-[geo-lat::40.75] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-111.883] 
+[has_place_latitude::40.75] 
 [Population::] 
 
 

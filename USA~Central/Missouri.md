@@ -18,8 +18,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[Jefferson_City]]  
-[geo-lon::-91.3967] 
-[geo-lat::38.2853] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-91.3967] 
+[has_place_latitude::38.2853] 
 [Population::] 
 
 

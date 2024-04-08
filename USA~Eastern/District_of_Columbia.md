@@ -14,8 +14,10 @@ confidential: public
 [name-abbr::DC] 
 Country :: [[../../USA]]  
 Capital :: [[District_of_Columbia/City/Washington~City]]  
-[geo-lon::-77.01] 
-[geo-lat::38.89] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-77.01] 
+[has_place_latitude::38.89] 
 [Population::] 
 
 

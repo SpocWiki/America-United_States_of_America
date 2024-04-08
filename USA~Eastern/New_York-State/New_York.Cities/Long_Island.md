@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-73.92] 
-[geo-lat::40.77] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-73.92] 
+[has_place_latitude::40.77] 
 [name::Long Island] 
 Country :: [[../../../../USA]]  
 State :: [[../../New_York.State]] 

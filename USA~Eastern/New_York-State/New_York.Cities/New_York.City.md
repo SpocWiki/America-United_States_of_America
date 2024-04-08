@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-74.02] 
-[geo-lat::40.72] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-74.02] 
+[has_place_latitude::40.72] 
 [name::New York] 
 Country :: [[../../../../USA]]  
 State :: [[../../New_York.State]] 

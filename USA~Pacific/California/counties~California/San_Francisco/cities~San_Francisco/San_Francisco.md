@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-122.43] 
-[geo-lat::37.79] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-122.43] 
+[has_place_latitude::37.79] 
 [name::San Francisco] 
 Country :: [[../../../../USA]]  
 State :: [[../../California]]  

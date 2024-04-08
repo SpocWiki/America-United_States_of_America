@@ -19,8 +19,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[Wyoming/City/Cheyenne]]  
-[geo-lon::-104.802] 
-[geo-lat::41.1456] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-104.802] 
+[has_place_latitude::41.1456] 
 [Population::] 
 
 

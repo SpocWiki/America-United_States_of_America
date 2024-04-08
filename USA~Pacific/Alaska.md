@@ -19,8 +19,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[Alaska/City/Juneau]]  
-[geo-lon::-149.77] 
-[geo-lat::61.3881] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-149.77] 
+[has_place_latitude::61.3881] 
 [Population::] 
 
 

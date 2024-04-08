@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-120.49] 
-[geo-lat::37.28] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-120.49] 
+[has_place_latitude::37.28] 
 [name::Merced] 
 Country :: [[../../../../USA]]  
 State :: [[../../California]]  

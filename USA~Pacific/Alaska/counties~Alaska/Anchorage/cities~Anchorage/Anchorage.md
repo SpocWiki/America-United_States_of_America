@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-149.88] 
-[geo-lat::61.22] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-149.88] 
+[has_place_latitude::61.22] 
 [name::Anchorage] 
 Country :: [[../../../../USA]]  
 State :: [[../../Alaska]]  

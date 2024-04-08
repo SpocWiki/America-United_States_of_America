@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-119.7539] 
-[geo-lat::39.16083] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-119.7539] 
+[has_place_latitude::39.16083] 
 [name::Carson City] 
 Country :: [[../../../../USA]]  
 State :: [[../../Nevada]]  

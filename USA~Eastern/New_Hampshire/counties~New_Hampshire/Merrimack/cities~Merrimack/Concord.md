@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-71.53806] 
-[geo-lat::43.20667] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-71.53806] 
+[has_place_latitude::43.20667] 
 [name::Concord] 
 Country :: [[../../../../USA]]  
 State :: [[../../New_Hampshire]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-93.22] 
-[geo-lat::44.98] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-93.22] 
+[has_place_latitude::44.98] 
 [name::Minneapolis] 
 Country :: [[../../../../USA]]  
 State :: [[../../Minnesota]]  

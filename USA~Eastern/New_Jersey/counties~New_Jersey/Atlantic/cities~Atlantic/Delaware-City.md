@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-74.57] 
-[geo-lat::39.58] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-74.57] 
+[has_place_latitude::39.58] 
 [name::Delaware] 
 Country :: [[../../../../USA]]  
 State :: [[../../Delaware]]  

@@ -19,8 +19,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[Maryland/City/Annapolis]]  
-[geo-lon::-76.4406] 
-[geo-lat::39.2765] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-76.4406] 
+[has_place_latitude::39.2765] 
 [Population::] 
 
 ```leaflet

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-100.47] 
-[geo-lat::31.47] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-100.47] 
+[has_place_latitude::31.47] 
 [name::San Angelo] 
 Country :: [[../../../../USA]]  
 State :: [[../../Texas]]  

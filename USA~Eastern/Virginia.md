@@ -20,8 +20,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[Virginia/City/Richmond]]  
-[geo-lon::-77.4329] 
-[geo-lat::37.541] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-77.4329] 
+[has_place_latitude::37.541] 
 [Population::] 
 
 

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-81.04417] 
-[geo-lat::34.00056] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-81.04417] 
+[has_place_latitude::34.00056] 
 [name::Columbia] 
 Country :: [[../../../../USA]]  
 State :: [[../../South_Carolina]]  

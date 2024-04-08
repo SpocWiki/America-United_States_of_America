@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-122.3331] 
-[geo-lat::47.6097] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-122.3331] 
+[has_place_latitude::47.6097] 
 [name::Seattle] 
 Country :: [[../../../../USA]]  
 State :: [[../../Washington]]  

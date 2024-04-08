@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-111.8833] 
-[geo-lat::40.75] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-111.8833] 
+[has_place_latitude::40.75] 
 [name::Salt Lake City] 
 Country :: [[../../../../USA]]  
 State :: [[../../Utah]]  

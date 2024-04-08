@@ -18,8 +18,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[Delaware]]  
-[geo-lon::-75.0483] 
-[geo-lat::39.371] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-75.0483] 
+[has_place_latitude::39.371] 
 [Population::] 
 
 

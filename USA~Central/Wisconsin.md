@@ -21,8 +21,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[Wisconsin/City/Madison]]  
-[geo-lon::-89.4] 
-[geo-lat::43.0667] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-89.4] 
+[has_place_latitude::43.0667] 
 [Population::] 
 
 

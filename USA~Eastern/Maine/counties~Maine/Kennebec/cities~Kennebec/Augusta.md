@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-69.76526] 
-[geo-lat::44.32354] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-69.76526] 
+[has_place_latitude::44.32354] 
 [name::Augusta] 
 Country :: [[../../../../USA]]  
 State :: [[../../Maine]]  

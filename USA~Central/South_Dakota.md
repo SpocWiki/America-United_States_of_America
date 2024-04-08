@@ -19,8 +19,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[South_Dakota/City/Pierre]]  
-[geo-lon::-98.8932] 
-[geo-lat::44.724] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-98.8932] 
+[has_place_latitude::44.724] 
 [Population::] 
 
 

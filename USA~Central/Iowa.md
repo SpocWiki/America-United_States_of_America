@@ -18,8 +18,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[Iowa/City/Des_Moines]]  
-[geo-lon::-93.6208] 
-[geo-lat::41.5908] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-93.6208] 
+[has_place_latitude::41.5908] 
 [Population::] 
 
 

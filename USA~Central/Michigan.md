@@ -18,8 +18,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[Michigan/City/Lansing]]  
-[geo-lon::-84.4222] 
-[geo-lat::42.6778] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-84.4222] 
+[has_place_latitude::42.6778] 
 [Population::] 
 
 

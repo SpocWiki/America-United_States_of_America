@@ -21,8 +21,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[West_Virginia/City/Charleston]]  
-[geo-lon::-81.6333] 
-[geo-lat::38.3472] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-81.6333] 
+[has_place_latitude::38.3472] 
 [Population::] 
 
 

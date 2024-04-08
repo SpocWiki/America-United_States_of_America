@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-105.9644] 
-[geo-lat::35.66722] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-105.9644] 
+[has_place_latitude::35.66722] 
 [name::Santa Fe] 
 Country :: [[../../../../USA]]  
 State :: [[../../New_Mexico]]  

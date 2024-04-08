@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-92.33111] 
-[geo-lat::34.73611] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-92.33111] 
+[has_place_latitude::34.73611] 
 [name::Little Rock] 
 Country :: [[../../../../USA]]  
 State :: [[../../Arkansas]]  

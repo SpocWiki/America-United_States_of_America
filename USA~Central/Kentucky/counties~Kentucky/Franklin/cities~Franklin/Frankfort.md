@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-84.86311] 
-[geo-lat::38.19727] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-84.86311] 
+[has_place_latitude::38.19727] 
 [name::Frankfort] 
 Country :: [[../../../../USA]]  
 State :: [[../../Kentucky]]  

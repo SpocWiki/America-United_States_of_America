@@ -20,8 +20,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[Washington/City/Olympia]]  
-[geo-lon::-120.921] 
-[geo-lat::47.3075] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-120.921] 
+[has_place_latitude::47.3075] 
 [Population::] 
 
 

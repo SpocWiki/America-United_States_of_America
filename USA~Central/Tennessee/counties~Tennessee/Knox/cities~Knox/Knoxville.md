@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-83.93] 
-[geo-lat::35.97] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-83.93] 
+[has_place_latitude::35.97] 
 [name::Knoxville] 
 Country :: [[../../../../USA]]  
 State :: [[../../Tennessee]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-93.62083] 
-[geo-lat::41.59083] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-93.62083] 
+[has_place_latitude::41.59083] 
 [name::Des Moines] 
 Country :: [[../../../../USA]]  
 State :: [[../../Iowa]]  

@@ -17,8 +17,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[Florida/City/Tallahassee]]  
-[geo-lon::-82.2062] 
-[geo-lat::28.4672] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-82.2062] 
+[has_place_latitude::28.4672] 
 [Population::] 
 
 

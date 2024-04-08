@@ -20,8 +20,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[Vermont/City/Montpelier]]  
-[geo-lon::-72.5667] 
-[geo-lat::44.25] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-72.5667] 
+[has_place_latitude::44.25] 
 [Population::] 
 
 

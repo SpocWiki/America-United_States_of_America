@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-91.14023] 
-[geo-lat::30.45809] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-91.14023] 
+[has_place_latitude::30.45809] 
 [name::Baton Rouge] 
 Country :: [[../../../../USA]]  
 State :: [[../../Louisiana]]  

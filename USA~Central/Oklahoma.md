@@ -18,8 +18,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[Oklahoma_City]]  
-[geo-lon::-96.735] 
-[geo-lat::35.825] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-96.735] 
+[has_place_latitude::35.825] 
 [Population::] 
 
 

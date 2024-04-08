@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-80.2] 
-[geo-lat::25.77] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-80.2] 
+[has_place_latitude::25.77] 
 [name::Miami] 
 Country :: [[../../../../USA]]  
 State :: [[../../Florida]]  

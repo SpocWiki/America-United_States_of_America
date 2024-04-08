@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-90.17] 
-[geo-lat::38.9] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-90.17] 
+[has_place_latitude::38.9] 
 [name::Alton] 
 Country :: [[../../../../USA]]  
 State :: [[../../Illinois]]  

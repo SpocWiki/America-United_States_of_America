@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-73.96] 
-[geo-lat::40.81] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-73.96] 
+[has_place_latitude::40.81] 
 [name::Idlewild] 
 Country :: [[../../../../USA]]  
 State :: [[../../New_York.State]] 

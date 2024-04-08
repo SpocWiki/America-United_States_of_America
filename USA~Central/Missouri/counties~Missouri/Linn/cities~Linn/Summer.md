@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-93.33] 
-[geo-lat::39.75] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-93.33] 
+[has_place_latitude::39.75] 
 [name::Summer] 
 Country :: [[../../../../USA]]  
 State :: [[../../Missouri]]  

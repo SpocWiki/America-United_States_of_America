@@ -19,8 +19,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[Kentucky/City/Frankfort]]  
-[geo-lon::-84.8631] 
-[geo-lat::38.1973] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-84.8631] 
+[has_place_latitude::38.1973] 
 [Population::] 
 
 

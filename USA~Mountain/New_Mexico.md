@@ -19,8 +19,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[New_Mexico/City/Santa_Fe]]  
-[geo-lon::-105.964] 
-[geo-lat::35.6672] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-105.964] 
+[has_place_latitude::35.6672] 
 [Population::] 
 
 

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-77.43289] 
-[geo-lat::37.54097] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-77.43289] 
+[has_place_latitude::37.54097] 
 [name::Richmond] 
 Country :: [[../../../../USA]]  
 State :: [[../../Virginia]]  

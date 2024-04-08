@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-76.50116] 
-[geo-lat::38.97295] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-76.50116] 
+[has_place_latitude::38.97295] 
 [name::Annapolis] 
 Country :: [[../../../../USA]]  
 State :: [[../../Maryland]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-92.58] 
-[geo-lat::40.2] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-92.58] 
+[has_place_latitude::40.2] 
 [name::Kirksville] 
 Country :: [[../../../../USA]]  
 State :: [[../../Missouri]]  

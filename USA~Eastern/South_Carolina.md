@@ -20,8 +20,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[South_Carolina/City/Columbia]]  
-[geo-lon::-81.7121] 
-[geo-lat::34.4253] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-81.7121] 
+[has_place_latitude::34.4253] 
 [Population::] 
 
 

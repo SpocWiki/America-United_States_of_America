@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-75.52666] 
-[geo-lat::39.16195] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-75.52666] 
+[has_place_latitude::39.16195] 
 [name::Delaware~Dover] 
 Country :: [[../../../../USA]]  
 State :: [[../../Delaware]]  

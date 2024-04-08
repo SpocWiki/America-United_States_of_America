@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-81.63333] 
-[geo-lat::38.34722] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-81.63333] 
+[has_place_latitude::38.34722] 
 [name::Charleston] 
 Country :: [[../../../../USA]]  
 State :: [[../../West_Virginia]]  

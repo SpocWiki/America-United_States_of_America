@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-72.67429] 
-[geo-lat::41.76274] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-72.67429] 
+[has_place_latitude::41.76274] 
 [name::Hartford] 
 Country :: [[../../../../USA]]  
 State :: [[../../Connecticut]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-75.47] 
-[geo-lat::39.72] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-75.47] 
+[has_place_latitude::39.72] 
 [name::Penns Grove] 
 Country :: [[../../../../USA]]  
 State :: [[../../New_Jersey]]  

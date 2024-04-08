@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-84.2] 
-[geo-lat::40.57] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-84.2] 
+[has_place_latitude::40.57] 
 [name::Wapakoneta] 
 Country :: [[../../../../USA]]  
 State :: [[../../Ohio]]  

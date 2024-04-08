@@ -17,8 +17,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[Nebraska/City/Lincoln]]  
-[geo-lon::-96.8733] 
-[geo-lat::41.5333] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-96.8733] 
+[has_place_latitude::41.5333] 
 [Population::] 
 
 

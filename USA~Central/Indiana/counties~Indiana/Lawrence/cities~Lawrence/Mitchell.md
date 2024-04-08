@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-86.48] 
-[geo-lat::38.72] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-86.48] 
+[has_place_latitude::38.72] 
 [name::Mitchell] 
 Country :: [[../../../../USA]]  
 State :: [[../../Indiana]]  

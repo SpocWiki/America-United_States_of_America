@@ -21,8 +21,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[Alabama/City/Montgomery]]  
-[geo-lon::-86.2792] 
-[geo-lat::32.3617] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-86.2792] 
+[has_place_latitude::32.3617] 
 [Population::] 
 
 

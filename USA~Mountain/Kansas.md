@@ -19,8 +19,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[Kansas/City/Topeka]]  
-[geo-lon::-96.9697] 
-[geo-lat::39.0679] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-96.9697] 
+[has_place_latitude::39.0679] 
 [Population::] 
 
 

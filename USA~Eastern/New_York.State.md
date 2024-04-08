@@ -20,8 +20,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[Albany]]  
-[geo-lon::-73.9355] 
-[geo-lat::41.2905] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-73.9355] 
+[has_place_latitude::41.2905] 
 [Population::] 
 
 

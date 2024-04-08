@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-82.38] 
-[geo-lat::34.85] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-82.38] 
+[has_place_latitude::34.85] 
 [name::Greenville] 
 Country :: [[../../../../USA]]  
 State :: [[../../South_Carolina]]  

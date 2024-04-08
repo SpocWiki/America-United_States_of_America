@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-85.65] 
-[geo-lat::40.42] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-85.65] 
+[has_place_latitude::40.42] 
 [name::Fairmount] 
 Country :: [[../../../../USA]]  
 State :: [[../../Indiana]]  

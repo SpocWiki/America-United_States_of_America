@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-123.0289] 
-[geo-lat::44.93083] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-123.0289] 
+[has_place_latitude::44.93083] 
 [name::Oregon~Salem] 
 Country :: [[../../../../USA]]  
 State :: [[../../Oregon]]  

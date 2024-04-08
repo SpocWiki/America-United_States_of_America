@@ -20,8 +20,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[Oregon/City/Oregon~Salem]]  
-[geo-lon::-122.814] 
-[geo-lat::45.2404] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-122.814] 
+[has_place_latitude::45.2404] 
 [Population::] 
 
 

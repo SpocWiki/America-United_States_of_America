@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-97.5] 
-[geo-lat::35.5] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-97.5] 
+[has_place_latitude::35.5] 
 [name::Oklahoma City] 
 Country :: [[../../../../USA]]  
 State :: [[../../Oklahoma]]  

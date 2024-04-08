@@ -17,8 +17,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[Georgia.USA/City/Atlanta]]  
-[geo-lon::-84.475] 
-[geo-lat::32.895] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-84.475] 
+[has_place_latitude::32.895] 
 [Population::] 
 
 

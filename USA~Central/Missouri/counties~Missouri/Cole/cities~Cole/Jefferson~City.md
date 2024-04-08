@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-92.17361] 
-[geo-lat::38.57667] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-92.17361] 
+[has_place_latitude::38.57667] 
 [name::Jefferson City] 
 Country :: [[../../../../USA]]  
 State :: [[../../Missouri]]  

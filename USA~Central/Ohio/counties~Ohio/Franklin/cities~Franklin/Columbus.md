@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-82.98333] 
-[geo-lat::39.98333] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-82.98333] 
+[has_place_latitude::39.98333] 
 [name::Columbus] 
 Country :: [[../../../../USA]]  
 State :: [[../../Ohio]]  

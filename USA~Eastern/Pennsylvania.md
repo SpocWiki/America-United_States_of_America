@@ -21,8 +21,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[Pennsylvania/City/Harrisburg]]  
-[geo-lon::-75.7567] 
-[geo-lat::40.24] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-75.7567] 
+[has_place_latitude::40.24] 
 [Population::] 
 
 

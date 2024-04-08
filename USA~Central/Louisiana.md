@@ -17,8 +17,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[Louisiana/City/Baton_Rouge]]  
-[geo-lon::-90.6301] 
-[geo-lat::30.214] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-90.6301] 
+[has_place_latitude::30.214] 
 [Population::] 
 
 

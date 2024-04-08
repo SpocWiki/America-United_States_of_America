@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-90.13] 
-[geo-lat::42.08] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-90.13] 
+[has_place_latitude::42.08] 
 [name::Savanna] 
 Country :: [[../../../../USA]]  
 State :: [[../../Illinois]]  

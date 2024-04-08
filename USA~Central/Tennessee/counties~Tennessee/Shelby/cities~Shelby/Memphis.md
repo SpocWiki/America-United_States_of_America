@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-90.05] 
-[geo-lat::35.13] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-90.05] 
+[has_place_latitude::35.13] 
 [name::Memphis] 
 Country :: [[../../../../USA]]  
 State :: [[../../Tennessee]]  

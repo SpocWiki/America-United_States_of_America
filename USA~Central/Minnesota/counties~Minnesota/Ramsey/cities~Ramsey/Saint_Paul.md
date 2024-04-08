@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-93.0852] 
-[geo-lat::44.9441] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-93.0852] 
+[has_place_latitude::44.9441] 
 [name::Saint Paul] 
 Country :: [[../../../../USA]]  
 State :: [[../../Minnesota]]  

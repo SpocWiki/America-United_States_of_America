@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-86.27917] 
-[geo-lat::32.36167] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-86.27917] 
+[has_place_latitude::32.36167] 
 [name::Montgomery] 
 Country :: [[../../../../USA]]  
 State :: [[../../Alabama]]  

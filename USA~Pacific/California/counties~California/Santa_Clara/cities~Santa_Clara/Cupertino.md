@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-121.95] 
-[geo-lat::37.35] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-121.95] 
+[has_place_latitude::37.35] 
 [name::Cupertino] 
 Country :: [[../../../../USA]]  
 State :: [[../../California]]  

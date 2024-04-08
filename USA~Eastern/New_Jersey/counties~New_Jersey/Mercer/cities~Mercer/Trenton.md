@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-74.75611] 
-[geo-lat::40.22167] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-74.75611] 
+[has_place_latitude::40.22167] 
 [name::Trenton] 
 Country :: [[../../../../USA]]  
 State :: [[../../New_Jersey]]  

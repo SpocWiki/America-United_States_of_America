@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-90.18] 
-[geo-lat::38.63] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-90.18] 
+[has_place_latitude::38.63] 
 [name::Saint Louis] 
 Country :: [[../../../../USA]]  
 State :: [[../../Missouri]]  

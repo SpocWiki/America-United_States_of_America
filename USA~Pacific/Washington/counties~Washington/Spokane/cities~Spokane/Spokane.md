@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-117.42] 
-[geo-lat::47.63] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-117.42] 
+[has_place_latitude::47.63] 
 [name::Spokane] 
 Country :: [[../../../../USA]]  
 State :: [[../../Washington]]  

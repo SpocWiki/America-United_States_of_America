@@ -18,8 +18,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[Ohio/City/Columbus]]  
-[geo-lon::-83.8678] 
-[geo-lat::39.8944] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-83.8678] 
+[has_place_latitude::39.8944] 
 [Population::] 
 
 

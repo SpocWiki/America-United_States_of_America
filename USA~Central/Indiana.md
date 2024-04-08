@@ -18,8 +18,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[Indiana/City/Indianapolis]]  
-[geo-lon::-86.0926] 
-[geo-lat::39.6436] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-86.0926] 
+[has_place_latitude::39.6436] 
 [Population::] 
 
 

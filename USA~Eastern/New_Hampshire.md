@@ -17,8 +17,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[New_Hampshire/City/Concord]]  
-[geo-lon::-71.444] 
-[geo-lat::44.1283] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-71.444] 
+[has_place_latitude::44.1283] 
 [Population::] 
 
 

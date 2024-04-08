@@ -18,8 +18,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[Tennessee/City/Nashville]]  
-[geo-lon::-86.9211] 
-[geo-lat::35.7556] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-86.9211] 
+[has_place_latitude::35.7556] 
 [Population::] 
 
 

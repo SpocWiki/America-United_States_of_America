@@ -17,8 +17,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[Mississippi/City/Jackson]]  
-[geo-lon::-90.1847] 
-[geo-lat::32.2989] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-90.1847] 
+[has_place_latitude::32.2989] 
 [Population::] 
 
 

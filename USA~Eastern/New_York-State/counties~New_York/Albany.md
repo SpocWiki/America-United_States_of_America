@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-73.75732] 
-[geo-lat::42.6526] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-73.75732] 
+[has_place_latitude::42.6526] 
 [name::Albany] 
 Country :: [[../../../../USA]]  
 State :: [[../../New_York.State]] 

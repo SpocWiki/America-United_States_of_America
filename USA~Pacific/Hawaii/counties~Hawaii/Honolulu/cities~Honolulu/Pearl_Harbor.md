@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-158] 
-[geo-lat::21.37] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-158] 
+[has_place_latitude::21.37] 
 [name::Pearl Harbor] 
 Country :: [[../../../../USA]]  
 State ::[[../../../../../Oceania/Polynesia/Hawaii]]]  

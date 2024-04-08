@@ -17,8 +17,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[New_Jersey/City/Trenton]]  
-[geo-lon::-74.7587] 
-[geo-lat::40.2806] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-74.7587] 
+[has_place_latitude::40.2806] 
 [Population::] 
 
 

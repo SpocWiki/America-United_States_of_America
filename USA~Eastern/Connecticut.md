@@ -18,8 +18,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[Connecticut/City/Hartford]]  
-[geo-lon::-72.6743] 
-[geo-lat::41.7627] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-72.6743] 
+[has_place_latitude::41.7627] 
 [Population::] 
 
 

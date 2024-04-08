@@ -18,8 +18,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[Massachusetts/City/Boston]]  
-[geo-lon::-71.2] 
-[geo-lat::42.48] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-71.2] 
+[has_place_latitude::42.48] 
 [Population::] 
 
 

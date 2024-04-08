@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-97.97] 
-[geo-lat::42.53] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-97.97] 
+[has_place_latitude::42.53] 
 [name::Winnetoon] 
 Country :: [[../../../../USA]]  
 State :: [[../../Nebraska]]  

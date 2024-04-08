@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-112.02] 
-[geo-lat::46.6] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-112.02] 
+[has_place_latitude::46.6] 
 [name::Helena] 
 Country :: [[../../../../USA]]  
 State :: [[../../Montana]]  

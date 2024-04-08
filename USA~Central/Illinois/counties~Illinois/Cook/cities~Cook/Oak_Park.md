@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-87.8] 
-[geo-lat::41.88] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-87.8] 
+[has_place_latitude::41.88] 
 [name::Oak Park] 
 Country :: [[../../../../USA]]  
 State :: [[../../Illinois]]  

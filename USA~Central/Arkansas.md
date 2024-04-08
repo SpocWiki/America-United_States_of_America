@@ -19,8 +19,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[Arkansas/City/Little_Rock]]  
-[geo-lon::-92.3311] 
-[geo-lat::34.7361] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-92.3311] 
+[has_place_latitude::34.7361] 
 [Population::] 
 
 

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-121] 
-[geo-lat::37.62] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-121] 
+[has_place_latitude::37.62] 
 [name::Modesto] 
 Country :: [[../../../../USA]]  
 State :: [[../../California]]  

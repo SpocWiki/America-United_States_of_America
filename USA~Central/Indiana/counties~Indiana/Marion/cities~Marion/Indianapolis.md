@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-86.14768] 
-[geo-lat::39.79094] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-86.14768] 
+[has_place_latitude::39.79094] 
 [name::Indianapolis] 
 Country :: [[../../../../USA]]  
 State :: [[../../Indiana]]  

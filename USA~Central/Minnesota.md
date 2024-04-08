@@ -18,8 +18,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[Minnesota/City/Saint_Paul]]  
-[geo-lon::-93.1584] 
-[geo-lat::44.9747] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-93.1584] 
+[has_place_latitude::44.9747] 
 [Population::] 
 
 

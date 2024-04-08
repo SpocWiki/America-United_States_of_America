@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-71.35] 
-[geo-lat::45.05] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-71.35] 
+[has_place_latitude::45.05] 
 [name::Pittsburg] 
 Country :: [[../../../../USA]]  
 State :: [[../../New_Hampshire]]  

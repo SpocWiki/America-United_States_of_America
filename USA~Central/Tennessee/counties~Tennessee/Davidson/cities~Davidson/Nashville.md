@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-86.78333] 
-[geo-lat::36.16667] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-86.78333] 
+[has_place_latitude::36.16667] 
 [name::Nashville] 
 Country :: [[../../../../USA]]  
 State :: [[../../Tennessee]]  

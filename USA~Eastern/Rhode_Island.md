@@ -22,8 +22,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[Rhode_Island/City/Providence]]  
-[geo-lon::-71.4222] 
-[geo-lat::41.8236] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-71.4222] 
+[has_place_latitude::41.8236] 
 [Population::] 
 
 

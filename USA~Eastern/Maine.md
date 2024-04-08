@@ -18,8 +18,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[Maine/City/Augusta]]  
-[geo-lon::-69.7653] 
-[geo-lat::44.3235] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-69.7653] 
+[has_place_latitude::44.3235] 
 [Population::] 
 
 

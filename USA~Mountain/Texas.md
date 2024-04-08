@@ -20,8 +20,10 @@ confidential: public
 
 Country :: [[../../USA]]  
 Capital :: [[Texas/City/Austin]]  
-[geo-lon::-97.548] 
-[geo-lat::31.404] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-97.548] 
+[has_place_latitude::31.404] 
 [Population::] 
 
 

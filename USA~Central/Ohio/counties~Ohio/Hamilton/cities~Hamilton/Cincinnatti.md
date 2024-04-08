@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-84.42] 
-[geo-lat::39.13] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-84.42] 
+[has_place_latitude::39.13] 
 [name::Cincinnatti] 
 Country :: [[../../../../USA]]  
 State :: [[../../Ohio]]  

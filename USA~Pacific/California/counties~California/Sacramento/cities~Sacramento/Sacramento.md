@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-121.4689] 
-[geo-lat::38.55556] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-121.4689] 
+[has_place_latitude::38.55556] 
 [name::Sacramento] 
 Country :: [[../../../../USA]]  
 State :: [[../../California]]  

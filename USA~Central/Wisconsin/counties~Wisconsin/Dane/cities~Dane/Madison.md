@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-89.4] 
-[geo-lat::43.06667] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-89.4] 
+[has_place_latitude::43.06667] 
 [name::Madison] 
 Country :: [[../../../../USA]]  
 State :: [[../../Wisconsin]]  

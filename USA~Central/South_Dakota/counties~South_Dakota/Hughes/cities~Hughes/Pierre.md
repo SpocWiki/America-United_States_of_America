@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-100.3364] 
-[geo-lat::44.36797] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-100.3364] 
+[has_place_latitude::44.36797] 
 [name::Pierre] 
 Country :: [[../../../../USA]]  
 State :: [[../../South_Dakota]]  

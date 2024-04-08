@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-134.2297] 
-[geo-lat::58.44444] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-134.2297] 
+[has_place_latitude::58.44444] 
 [name::Juneau] 
 Country :: [[../../../../USA]]  
 State :: [[../../Alaska]]  

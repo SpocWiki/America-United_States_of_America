@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-119.7] 
-[geo-lat::34.58] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-119.7] 
+[has_place_latitude::34.58] 
 [name::Santa Barbara] 
 Country :: [[../../../../USA]]  
 State :: [[../../California]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-157.87] 
-[geo-lat::21.32] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-157.87] 
+[has_place_latitude::21.32] 
 [name::Honolulu] 
 Country :: [[../../../../USA]]  
 State ::[[../../../../../Oceania/Polynesia/Hawaii]]]  
