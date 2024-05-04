@@ -6,7 +6,7 @@ type: City
 tags:
 - geo/City
 
-
+has_id_wikidata: Q65 
 SpocWebEntityId: 32100
 isDeleted: false
 confidential: public

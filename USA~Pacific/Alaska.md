@@ -29,8 +29,8 @@ Capital :: [[Alaska/City/Juneau]]
 
 ```leaflet
 id: Alaska
-geojsonFolder: ./Alaska/
-markerFolder: ./Alaska/
+geojsonFolder: ./Alaska/ 
+markerFolder: ./Alaska/ 
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
