@@ -1,4 +1,4 @@
-﻿---
+---
 location: [39.6436,-86.0926] 
 type: State
 tags:
@@ -12,6 +12,9 @@ confidential: public
 ---
 [name::Indiana] 
 [name-abbr::IN] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1816-12-11  
+
 
 ![[Coat_of_arms_of_Indiana.svg|350]] 
 ![[Indiana/Flag_of_Indiana.svg|350]]  

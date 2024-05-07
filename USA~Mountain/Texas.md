@@ -12,6 +12,9 @@ confidential: public
 ---
 [name::Texas] 
 [name-abbr::TX] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1845-12-29  
+
 
 ![[Texas/Seal_of_Texas.svg|350]] 
 

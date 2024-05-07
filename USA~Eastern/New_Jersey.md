@@ -1,4 +1,4 @@
-﻿---
+---
 location: [40.2806,-74.7587] 
 type: State
 tags:
@@ -12,6 +12,9 @@ confidential: public
 ---
 [name::New Jersey] 
 [name-abbr::NJ] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1787-12-18 
+
 ![[New_Jersey/Seal_of_New_Jersey.svg|350]]  
 ![[New_Jersey/Flag_of_New_Jersey.svg|350]]  
 

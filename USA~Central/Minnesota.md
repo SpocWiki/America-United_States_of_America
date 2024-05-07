@@ -1,4 +1,4 @@
-﻿---
+---
 location: [44.9747,-93.1584] 
 type: State
 tags:
@@ -12,6 +12,9 @@ confidential: public
 ---
 [name::Minnesota] 
 [name-abbr::MN] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1858-05-11 
+
 
 ![[Coat_of_arms_of_Minnesota.svg|350]] 
 ![[Minnesota/Flag_of_Minnesota.svg|350]]  

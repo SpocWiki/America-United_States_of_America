@@ -12,6 +12,9 @@ confidential: public
 ---
 [name::Kansas] 
 [name-abbr::KS] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1861-01-29  
+
 
 ![[Kansas/Seal_of_Kansas.svg|350]] 
 

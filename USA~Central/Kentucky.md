@@ -12,6 +12,9 @@ confidential: public
 ---
 [name::Kentucky] 
 [name-abbr::KY] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1792-06-01  
+
 
 ![[Kentucky/Seal_of_Kentucky.svg|350]] 
 

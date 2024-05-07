@@ -12,6 +12,9 @@ confidential: public
 ---
 [name::Utah] 
 [name-abbr::UT] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1896-01-04 
+
 
 ![[Utah/Coat_of_arms_of_Utah.svg|350]] 
 

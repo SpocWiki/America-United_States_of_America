@@ -12,6 +12,9 @@ confidential: public
 ---
 [name::Idaho] 
 [name-abbr::ID] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1890-07-03 
+
 
 ![[Idaho/Seal_of_Idaho.svg|350]] 
 

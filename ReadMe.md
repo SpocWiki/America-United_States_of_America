@@ -1,17 +1,19 @@
 ---
 title: United States of America
-
-location: [39.2641,-94.8153] 
+location:
+  - 39.2641
+  - -94.8153
 type: Country
 SpocWebEntityId: 27047
 isDeleted: false
 confidential: public
 tags:
-- geo/Country
+  - geo/Country
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 linkTitle: 
 keywords: 
@@ -20,11 +22,10 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - USA
+  - USA
 Languages:
-- en-US
+  - en-US
 icon: flag-us
-
 ---
 
 # United States of America 
@@ -47,10 +48,29 @@ specifically as part of the [\_Standards](https://github.com/SpocWiki/_Standards
 Check out this Repository into this Subfolder: 
 \_Standards/geo/Continent/America~North/USA
 
+#has_/time_/created :: 1776-07-04 
+
+However,  the process of establishing the United States as a sovereign nation 
+continued through the Revolutionary War 
+and the subsequent drafting and ratification of the U.S. Constitution in 1787.
+
+
 ## #has_/text_of_/abstract  
 
 
-> The United States of America (U.S.A. or **USA**), commonly known as the United States (U.S. or US) or America, is a country primarily located in North America. It consists of 50 states, a federal district, five major unincorporated territories, nine Minor Outlying Islands, and 326 Indian reservations. The United States is the world's third-largest country by both land and total area. It shares land borders with Canada to its north and with Mexico to its south and has maritime borders with the Bahamas, Cuba, Russia, and other nations. With a population of over 333 million, it is the most populous country in the Americas and the third most populous in the world. The national capital of the United States is Washington, D.C. and its most populous city and principal financial center is New York City.
+> The United States of America (U.S.A. or **USA**), 
+> commonly known as the United States (U.S. or US) or America, 
+> is a country primarily located in North America. 
+> 
+> It consists of 50 states, a federal district, five major unincorporated territories, 
+> nine Minor Outlying Islands, and 326 Indian reservations. 
+> The United States is the world's third-largest country by both land and total area. 
+> It shares land borders with Canada to its north and with Mexico to its south 
+> and has maritime borders with the Bahamas, Cuba, Russia, and other nations. 
+> With a population of over 333 million, it is the most populous country in the Americas 
+> and the third most populous in the world. 
+> The national capital of the United States is Washington, D.C. 
+> and its most populous city and principal financial center is New York City.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/United%20States)
 
@@ -74,8 +94,8 @@ id: United States of America
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: .//
-markerFolder: ./
+geojsonFolder: [USA~Pacific/,USA~Mountain/,USA~Islands/,USA~Eastern/,USA~Central/]
+markerFolder: [USA~Pacific/,USA~Mountain/,USA~Islands/,USA~Eastern/,USA~Central/]
 ```
 
 #has_/telephone_/Prefix_/International :: 011
@@ -90,6 +110,29 @@ Capital :: [[USA/USA~Eastern/District_of_Columbia/City/Washington~City]]
 [Language-Id::499] 
 [has_place_longitude::-94.8153]
 [has_place_latitude::39.2641]
+
+## Dates when States joined the USA 
+
+```dataviewjs
+dv.table(
+    ["", "", "", "", "", "", ""], 
+    await Promise.all(
+        //dv.pages('"Knowledge/Business/Business-Entity"')
+        dv.pages()
+        .where(p => p.is_a_member_of_usa_since)
+            .sort(p => -p.is_a_member_of_usa_since)
+            .map(async d => [
+                d.file.link,
+                //d.is_sub_class_of,
+                d.is_a_member_of_usa_since,
+                d.Capital,
+                d.has_place_longitude,
+                d.has_place_latitude,
+                d["name-abbr"]
+            ])
+    ),
+);
+```
 
 
 

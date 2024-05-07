@@ -12,6 +12,10 @@ confidential: public
 ---
 [name::West Virginia] 
 [name-abbr::WV] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1863-06-20 
+
+
 ![[West_Virginia/Coat_of_arms_of_West_Virginia.svg|450]] 
 
 ![[West_Virginia/Seal_of_West_Virginia.svg|350]] 

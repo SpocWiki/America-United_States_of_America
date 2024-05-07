@@ -12,6 +12,9 @@ confidential: public
 ---
 [name::Pennsylvania] 
 [name-abbr::PA] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1787-12-12 
+
 
 ![[Pennsylvania/Coat_of_arms_of_Pennsylvania.svg|550]] 
 

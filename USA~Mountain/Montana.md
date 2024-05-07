@@ -12,6 +12,9 @@ confidential: public
 ---
 [name::Montana] 
 [name-abbr::MT] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1889-11-08 
+
 
 ![[Montana/Seal_of_Montana.svg|350]] 
 

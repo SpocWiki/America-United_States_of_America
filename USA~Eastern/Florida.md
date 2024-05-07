@@ -12,6 +12,10 @@ confidential: public
 ---
 [name::Florida] 
 [name-abbr::FL] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1845-03-03 
+
+
 ![[Florida/Seal_of_Florida.svg|350]]  
 ![[Florida/Flag_of_Florida.svg|350]]  
 

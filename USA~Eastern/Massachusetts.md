@@ -12,6 +12,9 @@ confidential: public
 ---
 [name::Massachusetts] 
 [name-abbr::MA] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1788-02-06  
+
 ![[Massachusetts/Coat_of_arms_of_Massachusetts.svg|350]]  
 ![[Massachusetts/Seal_of_Massachusetts.svg|350]]  
 ![[Massachusetts/Flag_of_Massachusetts.svg|350]]  

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [41.5908,-93.6208] 
 type: State
 tags:
@@ -12,6 +12,9 @@ confidential: public
 ---
 [name::Iowa] 
 [name-abbr::IA] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1846-12-28 
+
 
 ![[Coat_of_arms_of_Iowa.svg|350]] 
 ![[Iowa/Flag_of_Iowa.svg|350]]  

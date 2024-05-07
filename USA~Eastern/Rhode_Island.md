@@ -12,6 +12,9 @@ confidential: public
 ---
 [name::Rhode Island] 
 [name-abbr::RI] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1790-05-29  
+
 
 ![[Rhode_Island/Coat_of_arms_of_Rhode_Island.svg|350]] 
 

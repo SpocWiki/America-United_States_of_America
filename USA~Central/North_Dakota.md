@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.8133,-100.779] 
 type: State
 tags:
@@ -12,6 +12,9 @@ confidential: public
 ---
 [name::North Dakota] 
 [name-abbr::ND] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1889-11-02 
+
 
 ![[Coat_of_arms_of_North_Dakota.svg|350]] 
 ![[North_Dakota/Flag_of_North_Dakota.svg|350]]  

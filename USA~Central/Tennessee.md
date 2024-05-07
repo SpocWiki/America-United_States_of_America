@@ -1,4 +1,4 @@
-﻿---
+---
 location: [35.7556,-86.9211] 
 type: State
 tags:
@@ -12,6 +12,10 @@ confidential: public
 ---
 [name::Tennessee] 
 [name-abbr::TN] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1796-06-01 
+
+
 ![[Tennessee/Seal_of_Tennessee.svg|350]]  
 ![[Tennessee/Flag_of_Tennessee.svg|350]]  
 

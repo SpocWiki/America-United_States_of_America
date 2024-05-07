@@ -1,4 +1,4 @@
-﻿---
+---
 location: [40.9405,-89.1829] 
 type: State
 tags:
@@ -12,6 +12,10 @@ confidential: public
 ---
 [name::Illinois] 
 [name-abbr::IL] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1818-12-03 
+
+
 ![[Illinois/Seal_of_Illinois.svg|350]]  
 ![[Illinois/Flag_of_Illinois.svg|350]]  
 

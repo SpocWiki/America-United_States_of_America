@@ -1,4 +1,4 @@
-﻿---
+---
 location: [30.214,-90.6301] 
 type: State
 tags:
@@ -12,6 +12,10 @@ confidential: public
 ---
 [name::Louisiana] 
 [name-abbr::LA] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1812-04-30 
+
+
 ![[Louisiana/Seal_of_Louisiana.svg|350]]  
 ![[Louisiana/Flag_of_Louisiana.svg|350]]  
 

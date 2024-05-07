@@ -1,4 +1,4 @@
-﻿---
+---
 location: [32.2989,-90.1847] 
 type: State
 tags:
@@ -12,6 +12,10 @@ confidential: public
 ---
 [name::Mississippi] 
 [name-abbr::MS] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1817-12-10  
+
+
 ![[Mississippi/Coat_of_arms_of_Mississippi.svg|350]]  
 ![[Mississippi/Flag_of_Mississippi.svg|350]]  
 

@@ -12,6 +12,14 @@ confidential: public
 ---
 [name::California] 
 [name-abbr::CA] 
+#is_a_/member_of_/:: [[USA]] [since::1999-09-09]
+#is_a_/member_of_/USA_/since :: 1850-09-09 
+
+`$=JSON.stringify(dv.current().is_a_member_of_)`
+`$=JSON.stringify(dv.current().is_a_member_of_usa_since)`
+
+- [ ] Task 
+
 
 ![[California/Seal_of_California.svg|350]] 
 
@@ -36,6 +44,8 @@ minZoom: 2
 maxZoom: 18
 ```
 
+
+`$=JSON.stringify(dv.current())`
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_Standards/geo/Continent/America~North/USA/California|California]] 

@@ -12,6 +12,10 @@ confidential: public
 ---
 [name::Connecticut] 
 [name-abbr::CT] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1788-01-09 
+
+
 ![[Connecticut/Coat_of_arms_of_Connecticut.svg|350]]  
 ![[Connecticut/Seal_of_Connecticut.svg|250]]  
 ![[Connecticut/Flag_of_Connecticut.svg|250]]  

@@ -12,6 +12,10 @@ confidential: public
 ---
 [name::Hawaii] 
 [name-abbr::HI] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1959-08-21 
+
+
 
 ![[Hawaii/Coat_of_arms_of_Hawaii.svg|350]] 
 

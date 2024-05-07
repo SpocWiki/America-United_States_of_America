@@ -12,6 +12,9 @@ confidential: public
 ---
 [name::Colorado] 
 [name-abbr::CO] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1876-08-01  
+
 
 ![[Colorado/Coat_of_arms_of_Colorado.svg|350]] 
 

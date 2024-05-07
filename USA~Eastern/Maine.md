@@ -1,4 +1,4 @@
-﻿---
+---
 location: [44.3235,-69.7653] 
 type: State
 tags:
@@ -12,6 +12,9 @@ confidential: public
 ---
 [name::Maine] 
 [name-abbr::ME] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1820-03-15 
+
 ![[Maine/Coat_of_arms_of_Maine.svg|350]]  
 ![[Maine/Seal_of_Maine.svg|350]]  
 ![[Maine/Flag_of_Maine.svg|350]]  

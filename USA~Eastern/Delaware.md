@@ -12,6 +12,10 @@ confidential: public
 ---
 [name::Delaware] 
 [name-abbr::DE] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1787-12-07 
+
+
 ![[Delaware/Coat_of_arms_of_Delaware.svg|350]]  
 ![[Delaware/Seal_of_Delaware.svg|350]]  
 ![[Delaware/Flag_of_Delaware.svg|350]]  

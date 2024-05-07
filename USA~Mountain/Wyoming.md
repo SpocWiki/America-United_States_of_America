@@ -12,6 +12,10 @@ confidential: public
 ---
 [name::Wyoming] 
 [name-abbr::WY] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1890-07-10  
+
+
 ![[Wyoming/Seal_of_Wyoming.svg|350]] 
 
 ![[Wyoming/Flag_of_Wyoming.svg|350]] 

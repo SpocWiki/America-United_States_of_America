@@ -12,6 +12,9 @@ confidential: public
 ---
 [name::Nevada] 
 [name-abbr::NV] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1864-10-31  
+
 
 ![[Nevada/Seal_of_Nevada.svg|350]] 
 

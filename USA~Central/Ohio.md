@@ -1,4 +1,4 @@
-﻿---
+---
 location: [39.8944,-83.8678] 
 type: State
 tags:
@@ -12,6 +12,10 @@ confidential: public
 ---
 [name::Ohio] 
 [name-abbr::OH] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1803-03-01 
+
+
 ![[Ohio/Flag_of_Ohio.svg|350]]  
 ![[Ohio/Seal_of_Ohio.svg|350]]  
 

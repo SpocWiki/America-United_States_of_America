@@ -1,4 +1,4 @@
-﻿---
+---
 location: [41.5333,-96.8733] 
 type: State
 tags:
@@ -12,6 +12,10 @@ confidential: public
 ---
 [name::Nebraska] 
 [name-abbr::NE] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1867-03-01 
+
+
 ![[Nebraska/Seal_of_Nebraska.svg|350]]  
 ![[Nebraska/Flag_of_Nebraska.svg|350]]  
 

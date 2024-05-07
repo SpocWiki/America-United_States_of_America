@@ -12,6 +12,9 @@ confidential: public
 ---
 [name::Vermont] 
 [name-abbr::VT] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1791-03-04
+
 
 ![[Vermont/Coat_of_arms_of_Vermont.svg|350]] 
 

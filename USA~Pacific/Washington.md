@@ -12,6 +12,9 @@ confidential: public
 ---
 [name::Washington] 
 [name-abbr::WA] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1889-11-11 
+
 
 ![[Washington/Seal_of_Washington.svg|250]] 
 

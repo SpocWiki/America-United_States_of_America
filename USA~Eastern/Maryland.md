@@ -12,6 +12,9 @@ confidential: public
 ---
 [name::Maryland] 
 [name-abbr::MD] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1788-04-28  
+
 
 ![[Maryland/Coat_of_arms_of_Maryland.svg|350]] 
 

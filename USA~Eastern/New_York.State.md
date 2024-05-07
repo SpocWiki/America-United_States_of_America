@@ -10,8 +10,13 @@ isDeleted: false
 confidential: public
 
 ---
+
 [name::New York] 
 [name-abbr::NY] 
+
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1788-07-26 
+
 ![[New_York.State/Coat_of_arms_of_New_York.svg|350]]  
 
 ![[New_York.State/Seal_of_New_York.svg|350]]  

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [44.724,-98.8932] 
 type: State
 tags:
@@ -12,6 +12,9 @@ confidential: public
 ---
 [name::South Dakota] 
 [name-abbr::SD] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1889-11-02 
+
 
 ![[Coat_of_arms_of_South_Dakota.svg|350]] 
 ![[South_Dakota/Flag_of_South_Dakota.svg|350]]  

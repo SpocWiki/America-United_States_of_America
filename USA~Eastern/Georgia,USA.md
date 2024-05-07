@@ -12,6 +12,10 @@ confidential: public
 ---
 [name::Georgia] 
 [name-abbr::GA] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1788-01-02 
+
+
 ![[Georgia.USA/Seal_of_Georgia.USA.svg|350]]  
 ![[Georgia.USA/Flag_of_Georgia.USA.svg|350]]  
 

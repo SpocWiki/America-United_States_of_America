@@ -12,6 +12,9 @@ confidential: public
 ---
 [name::Arkansas] 
 [name-abbr::AR] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1836-06-15 
+
 
 ![[Arkansas/Seal_of_Arkansas.svg|350]] 
 

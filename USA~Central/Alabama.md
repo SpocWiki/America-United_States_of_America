@@ -12,6 +12,8 @@ confidential: public
 ---
 [name::Alabama] 
 [name-abbr::AK] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1819-12-14 
 
 ![[Alabama/Coat_of_arms_of_Alabama.svg|350]] 
 

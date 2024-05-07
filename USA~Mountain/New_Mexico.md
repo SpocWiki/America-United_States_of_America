@@ -11,7 +11,9 @@ confidential: public
 
 ---
 [name::New Mexico] 
-[name-abbr::NM] 
+[name-abbr::NM] #is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1912-01-06 
+
 
 ![[New_Mexico/Seal_of_New_Mexico.svg|350]] 
 

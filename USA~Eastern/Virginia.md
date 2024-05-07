@@ -12,6 +12,9 @@ confidential: public
 ---
 [name::Virginia] 
 [name-abbr::VA] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1788-06-25 
+
 
 ![[Virginia/Seal_of_Virginia.svg|350]] 
 

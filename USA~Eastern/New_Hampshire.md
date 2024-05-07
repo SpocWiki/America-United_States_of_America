@@ -1,4 +1,4 @@
-﻿---
+---
 location: [44.1283,-71.444] 
 type: State
 tags:
@@ -12,6 +12,9 @@ confidential: public
 ---
 [name::New Hampshire] 
 [name-abbr::NH] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1788-06-21 
+
 ![[New_Hampshire/Seal_of_New_Hampshire.svg|350]]  
 ![[New_Hampshire/Flag_of_New_Hampshire.svg|350]]  
 

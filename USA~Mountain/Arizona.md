@@ -12,6 +12,9 @@ confidential: public
 ---
 [name::Arizona] 
 [name-abbr::AZ] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1912-02-14  
+
 
 ![[Arizona/Coat_of_arms_of_Arizona.svg|350]] 
 

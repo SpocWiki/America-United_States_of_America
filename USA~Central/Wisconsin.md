@@ -12,6 +12,10 @@ confidential: public
 ---
 [name::Wisconsin] 
 [name-abbr::WI] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1848-05-29 
+
+
 ![[Wisconsin/Coat_of_arms_of_Wisconsin.svg|350]] 
 
 ![[Wisconsin/Seal_of_Wisconsin.svg|350]] 

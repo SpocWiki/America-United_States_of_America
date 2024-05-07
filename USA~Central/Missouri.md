@@ -1,4 +1,4 @@
-﻿---
+---
 location: [38.2853,-91.3967] 
 type: State
 tags:
@@ -12,6 +12,10 @@ confidential: public
 ---
 [name::Missouri] 
 [name-abbr::MO] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1821-08-10 
+
+
 ![[Missouri/Coat_of_arms_of_Missouri.svg|350]]  
 ![[Missouri/Seal_of_Missouri.svg|350]]  
 ![[Missouri/Flag_of_Missouri.svg|350]]  

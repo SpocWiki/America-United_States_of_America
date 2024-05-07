@@ -12,6 +12,9 @@ confidential: public
 ---
 [name::South Carolina] 
 [name-abbr::SC] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1788-05-23 
+
 
 ![[South_Carolina/Seal_of_South_Carolina.svg|350]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [35.825,-96.735] 
 type: State
 tags:
@@ -12,6 +12,10 @@ confidential: public
 ---
 [name::Oklahoma] 
 [name-abbr::OK] 
+#is_a_/member_of_/:: [[USA]]
+#is_a_/member_of_/USA_/since :: 1907-11-16 
+
+
 ![[Oklahoma/Seal_of_Oklahoma.svg|350]]  
 ![[Oklahoma/Flag_of_Oklahoma.svg|350]]  
 
