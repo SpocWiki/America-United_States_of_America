@@ -4,7 +4,7 @@ type: State
 tags:
 - geo/State
 
-
+has_id_wikidata: Q1211
 SpocWebEntityId: 36067
 isDeleted: false
 confidential: public

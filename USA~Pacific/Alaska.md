@@ -5,6 +5,7 @@ location:
 type: State
 tags:
   - geo/State
+has_id_wikidata: Q797 
 SpocWebEntityId: 36027
 isDeleted: false
 confidential: public
