@@ -22,7 +22,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - USA
 Languages:
   - en-US
 icon: flag-us

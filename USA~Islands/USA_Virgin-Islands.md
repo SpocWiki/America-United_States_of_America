@@ -18,8 +18,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- VI
-- VIR
 - U.S. Virgin Islands
 - United States Virgin Islands
 - Islas Vírgenes de los Estados Unidos
