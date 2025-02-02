@@ -1,14 +1,16 @@
 ---
-location: [35.6672,-105.964] 
+location:
+  - 35.6672
+  - -105.964
 type: State
 tags:
-- geo/State
-
-has_id_wikidata: Q1522 
+  - geo/State
+has_id_wikidata: Q1522
 SpocWebEntityId: 36058
 isDeleted: false
 confidential: public
-
+aliases:
+  - New Mexico
 ---
 [name::New Mexico] 
 [name-abbr::NM] #is_a_/member_of_/:: [[USA]]

@@ -1,14 +1,16 @@
 ---
-location: [35.6594,-78.4874] 
+location:
+  - 35.6594
+  - -78.4874
 type: State
 tags:
-- geo/State
-
-has_id_wikidata: Q1454 
+  - geo/State
+has_id_wikidata: Q1454
 SpocWebEntityId: 36053
 isDeleted: false
 confidential: public
-
+aliases:
+  - North Carolina
 ---
 [name::North Carolina] 
 [name-abbr::NC] 
