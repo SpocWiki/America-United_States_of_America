@@ -18,7 +18,7 @@ confidential: public
 [has_place_latitude::40.77] 
 [name::Long Island] 
 Country :: [[../../../../USA]]  
-State :: [[../../New_York.State]] 
+State :: [[../../New_York,State]] 
 [Population::] 
 [Unknown::] 
 

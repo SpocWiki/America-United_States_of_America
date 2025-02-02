@@ -18,7 +18,7 @@ confidential: public
 [has_place_latitude::41.5] 
 [name::Newburgh] 
 Country :: [[../../../../USA]]  
-State :: [[New_York.State]] 
+State :: [[../../../New_York,State]] 
 [Population::] 
 [Unknown::] 
 

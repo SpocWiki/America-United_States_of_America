@@ -18,7 +18,7 @@ confidential: public
 [has_place_latitude::40.81] 
 [name::Idlewild] 
 Country :: [[../../../../USA]]  
-State :: [[../../New_York.State]] 
+State :: [[../../New_York,State]] 
 [Population::] 
 [Unknown::] 
 

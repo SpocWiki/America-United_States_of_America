@@ -18,7 +18,7 @@ confidential: public
 [has_place_latitude::42.6526] 
 [name::Albany] 
 Country :: [[../../../../USA]]  
-State :: [[../../New_York.State]] 
+State :: [[../../New_York,State]] 
 [Population::] 
 [Unknown::] 
 

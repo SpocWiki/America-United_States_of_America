@@ -17,14 +17,14 @@ confidential: public
 #is_a_/member_of_/:: [[USA]]
 #is_a_/member_of_/USA_/since :: 1788-07-26 
 
-![[New_York.State/Coat_of_arms_of_New_York.svg|350]]  
+![[New_York,State/Coat_of_arms_of_New_York.svg|350]]  
 
-![[New_York.State/Seal_of_New_York.svg|350]]  
+![[New_York,State/Seal_of_New_York.svg|350]]  
 
-![[New_York.State/Flag_of_New_York.svg|350]]  
+![[New_York,State/Flag_of_New_York.svg|350]]  
 
 Country :: [[../../USA]]  
-Capital :: [[Albany]]  
+Capital :: [[New_York,State/counties~New_York/Albany]]  
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::-73.9355] 
