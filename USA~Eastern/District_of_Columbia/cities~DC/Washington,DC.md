@@ -1,198 +1,198 @@
----
+﻿---
 location:
-  - 38.89
-  - -77.01
+- 38.89
+- -77.01
 mapzoom:
-  - 7
-  - 12
+- 7
+- 12
 mapmarker: city
 type: City
 tags:
-  - geo/City
+- geo/City
 has_id_wikidata: Q61
 SpocWebEntityId: 35463
 isDeleted: false
 confidential: public
 aliases:
-  - Washington, D.C.
-  - Washington,D.C.
-  - Washington,DC
-shares border with:
-  - "[[_Standards/WikiData/WD~Arlington County,107126]]"
-  - "[[_Standards/WikiData/WD~Fairfax County,341915]]"
-  - "[[_Standards/WikiData/WD~Montgomery County,488659]]"
-  - "[[_Standards/WikiData/WD~Bethesda,584451]]"
-  - "[[_Standards/WikiData/WD~Silver Spring,755741]]"
-  - "[[_Standards/WikiData/WD~Prince George's County,26807]]"
-  - "[[_Standards/WikiData/WD~Alexandria,88]]"
-owner of:
-  - "[[_Standards/WikiData/WD~Robert F. Kennedy Memorial Stadium,153312]]"
-  - "[[_Standards/WikiData/WD~DC Streetcar,3537231]]"
-  - "[[_Standards/WikiData/WD~Entertainment and Sports Arena,30488454]]"
-located in or next to body of water:
-  - "[[_Standards/WikiData/WD~Potomac River,179444]]"
-  - "[[_Standards/WikiData/WD~Anacostia River,483607]]"
-  - "[[_Standards/WikiData/WD~Rock Creek,2352739]]"
-twinned administrative body:
-  - "[[_Standards/WikiData/WD~Sunderland,188304]]"
-  - "[[_Standards/WikiData/WD~City of Tshwane Metropolitan Municipality,1094207]]"
-  - "[[_Standards/WikiData/WD~Beijing,956]]"
-  - "[[_Standards/WikiData/WD~Athens,1524]]"
-  - "[[_Standards/WikiData/WD~Bangkok,1861]]"
-  - "[[_Standards/WikiData/WD~Brasília,2844]]"
-  - "[[_Standards/WikiData/WD~San Salvador,3110]]"
-  - "[[_Standards/WikiData/WD~Addis Ababa,3624]]"
-  - "[[_Standards/WikiData/WD~Ankara,3640]]"
-  - "[[_Standards/WikiData/WD~Dakar,3718]]"
-  - "[[_Standards/WikiData/WD~Accra,3761]]"
-  - "[[_Standards/WikiData/WD~Pretoria,3926]]"
-  - "[[_Standards/WikiData/WD~Seoul,8684]]"
-  - "[[_Standards/WikiData/WD~Paris,90]]"
-  - "[[_Standards/WikiData/WD~Rome,220]]"
-  - "[[_Standards/WikiData/WD~Brussels-Capital Region,240]]"
-significant event:
-  - "[[_Standards/WikiData/WD~curfew,223625]]"
-  - "[[_Standards/WikiData/WD~public emergency,104709293]]"
-instance of: "[[_Standards/WikiData/WD~federal capital,257391]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-  - "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-coat of arms: "[[_Standards/WikiData/WD~Seal of the District of Columbia,332068]]"
-part of:
-  - "[[_Standards/WikiData/WD~contiguous United States,578170]]"
-  - "[[_Standards/WikiData/WD~Mid-Atlantic,632014]]"
-  - "[[_Standards/WikiData/WD~Arlington–Alexandria–Reston metropolitan division,97672598]]"
-official symbol:
-  - "[[_Standards/WikiData/WD~wood thrush,599921]]"
-  - "[[_Standards/WikiData/WD~Capitalsaurus,3493327]]"
-history of topic: "[[_Standards/WikiData/WD~history of Washington, D.C.,685093]]"
-Köppen climate classification: "[[_Standards/WikiData/WD~humid subtropical climate,864320]]"
+- "Washington, D.C."
+- Washington,D.C.
+- Washington,DC
+shares_border_with:
+- "[[_Standards/WikiData/WD~Arlington County,107126]]"
+- "[[_Standards/WikiData/WD~Fairfax County,341915]]"
+- "[[_Standards/WikiData/WD~Montgomery County,488659]]"
+- '[[_Standards/WikiData/WD~Bethesda,584451]]'
+- "[[_Standards/WikiData/WD~Silver Spring,755741]]"
+- "[[_Standards/WikiData/WD~Prince George's County,26807]]"
+- '[[_Standards/WikiData/WD~Alexandria,88]]'
+owner_of:
+- "[[_Standards/WikiData/WD~Robert F. Kennedy Memorial Stadium,153312]]"
+- "[[_Standards/WikiData/WD~DC Streetcar,3537231]]"
+- "[[_Standards/WikiData/WD~Entertainment and Sports Arena,30488454]]"
+located_in_or_next_to_body_of_water:
+- "[[_Standards/WikiData/WD~Potomac River,179444]]"
+- "[[_Standards/WikiData/WD~Anacostia River,483607]]"
+- "[[_Standards/WikiData/WD~Rock Creek,2352739]]"
+twinned_administrative_body:
+- '[[_Standards/WikiData/WD~Sunderland,188304]]'
+- "[[_Standards/WikiData/WD~City of Tshwane Metropolitan Municipality,1094207]]"
+- '[[_Standards/WikiData/WD~Beijing,956]]'
+- '[[_Standards/WikiData/WD~Athens,1524]]'
+- '[[_Standards/WikiData/WD~Bangkok,1861]]'
+- '[[_Standards/WikiData/WD~Brasília,2844]]'
+- "[[_Standards/WikiData/WD~San Salvador,3110]]"
+- "[[_Standards/WikiData/WD~Addis Ababa,3624]]"
+- '[[_Standards/WikiData/WD~Ankara,3640]]'
+- '[[_Standards/WikiData/WD~Dakar,3718]]'
+- '[[_Standards/WikiData/WD~Accra,3761]]'
+- '[[_Standards/WikiData/WD~Pretoria,3926]]'
+- '[[_Standards/WikiData/WD~Seoul,8684]]'
+- '[[_Standards/WikiData/WD~Paris,90]]'
+- '[[_Standards/WikiData/WD~Rome,220]]'
+- "[[_Standards/WikiData/WD~Brussels-Capital Region,240]]"
+significant_event:
+- '[[_Standards/WikiData/WD~curfew,223625]]'
+- "[[_Standards/WikiData/WD~public emergency,104709293]]"
+instance_of: "[[_Standards/WikiData/WD~federal capital,257391]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
+- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Seal of the District of Columbia,332068]]"
+part_of:
+- "[[_Standards/WikiData/WD~contiguous United States,578170]]"
+- '[[_Standards/WikiData/WD~Mid-Atlantic,632014]]'
+- "[[_Standards/WikiData/WD~Arlington–Alexandria–Reston metropolitan division,97672598]]"
+official_symbol:
+- "[[_Standards/WikiData/WD~wood thrush,599921]]"
+- '[[_Standards/WikiData/WD~Capitalsaurus,3493327]]'
+history_of_topic: "[[_Standards/WikiData/WD~history of Washington, D.C.,685093]]"
+Köppen_climate_classification: "[[_Standards/WikiData/WD~humid subtropical climate,864320]]"
 flag: "[[_Standards/WikiData/WD~flag of Washington, D.C.,906340]]"
-located in time zone:
-  - "[[_Standards/WikiData/WD~Eastern Time Zone,941023]]"
-  - "[[_Standards/WikiData/WD~America_New_York,28146035]]"
-  - "[[_Standards/WikiData/WD~UTC−05_00,5390]]"
-  - "[[_Standards/WikiData/WD~UTC−04_00,5762]]"
-located in the statistical territorial entity: "[[_Standards/WikiData/WD~Washington metropolitan area,2367175]]"
-school district: "[[_Standards/WikiData/WD~District of Columbia Public Schools,3120094]]"
-coextensive with: "[[_Standards/WikiData/WD~District of Columbia,3551781]]"
-territory overlaps:
-  - "[[_Standards/WikiData/WD~District of Columbia,3551781]]"
-  - "[[_Standards/WikiData/WD~Washington–Arlington urban area,125812768]]"
-different from:
-  - "[[_Standards/WikiData/WD~District of Columbia,3551781]]"
-  - "[[_Standards/WikiData/WD~Washington,1223]]"
-  - "[[_Standards/WikiData/WD~Washington,25301]]"
-located in the administrative territorial entity: "[[_Standards/WikiData/WD~District of Columbia,3551781]]"
-capital of:
-  - "[[_Standards/WikiData/WD~District of Columbia,3551781]]"
-  - "[[_Standards/WikiData/WD~United States,30]]"
-office held by head of government: "[[_Standards/WikiData/WD~Mayor of the District of Columbia,5190572]]"
-demographics of topic: "[[_Standards/WikiData/WD~demographics of Washington, D.C.,5256101]]"
-foundational text:
-  - "[[_Standards/WikiData/WD~District of Columbia Home Rule Act,5283419]]"
-  - "[[_Standards/WikiData/WD~Article One of the United States Constitution,48416]]"
-highest point: "[[_Standards/WikiData/WD~Fort Reno Park,5471906]]"
-geography of topic: "[[_Standards/WikiData/WD~geography of Washington, D.C.,5535257]]"
-head of government: "[[_Standards/WikiData/WD~Muriel Bowser,6938597]]"
-list of monuments: "[[_Standards/WikiData/WD~National Register of Historic Places listings in Washington, D.C.,6977769]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of Washington, D.C.,7112757]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Washington, D.C.,11242630]]"
-has part(s) of the class: "[[_Standards/WikiData/WD~neighborhood of Washington, D.C.,12063697]]"
-open data portal: "[[_Standards/WikiData/WD~Open Data DC,97154210]]"
-economy of topic: "[[_Standards/WikiData/WD~economy of Washington, D.C.,100783297]]"
-BHCL UUID:
-  - de80aab4-bda8-4936-bc91-6e20d35d93ca
-  - 73b1b0c9-e391-495f-a211-3a83dcff20fb
-aerial view: http://commons.wikimedia.org/wiki/Special:FilePath/WashMonument%20WhiteHouse.jpg
-IMDb keyword: washington-d.c.
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Washington%2C%20D%20C.webm
-ISNI: "0000000122968205"
-coordinates of northernmost point: Point(-77.041 38.9955)
-flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Washington%2C%20D.C.svg
+located_in_time_zone:
+- "[[_Standards/WikiData/WD~Eastern Time Zone,941023]]"
+- '[[_Standards/WikiData/WD~America_New_York,28146035]]'
+- '[[_Standards/WikiData/WD~UTC−05_00,5390]]'
+- '[[_Standards/WikiData/WD~UTC−04_00,5762]]'
+located_in_the_statistical_territorial_entity: "[[_Standards/WikiData/WD~Washington metropolitan area,2367175]]"
+school_district: "[[_Standards/WikiData/WD~District of Columbia Public Schools,3120094]]"
+coextensive_with: "[[_Standards/WikiData/WD~District of Columbia,3551781]]"
+territory_overlaps:
+- "[[_Standards/WikiData/WD~District of Columbia,3551781]]"
+- "[[_Standards/WikiData/WD~Washington–Arlington urban area,125812768]]"
+different_from:
+- "[[_Standards/WikiData/WD~District of Columbia,3551781]]"
+- '[[_Standards/WikiData/WD~Washington,1223]]'
+- '[[_Standards/WikiData/WD~Washington,25301]]'
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~District of Columbia,3551781]]"
+capital_of:
+- "[[_Standards/WikiData/WD~District of Columbia,3551781]]"
+- "[[_Standards/WikiData/WD~United States,30]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Mayor of the District of Columbia,5190572]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Washington, D.C.,5256101]]"
+foundational_text:
+- "[[_Standards/WikiData/WD~District of Columbia Home Rule Act,5283419]]"
+- "[[_Standards/WikiData/WD~Article One of the United States Constitution,48416]]"
+highest_point: "[[_Standards/WikiData/WD~Fort Reno Park,5471906]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography of Washington, D.C.,5535257]]"
+head_of_government: "[[_Standards/WikiData/WD~Muriel Bowser,6938597]]"
+list_of_monuments: "[[_Standards/WikiData/WD~National Register of Historic Places listings in Washington, D.C.,6977769]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Washington, D.C.,7112757]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Washington, D.C.,11242630]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~neighborhood of Washington, D.C.,12063697]]"
+open_data_portal: "[[_Standards/WikiData/WD~Open Data DC,97154210]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy of Washington, D.C.,100783297]]"
+BHCL_UUID:
+- de80aab4-bda8-4936-bc91-6e20d35d93ca
+- 73b1b0c9-e391-495f-a211-3a83dcff20fb
+aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/WashMonument%20WhiteHouse.jpg"
+IMDb_keyword: washington-d.c.
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Washington%2C%20D%20C.webm"
+ISNI: 0000000122968205
+coordinates_of_northernmost_point: "Point(-77.041 38.9955)"
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Washington%2C%20D.C.svg"
 demonym:
-  - Washingtončan
-  - Washingtončanka
-  - Washingtonian
-  - Washingtoner
-  - Washingtonerin
-  - Washingtonerinnen
-  - Vaŝingtonano
-  - washingtoniano
-  - Washingtonien
-  - Washingtonienne
-  - Washingtonner
-  - Washingtonse
-coordinate location: Point(-77.036666666 38.895)
-inception: 1790-07-16T00:00:00Z
-location map: http://commons.wikimedia.org/wiki/Special:FilePath/DC%20districts%20map.png
-image: http://commons.wikimedia.org/wiki/Special:FilePath/DCmontage2.jpg
-panoramic view: http://commons.wikimedia.org/wiki/Special:FilePath/Panorama%20view%20of%20Washington%2C%20D.C%20LCCN2011635935.tif
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Washington%2C%20D.C.%20%28intro%29.ogg
-satellite view: http://commons.wikimedia.org/wiki/Special:FilePath/Washington%20D.C.%202.jpg
-montage image: http://commons.wikimedia.org/wiki/Special:FilePath/Washington%20Montage%202016.png
-external data available at URL: http://opendata.dc.gov/
-official map URL: https://octo.dc.gov/service/maps-and-applications
-Stack Exchange tag: https://travel.stackexchange.com/tags/washington-dc
-Provenio UUID: 0d189884-e04f-41c8-b6b0-587b6a721926
-Dewey Decimal Classification: 2--753
-postal code:
-  - 20001–20098
-  - 20201–20599
-Universal Decimal Classification: "735.3"
-Wolfram Language entity code: Entity["City", {"Washington", "DistrictOfColumbia", "UnitedStates"}]
+- Washingtončan
+- Washingtončanka
+- Washingtonian
+- Washingtoner
+- Washingtonerin
+- Washingtonerinnen
+- Vaŝingtonano
+- washingtoniano
+- Washingtonien
+- Washingtonienne
+- Washingtonner
+- Washingtonse
+coordinate_location: "Point(-77.036666666 38.895)"
+inception: "1790-07-16T00:00:00Z"
+location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/DC%20districts%20map.png"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/DCmontage2.jpg"
+panoramic_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Panorama%20view%20of%20Washington%2C%20D.C%20LCCN2011635935.tif"
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Washington%2C%20D.C.%20%28intro%29.ogg"
+satellite_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Washington%20D.C.%202.jpg"
+montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Washington%20Montage%202016.png"
+external_data_available_at_URL: "http://opendata.dc.gov/"
+official_map_URL: "https://octo.dc.gov/service/maps-and-applications"
+Stack_Exchange_tag: "https://travel.stackexchange.com/tags/washington-dc"
+Provenio_UUID: 0d189884-e04f-41c8-b6b0-587b6a721926
+Dewey_Decimal_Classification: 2--753
+postal_code:
+- 20001–20098
+- 20201–20599
+Universal_Decimal_Classification: 735.3
+Wolfram_Language_entity_code: "Entity[\"City\", {\"Washington\", \"DistrictOfColumbia\", \"UnitedStates\"}]"
 HASC: US.DC.DI
-UN/LOCODE: USWAS
-GitHub topic: washington-dc
-named after:
-  - "[[_Standards/WikiData/WD~Christopher Columbus,7322]]"
-  - "[[_Standards/WikiData/WD~George Washington,23]]"
-minimum temperature record: -15
+UN_LOCODE: USWAS
+GitHub_topic: washington-dc
+named_after:
+- "[[_Standards/WikiData/WD~Christopher Columbus,7322]]"
+- "[[_Standards/WikiData/WD~George Washington,23]]"
+minimum_temperature_record: -15
 country: "[[_Standards/WikiData/WD~United States,30]]"
 continent: "[[_Standards/WikiData/WD~North America,49]]"
-elevation above sea level: 72
-minimum wage: 16.5
+elevation_above_sea_level: 72
+minimum_wage: 16.5
 area: 177
-local dialing code: "202"
-water as percent of area: 10.67
-per capita income: 58659
+local_dialing_code: 202
+water_as_percent_of_area: 10.67
+per_capita_income: 58659
 name:
-  - Washington
-  - Washington
-  - Washington, D.C.
-  - Washington D. C.
-short name: Washington
-native label: Washington
-FIPS 6-4: "11001"
-IATA airport code: WAS
-number of households: 288307
-motto text: Justitia Omnibus
+- Washington
+- Washington
+- "Washington, D.C."
+- "Washington D. C."
+short_name: Washington
+native_label: Washington
+FIPS_6_4: 11001
+IATA_airport_code: WAS
+number_of_households: 288307
+motto_text: "Justitia Omnibus"
 population: 689545
-Commons gallery: Washington, D.C.
-Commons category: Washington, D.C.
-FIPS 55-3 (locations in the US): "1150000"
-seal image: http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20of%20the%20District%20of%20Columbia.svg
-coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20of%20the%20District%20of%20Columbia.svg
-OmegaWiki Defined Meaning: "528196"
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Washington%20D.C.%20in%20United%20States%20%28zoom%29.svg
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Washington%2C%20D.C.-banner2.jpg
-WOEID: "2514815"
-U.S. National Archives Identifier: "10046466"
-DPLA subject term: Washington (D.C.)
-coordinates of geographic center: Point(-77.0147 38.9101)
-official website: https://dc.gov/
+Commons_gallery: "Washington, D.C."
+Commons_category: "Washington, D.C."
+FIPS_55_3_locations_in_the_US_: 1150000
+seal_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20of%20the%20District%20of%20Columbia.svg"
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20of%20the%20District%20of%20Columbia.svg"
+OmegaWiki_Defined_Meaning: 528196
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Washington%20D.C.%20in%20United%20States%20%28zoom%29.svg"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Washington%2C%20D.C.-banner2.jpg"
+WOEID: 2514815
+U_S_National_Archives_Identifier: 10046466
+DPLA_subject_term: "Washington (D.C.)"
+coordinates_of_geographic_center: "Point(-77.0147 38.9101)"
+official_website: "https://dc.gov/"
 hashtag: Washington,_D.C.
 subreddit: washingtondc
-official name: Washington, District of Columbia
+official_name: "Washington, District of Columbia"
 ---
 
 # [[Washington,DC]] 
