@@ -18,30 +18,30 @@ aliases:
 - Washington,D.C.
 - Washington,DC
 shares_border_with:
-- "[[_Standards/WikiData/WD~Arlington County,107126]]"
-- "[[_Standards/WikiData/WD~Fairfax County,341915]]"
-- "[[_Standards/WikiData/WD~Montgomery County,488659]]"
+- "[[_Standards/WikiData/WD~Arlington_County,107126]]"
+- "[[_Standards/WikiData/WD~Fairfax_County,341915]]"
+- "[[_Standards/WikiData/WD~Montgomery_County,488659]]"
 - '[[_Standards/WikiData/WD~Bethesda,584451]]'
-- "[[_Standards/WikiData/WD~Silver Spring,755741]]"
-- "[[_Standards/WikiData/WD~Prince George's County,26807]]"
+- "[[_Standards/WikiData/WD~Silver_Spring,755741]]"
+- "[[_Standards/WikiData/WD~Prince_George's_County,26807]]"
 - '[[_Standards/WikiData/WD~Alexandria,88]]'
 owner_of:
-- "[[_Standards/WikiData/WD~Robert F. Kennedy Memorial Stadium,153312]]"
-- "[[_Standards/WikiData/WD~DC Streetcar,3537231]]"
-- "[[_Standards/WikiData/WD~Entertainment and Sports Arena,30488454]]"
+- "[[_Standards/WikiData/WD~Robert_F._Kennedy_Memorial_Stadium,153312]]"
+- "[[_Standards/WikiData/WD~DC_Streetcar,3537231]]"
+- "[[_Standards/WikiData/WD~Entertainment_and_Sports_Arena,30488454]]"
 located_in_or_next_to_body_of_water:
-- "[[_Standards/WikiData/WD~Potomac River,179444]]"
-- "[[_Standards/WikiData/WD~Anacostia River,483607]]"
-- "[[_Standards/WikiData/WD~Rock Creek,2352739]]"
+- "[[_Standards/WikiData/WD~Potomac_River,179444]]"
+- "[[_Standards/WikiData/WD~Anacostia_River,483607]]"
+- "[[_Standards/WikiData/WD~Rock_Creek,2352739]]"
 twinned_administrative_body:
 - '[[_Standards/WikiData/WD~Sunderland,188304]]'
-- "[[_Standards/WikiData/WD~City of Tshwane Metropolitan Municipality,1094207]]"
+- "[[_Standards/WikiData/WD~City_of_Tshwane_Metropolitan_Municipality,1094207]]"
 - '[[_Standards/WikiData/WD~Beijing,956]]'
 - '[[_Standards/WikiData/WD~Athens,1524]]'
 - '[[_Standards/WikiData/WD~Bangkok,1861]]'
 - '[[_Standards/WikiData/WD~Brasília,2844]]'
-- "[[_Standards/WikiData/WD~San Salvador,3110]]"
-- "[[_Standards/WikiData/WD~Addis Ababa,3624]]"
+- "[[_Standards/WikiData/WD~San_Salvador,3110]]"
+- "[[_Standards/WikiData/WD~Addis_Ababa,3624]]"
 - '[[_Standards/WikiData/WD~Ankara,3640]]'
 - '[[_Standards/WikiData/WD~Dakar,3718]]'
 - '[[_Standards/WikiData/WD~Accra,3761]]'
@@ -49,67 +49,67 @@ twinned_administrative_body:
 - '[[_Standards/WikiData/WD~Seoul,8684]]'
 - '[[_Standards/WikiData/WD~Paris,90]]'
 - '[[_Standards/WikiData/WD~Rome,220]]'
-- "[[_Standards/WikiData/WD~Brussels-Capital Region,240]]"
+- "[[_Standards/WikiData/WD~Brussels-Capital_Region,240]]"
 significant_event:
 - '[[_Standards/WikiData/WD~curfew,223625]]'
-- "[[_Standards/WikiData/WD~public emergency,104709293]]"
-instance_of: "[[_Standards/WikiData/WD~federal capital,257391]]"
+- "[[_Standards/WikiData/WD~public_emergency,104709293]]"
+instance_of: "[[_Standards/WikiData/WD~federal_capital,257391]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Seal of the District of Columbia,332068]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Seal_of_the_District_of_Columbia,332068]]"
 part_of:
-- "[[_Standards/WikiData/WD~contiguous United States,578170]]"
+- "[[_Standards/WikiData/WD~contiguous_United_States,578170]]"
 - '[[_Standards/WikiData/WD~Mid-Atlantic,632014]]'
-- "[[_Standards/WikiData/WD~Arlington–Alexandria–Reston metropolitan division,97672598]]"
+- "[[_Standards/WikiData/WD~Arlington–Alexandria–Reston_metropolitan_division,97672598]]"
 official_symbol:
-- "[[_Standards/WikiData/WD~wood thrush,599921]]"
+- "[[_Standards/WikiData/WD~wood_thrush,599921]]"
 - '[[_Standards/WikiData/WD~Capitalsaurus,3493327]]'
-history_of_topic: "[[_Standards/WikiData/WD~history of Washington, D.C.,685093]]"
-Köppen_climate_classification: "[[_Standards/WikiData/WD~humid subtropical climate,864320]]"
-flag: "[[_Standards/WikiData/WD~flag of Washington, D.C.,906340]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Washington,_D.C.,685093]]"
+Köppen_climate_classification: "[[_Standards/WikiData/WD~humid_subtropical_climate,864320]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Washington,_D.C.,906340]]"
 located_in_time_zone:
-- "[[_Standards/WikiData/WD~Eastern Time Zone,941023]]"
+- "[[_Standards/WikiData/WD~Eastern_Time_Zone,941023]]"
 - '[[_Standards/WikiData/WD~America_New_York,28146035]]'
 - '[[_Standards/WikiData/WD~UTC−05_00,5390]]'
 - '[[_Standards/WikiData/WD~UTC−04_00,5762]]'
-located_in_the_statistical_territorial_entity: "[[_Standards/WikiData/WD~Washington metropolitan area,2367175]]"
-school_district: "[[_Standards/WikiData/WD~District of Columbia Public Schools,3120094]]"
-coextensive_with: "[[_Standards/WikiData/WD~District of Columbia,3551781]]"
+located_in_the_statistical_territorial_entity: "[[_Standards/WikiData/WD~Washington_metropolitan_area,2367175]]"
+school_district: "[[_Standards/WikiData/WD~District_of_Columbia_Public_Schools,3120094]]"
+coextensive_with: "[[_Standards/WikiData/WD~District_of_Columbia,3551781]]"
 territory_overlaps:
-- "[[_Standards/WikiData/WD~District of Columbia,3551781]]"
-- "[[_Standards/WikiData/WD~Washington–Arlington urban area,125812768]]"
+- "[[_Standards/WikiData/WD~District_of_Columbia,3551781]]"
+- "[[_Standards/WikiData/WD~Washington–Arlington_urban_area,125812768]]"
 different_from:
-- "[[_Standards/WikiData/WD~District of Columbia,3551781]]"
+- "[[_Standards/WikiData/WD~District_of_Columbia,3551781]]"
 - '[[_Standards/WikiData/WD~Washington,1223]]'
 - '[[_Standards/WikiData/WD~Washington,25301]]'
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~District of Columbia,3551781]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~District_of_Columbia,3551781]]"
 capital_of:
-- "[[_Standards/WikiData/WD~District of Columbia,3551781]]"
-- "[[_Standards/WikiData/WD~United States,30]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Mayor of the District of Columbia,5190572]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Washington, D.C.,5256101]]"
+- "[[_Standards/WikiData/WD~District_of_Columbia,3551781]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Mayor_of_the_District_of_Columbia,5190572]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Washington,_D.C.,5256101]]"
 foundational_text:
-- "[[_Standards/WikiData/WD~District of Columbia Home Rule Act,5283419]]"
-- "[[_Standards/WikiData/WD~Article One of the United States Constitution,48416]]"
-highest_point: "[[_Standards/WikiData/WD~Fort Reno Park,5471906]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Washington, D.C.,5535257]]"
-head_of_government: "[[_Standards/WikiData/WD~Muriel Bowser,6938597]]"
-list_of_monuments: "[[_Standards/WikiData/WD~National Register of Historic Places listings in Washington, D.C.,6977769]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Washington, D.C.,7112757]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Washington, D.C.,11242630]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~neighborhood of Washington, D.C.,12063697]]"
-open_data_portal: "[[_Standards/WikiData/WD~Open Data DC,97154210]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Washington, D.C.,100783297]]"
+- "[[_Standards/WikiData/WD~District_of_Columbia_Home_Rule_Act,5283419]]"
+- "[[_Standards/WikiData/WD~Article_One_of_the_United_States_Constitution,48416]]"
+highest_point: "[[_Standards/WikiData/WD~Fort_Reno_Park,5471906]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Washington,_D.C.,5535257]]"
+head_of_government: "[[_Standards/WikiData/WD~Muriel_Bowser,6938597]]"
+list_of_monuments: "[[_Standards/WikiData/WD~National_Register_of_Historic_Places_listings_in_Washington,_D.C.,6977769]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Washington,_D.C.,7112757]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Washington,_D.C.,11242630]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~neighborhood_of_Washington,_D.C.,12063697]]"
+open_data_portal: "[[_Standards/WikiData/WD~Open_Data_DC,97154210]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Washington,_D.C.,100783297]]"
 BHCL_UUID:
 - de80aab4-bda8-4936-bc91-6e20d35d93ca
 - 73b1b0c9-e391-495f-a211-3a83dcff20fb
@@ -154,11 +154,11 @@ HASC: US.DC.DI
 UN_LOCODE: USWAS
 GitHub_topic: washington-dc
 named_after:
-- "[[_Standards/WikiData/WD~Christopher Columbus,7322]]"
-- "[[_Standards/WikiData/WD~George Washington,23]]"
+- "[[_Standards/WikiData/WD~Christopher_Columbus,7322]]"
+- "[[_Standards/WikiData/WD~George_Washington,23]]"
 minimum_temperature_record: -15
-country: "[[_Standards/WikiData/WD~United States,30]]"
-continent: "[[_Standards/WikiData/WD~North America,49]]"
+country: "[[_Standards/WikiData/WD~United_States,30]]"
+continent: "[[_Standards/WikiData/WD~North_America,49]]"
 elevation_above_sea_level: 72
 minimum_wage: 16.5
 area: 177

@@ -23,17 +23,17 @@ twinned_administrative_body:
 - '[[_Standards/WikiData/WD~Tijuana,124739]]'
 - '[[_Standards/WikiData/WD~Eilat,134762]]'
 - '[[_Standards/WikiData/WD~Ashdod,171639]]'
-- "[[_Standards/WikiData/WD~Los Mochis,752460]]"
-- "[[_Standards/WikiData/WD~Auckland City,758634]]"
-- "[[_Standards/WikiData/WD~Santa Maria degli Angeli,938802]]"
+- "[[_Standards/WikiData/WD~Los_Mochis,752460]]"
+- "[[_Standards/WikiData/WD~Auckland_City,758634]]"
+- "[[_Standards/WikiData/WD~Santa_Maria_degli_Angeli,938802]]"
 - '[[_Standards/WikiData/WD~Kaunas,4115712]]'
 - '[[_Standards/WikiData/WD~Montreal,340]]'
 - '[[_Standards/WikiData/WD~Dubai,612]]'
-- "[[_Standards/WikiData/WD~Saint Petersburg,656]]"
+- "[[_Standards/WikiData/WD~Saint_Petersburg,656]]"
 - '[[_Standards/WikiData/WD~Mumbai,1156]]'
 - '[[_Standards/WikiData/WD~Manila,1461]]'
 - '[[_Standards/WikiData/WD~Bordeaux,1479]]'
-- "[[_Standards/WikiData/WD~Mexico City,1489]]"
+- "[[_Standards/WikiData/WD~Mexico_City,1489]]"
 - '[[_Standards/WikiData/WD~Makati,1508]]'
 - '[[_Standards/WikiData/WD~Athens,1524]]'
 - '[[_Standards/WikiData/WD~Split,1663]]'
@@ -54,94 +54,94 @@ twinned_administrative_body:
 - '[[_Standards/WikiData/WD~London,84]]'
 - '[[_Standards/WikiData/WD~Salvador,36947]]'
 - '[[_Standards/WikiData/WD~Auckland,37100]]'
-capital_of: "[[_Standards/WikiData/WD~Los Angeles County,104994]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Los Angeles County,104994]]"
+capital_of: "[[_Standards/WikiData/WD~Los_Angeles_County,104994]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Los_Angeles_County,104994]]"
 shares_border_with:
-- "[[_Standards/WikiData/WD~Beverly Hills,127856]]"
-- "[[_Standards/WikiData/WD~San Pedro,290356]]"
+- "[[_Standards/WikiData/WD~Beverly_Hills,127856]]"
+- "[[_Standards/WikiData/WD~San_Pedro,290356]]"
 - '[[_Standards/WikiData/WD~Pasadena,485176]]'
 - '[[_Standards/WikiData/WD~Glendale,485716]]'
 - '[[_Standards/WikiData/WD~Compton,487119]]'
 - '[[_Standards/WikiData/WD~Monterey,487315]]'
 - '[[_Standards/WikiData/WD~Torrance,489197]]'
-- "[[_Standards/WikiData/WD~Culver City,493378]]"
+- "[[_Standards/WikiData/WD~Culver_City,493378]]"
 - '[[_Standards/WikiData/WD~Carson,494690]]'
 - '[[_Standards/WikiData/WD~Inglewood,621549]]'
 - '[[_Standards/WikiData/WD~Calabasas,629088]]'
-- "[[_Standards/WikiData/WD~West Carson,655926]]"
+- "[[_Standards/WikiData/WD~West_Carson,655926]]"
 - '[[_Standards/WikiData/WD~Montebello,664503]]'
-- "[[_Standards/WikiData/WD~East Los Angeles,690991]]"
+- "[[_Standards/WikiData/WD~East_Los_Angeles,690991]]"
 - '[[_Standards/WikiData/WD~Alhambra,752681]]'
-- "[[_Standards/WikiData/WD~San Fernando,846406]]"
+- "[[_Standards/WikiData/WD~San_Fernando,846406]]"
 - '[[_Standards/WikiData/WD~Gardena,846409]]'
-- "[[_Standards/WikiData/WD~West Hollywood,846421]]"
+- "[[_Standards/WikiData/WD~West_Hollywood,846421]]"
 - '[[_Standards/WikiData/WD~Lynwood,849619]]'
-- "[[_Standards/WikiData/WD~Huntington Park,851027]]"
-- "[[_Standards/WikiData/WD~South Pasadena,852581]]"
-- "[[_Standards/WikiData/WD~Hidden Hills,913346]]"
-- "[[_Standards/WikiData/WD~Monterey Park,927213]]"
+- "[[_Standards/WikiData/WD~Huntington_Park,851027]]"
+- "[[_Standards/WikiData/WD~South_Pasadena,852581]]"
+- "[[_Standards/WikiData/WD~Hidden_Hills,913346]]"
+- "[[_Standards/WikiData/WD~Monterey_Park,927213]]"
 - '[[_Standards/WikiData/WD~Vernon,934111]]'
-- "[[_Standards/WikiData/WD~El Segundo,983859]]"
+- "[[_Standards/WikiData/WD~El_Segundo,983859]]"
 - '[[_Standards/WikiData/WD~Lomita,984162]]'
-- "[[_Standards/WikiData/WD~West Athens,1669280]]"
+- "[[_Standards/WikiData/WD~West_Athens,1669280]]"
 - '[[_Standards/WikiData/WD~Willowbrook,1898553]]'
 - '[[_Standards/WikiData/WD~Westmont,1898611]]'
-- "[[_Standards/WikiData/WD~Ladera Heights,2584592]]"
-- "[[_Standards/WikiData/WD~Long Beach,16739]]"
+- "[[_Standards/WikiData/WD~Ladera_Heights,2584592]]"
+- "[[_Standards/WikiData/WD~Long_Beach,16739]]"
 - '[[_Standards/WikiData/WD~Burbank,39561]]'
-- "[[_Standards/WikiData/WD~Santa Monica,47164]]"
+- "[[_Standards/WikiData/WD~Santa_Monica,47164]]"
 instance_of:
 - '[[_Standards/WikiData/WD~megacity,174844]]'
 - '[[_Standards/WikiData/WD~metropolis,200250]]'
-- "[[_Standards/WikiData/WD~global city,208511]]"
-- "[[_Standards/WikiData/WD~business cluster,745456]]"
-- "[[_Standards/WikiData/WD~city in the United States,1093829]]"
-- "[[_Standards/WikiData/WD~big city,1549591]]"
-- "[[_Standards/WikiData/WD~charter city,13218391]]"
-- "[[_Standards/WikiData/WD~LGBT sanctuary city,131338872]]"
+- "[[_Standards/WikiData/WD~global_city,208511]]"
+- "[[_Standards/WikiData/WD~business_cluster,745456]]"
+- "[[_Standards/WikiData/WD~city_in_the_United_States,1093829]]"
+- "[[_Standards/WikiData/WD~big_city,1549591]]"
+- "[[_Standards/WikiData/WD~charter_city,13218391]]"
+- "[[_Standards/WikiData/WD~LGBT_sanctuary_city,131338872]]"
 - '[[_Standards/WikiData/WD~city,515]]'
 owner_of:
-- "[[_Standards/WikiData/WD~Los Angeles City Hall,368489]]"
-- "[[_Standards/WikiData/WD~Los Angeles World Airports,3366801]]"
-- "[[_Standards/WikiData/WD~Bouquet Canyon Dam,35697278]]"
-- "[[_Standards/WikiData/WD~Angels Landing,55603981]]"
-- "[[_Standards/WikiData/WD~Los Angeles International Airport,8731]]"
-head_of_government: "[[_Standards/WikiData/WD~Karen Bass,461739]]"
+- "[[_Standards/WikiData/WD~Los_Angeles_City_Hall,368489]]"
+- "[[_Standards/WikiData/WD~Los_Angeles_World_Airports,3366801]]"
+- "[[_Standards/WikiData/WD~Bouquet_Canyon_Dam,35697278]]"
+- "[[_Standards/WikiData/WD~Angels_Landing,55603981]]"
+- "[[_Standards/WikiData/WD~Los_Angeles_International_Airport,8731]]"
+head_of_government: "[[_Standards/WikiData/WD~Karen_Bass,461739]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~New International Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-- "[[_Standards/WikiData/WD~The American Cyclopædia,19077875]]"
-- "[[_Standards/WikiData/WD~The Encyclopedia Americana,19085957]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
+- "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
 located_in_time_zone:
-- "[[_Standards/WikiData/WD~Pacific Time Zone,847142]]"
+- "[[_Standards/WikiData/WD~Pacific_Time_Zone,847142]]"
 - '[[_Standards/WikiData/WD~UTC−08_00,2204]]'
 - '[[_Standards/WikiData/WD~UTC−07_00,2212]]'
-named_after: "[[_Standards/WikiData/WD~Queen of Heaven,1358870]]"
-flag: "[[_Standards/WikiData/WD~flag of Los Angeles,1426622]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Mayor of the City of Los Angeles,1465319]]"
-located_in_the_statistical_territorial_entity: "[[_Standards/WikiData/WD~Los Angeles metropolitan area,1755545]]"
-legislative_body: "[[_Standards/WikiData/WD~Los Angeles City Council,1870447]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Los Angeles,3136743]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Los Angeles,5256029]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Greater Los Angeles,11074355]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Los Angeles,13414255]]"
-bibliography: "[[_Standards/WikiData/WD~bibliography of Los Angeles,17985878]]"
+named_after: "[[_Standards/WikiData/WD~Queen_of_Heaven,1358870]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Los_Angeles,1426622]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Mayor_of_the_City_of_Los_Angeles,1465319]]"
+located_in_the_statistical_territorial_entity: "[[_Standards/WikiData/WD~Los_Angeles_metropolitan_area,1755545]]"
+legislative_body: "[[_Standards/WikiData/WD~Los_Angeles_City_Council,1870447]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Los_Angeles,3136743]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Los_Angeles,5256029]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Greater_Los_Angeles,11074355]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Los_Angeles,13414255]]"
+bibliography: "[[_Standards/WikiData/WD~bibliography_of_Los_Angeles,17985878]]"
 different_from:
 - '[[_Standards/WikiData/WD~La,37276728]]'
-- "[[_Standards/WikiData/WD~Los Ángeles,16910]]"
+- "[[_Standards/WikiData/WD~Los_Ángeles,16910]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q49280127,49280127]]'
-award_received: "[[_Standards/WikiData/WD~Silver Anvil Award,92429087]]"
-open_data_portal: "[[_Standards/WikiData/WD~Los Angeles Open Data,97062858]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Los Angeles,106020285]]"
-territory_overlaps: "[[_Standards/WikiData/WD~Los Angeles–Long Beach–Anaheim urban area,125805443]]"
+award_received: "[[_Standards/WikiData/WD~Silver_Anvil_Award,92429087]]"
+open_data_portal: "[[_Standards/WikiData/WD~Los_Angeles_Open_Data,97062858]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Los_Angeles,106020285]]"
+territory_overlaps: "[[_Standards/WikiData/WD~Los_Angeles–Long_Beach–Anaheim_urban_area,125805443]]"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Los%20Angeles.svg"
 nighttime_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Highway%20101%20at%20night%20in%20Los%20Angeles.jpg"
 location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/La-districts.jpg"
@@ -245,9 +245,9 @@ official_website: "https://lacity.gov/"
 coordinate_location: "Point(-118.24368 34.05223)"
 date_of_incorporation: "1850-04-04T00:00:00Z"
 area: 1302.15171
-country: "[[_Standards/WikiData/WD~United States,30]]"
-continent: "[[_Standards/WikiData/WD~North America,49]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
+country: "[[_Standards/WikiData/WD~United_States,30]]"
+continent: "[[_Standards/WikiData/WD~North_America,49]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
 elevation_above_sea_level: 106
 per_capita_income: 37143
 ---
