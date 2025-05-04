@@ -17,6 +17,7 @@ aliases:
 - "New York City"
 - "New York-City"
 - "Big Apple"
+- "New Amsterdam"
 twinned_administrative_body:
 - '[[_Standards/WikiData/WD~Marrakesh,101625]]'
 - '[[_Standards/WikiData/WD~Târgoviște,188673]]'
