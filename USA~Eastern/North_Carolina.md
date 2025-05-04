@@ -11,6 +11,7 @@ isDeleted: false
 confidential: public
 aliases:
   - North Carolina
+  - North_Carolina
 ---
 [name::North Carolina] 
 [name-abbr::NC] 

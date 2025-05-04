@@ -1,14 +1,17 @@
 ---
-location: [34.4253,-81.7121] 
+location:
+  - 34.4253
+  - -81.7121
 type: State
 tags:
-- geo/State
-
-has_id_wikidata: Q1456 
+  - geo/State
+has_id_wikidata: Q1456
 SpocWebEntityId: 36066
 isDeleted: false
 confidential: public
-
+aliases:
+  - South Carolina
+  - South_Carolina
 ---
 [name::South Carolina] 
 [name-abbr::SC] 

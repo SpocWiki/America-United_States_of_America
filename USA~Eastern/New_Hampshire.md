@@ -1,14 +1,17 @@
 ---
-location: [44.1283,-71.444] 
+location:
+  - 44.1283
+  - -71.444
 type: State
 tags:
-- geo/State
-
-has_id_wikidata: Q759 
+  - geo/State
+has_id_wikidata: Q759
 SpocWebEntityId: 36056
 isDeleted: false
 confidential: public
-
+aliases:
+  - New Hampshire
+  - New_Hampshire
 ---
 [name::New Hampshire] 
 [name-abbr::NH] 

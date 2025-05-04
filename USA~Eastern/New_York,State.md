@@ -1,14 +1,17 @@
 ---
-location: [41.2905,-73.9355] 
+location:
+  - 41.2905
+  - -73.9355
 type: State
 tags:
-- geo/State
-
-has_id_wikidata: Q1384 
+  - geo/State
+has_id_wikidata: Q1384
 SpocWebEntityId: 36060
 isDeleted: false
 confidential: public
-
+aliases:
+  - New_York,State
+  - New York State
 ---
 
 [name::New York] 

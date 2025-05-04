@@ -1,14 +1,17 @@
 ---
-location: [41.8236,-71.4222] 
+location:
+  - 41.8236
+  - -71.4222
 type: State
 tags:
-- geo/State
-
-has_id_wikidata: Q1387 
+  - geo/State
+has_id_wikidata: Q1387
 SpocWebEntityId: 36065
 isDeleted: false
 confidential: public
-
+aliases:
+  - Rhode Island
+  - Rhode_Island
 ---
 [name::Rhode Island] 
 [name-abbr::RI] 

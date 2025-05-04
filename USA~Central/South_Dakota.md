@@ -1,14 +1,17 @@
 ---
-location: [44.724,-98.8932] 
+location:
+  - 44.724
+  - -98.8932
 type: State
 tags:
-- geo/State
-
+  - geo/State
 has_id_wikidata: Q1211
 SpocWebEntityId: 36067
 isDeleted: false
 confidential: public
-
+aliases:
+  - South Dakota
+  - South_Dakota
 ---
 [name::South Dakota] 
 [name-abbr::SD] 

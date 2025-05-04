@@ -1,14 +1,17 @@
 ---
-location: [38.3472,-81.6333] 
+location:
+  - 38.3472
+  - -81.6333
 type: State
 tags:
-- geo/State
-
+  - geo/State
 has_id_wikidata: Q1371
 SpocWebEntityId: 36073
 isDeleted: false
 confidential: public
-
+aliases:
+  - West Virginia
+  - West_Virginia
 ---
 [name::West Virginia] 
 [name-abbr::WV] 

@@ -1,14 +1,16 @@
 ---
-location: [38.89,-77.01] 
+location:
+  - 38.89
+  - -77.01
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 36034
 isDeleted: false
 confidential: public
-
+aliases:
+  - District of Columbia
+  - District_of_Columbia
 ---
 
 [name::District of Columbia] 

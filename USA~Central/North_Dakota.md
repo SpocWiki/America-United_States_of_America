@@ -1,14 +1,17 @@
 ---
-location: [46.8133,-100.779] 
+location:
+  - 46.8133
+  - -100.779
 type: State
 tags:
-- geo/State
-
-has_id_wikidata: Q1207 
+  - geo/State
+has_id_wikidata: Q1207
 SpocWebEntityId: 36054
 isDeleted: false
 confidential: public
-
+aliases:
+  - North Dakota
+  - North_Dakota
 ---
 [name::North Dakota] 
 [name-abbr::ND] 

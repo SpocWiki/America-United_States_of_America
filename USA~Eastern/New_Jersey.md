@@ -1,14 +1,17 @@
 ---
-location: [40.2806,-74.7587] 
+location:
+  - 40.2806
+  - -74.7587
 type: State
 tags:
-- geo/State
-
-has_id_wikidata: Q1408 
+  - geo/State
+has_id_wikidata: Q1408
 SpocWebEntityId: 36057
 isDeleted: false
 confidential: public
-
+aliases:
+  - New Jersey
+  - New_Jersey
 ---
 [name::New Jersey] 
 [name-abbr::NJ] 
