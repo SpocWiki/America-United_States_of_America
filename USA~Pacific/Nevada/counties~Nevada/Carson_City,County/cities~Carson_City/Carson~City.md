@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Carson~City.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\Nevada\counties~Nevada\Carson_City,County\cities~Carson_CityCarson~City.public.md) 
+### [Carson~City](/_Standards/Earth/Continent/America~North/USA/USA~Pacific/Nevada/counties~Nevada/Carson_City,County/cities~Carson_City/Carson~City.md) 
 
-### [Carson~City.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\Nevada\counties~Nevada\Carson_City,County\cities~Carson_CityCarson~City.internal.md) 
+### [Carson~City.public](/_public/Earth/Continent/America~North/USA/USA~Pacific/Nevada/counties~Nevada/Carson_City,County/cities~Carson_City/Carson~City.public.md) 
 
-### [Carson~City.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\Nevada\counties~Nevada\Carson_City,County\cities~Carson_CityCarson~City.protect.md) 
+### [Carson~City.internal](/_internal/Earth/Continent/America~North/USA/USA~Pacific/Nevada/counties~Nevada/Carson_City,County/cities~Carson_City/Carson~City.internal.md) 
 
-### [Carson~City.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\Nevada\counties~Nevada\Carson_City,County\cities~Carson_CityCarson~City.private.md) 
+### [Carson~City.protect](/_protect/Earth/Continent/America~North/USA/USA~Pacific/Nevada/counties~Nevada/Carson_City,County/cities~Carson_City/Carson~City.protect.md) 
 
-### [Carson~City.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\Nevada\counties~Nevada\Carson_City,County\cities~Carson_CityCarson~City.personal.md) 
+### [Carson~City.private](/_private/Earth/Continent/America~North/USA/USA~Pacific/Nevada/counties~Nevada/Carson_City,County/cities~Carson_City/Carson~City.private.md) 
 
-### [Carson~City.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\Nevada\counties~Nevada\Carson_City,County\cities~Carson_CityCarson~City.secret.md)
+### [Carson~City.personal](/_personal/Earth/Continent/America~North/USA/USA~Pacific/Nevada/counties~Nevada/Carson_City,County/cities~Carson_City/Carson~City.personal.md) 
+
+### [Carson~City.secret](/_secret/Earth/Continent/America~North/USA/USA~Pacific/Nevada/counties~Nevada/Carson_City,County/cities~Carson_City/Carson~City.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ocala.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\Florida\counties~Florida\Marion,County\cities~MarionOcala.public.md) 
+### [Ocala](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/Florida/counties~Florida/Marion,County/cities~Marion/Ocala.md) 
 
-### [Ocala.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\Florida\counties~Florida\Marion,County\cities~MarionOcala.internal.md) 
+### [Ocala.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/Florida/counties~Florida/Marion,County/cities~Marion/Ocala.public.md) 
 
-### [Ocala.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\Florida\counties~Florida\Marion,County\cities~MarionOcala.protect.md) 
+### [Ocala.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/Florida/counties~Florida/Marion,County/cities~Marion/Ocala.internal.md) 
 
-### [Ocala.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\Florida\counties~Florida\Marion,County\cities~MarionOcala.private.md) 
+### [Ocala.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/Florida/counties~Florida/Marion,County/cities~Marion/Ocala.protect.md) 
 
-### [Ocala.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\Florida\counties~Florida\Marion,County\cities~MarionOcala.personal.md) 
+### [Ocala.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/Florida/counties~Florida/Marion,County/cities~Marion/Ocala.private.md) 
 
-### [Ocala.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\Florida\counties~Florida\Marion,County\cities~MarionOcala.secret.md)
+### [Ocala.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/Florida/counties~Florida/Marion,County/cities~Marion/Ocala.personal.md) 
+
+### [Ocala.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/Florida/counties~Florida/Marion,County/cities~Marion/Ocala.secret.md)
 

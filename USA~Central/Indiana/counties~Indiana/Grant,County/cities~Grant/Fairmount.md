@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fairmount.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Indiana\counties~Indiana\Grant,County\cities~GrantFairmount.public.md) 
+### [Fairmount](/_Standards/Earth/Continent/America~North/USA/USA~Central/Indiana/counties~Indiana/Grant,County/cities~Grant/Fairmount.md) 
 
-### [Fairmount.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Indiana\counties~Indiana\Grant,County\cities~GrantFairmount.internal.md) 
+### [Fairmount.public](/_public/Earth/Continent/America~North/USA/USA~Central/Indiana/counties~Indiana/Grant,County/cities~Grant/Fairmount.public.md) 
 
-### [Fairmount.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Indiana\counties~Indiana\Grant,County\cities~GrantFairmount.protect.md) 
+### [Fairmount.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Indiana/counties~Indiana/Grant,County/cities~Grant/Fairmount.internal.md) 
 
-### [Fairmount.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Indiana\counties~Indiana\Grant,County\cities~GrantFairmount.private.md) 
+### [Fairmount.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Indiana/counties~Indiana/Grant,County/cities~Grant/Fairmount.protect.md) 
 
-### [Fairmount.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Indiana\counties~Indiana\Grant,County\cities~GrantFairmount.personal.md) 
+### [Fairmount.private](/_private/Earth/Continent/America~North/USA/USA~Central/Indiana/counties~Indiana/Grant,County/cities~Grant/Fairmount.private.md) 
 
-### [Fairmount.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Indiana\counties~Indiana\Grant,County\cities~GrantFairmount.secret.md)
+### [Fairmount.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Indiana/counties~Indiana/Grant,County/cities~Grant/Fairmount.personal.md) 
+
+### [Fairmount.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Indiana/counties~Indiana/Grant,County/cities~Grant/Fairmount.secret.md)
 

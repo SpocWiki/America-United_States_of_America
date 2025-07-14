@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lodge.public](/_public/\Earth\Continent\America~North\USA\USA~Mountain\Montana\counties~Montana\Big_Horn,County\cities~Big_HornLodge.public.md) 
+### [Lodge](/_Standards/Earth/Continent/America~North/USA/USA~Mountain/Montana/counties~Montana/Big_Horn,County/cities~Big_Horn/Lodge.md) 
 
-### [Lodge.internal](/_internal/\Earth\Continent\America~North\USA\USA~Mountain\Montana\counties~Montana\Big_Horn,County\cities~Big_HornLodge.internal.md) 
+### [Lodge.public](/_public/Earth/Continent/America~North/USA/USA~Mountain/Montana/counties~Montana/Big_Horn,County/cities~Big_Horn/Lodge.public.md) 
 
-### [Lodge.protect](/_protect/\Earth\Continent\America~North\USA\USA~Mountain\Montana\counties~Montana\Big_Horn,County\cities~Big_HornLodge.protect.md) 
+### [Lodge.internal](/_internal/Earth/Continent/America~North/USA/USA~Mountain/Montana/counties~Montana/Big_Horn,County/cities~Big_Horn/Lodge.internal.md) 
 
-### [Lodge.private](/_private/\Earth\Continent\America~North\USA\USA~Mountain\Montana\counties~Montana\Big_Horn,County\cities~Big_HornLodge.private.md) 
+### [Lodge.protect](/_protect/Earth/Continent/America~North/USA/USA~Mountain/Montana/counties~Montana/Big_Horn,County/cities~Big_Horn/Lodge.protect.md) 
 
-### [Lodge.personal](/_personal/\Earth\Continent\America~North\USA\USA~Mountain\Montana\counties~Montana\Big_Horn,County\cities~Big_HornLodge.personal.md) 
+### [Lodge.private](/_private/Earth/Continent/America~North/USA/USA~Mountain/Montana/counties~Montana/Big_Horn,County/cities~Big_Horn/Lodge.private.md) 
 
-### [Lodge.secret](/_secret/\Earth\Continent\America~North\USA\USA~Mountain\Montana\counties~Montana\Big_Horn,County\cities~Big_HornLodge.secret.md)
+### [Lodge.personal](/_personal/Earth/Continent/America~North/USA/USA~Mountain/Montana/counties~Montana/Big_Horn,County/cities~Big_Horn/Lodge.personal.md) 
+
+### [Lodge.secret](/_secret/Earth/Continent/America~North/USA/USA~Mountain/Montana/counties~Montana/Big_Horn,County/cities~Big_Horn/Lodge.secret.md)
 

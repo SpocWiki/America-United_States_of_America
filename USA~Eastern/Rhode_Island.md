@@ -48,15 +48,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rhode_Island.public](/_public/\Earth\Continent\America~North\USA\USA~EasternRhode_Island.public.md) 
+### [Rhode_Island](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/Rhode_Island.md) 
 
-### [Rhode_Island.internal](/_internal/\Earth\Continent\America~North\USA\USA~EasternRhode_Island.internal.md) 
+### [Rhode_Island.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/Rhode_Island.public.md) 
 
-### [Rhode_Island.protect](/_protect/\Earth\Continent\America~North\USA\USA~EasternRhode_Island.protect.md) 
+### [Rhode_Island.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/Rhode_Island.internal.md) 
 
-### [Rhode_Island.private](/_private/\Earth\Continent\America~North\USA\USA~EasternRhode_Island.private.md) 
+### [Rhode_Island.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/Rhode_Island.protect.md) 
 
-### [Rhode_Island.personal](/_personal/\Earth\Continent\America~North\USA\USA~EasternRhode_Island.personal.md) 
+### [Rhode_Island.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/Rhode_Island.private.md) 
 
-### [Rhode_Island.secret](/_secret/\Earth\Continent\America~North\USA\USA~EasternRhode_Island.secret.md)
+### [Rhode_Island.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/Rhode_Island.personal.md) 
+
+### [Rhode_Island.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/Rhode_Island.secret.md)
 

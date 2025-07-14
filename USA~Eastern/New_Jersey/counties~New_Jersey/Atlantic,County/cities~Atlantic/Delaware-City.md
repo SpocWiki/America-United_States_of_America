@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Delaware-City.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Atlantic,County\cities~AtlanticDelaware-City.public.md) 
+### [Delaware-City](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Atlantic,County/cities~Atlantic/Delaware-City.md) 
 
-### [Delaware-City.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Atlantic,County\cities~AtlanticDelaware-City.internal.md) 
+### [Delaware-City.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Atlantic,County/cities~Atlantic/Delaware-City.public.md) 
 
-### [Delaware-City.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Atlantic,County\cities~AtlanticDelaware-City.protect.md) 
+### [Delaware-City.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Atlantic,County/cities~Atlantic/Delaware-City.internal.md) 
 
-### [Delaware-City.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Atlantic,County\cities~AtlanticDelaware-City.private.md) 
+### [Delaware-City.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Atlantic,County/cities~Atlantic/Delaware-City.protect.md) 
 
-### [Delaware-City.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Atlantic,County\cities~AtlanticDelaware-City.personal.md) 
+### [Delaware-City.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Atlantic,County/cities~Atlantic/Delaware-City.private.md) 
 
-### [Delaware-City.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Atlantic,County\cities~AtlanticDelaware-City.secret.md)
+### [Delaware-City.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Atlantic,County/cities~Atlantic/Delaware-City.personal.md) 
+
+### [Delaware-City.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Atlantic,County/cities~Atlantic/Delaware-City.secret.md)
 

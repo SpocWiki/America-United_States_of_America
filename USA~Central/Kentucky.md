@@ -42,15 +42,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kentucky.public](/_public/\Earth\Continent\America~North\USA\USA~CentralKentucky.public.md) 
+### [Kentucky](/_Standards/Earth/Continent/America~North/USA/USA~Central/Kentucky.md) 
 
-### [Kentucky.internal](/_internal/\Earth\Continent\America~North\USA\USA~CentralKentucky.internal.md) 
+### [Kentucky.public](/_public/Earth/Continent/America~North/USA/USA~Central/Kentucky.public.md) 
 
-### [Kentucky.protect](/_protect/\Earth\Continent\America~North\USA\USA~CentralKentucky.protect.md) 
+### [Kentucky.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Kentucky.internal.md) 
 
-### [Kentucky.private](/_private/\Earth\Continent\America~North\USA\USA~CentralKentucky.private.md) 
+### [Kentucky.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Kentucky.protect.md) 
 
-### [Kentucky.personal](/_personal/\Earth\Continent\America~North\USA\USA~CentralKentucky.personal.md) 
+### [Kentucky.private](/_private/Earth/Continent/America~North/USA/USA~Central/Kentucky.private.md) 
 
-### [Kentucky.secret](/_secret/\Earth\Continent\America~North\USA\USA~CentralKentucky.secret.md)
+### [Kentucky.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Kentucky.personal.md) 
+
+### [Kentucky.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Kentucky.secret.md)
 

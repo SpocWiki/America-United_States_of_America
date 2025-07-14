@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bismarck.public](/_public/\Earth\Continent\America~North\USA\USA~Central\North_Dakota\counties~North_Dakota\Burleigh,County\cities~BurleighBismarck.public.md) 
+### [Bismarck](/_Standards/Earth/Continent/America~North/USA/USA~Central/North_Dakota/counties~North_Dakota/Burleigh,County/cities~Burleigh/Bismarck.md) 
 
-### [Bismarck.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\North_Dakota\counties~North_Dakota\Burleigh,County\cities~BurleighBismarck.internal.md) 
+### [Bismarck.public](/_public/Earth/Continent/America~North/USA/USA~Central/North_Dakota/counties~North_Dakota/Burleigh,County/cities~Burleigh/Bismarck.public.md) 
 
-### [Bismarck.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\North_Dakota\counties~North_Dakota\Burleigh,County\cities~BurleighBismarck.protect.md) 
+### [Bismarck.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/North_Dakota/counties~North_Dakota/Burleigh,County/cities~Burleigh/Bismarck.internal.md) 
 
-### [Bismarck.private](/_private/\Earth\Continent\America~North\USA\USA~Central\North_Dakota\counties~North_Dakota\Burleigh,County\cities~BurleighBismarck.private.md) 
+### [Bismarck.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/North_Dakota/counties~North_Dakota/Burleigh,County/cities~Burleigh/Bismarck.protect.md) 
 
-### [Bismarck.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\North_Dakota\counties~North_Dakota\Burleigh,County\cities~BurleighBismarck.personal.md) 
+### [Bismarck.private](/_private/Earth/Continent/America~North/USA/USA~Central/North_Dakota/counties~North_Dakota/Burleigh,County/cities~Burleigh/Bismarck.private.md) 
 
-### [Bismarck.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\North_Dakota\counties~North_Dakota\Burleigh,County\cities~BurleighBismarck.secret.md)
+### [Bismarck.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/North_Dakota/counties~North_Dakota/Burleigh,County/cities~Burleigh/Bismarck.personal.md) 
+
+### [Bismarck.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/North_Dakota/counties~North_Dakota/Burleigh,County/cities~Burleigh/Bismarck.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Long_Island.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\New_York.CitiesLong_Island.public.md) 
+### [Long_Island](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/New_York.Cities/Long_Island.md) 
 
-### [Long_Island.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\New_York.CitiesLong_Island.internal.md) 
+### [Long_Island.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/New_York.Cities/Long_Island.public.md) 
 
-### [Long_Island.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\New_York.CitiesLong_Island.protect.md) 
+### [Long_Island.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/New_York.Cities/Long_Island.internal.md) 
 
-### [Long_Island.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\New_York.CitiesLong_Island.private.md) 
+### [Long_Island.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/New_York.Cities/Long_Island.protect.md) 
 
-### [Long_Island.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\New_York.CitiesLong_Island.personal.md) 
+### [Long_Island.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/New_York.Cities/Long_Island.private.md) 
 
-### [Long_Island.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\New_York.CitiesLong_Island.secret.md)
+### [Long_Island.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/New_York.Cities/Long_Island.personal.md) 
+
+### [Long_Island.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/New_York.Cities/Long_Island.secret.md)
 

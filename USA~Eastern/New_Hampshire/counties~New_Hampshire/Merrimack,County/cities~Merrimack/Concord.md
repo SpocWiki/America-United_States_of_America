@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Concord.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\New_Hampshire\counties~New_Hampshire\Merrimack,County\cities~MerrimackConcord.public.md) 
+### [Concord](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/New_Hampshire/counties~New_Hampshire/Merrimack,County/cities~Merrimack/Concord.md) 
 
-### [Concord.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\New_Hampshire\counties~New_Hampshire\Merrimack,County\cities~MerrimackConcord.internal.md) 
+### [Concord.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/New_Hampshire/counties~New_Hampshire/Merrimack,County/cities~Merrimack/Concord.public.md) 
 
-### [Concord.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\New_Hampshire\counties~New_Hampshire\Merrimack,County\cities~MerrimackConcord.protect.md) 
+### [Concord.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/New_Hampshire/counties~New_Hampshire/Merrimack,County/cities~Merrimack/Concord.internal.md) 
 
-### [Concord.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\New_Hampshire\counties~New_Hampshire\Merrimack,County\cities~MerrimackConcord.private.md) 
+### [Concord.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/New_Hampshire/counties~New_Hampshire/Merrimack,County/cities~Merrimack/Concord.protect.md) 
 
-### [Concord.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\New_Hampshire\counties~New_Hampshire\Merrimack,County\cities~MerrimackConcord.personal.md) 
+### [Concord.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/New_Hampshire/counties~New_Hampshire/Merrimack,County/cities~Merrimack/Concord.private.md) 
 
-### [Concord.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\New_Hampshire\counties~New_Hampshire\Merrimack,County\cities~MerrimackConcord.secret.md)
+### [Concord.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/New_Hampshire/counties~New_Hampshire/Merrimack,County/cities~Merrimack/Concord.personal.md) 
+
+### [Concord.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/New_Hampshire/counties~New_Hampshire/Merrimack,County/cities~Merrimack/Concord.secret.md)
 

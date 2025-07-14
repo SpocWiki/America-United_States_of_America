@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nashville.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Tennessee\counties~Tennessee\Davidson,County\cities~DavidsonNashville.public.md) 
+### [Nashville](/_Standards/Earth/Continent/America~North/USA/USA~Central/Tennessee/counties~Tennessee/Davidson,County/cities~Davidson/Nashville.md) 
 
-### [Nashville.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Tennessee\counties~Tennessee\Davidson,County\cities~DavidsonNashville.internal.md) 
+### [Nashville.public](/_public/Earth/Continent/America~North/USA/USA~Central/Tennessee/counties~Tennessee/Davidson,County/cities~Davidson/Nashville.public.md) 
 
-### [Nashville.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Tennessee\counties~Tennessee\Davidson,County\cities~DavidsonNashville.protect.md) 
+### [Nashville.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Tennessee/counties~Tennessee/Davidson,County/cities~Davidson/Nashville.internal.md) 
 
-### [Nashville.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Tennessee\counties~Tennessee\Davidson,County\cities~DavidsonNashville.private.md) 
+### [Nashville.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Tennessee/counties~Tennessee/Davidson,County/cities~Davidson/Nashville.protect.md) 
 
-### [Nashville.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Tennessee\counties~Tennessee\Davidson,County\cities~DavidsonNashville.personal.md) 
+### [Nashville.private](/_private/Earth/Continent/America~North/USA/USA~Central/Tennessee/counties~Tennessee/Davidson,County/cities~Davidson/Nashville.private.md) 
 
-### [Nashville.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Tennessee\counties~Tennessee\Davidson,County\cities~DavidsonNashville.secret.md)
+### [Nashville.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Tennessee/counties~Tennessee/Davidson,County/cities~Davidson/Nashville.personal.md) 
+
+### [Nashville.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Tennessee/counties~Tennessee/Davidson,County/cities~Davidson/Nashville.secret.md)
 

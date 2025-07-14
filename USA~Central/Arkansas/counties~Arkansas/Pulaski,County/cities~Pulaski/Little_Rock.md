@@ -36,15 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Little_Rock.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Arkansas\counties~Arkansas\Pulaski,County\cities~PulaskiLittle_Rock.public.md) 
+### [Little_Rock](/_Standards/Earth/Continent/America~North/USA/USA~Central/Arkansas/counties~Arkansas/Pulaski,County/cities~Pulaski/Little_Rock.md) 
 
-### [Little_Rock.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Arkansas\counties~Arkansas\Pulaski,County\cities~PulaskiLittle_Rock.internal.md) 
+### [Little_Rock.public](/_public/Earth/Continent/America~North/USA/USA~Central/Arkansas/counties~Arkansas/Pulaski,County/cities~Pulaski/Little_Rock.public.md) 
 
-### [Little_Rock.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Arkansas\counties~Arkansas\Pulaski,County\cities~PulaskiLittle_Rock.protect.md) 
+### [Little_Rock.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Arkansas/counties~Arkansas/Pulaski,County/cities~Pulaski/Little_Rock.internal.md) 
 
-### [Little_Rock.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Arkansas\counties~Arkansas\Pulaski,County\cities~PulaskiLittle_Rock.private.md) 
+### [Little_Rock.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Arkansas/counties~Arkansas/Pulaski,County/cities~Pulaski/Little_Rock.protect.md) 
 
-### [Little_Rock.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Arkansas\counties~Arkansas\Pulaski,County\cities~PulaskiLittle_Rock.personal.md) 
+### [Little_Rock.private](/_private/Earth/Continent/America~North/USA/USA~Central/Arkansas/counties~Arkansas/Pulaski,County/cities~Pulaski/Little_Rock.private.md) 
 
-### [Little_Rock.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Arkansas\counties~Arkansas\Pulaski,County\cities~PulaskiLittle_Rock.secret.md)
+### [Little_Rock.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Arkansas/counties~Arkansas/Pulaski,County/cities~Pulaski/Little_Rock.personal.md) 
+
+### [Little_Rock.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Arkansas/counties~Arkansas/Pulaski,County/cities~Pulaski/Little_Rock.secret.md)
 

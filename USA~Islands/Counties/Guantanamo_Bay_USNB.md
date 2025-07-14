@@ -41,15 +41,17 @@ markerFolder: ./Guantanamo_Bay_USNB/
 
 ## Confidential Links & Embeds: 
 
-### [Guantanamo_Bay_USNB.public](/_public/\Earth\Continent\America~North\USA\USA~Islands\CountiesGuantanamo_Bay_USNB.public.md) 
+### [Guantanamo_Bay_USNB](/_Standards/Earth/Continent/America~North/USA/USA~Islands/Counties/Guantanamo_Bay_USNB.md) 
 
-### [Guantanamo_Bay_USNB.internal](/_internal/\Earth\Continent\America~North\USA\USA~Islands\CountiesGuantanamo_Bay_USNB.internal.md) 
+### [Guantanamo_Bay_USNB.public](/_public/Earth/Continent/America~North/USA/USA~Islands/Counties/Guantanamo_Bay_USNB.public.md) 
 
-### [Guantanamo_Bay_USNB.protect](/_protect/\Earth\Continent\America~North\USA\USA~Islands\CountiesGuantanamo_Bay_USNB.protect.md) 
+### [Guantanamo_Bay_USNB.internal](/_internal/Earth/Continent/America~North/USA/USA~Islands/Counties/Guantanamo_Bay_USNB.internal.md) 
 
-### [Guantanamo_Bay_USNB.private](/_private/\Earth\Continent\America~North\USA\USA~Islands\CountiesGuantanamo_Bay_USNB.private.md) 
+### [Guantanamo_Bay_USNB.protect](/_protect/Earth/Continent/America~North/USA/USA~Islands/Counties/Guantanamo_Bay_USNB.protect.md) 
 
-### [Guantanamo_Bay_USNB.personal](/_personal/\Earth\Continent\America~North\USA\USA~Islands\CountiesGuantanamo_Bay_USNB.personal.md) 
+### [Guantanamo_Bay_USNB.private](/_private/Earth/Continent/America~North/USA/USA~Islands/Counties/Guantanamo_Bay_USNB.private.md) 
 
-### [Guantanamo_Bay_USNB.secret](/_secret/\Earth\Continent\America~North\USA\USA~Islands\CountiesGuantanamo_Bay_USNB.secret.md)
+### [Guantanamo_Bay_USNB.personal](/_personal/Earth/Continent/America~North/USA/USA~Islands/Counties/Guantanamo_Bay_USNB.personal.md) 
+
+### [Guantanamo_Bay_USNB.secret](/_secret/Earth/Continent/America~North/USA/USA~Islands/Counties/Guantanamo_Bay_USNB.secret.md)
 

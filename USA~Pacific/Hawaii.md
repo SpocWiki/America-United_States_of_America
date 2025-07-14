@@ -46,15 +46,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hawaii.public](/_public/\Earth\Continent\America~North\USA\USA~PacificHawaii.public.md) 
+### [Hawaii](/_Standards/Earth/Continent/America~North/USA/USA~Pacific/Hawaii.md) 
 
-### [Hawaii.internal](/_internal/\Earth\Continent\America~North\USA\USA~PacificHawaii.internal.md) 
+### [Hawaii.public](/_public/Earth/Continent/America~North/USA/USA~Pacific/Hawaii.public.md) 
 
-### [Hawaii.protect](/_protect/\Earth\Continent\America~North\USA\USA~PacificHawaii.protect.md) 
+### [Hawaii.internal](/_internal/Earth/Continent/America~North/USA/USA~Pacific/Hawaii.internal.md) 
 
-### [Hawaii.private](/_private/\Earth\Continent\America~North\USA\USA~PacificHawaii.private.md) 
+### [Hawaii.protect](/_protect/Earth/Continent/America~North/USA/USA~Pacific/Hawaii.protect.md) 
 
-### [Hawaii.personal](/_personal/\Earth\Continent\America~North\USA\USA~PacificHawaii.personal.md) 
+### [Hawaii.private](/_private/Earth/Continent/America~North/USA/USA~Pacific/Hawaii.private.md) 
 
-### [Hawaii.secret](/_secret/\Earth\Continent\America~North\USA\USA~PacificHawaii.secret.md)
+### [Hawaii.personal](/_personal/Earth/Continent/America~North/USA/USA~Pacific/Hawaii.personal.md) 
+
+### [Hawaii.secret](/_secret/Earth/Continent/America~North/USA/USA~Pacific/Hawaii.secret.md)
 

@@ -50,15 +50,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [California.public](/_public/\Earth\Continent\America~North\USA\USA~PacificCalifornia.public.md) 
+### [California](/_Standards/Earth/Continent/America~North/USA/USA~Pacific/California.md) 
 
-### [California.internal](/_internal/\Earth\Continent\America~North\USA\USA~PacificCalifornia.internal.md) 
+### [California.public](/_public/Earth/Continent/America~North/USA/USA~Pacific/California.public.md) 
 
-### [California.protect](/_protect/\Earth\Continent\America~North\USA\USA~PacificCalifornia.protect.md) 
+### [California.internal](/_internal/Earth/Continent/America~North/USA/USA~Pacific/California.internal.md) 
 
-### [California.private](/_private/\Earth\Continent\America~North\USA\USA~PacificCalifornia.private.md) 
+### [California.protect](/_protect/Earth/Continent/America~North/USA/USA~Pacific/California.protect.md) 
 
-### [California.personal](/_personal/\Earth\Continent\America~North\USA\USA~PacificCalifornia.personal.md) 
+### [California.private](/_private/Earth/Continent/America~North/USA/USA~Pacific/California.private.md) 
 
-### [California.secret](/_secret/\Earth\Continent\America~North\USA\USA~PacificCalifornia.secret.md)
+### [California.personal](/_personal/Earth/Continent/America~North/USA/USA~Pacific/California.personal.md) 
+
+### [California.secret](/_secret/Earth/Continent/America~North/USA/USA~Pacific/California.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Chicago.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Cook,County\cities~CookChicago.public.md) 
+### [Chicago](/_Standards/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Cook,County/cities~Cook/Chicago.md) 
 
-### [Chicago.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Cook,County\cities~CookChicago.internal.md) 
+### [Chicago.public](/_public/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Cook,County/cities~Cook/Chicago.public.md) 
 
-### [Chicago.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Cook,County\cities~CookChicago.protect.md) 
+### [Chicago.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Cook,County/cities~Cook/Chicago.internal.md) 
 
-### [Chicago.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Cook,County\cities~CookChicago.private.md) 
+### [Chicago.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Cook,County/cities~Cook/Chicago.protect.md) 
 
-### [Chicago.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Cook,County\cities~CookChicago.personal.md) 
+### [Chicago.private](/_private/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Cook,County/cities~Cook/Chicago.private.md) 
 
-### [Chicago.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Cook,County\cities~CookChicago.secret.md)
+### [Chicago.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Cook,County/cities~Cook/Chicago.personal.md) 
+
+### [Chicago.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Cook,County/cities~Cook/Chicago.secret.md)
 

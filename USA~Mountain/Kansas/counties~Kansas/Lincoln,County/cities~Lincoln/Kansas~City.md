@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kansas~City.public](/_public/\Earth\Continent\America~North\USA\USA~Mountain\Kansas\counties~Kansas\Lincoln,County\cities~LincolnKansas~City.public.md) 
+### [Kansas~City](/_Standards/Earth/Continent/America~North/USA/USA~Mountain/Kansas/counties~Kansas/Lincoln,County/cities~Lincoln/Kansas~City.md) 
 
-### [Kansas~City.internal](/_internal/\Earth\Continent\America~North\USA\USA~Mountain\Kansas\counties~Kansas\Lincoln,County\cities~LincolnKansas~City.internal.md) 
+### [Kansas~City.public](/_public/Earth/Continent/America~North/USA/USA~Mountain/Kansas/counties~Kansas/Lincoln,County/cities~Lincoln/Kansas~City.public.md) 
 
-### [Kansas~City.protect](/_protect/\Earth\Continent\America~North\USA\USA~Mountain\Kansas\counties~Kansas\Lincoln,County\cities~LincolnKansas~City.protect.md) 
+### [Kansas~City.internal](/_internal/Earth/Continent/America~North/USA/USA~Mountain/Kansas/counties~Kansas/Lincoln,County/cities~Lincoln/Kansas~City.internal.md) 
 
-### [Kansas~City.private](/_private/\Earth\Continent\America~North\USA\USA~Mountain\Kansas\counties~Kansas\Lincoln,County\cities~LincolnKansas~City.private.md) 
+### [Kansas~City.protect](/_protect/Earth/Continent/America~North/USA/USA~Mountain/Kansas/counties~Kansas/Lincoln,County/cities~Lincoln/Kansas~City.protect.md) 
 
-### [Kansas~City.personal](/_personal/\Earth\Continent\America~North\USA\USA~Mountain\Kansas\counties~Kansas\Lincoln,County\cities~LincolnKansas~City.personal.md) 
+### [Kansas~City.private](/_private/Earth/Continent/America~North/USA/USA~Mountain/Kansas/counties~Kansas/Lincoln,County/cities~Lincoln/Kansas~City.private.md) 
 
-### [Kansas~City.secret](/_secret/\Earth\Continent\America~North\USA\USA~Mountain\Kansas\counties~Kansas\Lincoln,County\cities~LincolnKansas~City.secret.md)
+### [Kansas~City.personal](/_personal/Earth/Continent/America~North/USA/USA~Mountain/Kansas/counties~Kansas/Lincoln,County/cities~Lincoln/Kansas~City.personal.md) 
+
+### [Kansas~City.secret](/_secret/Earth/Continent/America~North/USA/USA~Mountain/Kansas/counties~Kansas/Lincoln,County/cities~Lincoln/Kansas~City.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Santa_Fe.public](/_public/\Earth\Continent\America~North\USA\USA~Mountain\New_Mexico\counties~New_Mexico\Santa_Fe,County\cities~Santa_FeSanta_Fe.public.md) 
+### [Santa_Fe](/_Standards/Earth/Continent/America~North/USA/USA~Mountain/New_Mexico/counties~New_Mexico/Santa_Fe,County/cities~Santa_Fe/Santa_Fe.md) 
 
-### [Santa_Fe.internal](/_internal/\Earth\Continent\America~North\USA\USA~Mountain\New_Mexico\counties~New_Mexico\Santa_Fe,County\cities~Santa_FeSanta_Fe.internal.md) 
+### [Santa_Fe.public](/_public/Earth/Continent/America~North/USA/USA~Mountain/New_Mexico/counties~New_Mexico/Santa_Fe,County/cities~Santa_Fe/Santa_Fe.public.md) 
 
-### [Santa_Fe.protect](/_protect/\Earth\Continent\America~North\USA\USA~Mountain\New_Mexico\counties~New_Mexico\Santa_Fe,County\cities~Santa_FeSanta_Fe.protect.md) 
+### [Santa_Fe.internal](/_internal/Earth/Continent/America~North/USA/USA~Mountain/New_Mexico/counties~New_Mexico/Santa_Fe,County/cities~Santa_Fe/Santa_Fe.internal.md) 
 
-### [Santa_Fe.private](/_private/\Earth\Continent\America~North\USA\USA~Mountain\New_Mexico\counties~New_Mexico\Santa_Fe,County\cities~Santa_FeSanta_Fe.private.md) 
+### [Santa_Fe.protect](/_protect/Earth/Continent/America~North/USA/USA~Mountain/New_Mexico/counties~New_Mexico/Santa_Fe,County/cities~Santa_Fe/Santa_Fe.protect.md) 
 
-### [Santa_Fe.personal](/_personal/\Earth\Continent\America~North\USA\USA~Mountain\New_Mexico\counties~New_Mexico\Santa_Fe,County\cities~Santa_FeSanta_Fe.personal.md) 
+### [Santa_Fe.private](/_private/Earth/Continent/America~North/USA/USA~Mountain/New_Mexico/counties~New_Mexico/Santa_Fe,County/cities~Santa_Fe/Santa_Fe.private.md) 
 
-### [Santa_Fe.secret](/_secret/\Earth\Continent\America~North\USA\USA~Mountain\New_Mexico\counties~New_Mexico\Santa_Fe,County\cities~Santa_FeSanta_Fe.secret.md)
+### [Santa_Fe.personal](/_personal/Earth/Continent/America~North/USA/USA~Mountain/New_Mexico/counties~New_Mexico/Santa_Fe,County/cities~Santa_Fe/Santa_Fe.personal.md) 
+
+### [Santa_Fe.secret](/_secret/Earth/Continent/America~North/USA/USA~Mountain/New_Mexico/counties~New_Mexico/Santa_Fe,County/cities~Santa_Fe/Santa_Fe.secret.md)
 

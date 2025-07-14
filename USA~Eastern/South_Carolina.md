@@ -46,15 +46,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [South_Carolina.public](/_public/\Earth\Continent\America~North\USA\USA~EasternSouth_Carolina.public.md) 
+### [South_Carolina](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/South_Carolina.md) 
 
-### [South_Carolina.internal](/_internal/\Earth\Continent\America~North\USA\USA~EasternSouth_Carolina.internal.md) 
+### [South_Carolina.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/South_Carolina.public.md) 
 
-### [South_Carolina.protect](/_protect/\Earth\Continent\America~North\USA\USA~EasternSouth_Carolina.protect.md) 
+### [South_Carolina.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/South_Carolina.internal.md) 
 
-### [South_Carolina.private](/_private/\Earth\Continent\America~North\USA\USA~EasternSouth_Carolina.private.md) 
+### [South_Carolina.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/South_Carolina.protect.md) 
 
-### [South_Carolina.personal](/_personal/\Earth\Continent\America~North\USA\USA~EasternSouth_Carolina.personal.md) 
+### [South_Carolina.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/South_Carolina.private.md) 
 
-### [South_Carolina.secret](/_secret/\Earth\Continent\America~North\USA\USA~EasternSouth_Carolina.secret.md)
+### [South_Carolina.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/South_Carolina.personal.md) 
+
+### [South_Carolina.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/South_Carolina.secret.md)
 

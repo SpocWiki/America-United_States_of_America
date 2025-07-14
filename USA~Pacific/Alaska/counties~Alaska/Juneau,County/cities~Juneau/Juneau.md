@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Juneau.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\Alaska\counties~Alaska\Juneau,County\cities~JuneauJuneau.public.md) 
+### [Juneau](/_Standards/Earth/Continent/America~North/USA/USA~Pacific/Alaska/counties~Alaska/Juneau,County/cities~Juneau/Juneau.md) 
 
-### [Juneau.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\Alaska\counties~Alaska\Juneau,County\cities~JuneauJuneau.internal.md) 
+### [Juneau.public](/_public/Earth/Continent/America~North/USA/USA~Pacific/Alaska/counties~Alaska/Juneau,County/cities~Juneau/Juneau.public.md) 
 
-### [Juneau.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\Alaska\counties~Alaska\Juneau,County\cities~JuneauJuneau.protect.md) 
+### [Juneau.internal](/_internal/Earth/Continent/America~North/USA/USA~Pacific/Alaska/counties~Alaska/Juneau,County/cities~Juneau/Juneau.internal.md) 
 
-### [Juneau.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\Alaska\counties~Alaska\Juneau,County\cities~JuneauJuneau.private.md) 
+### [Juneau.protect](/_protect/Earth/Continent/America~North/USA/USA~Pacific/Alaska/counties~Alaska/Juneau,County/cities~Juneau/Juneau.protect.md) 
 
-### [Juneau.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\Alaska\counties~Alaska\Juneau,County\cities~JuneauJuneau.personal.md) 
+### [Juneau.private](/_private/Earth/Continent/America~North/USA/USA~Pacific/Alaska/counties~Alaska/Juneau,County/cities~Juneau/Juneau.private.md) 
 
-### [Juneau.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\Alaska\counties~Alaska\Juneau,County\cities~JuneauJuneau.secret.md)
+### [Juneau.personal](/_personal/Earth/Continent/America~North/USA/USA~Pacific/Alaska/counties~Alaska/Juneau,County/cities~Juneau/Juneau.personal.md) 
+
+### [Juneau.secret](/_secret/Earth/Continent/America~North/USA/USA~Pacific/Alaska/counties~Alaska/Juneau,County/cities~Juneau/Juneau.secret.md)
 

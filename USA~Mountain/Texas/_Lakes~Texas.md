@@ -41,15 +41,17 @@ markerFolder: ./_Lakes/
 
 ## Confidential Links & Embeds: 
 
-### [_Lakes~Texas.public](/_public/\Earth\Continent\America~North\USA\USA~Mountain\Texas_Lakes~Texas.public.md) 
+### [_Lakes~Texas](/_Standards/Earth/Continent/America~North/USA/USA~Mountain/Texas/_Lakes~Texas.md) 
 
-### [_Lakes~Texas.internal](/_internal/\Earth\Continent\America~North\USA\USA~Mountain\Texas_Lakes~Texas.internal.md) 
+### [_Lakes~Texas.public](/_public/Earth/Continent/America~North/USA/USA~Mountain/Texas/_Lakes~Texas.public.md) 
 
-### [_Lakes~Texas.protect](/_protect/\Earth\Continent\America~North\USA\USA~Mountain\Texas_Lakes~Texas.protect.md) 
+### [_Lakes~Texas.internal](/_internal/Earth/Continent/America~North/USA/USA~Mountain/Texas/_Lakes~Texas.internal.md) 
 
-### [_Lakes~Texas.private](/_private/\Earth\Continent\America~North\USA\USA~Mountain\Texas_Lakes~Texas.private.md) 
+### [_Lakes~Texas.protect](/_protect/Earth/Continent/America~North/USA/USA~Mountain/Texas/_Lakes~Texas.protect.md) 
 
-### [_Lakes~Texas.personal](/_personal/\Earth\Continent\America~North\USA\USA~Mountain\Texas_Lakes~Texas.personal.md) 
+### [_Lakes~Texas.private](/_private/Earth/Continent/America~North/USA/USA~Mountain/Texas/_Lakes~Texas.private.md) 
 
-### [_Lakes~Texas.secret](/_secret/\Earth\Continent\America~North\USA\USA~Mountain\Texas_Lakes~Texas.secret.md)
+### [_Lakes~Texas.personal](/_personal/Earth/Continent/America~North/USA/USA~Mountain/Texas/_Lakes~Texas.personal.md) 
+
+### [_Lakes~Texas.secret](/_secret/Earth/Continent/America~North/USA/USA~Mountain/Texas/_Lakes~Texas.secret.md)
 

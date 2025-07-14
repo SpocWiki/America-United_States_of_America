@@ -41,15 +41,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Maine.public](/_public/\Earth\Continent\America~North\USA\USA~EasternMaine.public.md) 
+### [Maine](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/Maine.md) 
 
-### [Maine.internal](/_internal/\Earth\Continent\America~North\USA\USA~EasternMaine.internal.md) 
+### [Maine.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/Maine.public.md) 
 
-### [Maine.protect](/_protect/\Earth\Continent\America~North\USA\USA~EasternMaine.protect.md) 
+### [Maine.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/Maine.internal.md) 
 
-### [Maine.private](/_private/\Earth\Continent\America~North\USA\USA~EasternMaine.private.md) 
+### [Maine.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/Maine.protect.md) 
 
-### [Maine.personal](/_personal/\Earth\Continent\America~North\USA\USA~EasternMaine.personal.md) 
+### [Maine.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/Maine.private.md) 
 
-### [Maine.secret](/_secret/\Earth\Continent\America~North\USA\USA~EasternMaine.secret.md)
+### [Maine.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/Maine.personal.md) 
+
+### [Maine.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/Maine.secret.md)
 

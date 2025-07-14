@@ -102,15 +102,17 @@ but only 1 hour behind the UTC-8 used from California up to and including Wester
 
 ## Confidential Links & Embeds: 
 
-### [Alaska.public](/_public/\Earth\Continent\America~North\USA\USA~PacificAlaska.public.md) 
+### [Alaska](/_Standards/Earth/Continent/America~North/USA/USA~Pacific/Alaska.md) 
 
-### [Alaska.internal](/_internal/\Earth\Continent\America~North\USA\USA~PacificAlaska.internal.md) 
+### [Alaska.public](/_public/Earth/Continent/America~North/USA/USA~Pacific/Alaska.public.md) 
 
-### [Alaska.protect](/_protect/\Earth\Continent\America~North\USA\USA~PacificAlaska.protect.md) 
+### [Alaska.internal](/_internal/Earth/Continent/America~North/USA/USA~Pacific/Alaska.internal.md) 
 
-### [Alaska.private](/_private/\Earth\Continent\America~North\USA\USA~PacificAlaska.private.md) 
+### [Alaska.protect](/_protect/Earth/Continent/America~North/USA/USA~Pacific/Alaska.protect.md) 
 
-### [Alaska.personal](/_personal/\Earth\Continent\America~North\USA\USA~PacificAlaska.personal.md) 
+### [Alaska.private](/_private/Earth/Continent/America~North/USA/USA~Pacific/Alaska.private.md) 
 
-### [Alaska.secret](/_secret/\Earth\Continent\America~North\USA\USA~PacificAlaska.secret.md)
+### [Alaska.personal](/_personal/Earth/Continent/America~North/USA/USA~Pacific/Alaska.personal.md) 
+
+### [Alaska.secret](/_secret/Earth/Continent/America~North/USA/USA~Pacific/Alaska.secret.md)
 

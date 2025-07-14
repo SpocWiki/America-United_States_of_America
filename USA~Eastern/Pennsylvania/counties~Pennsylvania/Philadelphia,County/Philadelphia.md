@@ -51,19 +51,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Philadelphia)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Philadelphia.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\Pennsylvania\counties~Pennsylvania\Philadelphia,CountyPhiladelphia.public.md) 
+### [Philadelphia](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/Pennsylvania/counties~Pennsylvania/Philadelphia,County/Philadelphia.md) 
 
-### [Philadelphia.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\Pennsylvania\counties~Pennsylvania\Philadelphia,CountyPhiladelphia.internal.md) 
+### [Philadelphia.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/Pennsylvania/counties~Pennsylvania/Philadelphia,County/Philadelphia.public.md) 
 
-### [Philadelphia.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\Pennsylvania\counties~Pennsylvania\Philadelphia,CountyPhiladelphia.protect.md) 
+### [Philadelphia.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/Pennsylvania/counties~Pennsylvania/Philadelphia,County/Philadelphia.internal.md) 
 
-### [Philadelphia.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\Pennsylvania\counties~Pennsylvania\Philadelphia,CountyPhiladelphia.private.md) 
+### [Philadelphia.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/Pennsylvania/counties~Pennsylvania/Philadelphia,County/Philadelphia.protect.md) 
 
-### [Philadelphia.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\Pennsylvania\counties~Pennsylvania\Philadelphia,CountyPhiladelphia.personal.md) 
+### [Philadelphia.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/Pennsylvania/counties~Pennsylvania/Philadelphia,County/Philadelphia.private.md) 
 
-### [Philadelphia.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\Pennsylvania\counties~Pennsylvania\Philadelphia,CountyPhiladelphia.secret.md)
+### [Philadelphia.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/Pennsylvania/counties~Pennsylvania/Philadelphia,County/Philadelphia.personal.md) 
+
+### [Philadelphia.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/Pennsylvania/counties~Pennsylvania/Philadelphia,County/Philadelphia.secret.md)
 

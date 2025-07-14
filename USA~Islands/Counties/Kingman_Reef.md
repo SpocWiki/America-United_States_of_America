@@ -41,15 +41,17 @@ markerFolder: ./Kingman_Reef/
 
 ## Confidential Links & Embeds: 
 
-### [Kingman_Reef.public](/_public/\Earth\Continent\America~North\USA\USA~Islands\CountiesKingman_Reef.public.md) 
+### [Kingman_Reef](/_Standards/Earth/Continent/America~North/USA/USA~Islands/Counties/Kingman_Reef.md) 
 
-### [Kingman_Reef.internal](/_internal/\Earth\Continent\America~North\USA\USA~Islands\CountiesKingman_Reef.internal.md) 
+### [Kingman_Reef.public](/_public/Earth/Continent/America~North/USA/USA~Islands/Counties/Kingman_Reef.public.md) 
 
-### [Kingman_Reef.protect](/_protect/\Earth\Continent\America~North\USA\USA~Islands\CountiesKingman_Reef.protect.md) 
+### [Kingman_Reef.internal](/_internal/Earth/Continent/America~North/USA/USA~Islands/Counties/Kingman_Reef.internal.md) 
 
-### [Kingman_Reef.private](/_private/\Earth\Continent\America~North\USA\USA~Islands\CountiesKingman_Reef.private.md) 
+### [Kingman_Reef.protect](/_protect/Earth/Continent/America~North/USA/USA~Islands/Counties/Kingman_Reef.protect.md) 
 
-### [Kingman_Reef.personal](/_personal/\Earth\Continent\America~North\USA\USA~Islands\CountiesKingman_Reef.personal.md) 
+### [Kingman_Reef.private](/_private/Earth/Continent/America~North/USA/USA~Islands/Counties/Kingman_Reef.private.md) 
 
-### [Kingman_Reef.secret](/_secret/\Earth\Continent\America~North\USA\USA~Islands\CountiesKingman_Reef.secret.md)
+### [Kingman_Reef.personal](/_personal/Earth/Continent/America~North/USA/USA~Islands/Counties/Kingman_Reef.personal.md) 
+
+### [Kingman_Reef.secret](/_secret/Earth/Continent/America~North/USA/USA~Islands/Counties/Kingman_Reef.secret.md)
 

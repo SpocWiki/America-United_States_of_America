@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Harrisburg.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\Pennsylvania\counties~Pennsylvania\Dauphin,County\cities~DauphinHarrisburg.public.md) 
+### [Harrisburg](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/Pennsylvania/counties~Pennsylvania/Dauphin,County/cities~Dauphin/Harrisburg.md) 
 
-### [Harrisburg.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\Pennsylvania\counties~Pennsylvania\Dauphin,County\cities~DauphinHarrisburg.internal.md) 
+### [Harrisburg.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/Pennsylvania/counties~Pennsylvania/Dauphin,County/cities~Dauphin/Harrisburg.public.md) 
 
-### [Harrisburg.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\Pennsylvania\counties~Pennsylvania\Dauphin,County\cities~DauphinHarrisburg.protect.md) 
+### [Harrisburg.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/Pennsylvania/counties~Pennsylvania/Dauphin,County/cities~Dauphin/Harrisburg.internal.md) 
 
-### [Harrisburg.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\Pennsylvania\counties~Pennsylvania\Dauphin,County\cities~DauphinHarrisburg.private.md) 
+### [Harrisburg.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/Pennsylvania/counties~Pennsylvania/Dauphin,County/cities~Dauphin/Harrisburg.protect.md) 
 
-### [Harrisburg.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\Pennsylvania\counties~Pennsylvania\Dauphin,County\cities~DauphinHarrisburg.personal.md) 
+### [Harrisburg.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/Pennsylvania/counties~Pennsylvania/Dauphin,County/cities~Dauphin/Harrisburg.private.md) 
 
-### [Harrisburg.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\Pennsylvania\counties~Pennsylvania\Dauphin,County\cities~DauphinHarrisburg.secret.md)
+### [Harrisburg.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/Pennsylvania/counties~Pennsylvania/Dauphin,County/cities~Dauphin/Harrisburg.personal.md) 
+
+### [Harrisburg.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/Pennsylvania/counties~Pennsylvania/Dauphin,County/cities~Dauphin/Harrisburg.secret.md)
 

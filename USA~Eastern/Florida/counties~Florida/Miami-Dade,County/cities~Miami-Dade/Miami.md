@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Miami.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\Florida\counties~Florida\Miami-Dade,County\cities~Miami-DadeMiami.public.md) 
+### [Miami](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/Florida/counties~Florida/Miami-Dade,County/cities~Miami-Dade/Miami.md) 
 
-### [Miami.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\Florida\counties~Florida\Miami-Dade,County\cities~Miami-DadeMiami.internal.md) 
+### [Miami.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/Florida/counties~Florida/Miami-Dade,County/cities~Miami-Dade/Miami.public.md) 
 
-### [Miami.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\Florida\counties~Florida\Miami-Dade,County\cities~Miami-DadeMiami.protect.md) 
+### [Miami.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/Florida/counties~Florida/Miami-Dade,County/cities~Miami-Dade/Miami.internal.md) 
 
-### [Miami.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\Florida\counties~Florida\Miami-Dade,County\cities~Miami-DadeMiami.private.md) 
+### [Miami.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/Florida/counties~Florida/Miami-Dade,County/cities~Miami-Dade/Miami.protect.md) 
 
-### [Miami.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\Florida\counties~Florida\Miami-Dade,County\cities~Miami-DadeMiami.personal.md) 
+### [Miami.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/Florida/counties~Florida/Miami-Dade,County/cities~Miami-Dade/Miami.private.md) 
 
-### [Miami.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\Florida\counties~Florida\Miami-Dade,County\cities~Miami-DadeMiami.secret.md)
+### [Miami.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/Florida/counties~Florida/Miami-Dade,County/cities~Miami-Dade/Miami.personal.md) 
+
+### [Miami.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/Florida/counties~Florida/Miami-Dade,County/cities~Miami-Dade/Miami.secret.md)
 

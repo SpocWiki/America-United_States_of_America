@@ -43,15 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Washington.public](/_public/\Earth\Continent\America~North\USA\USA~PacificWashington.public.md) 
+### [Washington](/_Standards/Earth/Continent/America~North/USA/USA~Pacific/Washington.md) 
 
-### [Washington.internal](/_internal/\Earth\Continent\America~North\USA\USA~PacificWashington.internal.md) 
+### [Washington.public](/_public/Earth/Continent/America~North/USA/USA~Pacific/Washington.public.md) 
 
-### [Washington.protect](/_protect/\Earth\Continent\America~North\USA\USA~PacificWashington.protect.md) 
+### [Washington.internal](/_internal/Earth/Continent/America~North/USA/USA~Pacific/Washington.internal.md) 
 
-### [Washington.private](/_private/\Earth\Continent\America~North\USA\USA~PacificWashington.private.md) 
+### [Washington.protect](/_protect/Earth/Continent/America~North/USA/USA~Pacific/Washington.protect.md) 
 
-### [Washington.personal](/_personal/\Earth\Continent\America~North\USA\USA~PacificWashington.personal.md) 
+### [Washington.private](/_private/Earth/Continent/America~North/USA/USA~Pacific/Washington.private.md) 
 
-### [Washington.secret](/_secret/\Earth\Continent\America~North\USA\USA~PacificWashington.secret.md)
+### [Washington.personal](/_personal/Earth/Continent/America~North/USA/USA~Pacific/Washington.personal.md) 
+
+### [Washington.secret](/_secret/Earth/Continent/America~North/USA/USA~Pacific/Washington.secret.md)
 

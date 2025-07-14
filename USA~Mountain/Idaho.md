@@ -42,15 +42,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Idaho.public](/_public/\Earth\Continent\America~North\USA\USA~MountainIdaho.public.md) 
+### [Idaho](/_Standards/Earth/Continent/America~North/USA/USA~Mountain/Idaho.md) 
 
-### [Idaho.internal](/_internal/\Earth\Continent\America~North\USA\USA~MountainIdaho.internal.md) 
+### [Idaho.public](/_public/Earth/Continent/America~North/USA/USA~Mountain/Idaho.public.md) 
 
-### [Idaho.protect](/_protect/\Earth\Continent\America~North\USA\USA~MountainIdaho.protect.md) 
+### [Idaho.internal](/_internal/Earth/Continent/America~North/USA/USA~Mountain/Idaho.internal.md) 
 
-### [Idaho.private](/_private/\Earth\Continent\America~North\USA\USA~MountainIdaho.private.md) 
+### [Idaho.protect](/_protect/Earth/Continent/America~North/USA/USA~Mountain/Idaho.protect.md) 
 
-### [Idaho.personal](/_personal/\Earth\Continent\America~North\USA\USA~MountainIdaho.personal.md) 
+### [Idaho.private](/_private/Earth/Continent/America~North/USA/USA~Mountain/Idaho.private.md) 
 
-### [Idaho.secret](/_secret/\Earth\Continent\America~North\USA\USA~MountainIdaho.secret.md)
+### [Idaho.personal](/_personal/Earth/Continent/America~North/USA/USA~Mountain/Idaho.personal.md) 
+
+### [Idaho.secret](/_secret/Earth/Continent/America~North/USA/USA~Mountain/Idaho.secret.md)
 

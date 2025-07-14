@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Forest_Hill.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\Maryland\counties~Maryland\Harford,County\cities~HarfordForest_Hill.public.md) 
+### [Forest_Hill](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/Maryland/counties~Maryland/Harford,County/cities~Harford/Forest_Hill.md) 
 
-### [Forest_Hill.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\Maryland\counties~Maryland\Harford,County\cities~HarfordForest_Hill.internal.md) 
+### [Forest_Hill.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/Maryland/counties~Maryland/Harford,County/cities~Harford/Forest_Hill.public.md) 
 
-### [Forest_Hill.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\Maryland\counties~Maryland\Harford,County\cities~HarfordForest_Hill.protect.md) 
+### [Forest_Hill.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/Maryland/counties~Maryland/Harford,County/cities~Harford/Forest_Hill.internal.md) 
 
-### [Forest_Hill.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\Maryland\counties~Maryland\Harford,County\cities~HarfordForest_Hill.private.md) 
+### [Forest_Hill.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/Maryland/counties~Maryland/Harford,County/cities~Harford/Forest_Hill.protect.md) 
 
-### [Forest_Hill.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\Maryland\counties~Maryland\Harford,County\cities~HarfordForest_Hill.personal.md) 
+### [Forest_Hill.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/Maryland/counties~Maryland/Harford,County/cities~Harford/Forest_Hill.private.md) 
 
-### [Forest_Hill.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\Maryland\counties~Maryland\Harford,County\cities~HarfordForest_Hill.secret.md)
+### [Forest_Hill.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/Maryland/counties~Maryland/Harford,County/cities~Harford/Forest_Hill.personal.md) 
+
+### [Forest_Hill.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/Maryland/counties~Maryland/Harford,County/cities~Harford/Forest_Hill.secret.md)
 

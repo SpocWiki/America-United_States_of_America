@@ -397,15 +397,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [New_York,City.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_YorkNew_York,City.public.md) 
+### [New_York,City](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/New_York,City.md) 
 
-### [New_York,City.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_YorkNew_York,City.internal.md) 
+### [New_York,City.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/New_York,City.public.md) 
 
-### [New_York,City.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_YorkNew_York,City.protect.md) 
+### [New_York,City.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/New_York,City.internal.md) 
 
-### [New_York,City.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_YorkNew_York,City.private.md) 
+### [New_York,City.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/New_York,City.protect.md) 
 
-### [New_York,City.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_YorkNew_York,City.personal.md) 
+### [New_York,City.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/New_York,City.private.md) 
 
-### [New_York,City.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_YorkNew_York,City.secret.md)
+### [New_York,City.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/New_York,City.personal.md) 
+
+### [New_York,City.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/New_York,City.secret.md)
 

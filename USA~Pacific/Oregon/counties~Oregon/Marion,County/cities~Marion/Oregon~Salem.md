@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oregon~Salem.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\Oregon\counties~Oregon\Marion,County\cities~MarionOregon~Salem.public.md) 
+### [Oregon~Salem](/_Standards/Earth/Continent/America~North/USA/USA~Pacific/Oregon/counties~Oregon/Marion,County/cities~Marion/Oregon~Salem.md) 
 
-### [Oregon~Salem.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\Oregon\counties~Oregon\Marion,County\cities~MarionOregon~Salem.internal.md) 
+### [Oregon~Salem.public](/_public/Earth/Continent/America~North/USA/USA~Pacific/Oregon/counties~Oregon/Marion,County/cities~Marion/Oregon~Salem.public.md) 
 
-### [Oregon~Salem.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\Oregon\counties~Oregon\Marion,County\cities~MarionOregon~Salem.protect.md) 
+### [Oregon~Salem.internal](/_internal/Earth/Continent/America~North/USA/USA~Pacific/Oregon/counties~Oregon/Marion,County/cities~Marion/Oregon~Salem.internal.md) 
 
-### [Oregon~Salem.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\Oregon\counties~Oregon\Marion,County\cities~MarionOregon~Salem.private.md) 
+### [Oregon~Salem.protect](/_protect/Earth/Continent/America~North/USA/USA~Pacific/Oregon/counties~Oregon/Marion,County/cities~Marion/Oregon~Salem.protect.md) 
 
-### [Oregon~Salem.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\Oregon\counties~Oregon\Marion,County\cities~MarionOregon~Salem.personal.md) 
+### [Oregon~Salem.private](/_private/Earth/Continent/America~North/USA/USA~Pacific/Oregon/counties~Oregon/Marion,County/cities~Marion/Oregon~Salem.private.md) 
 
-### [Oregon~Salem.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\Oregon\counties~Oregon\Marion,County\cities~MarionOregon~Salem.secret.md)
+### [Oregon~Salem.personal](/_personal/Earth/Continent/America~North/USA/USA~Pacific/Oregon/counties~Oregon/Marion,County/cities~Marion/Oregon~Salem.personal.md) 
+
+### [Oregon~Salem.secret](/_secret/Earth/Continent/America~North/USA/USA~Pacific/Oregon/counties~Oregon/Marion,County/cities~Marion/Oregon~Salem.secret.md)
 

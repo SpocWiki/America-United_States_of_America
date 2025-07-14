@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Montgomery.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Alabama\counties~Alabama\Montgomery,County\cities~MontgomeryMontgomery.public.md) 
+### [Montgomery](/_Standards/Earth/Continent/America~North/USA/USA~Central/Alabama/counties~Alabama/Montgomery,County/cities~Montgomery/Montgomery.md) 
 
-### [Montgomery.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Alabama\counties~Alabama\Montgomery,County\cities~MontgomeryMontgomery.internal.md) 
+### [Montgomery.public](/_public/Earth/Continent/America~North/USA/USA~Central/Alabama/counties~Alabama/Montgomery,County/cities~Montgomery/Montgomery.public.md) 
 
-### [Montgomery.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Alabama\counties~Alabama\Montgomery,County\cities~MontgomeryMontgomery.protect.md) 
+### [Montgomery.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Alabama/counties~Alabama/Montgomery,County/cities~Montgomery/Montgomery.internal.md) 
 
-### [Montgomery.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Alabama\counties~Alabama\Montgomery,County\cities~MontgomeryMontgomery.private.md) 
+### [Montgomery.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Alabama/counties~Alabama/Montgomery,County/cities~Montgomery/Montgomery.protect.md) 
 
-### [Montgomery.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Alabama\counties~Alabama\Montgomery,County\cities~MontgomeryMontgomery.personal.md) 
+### [Montgomery.private](/_private/Earth/Continent/America~North/USA/USA~Central/Alabama/counties~Alabama/Montgomery,County/cities~Montgomery/Montgomery.private.md) 
 
-### [Montgomery.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Alabama\counties~Alabama\Montgomery,County\cities~MontgomeryMontgomery.secret.md)
+### [Montgomery.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Alabama/counties~Alabama/Montgomery,County/cities~Montgomery/Montgomery.personal.md) 
+
+### [Montgomery.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Alabama/counties~Alabama/Montgomery,County/cities~Montgomery/Montgomery.secret.md)
 

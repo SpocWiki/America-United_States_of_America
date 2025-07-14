@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oak_Park.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Cook,County\cities~CookOak_Park.public.md) 
+### [Oak_Park](/_Standards/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Cook,County/cities~Cook/Oak_Park.md) 
 
-### [Oak_Park.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Cook,County\cities~CookOak_Park.internal.md) 
+### [Oak_Park.public](/_public/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Cook,County/cities~Cook/Oak_Park.public.md) 
 
-### [Oak_Park.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Cook,County\cities~CookOak_Park.protect.md) 
+### [Oak_Park.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Cook,County/cities~Cook/Oak_Park.internal.md) 
 
-### [Oak_Park.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Cook,County\cities~CookOak_Park.private.md) 
+### [Oak_Park.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Cook,County/cities~Cook/Oak_Park.protect.md) 
 
-### [Oak_Park.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Cook,County\cities~CookOak_Park.personal.md) 
+### [Oak_Park.private](/_private/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Cook,County/cities~Cook/Oak_Park.private.md) 
 
-### [Oak_Park.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Cook,County\cities~CookOak_Park.secret.md)
+### [Oak_Park.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Cook,County/cities~Cook/Oak_Park.personal.md) 
+
+### [Oak_Park.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Cook,County/cities~Cook/Oak_Park.secret.md)
 

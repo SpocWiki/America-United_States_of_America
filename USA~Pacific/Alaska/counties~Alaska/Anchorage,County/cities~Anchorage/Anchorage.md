@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Anchorage.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\Alaska\counties~Alaska\Anchorage,County\cities~AnchorageAnchorage.public.md) 
+### [Anchorage](/_Standards/Earth/Continent/America~North/USA/USA~Pacific/Alaska/counties~Alaska/Anchorage,County/cities~Anchorage/Anchorage.md) 
 
-### [Anchorage.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\Alaska\counties~Alaska\Anchorage,County\cities~AnchorageAnchorage.internal.md) 
+### [Anchorage.public](/_public/Earth/Continent/America~North/USA/USA~Pacific/Alaska/counties~Alaska/Anchorage,County/cities~Anchorage/Anchorage.public.md) 
 
-### [Anchorage.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\Alaska\counties~Alaska\Anchorage,County\cities~AnchorageAnchorage.protect.md) 
+### [Anchorage.internal](/_internal/Earth/Continent/America~North/USA/USA~Pacific/Alaska/counties~Alaska/Anchorage,County/cities~Anchorage/Anchorage.internal.md) 
 
-### [Anchorage.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\Alaska\counties~Alaska\Anchorage,County\cities~AnchorageAnchorage.private.md) 
+### [Anchorage.protect](/_protect/Earth/Continent/America~North/USA/USA~Pacific/Alaska/counties~Alaska/Anchorage,County/cities~Anchorage/Anchorage.protect.md) 
 
-### [Anchorage.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\Alaska\counties~Alaska\Anchorage,County\cities~AnchorageAnchorage.personal.md) 
+### [Anchorage.private](/_private/Earth/Continent/America~North/USA/USA~Pacific/Alaska/counties~Alaska/Anchorage,County/cities~Anchorage/Anchorage.private.md) 
 
-### [Anchorage.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\Alaska\counties~Alaska\Anchorage,County\cities~AnchorageAnchorage.secret.md)
+### [Anchorage.personal](/_personal/Earth/Continent/America~North/USA/USA~Pacific/Alaska/counties~Alaska/Anchorage,County/cities~Anchorage/Anchorage.personal.md) 
+
+### [Anchorage.secret](/_secret/Earth/Continent/America~North/USA/USA~Pacific/Alaska/counties~Alaska/Anchorage,County/cities~Anchorage/Anchorage.secret.md)
 

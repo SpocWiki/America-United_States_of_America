@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Columbia.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\South_Carolina\counties~South_Carolina\Richland,County\cities~RichlandColumbia.public.md) 
+### [Columbia](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/South_Carolina/counties~South_Carolina/Richland,County/cities~Richland/Columbia.md) 
 
-### [Columbia.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\South_Carolina\counties~South_Carolina\Richland,County\cities~RichlandColumbia.internal.md) 
+### [Columbia.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/South_Carolina/counties~South_Carolina/Richland,County/cities~Richland/Columbia.public.md) 
 
-### [Columbia.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\South_Carolina\counties~South_Carolina\Richland,County\cities~RichlandColumbia.protect.md) 
+### [Columbia.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/South_Carolina/counties~South_Carolina/Richland,County/cities~Richland/Columbia.internal.md) 
 
-### [Columbia.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\South_Carolina\counties~South_Carolina\Richland,County\cities~RichlandColumbia.private.md) 
+### [Columbia.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/South_Carolina/counties~South_Carolina/Richland,County/cities~Richland/Columbia.protect.md) 
 
-### [Columbia.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\South_Carolina\counties~South_Carolina\Richland,County\cities~RichlandColumbia.personal.md) 
+### [Columbia.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/South_Carolina/counties~South_Carolina/Richland,County/cities~Richland/Columbia.private.md) 
 
-### [Columbia.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\South_Carolina\counties~South_Carolina\Richland,County\cities~RichlandColumbia.secret.md)
+### [Columbia.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/South_Carolina/counties~South_Carolina/Richland,County/cities~Richland/Columbia.personal.md) 
+
+### [Columbia.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/South_Carolina/counties~South_Carolina/Richland,County/cities~Richland/Columbia.secret.md)
 

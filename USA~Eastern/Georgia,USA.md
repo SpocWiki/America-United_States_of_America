@@ -41,15 +41,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Georgia,USA.public](/_public/\Earth\Continent\America~North\USA\USA~EasternGeorgia,USA.public.md) 
+### [Georgia,USA](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/Georgia,USA.md) 
 
-### [Georgia,USA.internal](/_internal/\Earth\Continent\America~North\USA\USA~EasternGeorgia,USA.internal.md) 
+### [Georgia,USA.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/Georgia,USA.public.md) 
 
-### [Georgia,USA.protect](/_protect/\Earth\Continent\America~North\USA\USA~EasternGeorgia,USA.protect.md) 
+### [Georgia,USA.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/Georgia,USA.internal.md) 
 
-### [Georgia,USA.private](/_private/\Earth\Continent\America~North\USA\USA~EasternGeorgia,USA.private.md) 
+### [Georgia,USA.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/Georgia,USA.protect.md) 
 
-### [Georgia,USA.personal](/_personal/\Earth\Continent\America~North\USA\USA~EasternGeorgia,USA.personal.md) 
+### [Georgia,USA.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/Georgia,USA.private.md) 
 
-### [Georgia,USA.secret](/_secret/\Earth\Continent\America~North\USA\USA~EasternGeorgia,USA.secret.md)
+### [Georgia,USA.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/Georgia,USA.personal.md) 
+
+### [Georgia,USA.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/Georgia,USA.secret.md)
 

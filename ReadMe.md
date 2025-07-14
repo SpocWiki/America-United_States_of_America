@@ -136,15 +136,17 @@ dv.table(
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\America~North\USAReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/America~North/USA/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\America~North\USAReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/America~North/USA/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\America~North\USAReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/America~North/USA/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\America~North\USAReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/America~North/USA/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\America~North\USAReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/America~North/USA/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\America~North\USAReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/America~North/USA/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/America~North/USA/ReadMe.secret.md)
 

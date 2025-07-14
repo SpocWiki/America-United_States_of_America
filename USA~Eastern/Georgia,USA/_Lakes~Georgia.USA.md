@@ -41,15 +41,17 @@ markerFolder: ./_Lakes/
 
 ## Confidential Links & Embeds: 
 
-### [_Lakes~Georgia.USA.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\Georgia,USA_Lakes~Georgia.USA.public.md) 
+### [_Lakes~Georgia.USA](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/Georgia,USA/_Lakes~Georgia.USA.md) 
 
-### [_Lakes~Georgia.USA.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\Georgia,USA_Lakes~Georgia.USA.internal.md) 
+### [_Lakes~Georgia.USA.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/Georgia,USA/_Lakes~Georgia.USA.public.md) 
 
-### [_Lakes~Georgia.USA.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\Georgia,USA_Lakes~Georgia.USA.protect.md) 
+### [_Lakes~Georgia.USA.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/Georgia,USA/_Lakes~Georgia.USA.internal.md) 
 
-### [_Lakes~Georgia.USA.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\Georgia,USA_Lakes~Georgia.USA.private.md) 
+### [_Lakes~Georgia.USA.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/Georgia,USA/_Lakes~Georgia.USA.protect.md) 
 
-### [_Lakes~Georgia.USA.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\Georgia,USA_Lakes~Georgia.USA.personal.md) 
+### [_Lakes~Georgia.USA.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/Georgia,USA/_Lakes~Georgia.USA.private.md) 
 
-### [_Lakes~Georgia.USA.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\Georgia,USA_Lakes~Georgia.USA.secret.md)
+### [_Lakes~Georgia.USA.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/Georgia,USA/_Lakes~Georgia.USA.personal.md) 
+
+### [_Lakes~Georgia.USA.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/Georgia,USA/_Lakes~Georgia.USA.secret.md)
 

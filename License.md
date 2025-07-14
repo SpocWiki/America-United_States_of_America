@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\America~North\USALicense.public.md) 
+### [License](/_Standards/Earth/Continent/America~North/USA/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\America~North\USALicense.internal.md) 
+### [License.public](/_public/Earth/Continent/America~North/USA/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\America~North\USALicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/America~North/USA/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\America~North\USALicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/America~North/USA/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\America~North\USALicense.personal.md) 
+### [License.private](/_private/Earth/Continent/America~North/USA/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\America~North\USALicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/America~North/USA/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/America~North/USA/License.secret.md)
 

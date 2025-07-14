@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Salt_Lake_City.public](/_public/\Earth\Continent\America~North\USA\USA~Mountain\Utah\counties~Utah\Salt_Lake,County\cities~Salt_LakeSalt_Lake_City.public.md) 
+### [Salt_Lake_City](/_Standards/Earth/Continent/America~North/USA/USA~Mountain/Utah/counties~Utah/Salt_Lake,County/cities~Salt_Lake/Salt_Lake_City.md) 
 
-### [Salt_Lake_City.internal](/_internal/\Earth\Continent\America~North\USA\USA~Mountain\Utah\counties~Utah\Salt_Lake,County\cities~Salt_LakeSalt_Lake_City.internal.md) 
+### [Salt_Lake_City.public](/_public/Earth/Continent/America~North/USA/USA~Mountain/Utah/counties~Utah/Salt_Lake,County/cities~Salt_Lake/Salt_Lake_City.public.md) 
 
-### [Salt_Lake_City.protect](/_protect/\Earth\Continent\America~North\USA\USA~Mountain\Utah\counties~Utah\Salt_Lake,County\cities~Salt_LakeSalt_Lake_City.protect.md) 
+### [Salt_Lake_City.internal](/_internal/Earth/Continent/America~North/USA/USA~Mountain/Utah/counties~Utah/Salt_Lake,County/cities~Salt_Lake/Salt_Lake_City.internal.md) 
 
-### [Salt_Lake_City.private](/_private/\Earth\Continent\America~North\USA\USA~Mountain\Utah\counties~Utah\Salt_Lake,County\cities~Salt_LakeSalt_Lake_City.private.md) 
+### [Salt_Lake_City.protect](/_protect/Earth/Continent/America~North/USA/USA~Mountain/Utah/counties~Utah/Salt_Lake,County/cities~Salt_Lake/Salt_Lake_City.protect.md) 
 
-### [Salt_Lake_City.personal](/_personal/\Earth\Continent\America~North\USA\USA~Mountain\Utah\counties~Utah\Salt_Lake,County\cities~Salt_LakeSalt_Lake_City.personal.md) 
+### [Salt_Lake_City.private](/_private/Earth/Continent/America~North/USA/USA~Mountain/Utah/counties~Utah/Salt_Lake,County/cities~Salt_Lake/Salt_Lake_City.private.md) 
 
-### [Salt_Lake_City.secret](/_secret/\Earth\Continent\America~North\USA\USA~Mountain\Utah\counties~Utah\Salt_Lake,County\cities~Salt_LakeSalt_Lake_City.secret.md)
+### [Salt_Lake_City.personal](/_personal/Earth/Continent/America~North/USA/USA~Mountain/Utah/counties~Utah/Salt_Lake,County/cities~Salt_Lake/Salt_Lake_City.personal.md) 
+
+### [Salt_Lake_City.secret](/_secret/Earth/Continent/America~North/USA/USA~Mountain/Utah/counties~Utah/Salt_Lake,County/cities~Salt_Lake/Salt_Lake_City.secret.md)
 

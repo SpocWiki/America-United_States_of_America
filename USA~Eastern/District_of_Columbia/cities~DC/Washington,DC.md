@@ -232,15 +232,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Washington,DC.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\District_of_Columbia\cities~DCWashington,DC.public.md) 
+### [Washington,DC](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/District_of_Columbia/cities~DC/Washington,DC.md) 
 
-### [Washington,DC.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\District_of_Columbia\cities~DCWashington,DC.internal.md) 
+### [Washington,DC.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/District_of_Columbia/cities~DC/Washington,DC.public.md) 
 
-### [Washington,DC.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\District_of_Columbia\cities~DCWashington,DC.protect.md) 
+### [Washington,DC.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/District_of_Columbia/cities~DC/Washington,DC.internal.md) 
 
-### [Washington,DC.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\District_of_Columbia\cities~DCWashington,DC.private.md) 
+### [Washington,DC.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/District_of_Columbia/cities~DC/Washington,DC.protect.md) 
 
-### [Washington,DC.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\District_of_Columbia\cities~DCWashington,DC.personal.md) 
+### [Washington,DC.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/District_of_Columbia/cities~DC/Washington,DC.private.md) 
 
-### [Washington,DC.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\District_of_Columbia\cities~DCWashington,DC.secret.md)
+### [Washington,DC.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/District_of_Columbia/cities~DC/Washington,DC.personal.md) 
+
+### [Washington,DC.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/District_of_Columbia/cities~DC/Washington,DC.secret.md)
 

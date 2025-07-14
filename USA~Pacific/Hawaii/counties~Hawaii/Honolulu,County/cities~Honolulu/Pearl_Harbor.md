@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pearl_Harbor.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\Hawaii\counties~Hawaii\Honolulu,County\cities~HonoluluPearl_Harbor.public.md) 
+### [Pearl_Harbor](/_Standards/Earth/Continent/America~North/USA/USA~Pacific/Hawaii/counties~Hawaii/Honolulu,County/cities~Honolulu/Pearl_Harbor.md) 
 
-### [Pearl_Harbor.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\Hawaii\counties~Hawaii\Honolulu,County\cities~HonoluluPearl_Harbor.internal.md) 
+### [Pearl_Harbor.public](/_public/Earth/Continent/America~North/USA/USA~Pacific/Hawaii/counties~Hawaii/Honolulu,County/cities~Honolulu/Pearl_Harbor.public.md) 
 
-### [Pearl_Harbor.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\Hawaii\counties~Hawaii\Honolulu,County\cities~HonoluluPearl_Harbor.protect.md) 
+### [Pearl_Harbor.internal](/_internal/Earth/Continent/America~North/USA/USA~Pacific/Hawaii/counties~Hawaii/Honolulu,County/cities~Honolulu/Pearl_Harbor.internal.md) 
 
-### [Pearl_Harbor.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\Hawaii\counties~Hawaii\Honolulu,County\cities~HonoluluPearl_Harbor.private.md) 
+### [Pearl_Harbor.protect](/_protect/Earth/Continent/America~North/USA/USA~Pacific/Hawaii/counties~Hawaii/Honolulu,County/cities~Honolulu/Pearl_Harbor.protect.md) 
 
-### [Pearl_Harbor.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\Hawaii\counties~Hawaii\Honolulu,County\cities~HonoluluPearl_Harbor.personal.md) 
+### [Pearl_Harbor.private](/_private/Earth/Continent/America~North/USA/USA~Pacific/Hawaii/counties~Hawaii/Honolulu,County/cities~Honolulu/Pearl_Harbor.private.md) 
 
-### [Pearl_Harbor.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\Hawaii\counties~Hawaii\Honolulu,County\cities~HonoluluPearl_Harbor.secret.md)
+### [Pearl_Harbor.personal](/_personal/Earth/Continent/America~North/USA/USA~Pacific/Hawaii/counties~Hawaii/Honolulu,County/cities~Honolulu/Pearl_Harbor.personal.md) 
+
+### [Pearl_Harbor.secret](/_secret/Earth/Continent/America~North/USA/USA~Pacific/Hawaii/counties~Hawaii/Honolulu,County/cities~Honolulu/Pearl_Harbor.secret.md)
 

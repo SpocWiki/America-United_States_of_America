@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Merced.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Merced,County\cities~MercedMerced.public.md) 
+### [Merced](/_Standards/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Merced,County/cities~Merced/Merced.md) 
 
-### [Merced.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Merced,County\cities~MercedMerced.internal.md) 
+### [Merced.public](/_public/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Merced,County/cities~Merced/Merced.public.md) 
 
-### [Merced.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Merced,County\cities~MercedMerced.protect.md) 
+### [Merced.internal](/_internal/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Merced,County/cities~Merced/Merced.internal.md) 
 
-### [Merced.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Merced,County\cities~MercedMerced.private.md) 
+### [Merced.protect](/_protect/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Merced,County/cities~Merced/Merced.protect.md) 
 
-### [Merced.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Merced,County\cities~MercedMerced.personal.md) 
+### [Merced.private](/_private/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Merced,County/cities~Merced/Merced.private.md) 
 
-### [Merced.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Merced,County\cities~MercedMerced.secret.md)
+### [Merced.personal](/_personal/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Merced,County/cities~Merced/Merced.personal.md) 
+
+### [Merced.secret](/_secret/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Merced,County/cities~Merced/Merced.secret.md)
 

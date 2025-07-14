@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bloomingtown.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Mc_Lean,County\cities~Mc_LeanBloomingtown.public.md) 
+### [Bloomingtown](/_Standards/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Mc_Lean,County/cities~Mc_Lean/Bloomingtown.md) 
 
-### [Bloomingtown.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Mc_Lean,County\cities~Mc_LeanBloomingtown.internal.md) 
+### [Bloomingtown.public](/_public/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Mc_Lean,County/cities~Mc_Lean/Bloomingtown.public.md) 
 
-### [Bloomingtown.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Mc_Lean,County\cities~Mc_LeanBloomingtown.protect.md) 
+### [Bloomingtown.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Mc_Lean,County/cities~Mc_Lean/Bloomingtown.internal.md) 
 
-### [Bloomingtown.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Mc_Lean,County\cities~Mc_LeanBloomingtown.private.md) 
+### [Bloomingtown.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Mc_Lean,County/cities~Mc_Lean/Bloomingtown.protect.md) 
 
-### [Bloomingtown.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Mc_Lean,County\cities~Mc_LeanBloomingtown.personal.md) 
+### [Bloomingtown.private](/_private/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Mc_Lean,County/cities~Mc_Lean/Bloomingtown.private.md) 
 
-### [Bloomingtown.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Mc_Lean,County\cities~Mc_LeanBloomingtown.secret.md)
+### [Bloomingtown.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Mc_Lean,County/cities~Mc_Lean/Bloomingtown.personal.md) 
+
+### [Bloomingtown.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Mc_Lean,County/cities~Mc_Lean/Bloomingtown.secret.md)
 

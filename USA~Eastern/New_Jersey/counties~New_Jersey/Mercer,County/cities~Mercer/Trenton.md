@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Trenton.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Mercer,County\cities~MercerTrenton.public.md) 
+### [Trenton](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Mercer,County/cities~Mercer/Trenton.md) 
 
-### [Trenton.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Mercer,County\cities~MercerTrenton.internal.md) 
+### [Trenton.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Mercer,County/cities~Mercer/Trenton.public.md) 
 
-### [Trenton.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Mercer,County\cities~MercerTrenton.protect.md) 
+### [Trenton.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Mercer,County/cities~Mercer/Trenton.internal.md) 
 
-### [Trenton.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Mercer,County\cities~MercerTrenton.private.md) 
+### [Trenton.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Mercer,County/cities~Mercer/Trenton.protect.md) 
 
-### [Trenton.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Mercer,County\cities~MercerTrenton.personal.md) 
+### [Trenton.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Mercer,County/cities~Mercer/Trenton.private.md) 
 
-### [Trenton.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Mercer,County\cities~MercerTrenton.secret.md)
+### [Trenton.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Mercer,County/cities~Mercer/Trenton.personal.md) 
+
+### [Trenton.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Mercer,County/cities~Mercer/Trenton.secret.md)
 

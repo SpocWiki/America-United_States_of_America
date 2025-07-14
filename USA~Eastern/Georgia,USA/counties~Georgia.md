@@ -13,19 +13,19 @@ maxZoom: 18
 ```
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [counties~Georgia.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\Georgia,USAcounties~Georgia.public.md) 
+### [counties~Georgia](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/Georgia,USA/counties~Georgia.md) 
 
-### [counties~Georgia.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\Georgia,USAcounties~Georgia.internal.md) 
+### [counties~Georgia.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/Georgia,USA/counties~Georgia.public.md) 
 
-### [counties~Georgia.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\Georgia,USAcounties~Georgia.protect.md) 
+### [counties~Georgia.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/Georgia,USA/counties~Georgia.internal.md) 
 
-### [counties~Georgia.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\Georgia,USAcounties~Georgia.private.md) 
+### [counties~Georgia.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/Georgia,USA/counties~Georgia.protect.md) 
 
-### [counties~Georgia.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\Georgia,USAcounties~Georgia.personal.md) 
+### [counties~Georgia.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/Georgia,USA/counties~Georgia.private.md) 
 
-### [counties~Georgia.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\Georgia,USAcounties~Georgia.secret.md)
+### [counties~Georgia.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/Georgia,USA/counties~Georgia.personal.md) 
+
+### [counties~Georgia.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/Georgia,USA/counties~Georgia.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Raleigh.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\North_Carolina\counties~North_Carolina\Wake,County\cities~WakeRaleigh.public.md) 
+### [Raleigh](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/North_Carolina/counties~North_Carolina/Wake,County/cities~Wake/Raleigh.md) 
 
-### [Raleigh.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\North_Carolina\counties~North_Carolina\Wake,County\cities~WakeRaleigh.internal.md) 
+### [Raleigh.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/North_Carolina/counties~North_Carolina/Wake,County/cities~Wake/Raleigh.public.md) 
 
-### [Raleigh.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\North_Carolina\counties~North_Carolina\Wake,County\cities~WakeRaleigh.protect.md) 
+### [Raleigh.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/North_Carolina/counties~North_Carolina/Wake,County/cities~Wake/Raleigh.internal.md) 
 
-### [Raleigh.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\North_Carolina\counties~North_Carolina\Wake,County\cities~WakeRaleigh.private.md) 
+### [Raleigh.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/North_Carolina/counties~North_Carolina/Wake,County/cities~Wake/Raleigh.protect.md) 
 
-### [Raleigh.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\North_Carolina\counties~North_Carolina\Wake,County\cities~WakeRaleigh.personal.md) 
+### [Raleigh.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/North_Carolina/counties~North_Carolina/Wake,County/cities~Wake/Raleigh.private.md) 
 
-### [Raleigh.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\North_Carolina\counties~North_Carolina\Wake,County\cities~WakeRaleigh.secret.md)
+### [Raleigh.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/North_Carolina/counties~North_Carolina/Wake,County/cities~Wake/Raleigh.personal.md) 
+
+### [Raleigh.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/North_Carolina/counties~North_Carolina/Wake,County/cities~Wake/Raleigh.secret.md)
 

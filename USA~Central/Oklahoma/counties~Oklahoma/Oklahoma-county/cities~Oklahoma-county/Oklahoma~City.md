@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oklahoma~City.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Oklahoma\counties~Oklahoma\Oklahoma-county\cities~Oklahoma-countyOklahoma~City.public.md) 
+### [Oklahoma~City](/_Standards/Earth/Continent/America~North/USA/USA~Central/Oklahoma/counties~Oklahoma/Oklahoma-county/cities~Oklahoma-county/Oklahoma~City.md) 
 
-### [Oklahoma~City.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Oklahoma\counties~Oklahoma\Oklahoma-county\cities~Oklahoma-countyOklahoma~City.internal.md) 
+### [Oklahoma~City.public](/_public/Earth/Continent/America~North/USA/USA~Central/Oklahoma/counties~Oklahoma/Oklahoma-county/cities~Oklahoma-county/Oklahoma~City.public.md) 
 
-### [Oklahoma~City.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Oklahoma\counties~Oklahoma\Oklahoma-county\cities~Oklahoma-countyOklahoma~City.protect.md) 
+### [Oklahoma~City.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Oklahoma/counties~Oklahoma/Oklahoma-county/cities~Oklahoma-county/Oklahoma~City.internal.md) 
 
-### [Oklahoma~City.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Oklahoma\counties~Oklahoma\Oklahoma-county\cities~Oklahoma-countyOklahoma~City.private.md) 
+### [Oklahoma~City.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Oklahoma/counties~Oklahoma/Oklahoma-county/cities~Oklahoma-county/Oklahoma~City.protect.md) 
 
-### [Oklahoma~City.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Oklahoma\counties~Oklahoma\Oklahoma-county\cities~Oklahoma-countyOklahoma~City.personal.md) 
+### [Oklahoma~City.private](/_private/Earth/Continent/America~North/USA/USA~Central/Oklahoma/counties~Oklahoma/Oklahoma-county/cities~Oklahoma-county/Oklahoma~City.private.md) 
 
-### [Oklahoma~City.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Oklahoma\counties~Oklahoma\Oklahoma-county\cities~Oklahoma-countyOklahoma~City.secret.md)
+### [Oklahoma~City.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Oklahoma/counties~Oklahoma/Oklahoma-county/cities~Oklahoma-county/Oklahoma~City.personal.md) 
+
+### [Oklahoma~City.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Oklahoma/counties~Oklahoma/Oklahoma-county/cities~Oklahoma-county/Oklahoma~City.secret.md)
 

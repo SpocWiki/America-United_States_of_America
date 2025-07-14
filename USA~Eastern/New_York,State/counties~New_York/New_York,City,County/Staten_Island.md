@@ -17,15 +17,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Staten_Island.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\New_York,City,CountyStaten_Island.public.md) 
+### [Staten_Island](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/New_York,City,County/Staten_Island.md) 
 
-### [Staten_Island.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\New_York,City,CountyStaten_Island.internal.md) 
+### [Staten_Island.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/New_York,City,County/Staten_Island.public.md) 
 
-### [Staten_Island.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\New_York,City,CountyStaten_Island.protect.md) 
+### [Staten_Island.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/New_York,City,County/Staten_Island.internal.md) 
 
-### [Staten_Island.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\New_York,City,CountyStaten_Island.private.md) 
+### [Staten_Island.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/New_York,City,County/Staten_Island.protect.md) 
 
-### [Staten_Island.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\New_York,City,CountyStaten_Island.personal.md) 
+### [Staten_Island.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/New_York,City,County/Staten_Island.private.md) 
 
-### [Staten_Island.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\New_York,City,CountyStaten_Island.secret.md)
+### [Staten_Island.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/New_York,City,County/Staten_Island.personal.md) 
+
+### [Staten_Island.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/New_York,City,County/Staten_Island.secret.md)
 

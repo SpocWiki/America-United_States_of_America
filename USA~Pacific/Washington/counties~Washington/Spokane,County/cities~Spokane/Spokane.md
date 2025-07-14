@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Spokane.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\Washington\counties~Washington\Spokane,County\cities~SpokaneSpokane.public.md) 
+### [Spokane](/_Standards/Earth/Continent/America~North/USA/USA~Pacific/Washington/counties~Washington/Spokane,County/cities~Spokane/Spokane.md) 
 
-### [Spokane.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\Washington\counties~Washington\Spokane,County\cities~SpokaneSpokane.internal.md) 
+### [Spokane.public](/_public/Earth/Continent/America~North/USA/USA~Pacific/Washington/counties~Washington/Spokane,County/cities~Spokane/Spokane.public.md) 
 
-### [Spokane.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\Washington\counties~Washington\Spokane,County\cities~SpokaneSpokane.protect.md) 
+### [Spokane.internal](/_internal/Earth/Continent/America~North/USA/USA~Pacific/Washington/counties~Washington/Spokane,County/cities~Spokane/Spokane.internal.md) 
 
-### [Spokane.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\Washington\counties~Washington\Spokane,County\cities~SpokaneSpokane.private.md) 
+### [Spokane.protect](/_protect/Earth/Continent/America~North/USA/USA~Pacific/Washington/counties~Washington/Spokane,County/cities~Spokane/Spokane.protect.md) 
 
-### [Spokane.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\Washington\counties~Washington\Spokane,County\cities~SpokaneSpokane.personal.md) 
+### [Spokane.private](/_private/Earth/Continent/America~North/USA/USA~Pacific/Washington/counties~Washington/Spokane,County/cities~Spokane/Spokane.private.md) 
 
-### [Spokane.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\Washington\counties~Washington\Spokane,County\cities~SpokaneSpokane.secret.md)
+### [Spokane.personal](/_personal/Earth/Continent/America~North/USA/USA~Pacific/Washington/counties~Washington/Spokane,County/cities~Spokane/Spokane.personal.md) 
+
+### [Spokane.secret](/_secret/Earth/Continent/America~North/USA/USA~Pacific/Washington/counties~Washington/Spokane,County/cities~Spokane/Spokane.secret.md)
 

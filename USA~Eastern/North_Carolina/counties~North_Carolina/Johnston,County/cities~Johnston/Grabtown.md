@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Grabtown.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\North_Carolina\counties~North_Carolina\Johnston,County\cities~JohnstonGrabtown.public.md) 
+### [Grabtown](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/North_Carolina/counties~North_Carolina/Johnston,County/cities~Johnston/Grabtown.md) 
 
-### [Grabtown.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\North_Carolina\counties~North_Carolina\Johnston,County\cities~JohnstonGrabtown.internal.md) 
+### [Grabtown.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/North_Carolina/counties~North_Carolina/Johnston,County/cities~Johnston/Grabtown.public.md) 
 
-### [Grabtown.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\North_Carolina\counties~North_Carolina\Johnston,County\cities~JohnstonGrabtown.protect.md) 
+### [Grabtown.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/North_Carolina/counties~North_Carolina/Johnston,County/cities~Johnston/Grabtown.internal.md) 
 
-### [Grabtown.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\North_Carolina\counties~North_Carolina\Johnston,County\cities~JohnstonGrabtown.private.md) 
+### [Grabtown.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/North_Carolina/counties~North_Carolina/Johnston,County/cities~Johnston/Grabtown.protect.md) 
 
-### [Grabtown.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\North_Carolina\counties~North_Carolina\Johnston,County\cities~JohnstonGrabtown.personal.md) 
+### [Grabtown.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/North_Carolina/counties~North_Carolina/Johnston,County/cities~Johnston/Grabtown.private.md) 
 
-### [Grabtown.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\North_Carolina\counties~North_Carolina\Johnston,County\cities~JohnstonGrabtown.secret.md)
+### [Grabtown.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/North_Carolina/counties~North_Carolina/Johnston,County/cities~Johnston/Grabtown.personal.md) 
+
+### [Grabtown.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/North_Carolina/counties~North_Carolina/Johnston,County/cities~Johnston/Grabtown.secret.md)
 

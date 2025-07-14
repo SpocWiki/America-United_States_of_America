@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Winnetoon.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Nebraska\counties~Nebraska\Knox,County\cities~KnoxWinnetoon.public.md) 
+### [Winnetoon](/_Standards/Earth/Continent/America~North/USA/USA~Central/Nebraska/counties~Nebraska/Knox,County/cities~Knox/Winnetoon.md) 
 
-### [Winnetoon.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Nebraska\counties~Nebraska\Knox,County\cities~KnoxWinnetoon.internal.md) 
+### [Winnetoon.public](/_public/Earth/Continent/America~North/USA/USA~Central/Nebraska/counties~Nebraska/Knox,County/cities~Knox/Winnetoon.public.md) 
 
-### [Winnetoon.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Nebraska\counties~Nebraska\Knox,County\cities~KnoxWinnetoon.protect.md) 
+### [Winnetoon.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Nebraska/counties~Nebraska/Knox,County/cities~Knox/Winnetoon.internal.md) 
 
-### [Winnetoon.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Nebraska\counties~Nebraska\Knox,County\cities~KnoxWinnetoon.private.md) 
+### [Winnetoon.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Nebraska/counties~Nebraska/Knox,County/cities~Knox/Winnetoon.protect.md) 
 
-### [Winnetoon.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Nebraska\counties~Nebraska\Knox,County\cities~KnoxWinnetoon.personal.md) 
+### [Winnetoon.private](/_private/Earth/Continent/America~North/USA/USA~Central/Nebraska/counties~Nebraska/Knox,County/cities~Knox/Winnetoon.private.md) 
 
-### [Winnetoon.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Nebraska\counties~Nebraska\Knox,County\cities~KnoxWinnetoon.secret.md)
+### [Winnetoon.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Nebraska/counties~Nebraska/Knox,County/cities~Knox/Winnetoon.personal.md) 
+
+### [Winnetoon.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Nebraska/counties~Nebraska/Knox,County/cities~Knox/Winnetoon.secret.md)
 

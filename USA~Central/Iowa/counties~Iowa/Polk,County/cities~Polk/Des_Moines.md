@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Des_Moines.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Iowa\counties~Iowa\Polk,County\cities~PolkDes_Moines.public.md) 
+### [Des_Moines](/_Standards/Earth/Continent/America~North/USA/USA~Central/Iowa/counties~Iowa/Polk,County/cities~Polk/Des_Moines.md) 
 
-### [Des_Moines.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Iowa\counties~Iowa\Polk,County\cities~PolkDes_Moines.internal.md) 
+### [Des_Moines.public](/_public/Earth/Continent/America~North/USA/USA~Central/Iowa/counties~Iowa/Polk,County/cities~Polk/Des_Moines.public.md) 
 
-### [Des_Moines.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Iowa\counties~Iowa\Polk,County\cities~PolkDes_Moines.protect.md) 
+### [Des_Moines.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Iowa/counties~Iowa/Polk,County/cities~Polk/Des_Moines.internal.md) 
 
-### [Des_Moines.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Iowa\counties~Iowa\Polk,County\cities~PolkDes_Moines.private.md) 
+### [Des_Moines.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Iowa/counties~Iowa/Polk,County/cities~Polk/Des_Moines.protect.md) 
 
-### [Des_Moines.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Iowa\counties~Iowa\Polk,County\cities~PolkDes_Moines.personal.md) 
+### [Des_Moines.private](/_private/Earth/Continent/America~North/USA/USA~Central/Iowa/counties~Iowa/Polk,County/cities~Polk/Des_Moines.private.md) 
 
-### [Des_Moines.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Iowa\counties~Iowa\Polk,County\cities~PolkDes_Moines.secret.md)
+### [Des_Moines.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Iowa/counties~Iowa/Polk,County/cities~Polk/Des_Moines.personal.md) 
+
+### [Des_Moines.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Iowa/counties~Iowa/Polk,County/cities~Polk/Des_Moines.secret.md)
 

@@ -41,15 +41,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Louisiana.public](/_public/\Earth\Continent\America~North\USA\USA~CentralLouisiana.public.md) 
+### [Louisiana](/_Standards/Earth/Continent/America~North/USA/USA~Central/Louisiana.md) 
 
-### [Louisiana.internal](/_internal/\Earth\Continent\America~North\USA\USA~CentralLouisiana.internal.md) 
+### [Louisiana.public](/_public/Earth/Continent/America~North/USA/USA~Central/Louisiana.public.md) 
 
-### [Louisiana.protect](/_protect/\Earth\Continent\America~North\USA\USA~CentralLouisiana.protect.md) 
+### [Louisiana.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Louisiana.internal.md) 
 
-### [Louisiana.private](/_private/\Earth\Continent\America~North\USA\USA~CentralLouisiana.private.md) 
+### [Louisiana.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Louisiana.protect.md) 
 
-### [Louisiana.personal](/_personal/\Earth\Continent\America~North\USA\USA~CentralLouisiana.personal.md) 
+### [Louisiana.private](/_private/Earth/Continent/America~North/USA/USA~Central/Louisiana.private.md) 
 
-### [Louisiana.secret](/_secret/\Earth\Continent\America~North\USA\USA~CentralLouisiana.secret.md)
+### [Louisiana.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Louisiana.personal.md) 
+
+### [Louisiana.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Louisiana.secret.md)
 

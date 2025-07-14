@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Indianapolis.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Indiana\counties~Indiana\Marion,County\cities~MarionIndianapolis.public.md) 
+### [Indianapolis](/_Standards/Earth/Continent/America~North/USA/USA~Central/Indiana/counties~Indiana/Marion,County/cities~Marion/Indianapolis.md) 
 
-### [Indianapolis.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Indiana\counties~Indiana\Marion,County\cities~MarionIndianapolis.internal.md) 
+### [Indianapolis.public](/_public/Earth/Continent/America~North/USA/USA~Central/Indiana/counties~Indiana/Marion,County/cities~Marion/Indianapolis.public.md) 
 
-### [Indianapolis.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Indiana\counties~Indiana\Marion,County\cities~MarionIndianapolis.protect.md) 
+### [Indianapolis.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Indiana/counties~Indiana/Marion,County/cities~Marion/Indianapolis.internal.md) 
 
-### [Indianapolis.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Indiana\counties~Indiana\Marion,County\cities~MarionIndianapolis.private.md) 
+### [Indianapolis.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Indiana/counties~Indiana/Marion,County/cities~Marion/Indianapolis.protect.md) 
 
-### [Indianapolis.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Indiana\counties~Indiana\Marion,County\cities~MarionIndianapolis.personal.md) 
+### [Indianapolis.private](/_private/Earth/Continent/America~North/USA/USA~Central/Indiana/counties~Indiana/Marion,County/cities~Marion/Indianapolis.private.md) 
 
-### [Indianapolis.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Indiana\counties~Indiana\Marion,County\cities~MarionIndianapolis.secret.md)
+### [Indianapolis.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Indiana/counties~Indiana/Marion,County/cities~Marion/Indianapolis.personal.md) 
+
+### [Indianapolis.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Indiana/counties~Indiana/Marion,County/cities~Marion/Indianapolis.secret.md)
 

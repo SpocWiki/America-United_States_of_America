@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nome.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\Alaska\counties~Alaska\Nome,County\cities~NomeNome.public.md) 
+### [Nome](/_Standards/Earth/Continent/America~North/USA/USA~Pacific/Alaska/counties~Alaska/Nome,County/cities~Nome/Nome.md) 
 
-### [Nome.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\Alaska\counties~Alaska\Nome,County\cities~NomeNome.internal.md) 
+### [Nome.public](/_public/Earth/Continent/America~North/USA/USA~Pacific/Alaska/counties~Alaska/Nome,County/cities~Nome/Nome.public.md) 
 
-### [Nome.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\Alaska\counties~Alaska\Nome,County\cities~NomeNome.protect.md) 
+### [Nome.internal](/_internal/Earth/Continent/America~North/USA/USA~Pacific/Alaska/counties~Alaska/Nome,County/cities~Nome/Nome.internal.md) 
 
-### [Nome.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\Alaska\counties~Alaska\Nome,County\cities~NomeNome.private.md) 
+### [Nome.protect](/_protect/Earth/Continent/America~North/USA/USA~Pacific/Alaska/counties~Alaska/Nome,County/cities~Nome/Nome.protect.md) 
 
-### [Nome.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\Alaska\counties~Alaska\Nome,County\cities~NomeNome.personal.md) 
+### [Nome.private](/_private/Earth/Continent/America~North/USA/USA~Pacific/Alaska/counties~Alaska/Nome,County/cities~Nome/Nome.private.md) 
 
-### [Nome.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\Alaska\counties~Alaska\Nome,County\cities~NomeNome.secret.md)
+### [Nome.personal](/_personal/Earth/Continent/America~North/USA/USA~Pacific/Alaska/counties~Alaska/Nome,County/cities~Nome/Nome.personal.md) 
+
+### [Nome.secret](/_secret/Earth/Continent/America~North/USA/USA~Pacific/Alaska/counties~Alaska/Nome,County/cities~Nome/Nome.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lowell.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\Massachusetts\counties~Massachusetts\Middlesex,County\cities~MiddlesexLowell.public.md) 
+### [Lowell](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/Massachusetts/counties~Massachusetts/Middlesex,County/cities~Middlesex/Lowell.md) 
 
-### [Lowell.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\Massachusetts\counties~Massachusetts\Middlesex,County\cities~MiddlesexLowell.internal.md) 
+### [Lowell.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/Massachusetts/counties~Massachusetts/Middlesex,County/cities~Middlesex/Lowell.public.md) 
 
-### [Lowell.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\Massachusetts\counties~Massachusetts\Middlesex,County\cities~MiddlesexLowell.protect.md) 
+### [Lowell.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/Massachusetts/counties~Massachusetts/Middlesex,County/cities~Middlesex/Lowell.internal.md) 
 
-### [Lowell.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\Massachusetts\counties~Massachusetts\Middlesex,County\cities~MiddlesexLowell.private.md) 
+### [Lowell.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/Massachusetts/counties~Massachusetts/Middlesex,County/cities~Middlesex/Lowell.protect.md) 
 
-### [Lowell.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\Massachusetts\counties~Massachusetts\Middlesex,County\cities~MiddlesexLowell.personal.md) 
+### [Lowell.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/Massachusetts/counties~Massachusetts/Middlesex,County/cities~Middlesex/Lowell.private.md) 
 
-### [Lowell.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\Massachusetts\counties~Massachusetts\Middlesex,County\cities~MiddlesexLowell.secret.md)
+### [Lowell.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/Massachusetts/counties~Massachusetts/Middlesex,County/cities~Middlesex/Lowell.personal.md) 
+
+### [Lowell.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/Massachusetts/counties~Massachusetts/Middlesex,County/cities~Middlesex/Lowell.secret.md)
 

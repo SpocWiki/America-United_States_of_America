@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Baton_Rouge.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Louisiana\counties~Louisiana\Baton_Rouge~East,County\cities~East_Baton_RougeBaton_Rouge.public.md) 
+### [Baton_Rouge](/_Standards/Earth/Continent/America~North/USA/USA~Central/Louisiana/counties~Louisiana/Baton_Rouge~East,County/cities~East_Baton_Rouge/Baton_Rouge.md) 
 
-### [Baton_Rouge.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Louisiana\counties~Louisiana\Baton_Rouge~East,County\cities~East_Baton_RougeBaton_Rouge.internal.md) 
+### [Baton_Rouge.public](/_public/Earth/Continent/America~North/USA/USA~Central/Louisiana/counties~Louisiana/Baton_Rouge~East,County/cities~East_Baton_Rouge/Baton_Rouge.public.md) 
 
-### [Baton_Rouge.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Louisiana\counties~Louisiana\Baton_Rouge~East,County\cities~East_Baton_RougeBaton_Rouge.protect.md) 
+### [Baton_Rouge.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Louisiana/counties~Louisiana/Baton_Rouge~East,County/cities~East_Baton_Rouge/Baton_Rouge.internal.md) 
 
-### [Baton_Rouge.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Louisiana\counties~Louisiana\Baton_Rouge~East,County\cities~East_Baton_RougeBaton_Rouge.private.md) 
+### [Baton_Rouge.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Louisiana/counties~Louisiana/Baton_Rouge~East,County/cities~East_Baton_Rouge/Baton_Rouge.protect.md) 
 
-### [Baton_Rouge.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Louisiana\counties~Louisiana\Baton_Rouge~East,County\cities~East_Baton_RougeBaton_Rouge.personal.md) 
+### [Baton_Rouge.private](/_private/Earth/Continent/America~North/USA/USA~Central/Louisiana/counties~Louisiana/Baton_Rouge~East,County/cities~East_Baton_Rouge/Baton_Rouge.private.md) 
 
-### [Baton_Rouge.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Louisiana\counties~Louisiana\Baton_Rouge~East,County\cities~East_Baton_RougeBaton_Rouge.secret.md)
+### [Baton_Rouge.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Louisiana/counties~Louisiana/Baton_Rouge~East,County/cities~East_Baton_Rouge/Baton_Rouge.personal.md) 
+
+### [Baton_Rouge.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Louisiana/counties~Louisiana/Baton_Rouge~East,County/cities~East_Baton_Rouge/Baton_Rouge.secret.md)
 

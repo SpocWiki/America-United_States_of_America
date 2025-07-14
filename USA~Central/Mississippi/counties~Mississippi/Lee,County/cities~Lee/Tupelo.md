@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tupelo.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Mississippi\counties~Mississippi\Lee,County\cities~LeeTupelo.public.md) 
+### [Tupelo](/_Standards/Earth/Continent/America~North/USA/USA~Central/Mississippi/counties~Mississippi/Lee,County/cities~Lee/Tupelo.md) 
 
-### [Tupelo.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Mississippi\counties~Mississippi\Lee,County\cities~LeeTupelo.internal.md) 
+### [Tupelo.public](/_public/Earth/Continent/America~North/USA/USA~Central/Mississippi/counties~Mississippi/Lee,County/cities~Lee/Tupelo.public.md) 
 
-### [Tupelo.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Mississippi\counties~Mississippi\Lee,County\cities~LeeTupelo.protect.md) 
+### [Tupelo.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Mississippi/counties~Mississippi/Lee,County/cities~Lee/Tupelo.internal.md) 
 
-### [Tupelo.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Mississippi\counties~Mississippi\Lee,County\cities~LeeTupelo.private.md) 
+### [Tupelo.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Mississippi/counties~Mississippi/Lee,County/cities~Lee/Tupelo.protect.md) 
 
-### [Tupelo.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Mississippi\counties~Mississippi\Lee,County\cities~LeeTupelo.personal.md) 
+### [Tupelo.private](/_private/Earth/Continent/America~North/USA/USA~Central/Mississippi/counties~Mississippi/Lee,County/cities~Lee/Tupelo.private.md) 
 
-### [Tupelo.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Mississippi\counties~Mississippi\Lee,County\cities~LeeTupelo.secret.md)
+### [Tupelo.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Mississippi/counties~Mississippi/Lee,County/cities~Lee/Tupelo.personal.md) 
+
+### [Tupelo.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Mississippi/counties~Mississippi/Lee,County/cities~Lee/Tupelo.secret.md)
 

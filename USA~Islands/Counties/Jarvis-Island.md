@@ -45,15 +45,17 @@ markerFolder: ./Jarvis-Island/
 
 ## Confidential Links & Embeds: 
 
-### [Jarvis-Island.public](/_public/\Earth\Continent\America~North\USA\USA~Islands\CountiesJarvis-Island.public.md) 
+### [Jarvis-Island](/_Standards/Earth/Continent/America~North/USA/USA~Islands/Counties/Jarvis-Island.md) 
 
-### [Jarvis-Island.internal](/_internal/\Earth\Continent\America~North\USA\USA~Islands\CountiesJarvis-Island.internal.md) 
+### [Jarvis-Island.public](/_public/Earth/Continent/America~North/USA/USA~Islands/Counties/Jarvis-Island.public.md) 
 
-### [Jarvis-Island.protect](/_protect/\Earth\Continent\America~North\USA\USA~Islands\CountiesJarvis-Island.protect.md) 
+### [Jarvis-Island.internal](/_internal/Earth/Continent/America~North/USA/USA~Islands/Counties/Jarvis-Island.internal.md) 
 
-### [Jarvis-Island.private](/_private/\Earth\Continent\America~North\USA\USA~Islands\CountiesJarvis-Island.private.md) 
+### [Jarvis-Island.protect](/_protect/Earth/Continent/America~North/USA/USA~Islands/Counties/Jarvis-Island.protect.md) 
 
-### [Jarvis-Island.personal](/_personal/\Earth\Continent\America~North\USA\USA~Islands\CountiesJarvis-Island.personal.md) 
+### [Jarvis-Island.private](/_private/Earth/Continent/America~North/USA/USA~Islands/Counties/Jarvis-Island.private.md) 
 
-### [Jarvis-Island.secret](/_secret/\Earth\Continent\America~North\USA\USA~Islands\CountiesJarvis-Island.secret.md)
+### [Jarvis-Island.personal](/_personal/Earth/Continent/America~North/USA/USA~Islands/Counties/Jarvis-Island.personal.md) 
+
+### [Jarvis-Island.secret](/_secret/Earth/Continent/America~North/USA/USA~Islands/Counties/Jarvis-Island.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Memphis.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Tennessee\counties~Tennessee\Shelby,County\cities~ShelbyMemphis.public.md) 
+### [Memphis](/_Standards/Earth/Continent/America~North/USA/USA~Central/Tennessee/counties~Tennessee/Shelby,County/cities~Shelby/Memphis.md) 
 
-### [Memphis.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Tennessee\counties~Tennessee\Shelby,County\cities~ShelbyMemphis.internal.md) 
+### [Memphis.public](/_public/Earth/Continent/America~North/USA/USA~Central/Tennessee/counties~Tennessee/Shelby,County/cities~Shelby/Memphis.public.md) 
 
-### [Memphis.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Tennessee\counties~Tennessee\Shelby,County\cities~ShelbyMemphis.protect.md) 
+### [Memphis.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Tennessee/counties~Tennessee/Shelby,County/cities~Shelby/Memphis.internal.md) 
 
-### [Memphis.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Tennessee\counties~Tennessee\Shelby,County\cities~ShelbyMemphis.private.md) 
+### [Memphis.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Tennessee/counties~Tennessee/Shelby,County/cities~Shelby/Memphis.protect.md) 
 
-### [Memphis.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Tennessee\counties~Tennessee\Shelby,County\cities~ShelbyMemphis.personal.md) 
+### [Memphis.private](/_private/Earth/Continent/America~North/USA/USA~Central/Tennessee/counties~Tennessee/Shelby,County/cities~Shelby/Memphis.private.md) 
 
-### [Memphis.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Tennessee\counties~Tennessee\Shelby,County\cities~ShelbyMemphis.secret.md)
+### [Memphis.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Tennessee/counties~Tennessee/Shelby,County/cities~Shelby/Memphis.personal.md) 
+
+### [Memphis.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Tennessee/counties~Tennessee/Shelby,County/cities~Shelby/Memphis.secret.md)
 

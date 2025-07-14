@@ -41,15 +41,17 @@ markerFolder: ./Saint_Croix/
 
 ## Confidential Links & Embeds: 
 
-### [Saint_Croix.public](/_public/\Earth\Continent\America~North\USA\USA~Islands\USA_Virgin-Islands\Districts~USA_Virgin-IslandsSaint_Croix.public.md) 
+### [Saint_Croix](/_Standards/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Croix.md) 
 
-### [Saint_Croix.internal](/_internal/\Earth\Continent\America~North\USA\USA~Islands\USA_Virgin-Islands\Districts~USA_Virgin-IslandsSaint_Croix.internal.md) 
+### [Saint_Croix.public](/_public/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Croix.public.md) 
 
-### [Saint_Croix.protect](/_protect/\Earth\Continent\America~North\USA\USA~Islands\USA_Virgin-Islands\Districts~USA_Virgin-IslandsSaint_Croix.protect.md) 
+### [Saint_Croix.internal](/_internal/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Croix.internal.md) 
 
-### [Saint_Croix.private](/_private/\Earth\Continent\America~North\USA\USA~Islands\USA_Virgin-Islands\Districts~USA_Virgin-IslandsSaint_Croix.private.md) 
+### [Saint_Croix.protect](/_protect/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Croix.protect.md) 
 
-### [Saint_Croix.personal](/_personal/\Earth\Continent\America~North\USA\USA~Islands\USA_Virgin-Islands\Districts~USA_Virgin-IslandsSaint_Croix.personal.md) 
+### [Saint_Croix.private](/_private/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Croix.private.md) 
 
-### [Saint_Croix.secret](/_secret/\Earth\Continent\America~North\USA\USA~Islands\USA_Virgin-Islands\Districts~USA_Virgin-IslandsSaint_Croix.secret.md)
+### [Saint_Croix.personal](/_personal/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Croix.personal.md) 
+
+### [Saint_Croix.secret](/_secret/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Croix.secret.md)
 

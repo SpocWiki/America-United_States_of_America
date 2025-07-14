@@ -41,15 +41,17 @@ markerFolder: ./Howland-Island/
 
 ## Confidential Links & Embeds: 
 
-### [Howland-Island.public](/_public/\Earth\Continent\America~North\USA\USA~Islands\CountiesHowland-Island.public.md) 
+### [Howland-Island](/_Standards/Earth/Continent/America~North/USA/USA~Islands/Counties/Howland-Island.md) 
 
-### [Howland-Island.internal](/_internal/\Earth\Continent\America~North\USA\USA~Islands\CountiesHowland-Island.internal.md) 
+### [Howland-Island.public](/_public/Earth/Continent/America~North/USA/USA~Islands/Counties/Howland-Island.public.md) 
 
-### [Howland-Island.protect](/_protect/\Earth\Continent\America~North\USA\USA~Islands\CountiesHowland-Island.protect.md) 
+### [Howland-Island.internal](/_internal/Earth/Continent/America~North/USA/USA~Islands/Counties/Howland-Island.internal.md) 
 
-### [Howland-Island.private](/_private/\Earth\Continent\America~North\USA\USA~Islands\CountiesHowland-Island.private.md) 
+### [Howland-Island.protect](/_protect/Earth/Continent/America~North/USA/USA~Islands/Counties/Howland-Island.protect.md) 
 
-### [Howland-Island.personal](/_personal/\Earth\Continent\America~North\USA\USA~Islands\CountiesHowland-Island.personal.md) 
+### [Howland-Island.private](/_private/Earth/Continent/America~North/USA/USA~Islands/Counties/Howland-Island.private.md) 
 
-### [Howland-Island.secret](/_secret/\Earth\Continent\America~North\USA\USA~Islands\CountiesHowland-Island.secret.md)
+### [Howland-Island.personal](/_personal/Earth/Continent/America~North/USA/USA~Islands/Counties/Howland-Island.personal.md) 
+
+### [Howland-Island.secret](/_secret/Earth/Continent/America~North/USA/USA~Islands/Counties/Howland-Island.secret.md)
 

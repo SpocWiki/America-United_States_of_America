@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [San_Angelo.public](/_public/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Tom_Green,County\cities~Tom_GreenSan_Angelo.public.md) 
+### [San_Angelo](/_Standards/Earth/Continent/America~North/USA/USA~Mountain/Texas/counties~Texas/Tom_Green,County/cities~Tom_Green/San_Angelo.md) 
 
-### [San_Angelo.internal](/_internal/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Tom_Green,County\cities~Tom_GreenSan_Angelo.internal.md) 
+### [San_Angelo.public](/_public/Earth/Continent/America~North/USA/USA~Mountain/Texas/counties~Texas/Tom_Green,County/cities~Tom_Green/San_Angelo.public.md) 
 
-### [San_Angelo.protect](/_protect/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Tom_Green,County\cities~Tom_GreenSan_Angelo.protect.md) 
+### [San_Angelo.internal](/_internal/Earth/Continent/America~North/USA/USA~Mountain/Texas/counties~Texas/Tom_Green,County/cities~Tom_Green/San_Angelo.internal.md) 
 
-### [San_Angelo.private](/_private/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Tom_Green,County\cities~Tom_GreenSan_Angelo.private.md) 
+### [San_Angelo.protect](/_protect/Earth/Continent/America~North/USA/USA~Mountain/Texas/counties~Texas/Tom_Green,County/cities~Tom_Green/San_Angelo.protect.md) 
 
-### [San_Angelo.personal](/_personal/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Tom_Green,County\cities~Tom_GreenSan_Angelo.personal.md) 
+### [San_Angelo.private](/_private/Earth/Continent/America~North/USA/USA~Mountain/Texas/counties~Texas/Tom_Green,County/cities~Tom_Green/San_Angelo.private.md) 
 
-### [San_Angelo.secret](/_secret/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Tom_Green,County\cities~Tom_GreenSan_Angelo.secret.md)
+### [San_Angelo.personal](/_personal/Earth/Continent/America~North/USA/USA~Mountain/Texas/counties~Texas/Tom_Green,County/cities~Tom_Green/San_Angelo.personal.md) 
+
+### [San_Angelo.secret](/_secret/Earth/Continent/America~North/USA/USA~Mountain/Texas/counties~Texas/Tom_Green,County/cities~Tom_Green/San_Angelo.secret.md)
 

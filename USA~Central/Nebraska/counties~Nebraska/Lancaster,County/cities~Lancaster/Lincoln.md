@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lincoln.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Nebraska\counties~Nebraska\Lancaster,County\cities~LancasterLincoln.public.md) 
+### [Lincoln](/_Standards/Earth/Continent/America~North/USA/USA~Central/Nebraska/counties~Nebraska/Lancaster,County/cities~Lancaster/Lincoln.md) 
 
-### [Lincoln.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Nebraska\counties~Nebraska\Lancaster,County\cities~LancasterLincoln.internal.md) 
+### [Lincoln.public](/_public/Earth/Continent/America~North/USA/USA~Central/Nebraska/counties~Nebraska/Lancaster,County/cities~Lancaster/Lincoln.public.md) 
 
-### [Lincoln.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Nebraska\counties~Nebraska\Lancaster,County\cities~LancasterLincoln.protect.md) 
+### [Lincoln.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Nebraska/counties~Nebraska/Lancaster,County/cities~Lancaster/Lincoln.internal.md) 
 
-### [Lincoln.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Nebraska\counties~Nebraska\Lancaster,County\cities~LancasterLincoln.private.md) 
+### [Lincoln.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Nebraska/counties~Nebraska/Lancaster,County/cities~Lancaster/Lincoln.protect.md) 
 
-### [Lincoln.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Nebraska\counties~Nebraska\Lancaster,County\cities~LancasterLincoln.personal.md) 
+### [Lincoln.private](/_private/Earth/Continent/America~North/USA/USA~Central/Nebraska/counties~Nebraska/Lancaster,County/cities~Lancaster/Lincoln.private.md) 
 
-### [Lincoln.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Nebraska\counties~Nebraska\Lancaster,County\cities~LancasterLincoln.secret.md)
+### [Lincoln.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Nebraska/counties~Nebraska/Lancaster,County/cities~Lancaster/Lincoln.personal.md) 
+
+### [Lincoln.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Nebraska/counties~Nebraska/Lancaster,County/cities~Lancaster/Lincoln.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Greenville.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\South_Carolina\counties~South_Carolina\Greenville,County\cities~GreenvilleGreenville.public.md) 
+### [Greenville](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/South_Carolina/counties~South_Carolina/Greenville,County/cities~Greenville/Greenville.md) 
 
-### [Greenville.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\South_Carolina\counties~South_Carolina\Greenville,County\cities~GreenvilleGreenville.internal.md) 
+### [Greenville.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/South_Carolina/counties~South_Carolina/Greenville,County/cities~Greenville/Greenville.public.md) 
 
-### [Greenville.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\South_Carolina\counties~South_Carolina\Greenville,County\cities~GreenvilleGreenville.protect.md) 
+### [Greenville.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/South_Carolina/counties~South_Carolina/Greenville,County/cities~Greenville/Greenville.internal.md) 
 
-### [Greenville.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\South_Carolina\counties~South_Carolina\Greenville,County\cities~GreenvilleGreenville.private.md) 
+### [Greenville.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/South_Carolina/counties~South_Carolina/Greenville,County/cities~Greenville/Greenville.protect.md) 
 
-### [Greenville.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\South_Carolina\counties~South_Carolina\Greenville,County\cities~GreenvilleGreenville.personal.md) 
+### [Greenville.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/South_Carolina/counties~South_Carolina/Greenville,County/cities~Greenville/Greenville.private.md) 
 
-### [Greenville.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\South_Carolina\counties~South_Carolina\Greenville,County\cities~GreenvilleGreenville.secret.md)
+### [Greenville.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/South_Carolina/counties~South_Carolina/Greenville,County/cities~Greenville/Greenville.personal.md) 
+
+### [Greenville.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/South_Carolina/counties~South_Carolina/Greenville,County/cities~Greenville/Greenville.secret.md)
 

@@ -42,15 +42,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Montana.public](/_public/\Earth\Continent\America~North\USA\USA~MountainMontana.public.md) 
+### [Montana](/_Standards/Earth/Continent/America~North/USA/USA~Mountain/Montana.md) 
 
-### [Montana.internal](/_internal/\Earth\Continent\America~North\USA\USA~MountainMontana.internal.md) 
+### [Montana.public](/_public/Earth/Continent/America~North/USA/USA~Mountain/Montana.public.md) 
 
-### [Montana.protect](/_protect/\Earth\Continent\America~North\USA\USA~MountainMontana.protect.md) 
+### [Montana.internal](/_internal/Earth/Continent/America~North/USA/USA~Mountain/Montana.internal.md) 
 
-### [Montana.private](/_private/\Earth\Continent\America~North\USA\USA~MountainMontana.private.md) 
+### [Montana.protect](/_protect/Earth/Continent/America~North/USA/USA~Mountain/Montana.protect.md) 
 
-### [Montana.personal](/_personal/\Earth\Continent\America~North\USA\USA~MountainMontana.personal.md) 
+### [Montana.private](/_private/Earth/Continent/America~North/USA/USA~Mountain/Montana.private.md) 
 
-### [Montana.secret](/_secret/\Earth\Continent\America~North\USA\USA~MountainMontana.secret.md)
+### [Montana.personal](/_personal/Earth/Continent/America~North/USA/USA~Mountain/Montana.personal.md) 
+
+### [Montana.secret](/_secret/Earth/Continent/America~North/USA/USA~Mountain/Montana.secret.md)
 

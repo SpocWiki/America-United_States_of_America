@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Helena.public](/_public/\Earth\Continent\America~North\USA\USA~Mountain\Montana\counties~Montana\Lewis_and_Clark,County\cities~Lewis_and_ClarkHelena.public.md) 
+### [Helena](/_Standards/Earth/Continent/America~North/USA/USA~Mountain/Montana/counties~Montana/Lewis_and_Clark,County/cities~Lewis_and_Clark/Helena.md) 
 
-### [Helena.internal](/_internal/\Earth\Continent\America~North\USA\USA~Mountain\Montana\counties~Montana\Lewis_and_Clark,County\cities~Lewis_and_ClarkHelena.internal.md) 
+### [Helena.public](/_public/Earth/Continent/America~North/USA/USA~Mountain/Montana/counties~Montana/Lewis_and_Clark,County/cities~Lewis_and_Clark/Helena.public.md) 
 
-### [Helena.protect](/_protect/\Earth\Continent\America~North\USA\USA~Mountain\Montana\counties~Montana\Lewis_and_Clark,County\cities~Lewis_and_ClarkHelena.protect.md) 
+### [Helena.internal](/_internal/Earth/Continent/America~North/USA/USA~Mountain/Montana/counties~Montana/Lewis_and_Clark,County/cities~Lewis_and_Clark/Helena.internal.md) 
 
-### [Helena.private](/_private/\Earth\Continent\America~North\USA\USA~Mountain\Montana\counties~Montana\Lewis_and_Clark,County\cities~Lewis_and_ClarkHelena.private.md) 
+### [Helena.protect](/_protect/Earth/Continent/America~North/USA/USA~Mountain/Montana/counties~Montana/Lewis_and_Clark,County/cities~Lewis_and_Clark/Helena.protect.md) 
 
-### [Helena.personal](/_personal/\Earth\Continent\America~North\USA\USA~Mountain\Montana\counties~Montana\Lewis_and_Clark,County\cities~Lewis_and_ClarkHelena.personal.md) 
+### [Helena.private](/_private/Earth/Continent/America~North/USA/USA~Mountain/Montana/counties~Montana/Lewis_and_Clark,County/cities~Lewis_and_Clark/Helena.private.md) 
 
-### [Helena.secret](/_secret/\Earth\Continent\America~North\USA\USA~Mountain\Montana\counties~Montana\Lewis_and_Clark,County\cities~Lewis_and_ClarkHelena.secret.md)
+### [Helena.personal](/_personal/Earth/Continent/America~North/USA/USA~Mountain/Montana/counties~Montana/Lewis_and_Clark,County/cities~Lewis_and_Clark/Helena.personal.md) 
+
+### [Helena.secret](/_secret/Earth/Continent/America~North/USA/USA~Mountain/Montana/counties~Montana/Lewis_and_Clark,County/cities~Lewis_and_Clark/Helena.secret.md)
 

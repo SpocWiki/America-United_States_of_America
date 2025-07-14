@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lansing.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Michigan\counties~Michigan\Ingham,County\cities~InghamLansing.public.md) 
+### [Lansing](/_Standards/Earth/Continent/America~North/USA/USA~Central/Michigan/counties~Michigan/Ingham,County/cities~Ingham/Lansing.md) 
 
-### [Lansing.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Michigan\counties~Michigan\Ingham,County\cities~InghamLansing.internal.md) 
+### [Lansing.public](/_public/Earth/Continent/America~North/USA/USA~Central/Michigan/counties~Michigan/Ingham,County/cities~Ingham/Lansing.public.md) 
 
-### [Lansing.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Michigan\counties~Michigan\Ingham,County\cities~InghamLansing.protect.md) 
+### [Lansing.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Michigan/counties~Michigan/Ingham,County/cities~Ingham/Lansing.internal.md) 
 
-### [Lansing.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Michigan\counties~Michigan\Ingham,County\cities~InghamLansing.private.md) 
+### [Lansing.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Michigan/counties~Michigan/Ingham,County/cities~Ingham/Lansing.protect.md) 
 
-### [Lansing.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Michigan\counties~Michigan\Ingham,County\cities~InghamLansing.personal.md) 
+### [Lansing.private](/_private/Earth/Continent/America~North/USA/USA~Central/Michigan/counties~Michigan/Ingham,County/cities~Ingham/Lansing.private.md) 
 
-### [Lansing.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Michigan\counties~Michigan\Ingham,County\cities~InghamLansing.secret.md)
+### [Lansing.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Michigan/counties~Michigan/Ingham,County/cities~Ingham/Lansing.personal.md) 
+
+### [Lansing.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Michigan/counties~Michigan/Ingham,County/cities~Ingham/Lansing.secret.md)
 

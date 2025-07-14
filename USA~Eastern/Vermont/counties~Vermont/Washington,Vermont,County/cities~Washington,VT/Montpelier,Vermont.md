@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Montpelier,Vermont.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\Vermont\counties~Vermont\Washington,Vermont,County\cities~Washington,VTMontpelier,Vermont.public.md) 
+### [Montpelier,Vermont](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/Vermont/counties~Vermont/Washington,Vermont,County/cities~Washington,VT/Montpelier,Vermont.md) 
 
-### [Montpelier,Vermont.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\Vermont\counties~Vermont\Washington,Vermont,County\cities~Washington,VTMontpelier,Vermont.internal.md) 
+### [Montpelier,Vermont.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/Vermont/counties~Vermont/Washington,Vermont,County/cities~Washington,VT/Montpelier,Vermont.public.md) 
 
-### [Montpelier,Vermont.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\Vermont\counties~Vermont\Washington,Vermont,County\cities~Washington,VTMontpelier,Vermont.protect.md) 
+### [Montpelier,Vermont.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/Vermont/counties~Vermont/Washington,Vermont,County/cities~Washington,VT/Montpelier,Vermont.internal.md) 
 
-### [Montpelier,Vermont.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\Vermont\counties~Vermont\Washington,Vermont,County\cities~Washington,VTMontpelier,Vermont.private.md) 
+### [Montpelier,Vermont.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/Vermont/counties~Vermont/Washington,Vermont,County/cities~Washington,VT/Montpelier,Vermont.protect.md) 
 
-### [Montpelier,Vermont.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\Vermont\counties~Vermont\Washington,Vermont,County\cities~Washington,VTMontpelier,Vermont.personal.md) 
+### [Montpelier,Vermont.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/Vermont/counties~Vermont/Washington,Vermont,County/cities~Washington,VT/Montpelier,Vermont.private.md) 
 
-### [Montpelier,Vermont.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\Vermont\counties~Vermont\Washington,Vermont,County\cities~Washington,VTMontpelier,Vermont.secret.md)
+### [Montpelier,Vermont.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/Vermont/counties~Vermont/Washington,Vermont,County/cities~Washington,VT/Montpelier,Vermont.personal.md) 
+
+### [Montpelier,Vermont.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/Vermont/counties~Vermont/Washington,Vermont,County/cities~Washington,VT/Montpelier,Vermont.secret.md)
 

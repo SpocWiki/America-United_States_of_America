@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tampico.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Whiteside,County\cities~WhitesideTampico.public.md) 
+### [Tampico](/_Standards/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Whiteside,County/cities~Whiteside/Tampico.md) 
 
-### [Tampico.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Whiteside,County\cities~WhitesideTampico.internal.md) 
+### [Tampico.public](/_public/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Whiteside,County/cities~Whiteside/Tampico.public.md) 
 
-### [Tampico.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Whiteside,County\cities~WhitesideTampico.protect.md) 
+### [Tampico.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Whiteside,County/cities~Whiteside/Tampico.internal.md) 
 
-### [Tampico.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Whiteside,County\cities~WhitesideTampico.private.md) 
+### [Tampico.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Whiteside,County/cities~Whiteside/Tampico.protect.md) 
 
-### [Tampico.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Whiteside,County\cities~WhitesideTampico.personal.md) 
+### [Tampico.private](/_private/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Whiteside,County/cities~Whiteside/Tampico.private.md) 
 
-### [Tampico.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Whiteside,County\cities~WhitesideTampico.secret.md)
+### [Tampico.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Whiteside,County/cities~Whiteside/Tampico.personal.md) 
+
+### [Tampico.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Whiteside,County/cities~Whiteside/Tampico.secret.md)
 

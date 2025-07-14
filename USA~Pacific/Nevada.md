@@ -42,15 +42,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nevada.public](/_public/\Earth\Continent\America~North\USA\USA~PacificNevada.public.md) 
+### [Nevada](/_Standards/Earth/Continent/America~North/USA/USA~Pacific/Nevada.md) 
 
-### [Nevada.internal](/_internal/\Earth\Continent\America~North\USA\USA~PacificNevada.internal.md) 
+### [Nevada.public](/_public/Earth/Continent/America~North/USA/USA~Pacific/Nevada.public.md) 
 
-### [Nevada.protect](/_protect/\Earth\Continent\America~North\USA\USA~PacificNevada.protect.md) 
+### [Nevada.internal](/_internal/Earth/Continent/America~North/USA/USA~Pacific/Nevada.internal.md) 
 
-### [Nevada.private](/_private/\Earth\Continent\America~North\USA\USA~PacificNevada.private.md) 
+### [Nevada.protect](/_protect/Earth/Continent/America~North/USA/USA~Pacific/Nevada.protect.md) 
 
-### [Nevada.personal](/_personal/\Earth\Continent\America~North\USA\USA~PacificNevada.personal.md) 
+### [Nevada.private](/_private/Earth/Continent/America~North/USA/USA~Pacific/Nevada.private.md) 
 
-### [Nevada.secret](/_secret/\Earth\Continent\America~North\USA\USA~PacificNevada.secret.md)
+### [Nevada.personal](/_personal/Earth/Continent/America~North/USA/USA~Pacific/Nevada.personal.md) 
+
+### [Nevada.secret](/_secret/Earth/Continent/America~North/USA/USA~Pacific/Nevada.secret.md)
 

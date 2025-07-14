@@ -24,20 +24,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Brooklyn)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Brooklyn.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\New_York,City,CountyBrooklyn.public.md) 
+### [Brooklyn](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/New_York,City,County/Brooklyn.md) 
 
-### [Brooklyn.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\New_York,City,CountyBrooklyn.internal.md) 
+### [Brooklyn.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/New_York,City,County/Brooklyn.public.md) 
 
-### [Brooklyn.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\New_York,City,CountyBrooklyn.protect.md) 
+### [Brooklyn.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/New_York,City,County/Brooklyn.internal.md) 
 
-### [Brooklyn.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\New_York,City,CountyBrooklyn.private.md) 
+### [Brooklyn.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/New_York,City,County/Brooklyn.protect.md) 
 
-### [Brooklyn.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\New_York,City,CountyBrooklyn.personal.md) 
+### [Brooklyn.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/New_York,City,County/Brooklyn.private.md) 
 
-### [Brooklyn.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\New_York,City,CountyBrooklyn.secret.md)
+### [Brooklyn.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/New_York,City,County/Brooklyn.personal.md) 
+
+### [Brooklyn.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/New_York,City,County/Brooklyn.secret.md)
 

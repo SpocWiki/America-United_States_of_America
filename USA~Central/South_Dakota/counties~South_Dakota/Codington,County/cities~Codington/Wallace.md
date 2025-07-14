@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wallace.public](/_public/\Earth\Continent\America~North\USA\USA~Central\South_Dakota\counties~South_Dakota\Codington,County\cities~CodingtonWallace.public.md) 
+### [Wallace](/_Standards/Earth/Continent/America~North/USA/USA~Central/South_Dakota/counties~South_Dakota/Codington,County/cities~Codington/Wallace.md) 
 
-### [Wallace.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\South_Dakota\counties~South_Dakota\Codington,County\cities~CodingtonWallace.internal.md) 
+### [Wallace.public](/_public/Earth/Continent/America~North/USA/USA~Central/South_Dakota/counties~South_Dakota/Codington,County/cities~Codington/Wallace.public.md) 
 
-### [Wallace.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\South_Dakota\counties~South_Dakota\Codington,County\cities~CodingtonWallace.protect.md) 
+### [Wallace.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/South_Dakota/counties~South_Dakota/Codington,County/cities~Codington/Wallace.internal.md) 
 
-### [Wallace.private](/_private/\Earth\Continent\America~North\USA\USA~Central\South_Dakota\counties~South_Dakota\Codington,County\cities~CodingtonWallace.private.md) 
+### [Wallace.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/South_Dakota/counties~South_Dakota/Codington,County/cities~Codington/Wallace.protect.md) 
 
-### [Wallace.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\South_Dakota\counties~South_Dakota\Codington,County\cities~CodingtonWallace.personal.md) 
+### [Wallace.private](/_private/Earth/Continent/America~North/USA/USA~Central/South_Dakota/counties~South_Dakota/Codington,County/cities~Codington/Wallace.private.md) 
 
-### [Wallace.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\South_Dakota\counties~South_Dakota\Codington,County\cities~CodingtonWallace.secret.md)
+### [Wallace.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/South_Dakota/counties~South_Dakota/Codington,County/cities~Codington/Wallace.personal.md) 
+
+### [Wallace.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/South_Dakota/counties~South_Dakota/Codington,County/cities~Codington/Wallace.secret.md)
 

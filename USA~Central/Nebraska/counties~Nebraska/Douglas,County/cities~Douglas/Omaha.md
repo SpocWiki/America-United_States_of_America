@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Omaha.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Nebraska\counties~Nebraska\Douglas,County\cities~DouglasOmaha.public.md) 
+### [Omaha](/_Standards/Earth/Continent/America~North/USA/USA~Central/Nebraska/counties~Nebraska/Douglas,County/cities~Douglas/Omaha.md) 
 
-### [Omaha.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Nebraska\counties~Nebraska\Douglas,County\cities~DouglasOmaha.internal.md) 
+### [Omaha.public](/_public/Earth/Continent/America~North/USA/USA~Central/Nebraska/counties~Nebraska/Douglas,County/cities~Douglas/Omaha.public.md) 
 
-### [Omaha.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Nebraska\counties~Nebraska\Douglas,County\cities~DouglasOmaha.protect.md) 
+### [Omaha.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Nebraska/counties~Nebraska/Douglas,County/cities~Douglas/Omaha.internal.md) 
 
-### [Omaha.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Nebraska\counties~Nebraska\Douglas,County\cities~DouglasOmaha.private.md) 
+### [Omaha.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Nebraska/counties~Nebraska/Douglas,County/cities~Douglas/Omaha.protect.md) 
 
-### [Omaha.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Nebraska\counties~Nebraska\Douglas,County\cities~DouglasOmaha.personal.md) 
+### [Omaha.private](/_private/Earth/Continent/America~North/USA/USA~Central/Nebraska/counties~Nebraska/Douglas,County/cities~Douglas/Omaha.private.md) 
 
-### [Omaha.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Nebraska\counties~Nebraska\Douglas,County\cities~DouglasOmaha.secret.md)
+### [Omaha.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Nebraska/counties~Nebraska/Douglas,County/cities~Douglas/Omaha.personal.md) 
+
+### [Omaha.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Nebraska/counties~Nebraska/Douglas,County/cities~Douglas/Omaha.secret.md)
 

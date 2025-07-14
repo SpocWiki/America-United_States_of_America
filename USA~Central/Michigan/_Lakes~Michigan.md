@@ -41,15 +41,17 @@ markerFolder: ./_Lakes/
 
 ## Confidential Links & Embeds: 
 
-### [_Lakes~Michigan.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Michigan_Lakes~Michigan.public.md) 
+### [_Lakes~Michigan](/_Standards/Earth/Continent/America~North/USA/USA~Central/Michigan/_Lakes~Michigan.md) 
 
-### [_Lakes~Michigan.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Michigan_Lakes~Michigan.internal.md) 
+### [_Lakes~Michigan.public](/_public/Earth/Continent/America~North/USA/USA~Central/Michigan/_Lakes~Michigan.public.md) 
 
-### [_Lakes~Michigan.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Michigan_Lakes~Michigan.protect.md) 
+### [_Lakes~Michigan.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Michigan/_Lakes~Michigan.internal.md) 
 
-### [_Lakes~Michigan.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Michigan_Lakes~Michigan.private.md) 
+### [_Lakes~Michigan.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Michigan/_Lakes~Michigan.protect.md) 
 
-### [_Lakes~Michigan.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Michigan_Lakes~Michigan.personal.md) 
+### [_Lakes~Michigan.private](/_private/Earth/Continent/America~North/USA/USA~Central/Michigan/_Lakes~Michigan.private.md) 
 
-### [_Lakes~Michigan.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Michigan_Lakes~Michigan.secret.md)
+### [_Lakes~Michigan.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Michigan/_Lakes~Michigan.personal.md) 
+
+### [_Lakes~Michigan.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Michigan/_Lakes~Michigan.secret.md)
 

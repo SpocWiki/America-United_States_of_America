@@ -41,15 +41,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Massachusetts.public](/_public/\Earth\Continent\America~North\USA\USA~EasternMassachusetts.public.md) 
+### [Massachusetts](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/Massachusetts.md) 
 
-### [Massachusetts.internal](/_internal/\Earth\Continent\America~North\USA\USA~EasternMassachusetts.internal.md) 
+### [Massachusetts.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/Massachusetts.public.md) 
 
-### [Massachusetts.protect](/_protect/\Earth\Continent\America~North\USA\USA~EasternMassachusetts.protect.md) 
+### [Massachusetts.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/Massachusetts.internal.md) 
 
-### [Massachusetts.private](/_private/\Earth\Continent\America~North\USA\USA~EasternMassachusetts.private.md) 
+### [Massachusetts.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/Massachusetts.protect.md) 
 
-### [Massachusetts.personal](/_personal/\Earth\Continent\America~North\USA\USA~EasternMassachusetts.personal.md) 
+### [Massachusetts.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/Massachusetts.private.md) 
 
-### [Massachusetts.secret](/_secret/\Earth\Continent\America~North\USA\USA~EasternMassachusetts.secret.md)
+### [Massachusetts.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/Massachusetts.personal.md) 
+
+### [Massachusetts.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/Massachusetts.secret.md)
 

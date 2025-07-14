@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Annapolis.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\Maryland\counties~Maryland\Anne_Arundel,County\cities~Anne_ArundelAnnapolis.public.md) 
+### [Annapolis](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/Maryland/counties~Maryland/Anne_Arundel,County/cities~Anne_Arundel/Annapolis.md) 
 
-### [Annapolis.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\Maryland\counties~Maryland\Anne_Arundel,County\cities~Anne_ArundelAnnapolis.internal.md) 
+### [Annapolis.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/Maryland/counties~Maryland/Anne_Arundel,County/cities~Anne_Arundel/Annapolis.public.md) 
 
-### [Annapolis.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\Maryland\counties~Maryland\Anne_Arundel,County\cities~Anne_ArundelAnnapolis.protect.md) 
+### [Annapolis.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/Maryland/counties~Maryland/Anne_Arundel,County/cities~Anne_Arundel/Annapolis.internal.md) 
 
-### [Annapolis.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\Maryland\counties~Maryland\Anne_Arundel,County\cities~Anne_ArundelAnnapolis.private.md) 
+### [Annapolis.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/Maryland/counties~Maryland/Anne_Arundel,County/cities~Anne_Arundel/Annapolis.protect.md) 
 
-### [Annapolis.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\Maryland\counties~Maryland\Anne_Arundel,County\cities~Anne_ArundelAnnapolis.personal.md) 
+### [Annapolis.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/Maryland/counties~Maryland/Anne_Arundel,County/cities~Anne_Arundel/Annapolis.private.md) 
 
-### [Annapolis.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\Maryland\counties~Maryland\Anne_Arundel,County\cities~Anne_ArundelAnnapolis.secret.md)
+### [Annapolis.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/Maryland/counties~Maryland/Anne_Arundel,County/cities~Anne_Arundel/Annapolis.personal.md) 
+
+### [Annapolis.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/Maryland/counties~Maryland/Anne_Arundel,County/cities~Anne_Arundel/Annapolis.secret.md)
 

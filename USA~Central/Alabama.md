@@ -43,15 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Alabama.public](/_public/\Earth\Continent\America~North\USA\USA~CentralAlabama.public.md) 
+### [Alabama](/_Standards/Earth/Continent/America~North/USA/USA~Central/Alabama.md) 
 
-### [Alabama.internal](/_internal/\Earth\Continent\America~North\USA\USA~CentralAlabama.internal.md) 
+### [Alabama.public](/_public/Earth/Continent/America~North/USA/USA~Central/Alabama.public.md) 
 
-### [Alabama.protect](/_protect/\Earth\Continent\America~North\USA\USA~CentralAlabama.protect.md) 
+### [Alabama.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Alabama.internal.md) 
 
-### [Alabama.private](/_private/\Earth\Continent\America~North\USA\USA~CentralAlabama.private.md) 
+### [Alabama.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Alabama.protect.md) 
 
-### [Alabama.personal](/_personal/\Earth\Continent\America~North\USA\USA~CentralAlabama.personal.md) 
+### [Alabama.private](/_private/Earth/Continent/America~North/USA/USA~Central/Alabama.private.md) 
 
-### [Alabama.secret](/_secret/\Earth\Continent\America~North\USA\USA~CentralAlabama.secret.md)
+### [Alabama.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Alabama.personal.md) 
+
+### [Alabama.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Alabama.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dallas.public](/_public/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Dallas,County\cities~DallasDallas.public.md) 
+### [Dallas](/_Standards/Earth/Continent/America~North/USA/USA~Mountain/Texas/counties~Texas/Dallas,County/cities~Dallas/Dallas.md) 
 
-### [Dallas.internal](/_internal/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Dallas,County\cities~DallasDallas.internal.md) 
+### [Dallas.public](/_public/Earth/Continent/America~North/USA/USA~Mountain/Texas/counties~Texas/Dallas,County/cities~Dallas/Dallas.public.md) 
 
-### [Dallas.protect](/_protect/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Dallas,County\cities~DallasDallas.protect.md) 
+### [Dallas.internal](/_internal/Earth/Continent/America~North/USA/USA~Mountain/Texas/counties~Texas/Dallas,County/cities~Dallas/Dallas.internal.md) 
 
-### [Dallas.private](/_private/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Dallas,County\cities~DallasDallas.private.md) 
+### [Dallas.protect](/_protect/Earth/Continent/America~North/USA/USA~Mountain/Texas/counties~Texas/Dallas,County/cities~Dallas/Dallas.protect.md) 
 
-### [Dallas.personal](/_personal/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Dallas,County\cities~DallasDallas.personal.md) 
+### [Dallas.private](/_private/Earth/Continent/America~North/USA/USA~Mountain/Texas/counties~Texas/Dallas,County/cities~Dallas/Dallas.private.md) 
 
-### [Dallas.secret](/_secret/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Dallas,County\cities~DallasDallas.secret.md)
+### [Dallas.personal](/_personal/Earth/Continent/America~North/USA/USA~Mountain/Texas/counties~Texas/Dallas,County/cities~Dallas/Dallas.personal.md) 
+
+### [Dallas.secret](/_secret/Earth/Continent/America~North/USA/USA~Mountain/Texas/counties~Texas/Dallas,County/cities~Dallas/Dallas.secret.md)
 

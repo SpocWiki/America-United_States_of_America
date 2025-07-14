@@ -42,15 +42,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Connecticut.public](/_public/\Earth\Continent\America~North\USA\USA~EasternConnecticut.public.md) 
+### [Connecticut](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/Connecticut.md) 
 
-### [Connecticut.internal](/_internal/\Earth\Continent\America~North\USA\USA~EasternConnecticut.internal.md) 
+### [Connecticut.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/Connecticut.public.md) 
 
-### [Connecticut.protect](/_protect/\Earth\Continent\America~North\USA\USA~EasternConnecticut.protect.md) 
+### [Connecticut.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/Connecticut.internal.md) 
 
-### [Connecticut.private](/_private/\Earth\Continent\America~North\USA\USA~EasternConnecticut.private.md) 
+### [Connecticut.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/Connecticut.protect.md) 
 
-### [Connecticut.personal](/_personal/\Earth\Continent\America~North\USA\USA~EasternConnecticut.personal.md) 
+### [Connecticut.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/Connecticut.private.md) 
 
-### [Connecticut.secret](/_secret/\Earth\Continent\America~North\USA\USA~EasternConnecticut.secret.md)
+### [Connecticut.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/Connecticut.personal.md) 
+
+### [Connecticut.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/Connecticut.secret.md)
 

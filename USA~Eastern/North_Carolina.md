@@ -44,15 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [North_Carolina.public](/_public/\Earth\Continent\America~North\USA\USA~EasternNorth_Carolina.public.md) 
+### [North_Carolina](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/North_Carolina.md) 
 
-### [North_Carolina.internal](/_internal/\Earth\Continent\America~North\USA\USA~EasternNorth_Carolina.internal.md) 
+### [North_Carolina.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/North_Carolina.public.md) 
 
-### [North_Carolina.protect](/_protect/\Earth\Continent\America~North\USA\USA~EasternNorth_Carolina.protect.md) 
+### [North_Carolina.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/North_Carolina.internal.md) 
 
-### [North_Carolina.private](/_private/\Earth\Continent\America~North\USA\USA~EasternNorth_Carolina.private.md) 
+### [North_Carolina.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/North_Carolina.protect.md) 
 
-### [North_Carolina.personal](/_personal/\Earth\Continent\America~North\USA\USA~EasternNorth_Carolina.personal.md) 
+### [North_Carolina.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/North_Carolina.private.md) 
 
-### [North_Carolina.secret](/_secret/\Earth\Continent\America~North\USA\USA~EasternNorth_Carolina.secret.md)
+### [North_Carolina.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/North_Carolina.personal.md) 
+
+### [North_Carolina.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/North_Carolina.secret.md)
 

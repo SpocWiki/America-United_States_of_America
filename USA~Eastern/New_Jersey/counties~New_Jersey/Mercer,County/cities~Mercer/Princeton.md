@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Princeton.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Mercer,County\cities~MercerPrinceton.public.md) 
+### [Princeton](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Mercer,County/cities~Mercer/Princeton.md) 
 
-### [Princeton.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Mercer,County\cities~MercerPrinceton.internal.md) 
+### [Princeton.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Mercer,County/cities~Mercer/Princeton.public.md) 
 
-### [Princeton.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Mercer,County\cities~MercerPrinceton.protect.md) 
+### [Princeton.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Mercer,County/cities~Mercer/Princeton.internal.md) 
 
-### [Princeton.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Mercer,County\cities~MercerPrinceton.private.md) 
+### [Princeton.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Mercer,County/cities~Mercer/Princeton.protect.md) 
 
-### [Princeton.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Mercer,County\cities~MercerPrinceton.personal.md) 
+### [Princeton.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Mercer,County/cities~Mercer/Princeton.private.md) 
 
-### [Princeton.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Mercer,County\cities~MercerPrinceton.secret.md)
+### [Princeton.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Mercer,County/cities~Mercer/Princeton.personal.md) 
+
+### [Princeton.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Mercer,County/cities~Mercer/Princeton.secret.md)
 

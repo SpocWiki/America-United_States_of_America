@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jefferson~City.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Missouri\counties~Missouri\Cole,County\cities~ColeJefferson~City.public.md) 
+### [Jefferson~City](/_Standards/Earth/Continent/America~North/USA/USA~Central/Missouri/counties~Missouri/Cole,County/cities~Cole/Jefferson~City.md) 
 
-### [Jefferson~City.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Missouri\counties~Missouri\Cole,County\cities~ColeJefferson~City.internal.md) 
+### [Jefferson~City.public](/_public/Earth/Continent/America~North/USA/USA~Central/Missouri/counties~Missouri/Cole,County/cities~Cole/Jefferson~City.public.md) 
 
-### [Jefferson~City.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Missouri\counties~Missouri\Cole,County\cities~ColeJefferson~City.protect.md) 
+### [Jefferson~City.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Missouri/counties~Missouri/Cole,County/cities~Cole/Jefferson~City.internal.md) 
 
-### [Jefferson~City.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Missouri\counties~Missouri\Cole,County\cities~ColeJefferson~City.private.md) 
+### [Jefferson~City.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Missouri/counties~Missouri/Cole,County/cities~Cole/Jefferson~City.protect.md) 
 
-### [Jefferson~City.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Missouri\counties~Missouri\Cole,County\cities~ColeJefferson~City.personal.md) 
+### [Jefferson~City.private](/_private/Earth/Continent/America~North/USA/USA~Central/Missouri/counties~Missouri/Cole,County/cities~Cole/Jefferson~City.private.md) 
 
-### [Jefferson~City.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Missouri\counties~Missouri\Cole,County\cities~ColeJefferson~City.secret.md)
+### [Jefferson~City.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Missouri/counties~Missouri/Cole,County/cities~Cole/Jefferson~City.personal.md) 
+
+### [Jefferson~City.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Missouri/counties~Missouri/Cole,County/cities~Cole/Jefferson~City.secret.md)
 

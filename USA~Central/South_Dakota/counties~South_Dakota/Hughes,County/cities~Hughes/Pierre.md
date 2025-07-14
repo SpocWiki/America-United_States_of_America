@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pierre.public](/_public/\Earth\Continent\America~North\USA\USA~Central\South_Dakota\counties~South_Dakota\Hughes,County\cities~HughesPierre.public.md) 
+### [Pierre](/_Standards/Earth/Continent/America~North/USA/USA~Central/South_Dakota/counties~South_Dakota/Hughes,County/cities~Hughes/Pierre.md) 
 
-### [Pierre.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\South_Dakota\counties~South_Dakota\Hughes,County\cities~HughesPierre.internal.md) 
+### [Pierre.public](/_public/Earth/Continent/America~North/USA/USA~Central/South_Dakota/counties~South_Dakota/Hughes,County/cities~Hughes/Pierre.public.md) 
 
-### [Pierre.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\South_Dakota\counties~South_Dakota\Hughes,County\cities~HughesPierre.protect.md) 
+### [Pierre.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/South_Dakota/counties~South_Dakota/Hughes,County/cities~Hughes/Pierre.internal.md) 
 
-### [Pierre.private](/_private/\Earth\Continent\America~North\USA\USA~Central\South_Dakota\counties~South_Dakota\Hughes,County\cities~HughesPierre.private.md) 
+### [Pierre.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/South_Dakota/counties~South_Dakota/Hughes,County/cities~Hughes/Pierre.protect.md) 
 
-### [Pierre.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\South_Dakota\counties~South_Dakota\Hughes,County\cities~HughesPierre.personal.md) 
+### [Pierre.private](/_private/Earth/Continent/America~North/USA/USA~Central/South_Dakota/counties~South_Dakota/Hughes,County/cities~Hughes/Pierre.private.md) 
 
-### [Pierre.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\South_Dakota\counties~South_Dakota\Hughes,County\cities~HughesPierre.secret.md)
+### [Pierre.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/South_Dakota/counties~South_Dakota/Hughes,County/cities~Hughes/Pierre.personal.md) 
+
+### [Pierre.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/South_Dakota/counties~South_Dakota/Hughes,County/cities~Hughes/Pierre.secret.md)
 

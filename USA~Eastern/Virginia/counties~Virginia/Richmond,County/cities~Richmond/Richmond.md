@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Richmond.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\Virginia\counties~Virginia\Richmond,County\cities~RichmondRichmond.public.md) 
+### [Richmond](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/Virginia/counties~Virginia/Richmond,County/cities~Richmond/Richmond.md) 
 
-### [Richmond.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\Virginia\counties~Virginia\Richmond,County\cities~RichmondRichmond.internal.md) 
+### [Richmond.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/Virginia/counties~Virginia/Richmond,County/cities~Richmond/Richmond.public.md) 
 
-### [Richmond.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\Virginia\counties~Virginia\Richmond,County\cities~RichmondRichmond.protect.md) 
+### [Richmond.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/Virginia/counties~Virginia/Richmond,County/cities~Richmond/Richmond.internal.md) 
 
-### [Richmond.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\Virginia\counties~Virginia\Richmond,County\cities~RichmondRichmond.private.md) 
+### [Richmond.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/Virginia/counties~Virginia/Richmond,County/cities~Richmond/Richmond.protect.md) 
 
-### [Richmond.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\Virginia\counties~Virginia\Richmond,County\cities~RichmondRichmond.personal.md) 
+### [Richmond.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/Virginia/counties~Virginia/Richmond,County/cities~Richmond/Richmond.private.md) 
 
-### [Richmond.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\Virginia\counties~Virginia\Richmond,County\cities~RichmondRichmond.secret.md)
+### [Richmond.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/Virginia/counties~Virginia/Richmond,County/cities~Richmond/Richmond.personal.md) 
+
+### [Richmond.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/Virginia/counties~Virginia/Richmond,County/cities~Richmond/Richmond.secret.md)
 

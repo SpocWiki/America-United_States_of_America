@@ -45,15 +45,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [South_Dakota.public](/_public/\Earth\Continent\America~North\USA\USA~CentralSouth_Dakota.public.md) 
+### [South_Dakota](/_Standards/Earth/Continent/America~North/USA/USA~Central/South_Dakota.md) 
 
-### [South_Dakota.internal](/_internal/\Earth\Continent\America~North\USA\USA~CentralSouth_Dakota.internal.md) 
+### [South_Dakota.public](/_public/Earth/Continent/America~North/USA/USA~Central/South_Dakota.public.md) 
 
-### [South_Dakota.protect](/_protect/\Earth\Continent\America~North\USA\USA~CentralSouth_Dakota.protect.md) 
+### [South_Dakota.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/South_Dakota.internal.md) 
 
-### [South_Dakota.private](/_private/\Earth\Continent\America~North\USA\USA~CentralSouth_Dakota.private.md) 
+### [South_Dakota.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/South_Dakota.protect.md) 
 
-### [South_Dakota.personal](/_personal/\Earth\Continent\America~North\USA\USA~CentralSouth_Dakota.personal.md) 
+### [South_Dakota.private](/_private/Earth/Continent/America~North/USA/USA~Central/South_Dakota.private.md) 
 
-### [South_Dakota.secret](/_secret/\Earth\Continent\America~North\USA\USA~CentralSouth_Dakota.secret.md)
+### [South_Dakota.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/South_Dakota.personal.md) 
+
+### [South_Dakota.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/South_Dakota.secret.md)
 

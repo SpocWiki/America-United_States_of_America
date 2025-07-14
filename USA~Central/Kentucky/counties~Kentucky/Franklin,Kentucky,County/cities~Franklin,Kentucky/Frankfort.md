@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Frankfort.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Kentucky\counties~Kentucky\Franklin,Kentucky,County\cities~Franklin,KentuckyFrankfort.public.md) 
+### [Frankfort](/_Standards/Earth/Continent/America~North/USA/USA~Central/Kentucky/counties~Kentucky/Franklin,Kentucky,County/cities~Franklin,Kentucky/Frankfort.md) 
 
-### [Frankfort.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Kentucky\counties~Kentucky\Franklin,Kentucky,County\cities~Franklin,KentuckyFrankfort.internal.md) 
+### [Frankfort.public](/_public/Earth/Continent/America~North/USA/USA~Central/Kentucky/counties~Kentucky/Franklin,Kentucky,County/cities~Franklin,Kentucky/Frankfort.public.md) 
 
-### [Frankfort.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Kentucky\counties~Kentucky\Franklin,Kentucky,County\cities~Franklin,KentuckyFrankfort.protect.md) 
+### [Frankfort.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Kentucky/counties~Kentucky/Franklin,Kentucky,County/cities~Franklin,Kentucky/Frankfort.internal.md) 
 
-### [Frankfort.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Kentucky\counties~Kentucky\Franklin,Kentucky,County\cities~Franklin,KentuckyFrankfort.private.md) 
+### [Frankfort.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Kentucky/counties~Kentucky/Franklin,Kentucky,County/cities~Franklin,Kentucky/Frankfort.protect.md) 
 
-### [Frankfort.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Kentucky\counties~Kentucky\Franklin,Kentucky,County\cities~Franklin,KentuckyFrankfort.personal.md) 
+### [Frankfort.private](/_private/Earth/Continent/America~North/USA/USA~Central/Kentucky/counties~Kentucky/Franklin,Kentucky,County/cities~Franklin,Kentucky/Frankfort.private.md) 
 
-### [Frankfort.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Kentucky\counties~Kentucky\Franklin,Kentucky,County\cities~Franklin,KentuckyFrankfort.secret.md)
+### [Frankfort.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Kentucky/counties~Kentucky/Franklin,Kentucky,County/cities~Franklin,Kentucky/Frankfort.personal.md) 
+
+### [Frankfort.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Kentucky/counties~Kentucky/Franklin,Kentucky,County/cities~Franklin,Kentucky/Frankfort.secret.md)
 

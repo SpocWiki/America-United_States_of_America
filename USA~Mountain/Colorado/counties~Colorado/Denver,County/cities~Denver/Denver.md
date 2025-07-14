@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Denver.public](/_public/\Earth\Continent\America~North\USA\USA~Mountain\Colorado\counties~Colorado\Denver,County\cities~DenverDenver.public.md) 
+### [Denver](/_Standards/Earth/Continent/America~North/USA/USA~Mountain/Colorado/counties~Colorado/Denver,County/cities~Denver/Denver.md) 
 
-### [Denver.internal](/_internal/\Earth\Continent\America~North\USA\USA~Mountain\Colorado\counties~Colorado\Denver,County\cities~DenverDenver.internal.md) 
+### [Denver.public](/_public/Earth/Continent/America~North/USA/USA~Mountain/Colorado/counties~Colorado/Denver,County/cities~Denver/Denver.public.md) 
 
-### [Denver.protect](/_protect/\Earth\Continent\America~North\USA\USA~Mountain\Colorado\counties~Colorado\Denver,County\cities~DenverDenver.protect.md) 
+### [Denver.internal](/_internal/Earth/Continent/America~North/USA/USA~Mountain/Colorado/counties~Colorado/Denver,County/cities~Denver/Denver.internal.md) 
 
-### [Denver.private](/_private/\Earth\Continent\America~North\USA\USA~Mountain\Colorado\counties~Colorado\Denver,County\cities~DenverDenver.private.md) 
+### [Denver.protect](/_protect/Earth/Continent/America~North/USA/USA~Mountain/Colorado/counties~Colorado/Denver,County/cities~Denver/Denver.protect.md) 
 
-### [Denver.personal](/_personal/\Earth\Continent\America~North\USA\USA~Mountain\Colorado\counties~Colorado\Denver,County\cities~DenverDenver.personal.md) 
+### [Denver.private](/_private/Earth/Continent/America~North/USA/USA~Mountain/Colorado/counties~Colorado/Denver,County/cities~Denver/Denver.private.md) 
 
-### [Denver.secret](/_secret/\Earth\Continent\America~North\USA\USA~Mountain\Colorado\counties~Colorado\Denver,County\cities~DenverDenver.secret.md)
+### [Denver.personal](/_personal/Earth/Continent/America~North/USA/USA~Mountain/Colorado/counties~Colorado/Denver,County/cities~Denver/Denver.personal.md) 
+
+### [Denver.secret](/_secret/Earth/Continent/America~North/USA/USA~Mountain/Colorado/counties~Colorado/Denver,County/cities~Denver/Denver.secret.md)
 

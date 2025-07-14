@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Penns_Grove.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Salem,County\cities~SalemPenns_Grove.public.md) 
+### [Penns_Grove](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Salem,County/cities~Salem/Penns_Grove.md) 
 
-### [Penns_Grove.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Salem,County\cities~SalemPenns_Grove.internal.md) 
+### [Penns_Grove.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Salem,County/cities~Salem/Penns_Grove.public.md) 
 
-### [Penns_Grove.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Salem,County\cities~SalemPenns_Grove.protect.md) 
+### [Penns_Grove.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Salem,County/cities~Salem/Penns_Grove.internal.md) 
 
-### [Penns_Grove.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Salem,County\cities~SalemPenns_Grove.private.md) 
+### [Penns_Grove.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Salem,County/cities~Salem/Penns_Grove.protect.md) 
 
-### [Penns_Grove.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Salem,County\cities~SalemPenns_Grove.personal.md) 
+### [Penns_Grove.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Salem,County/cities~Salem/Penns_Grove.private.md) 
 
-### [Penns_Grove.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Salem,County\cities~SalemPenns_Grove.secret.md)
+### [Penns_Grove.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Salem,County/cities~Salem/Penns_Grove.personal.md) 
+
+### [Penns_Grove.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Salem,County/cities~Salem/Penns_Grove.secret.md)
 

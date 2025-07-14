@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Alton.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Madison,County\cities~MadisonAlton.public.md) 
+### [Alton](/_Standards/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Madison,County/cities~Madison/Alton.md) 
 
-### [Alton.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Madison,County\cities~MadisonAlton.internal.md) 
+### [Alton.public](/_public/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Madison,County/cities~Madison/Alton.public.md) 
 
-### [Alton.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Madison,County\cities~MadisonAlton.protect.md) 
+### [Alton.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Madison,County/cities~Madison/Alton.internal.md) 
 
-### [Alton.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Madison,County\cities~MadisonAlton.private.md) 
+### [Alton.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Madison,County/cities~Madison/Alton.protect.md) 
 
-### [Alton.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Madison,County\cities~MadisonAlton.personal.md) 
+### [Alton.private](/_private/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Madison,County/cities~Madison/Alton.private.md) 
 
-### [Alton.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Madison,County\cities~MadisonAlton.secret.md)
+### [Alton.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Madison,County/cities~Madison/Alton.personal.md) 
+
+### [Alton.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Madison,County/cities~Madison/Alton.secret.md)
 

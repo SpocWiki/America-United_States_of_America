@@ -45,15 +45,17 @@ markerFolder: ./Midway-Islands/
 
 ## Confidential Links & Embeds: 
 
-### [Midway-Islands.public](/_public/\Earth\Continent\America~North\USA\USA~Islands\CountiesMidway-Islands.public.md) 
+### [Midway-Islands](/_Standards/Earth/Continent/America~North/USA/USA~Islands/Counties/Midway-Islands.md) 
 
-### [Midway-Islands.internal](/_internal/\Earth\Continent\America~North\USA\USA~Islands\CountiesMidway-Islands.internal.md) 
+### [Midway-Islands.public](/_public/Earth/Continent/America~North/USA/USA~Islands/Counties/Midway-Islands.public.md) 
 
-### [Midway-Islands.protect](/_protect/\Earth\Continent\America~North\USA\USA~Islands\CountiesMidway-Islands.protect.md) 
+### [Midway-Islands.internal](/_internal/Earth/Continent/America~North/USA/USA~Islands/Counties/Midway-Islands.internal.md) 
 
-### [Midway-Islands.private](/_private/\Earth\Continent\America~North\USA\USA~Islands\CountiesMidway-Islands.private.md) 
+### [Midway-Islands.protect](/_protect/Earth/Continent/America~North/USA/USA~Islands/Counties/Midway-Islands.protect.md) 
 
-### [Midway-Islands.personal](/_personal/\Earth\Continent\America~North\USA\USA~Islands\CountiesMidway-Islands.personal.md) 
+### [Midway-Islands.private](/_private/Earth/Continent/America~North/USA/USA~Islands/Counties/Midway-Islands.private.md) 
 
-### [Midway-Islands.secret](/_secret/\Earth\Continent\America~North\USA\USA~Islands\CountiesMidway-Islands.secret.md)
+### [Midway-Islands.personal](/_personal/Earth/Continent/America~North/USA/USA~Islands/Counties/Midway-Islands.personal.md) 
+
+### [Midway-Islands.secret](/_secret/Earth/Continent/America~North/USA/USA~Islands/Counties/Midway-Islands.secret.md)
 

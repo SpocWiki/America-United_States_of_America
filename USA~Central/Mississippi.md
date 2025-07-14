@@ -41,15 +41,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mississippi.public](/_public/\Earth\Continent\America~North\USA\USA~CentralMississippi.public.md) 
+### [Mississippi](/_Standards/Earth/Continent/America~North/USA/USA~Central/Mississippi.md) 
 
-### [Mississippi.internal](/_internal/\Earth\Continent\America~North\USA\USA~CentralMississippi.internal.md) 
+### [Mississippi.public](/_public/Earth/Continent/America~North/USA/USA~Central/Mississippi.public.md) 
 
-### [Mississippi.protect](/_protect/\Earth\Continent\America~North\USA\USA~CentralMississippi.protect.md) 
+### [Mississippi.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Mississippi.internal.md) 
 
-### [Mississippi.private](/_private/\Earth\Continent\America~North\USA\USA~CentralMississippi.private.md) 
+### [Mississippi.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Mississippi.protect.md) 
 
-### [Mississippi.personal](/_personal/\Earth\Continent\America~North\USA\USA~CentralMississippi.personal.md) 
+### [Mississippi.private](/_private/Earth/Continent/America~North/USA/USA~Central/Mississippi.private.md) 
 
-### [Mississippi.secret](/_secret/\Earth\Continent\America~North\USA\USA~CentralMississippi.secret.md)
+### [Mississippi.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Mississippi.personal.md) 
+
+### [Mississippi.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Mississippi.secret.md)
 

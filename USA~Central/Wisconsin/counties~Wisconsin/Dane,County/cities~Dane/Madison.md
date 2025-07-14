@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Madison.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Wisconsin\counties~Wisconsin\Dane,County\cities~DaneMadison.public.md) 
+### [Madison](/_Standards/Earth/Continent/America~North/USA/USA~Central/Wisconsin/counties~Wisconsin/Dane,County/cities~Dane/Madison.md) 
 
-### [Madison.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Wisconsin\counties~Wisconsin\Dane,County\cities~DaneMadison.internal.md) 
+### [Madison.public](/_public/Earth/Continent/America~North/USA/USA~Central/Wisconsin/counties~Wisconsin/Dane,County/cities~Dane/Madison.public.md) 
 
-### [Madison.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Wisconsin\counties~Wisconsin\Dane,County\cities~DaneMadison.protect.md) 
+### [Madison.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Wisconsin/counties~Wisconsin/Dane,County/cities~Dane/Madison.internal.md) 
 
-### [Madison.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Wisconsin\counties~Wisconsin\Dane,County\cities~DaneMadison.private.md) 
+### [Madison.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Wisconsin/counties~Wisconsin/Dane,County/cities~Dane/Madison.protect.md) 
 
-### [Madison.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Wisconsin\counties~Wisconsin\Dane,County\cities~DaneMadison.personal.md) 
+### [Madison.private](/_private/Earth/Continent/America~North/USA/USA~Central/Wisconsin/counties~Wisconsin/Dane,County/cities~Dane/Madison.private.md) 
 
-### [Madison.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Wisconsin\counties~Wisconsin\Dane,County\cities~DaneMadison.secret.md)
+### [Madison.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Wisconsin/counties~Wisconsin/Dane,County/cities~Dane/Madison.personal.md) 
+
+### [Madison.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Wisconsin/counties~Wisconsin/Dane,County/cities~Dane/Madison.secret.md)
 

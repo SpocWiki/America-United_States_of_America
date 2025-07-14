@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Savanna.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Carroll,County\cities~CarrollSavanna.public.md) 
+### [Savanna](/_Standards/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Carroll,County/cities~Carroll/Savanna.md) 
 
-### [Savanna.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Carroll,County\cities~CarrollSavanna.internal.md) 
+### [Savanna.public](/_public/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Carroll,County/cities~Carroll/Savanna.public.md) 
 
-### [Savanna.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Carroll,County\cities~CarrollSavanna.protect.md) 
+### [Savanna.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Carroll,County/cities~Carroll/Savanna.internal.md) 
 
-### [Savanna.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Carroll,County\cities~CarrollSavanna.private.md) 
+### [Savanna.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Carroll,County/cities~Carroll/Savanna.protect.md) 
 
-### [Savanna.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Carroll,County\cities~CarrollSavanna.personal.md) 
+### [Savanna.private](/_private/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Carroll,County/cities~Carroll/Savanna.private.md) 
 
-### [Savanna.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Carroll,County\cities~CarrollSavanna.secret.md)
+### [Savanna.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Carroll,County/cities~Carroll/Savanna.personal.md) 
+
+### [Savanna.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Carroll,County/cities~Carroll/Savanna.secret.md)
 

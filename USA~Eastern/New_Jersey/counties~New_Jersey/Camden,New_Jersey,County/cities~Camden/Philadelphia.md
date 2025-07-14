@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Philadelphia.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Camden,New_Jersey,County\cities~CamdenPhiladelphia.public.md) 
+### [Philadelphia](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Camden,New_Jersey,County/cities~Camden/Philadelphia.md) 
 
-### [Philadelphia.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Camden,New_Jersey,County\cities~CamdenPhiladelphia.internal.md) 
+### [Philadelphia.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Camden,New_Jersey,County/cities~Camden/Philadelphia.public.md) 
 
-### [Philadelphia.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Camden,New_Jersey,County\cities~CamdenPhiladelphia.protect.md) 
+### [Philadelphia.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Camden,New_Jersey,County/cities~Camden/Philadelphia.internal.md) 
 
-### [Philadelphia.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Camden,New_Jersey,County\cities~CamdenPhiladelphia.private.md) 
+### [Philadelphia.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Camden,New_Jersey,County/cities~Camden/Philadelphia.protect.md) 
 
-### [Philadelphia.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Camden,New_Jersey,County\cities~CamdenPhiladelphia.personal.md) 
+### [Philadelphia.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Camden,New_Jersey,County/cities~Camden/Philadelphia.private.md) 
 
-### [Philadelphia.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Camden,New_Jersey,County\cities~CamdenPhiladelphia.secret.md)
+### [Philadelphia.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Camden,New_Jersey,County/cities~Camden/Philadelphia.personal.md) 
+
+### [Philadelphia.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Camden,New_Jersey,County/cities~Camden/Philadelphia.secret.md)
 

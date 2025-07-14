@@ -41,15 +41,17 @@ markerFolder: ./Saint_Thomas/
 
 ## Confidential Links & Embeds: 
 
-### [Saint_Thomas.public](/_public/\Earth\Continent\America~North\USA\USA~Islands\USA_Virgin-Islands\Districts~USA_Virgin-IslandsSaint_Thomas.public.md) 
+### [Saint_Thomas](/_Standards/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Thomas.md) 
 
-### [Saint_Thomas.internal](/_internal/\Earth\Continent\America~North\USA\USA~Islands\USA_Virgin-Islands\Districts~USA_Virgin-IslandsSaint_Thomas.internal.md) 
+### [Saint_Thomas.public](/_public/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Thomas.public.md) 
 
-### [Saint_Thomas.protect](/_protect/\Earth\Continent\America~North\USA\USA~Islands\USA_Virgin-Islands\Districts~USA_Virgin-IslandsSaint_Thomas.protect.md) 
+### [Saint_Thomas.internal](/_internal/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Thomas.internal.md) 
 
-### [Saint_Thomas.private](/_private/\Earth\Continent\America~North\USA\USA~Islands\USA_Virgin-Islands\Districts~USA_Virgin-IslandsSaint_Thomas.private.md) 
+### [Saint_Thomas.protect](/_protect/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Thomas.protect.md) 
 
-### [Saint_Thomas.personal](/_personal/\Earth\Continent\America~North\USA\USA~Islands\USA_Virgin-Islands\Districts~USA_Virgin-IslandsSaint_Thomas.personal.md) 
+### [Saint_Thomas.private](/_private/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Thomas.private.md) 
 
-### [Saint_Thomas.secret](/_secret/\Earth\Continent\America~North\USA\USA~Islands\USA_Virgin-Islands\Districts~USA_Virgin-IslandsSaint_Thomas.secret.md)
+### [Saint_Thomas.personal](/_personal/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Thomas.personal.md) 
+
+### [Saint_Thomas.secret](/_secret/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Thomas.secret.md)
 

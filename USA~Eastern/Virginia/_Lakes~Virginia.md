@@ -41,15 +41,17 @@ markerFolder: ./_Lakes/
 
 ## Confidential Links & Embeds: 
 
-### [_Lakes~Virginia.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\Virginia_Lakes~Virginia.public.md) 
+### [_Lakes~Virginia](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/Virginia/_Lakes~Virginia.md) 
 
-### [_Lakes~Virginia.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\Virginia_Lakes~Virginia.internal.md) 
+### [_Lakes~Virginia.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/Virginia/_Lakes~Virginia.public.md) 
 
-### [_Lakes~Virginia.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\Virginia_Lakes~Virginia.protect.md) 
+### [_Lakes~Virginia.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/Virginia/_Lakes~Virginia.internal.md) 
 
-### [_Lakes~Virginia.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\Virginia_Lakes~Virginia.private.md) 
+### [_Lakes~Virginia.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/Virginia/_Lakes~Virginia.protect.md) 
 
-### [_Lakes~Virginia.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\Virginia_Lakes~Virginia.personal.md) 
+### [_Lakes~Virginia.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/Virginia/_Lakes~Virginia.private.md) 
 
-### [_Lakes~Virginia.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\Virginia_Lakes~Virginia.secret.md)
+### [_Lakes~Virginia.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/Virginia/_Lakes~Virginia.personal.md) 
+
+### [_Lakes~Virginia.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/Virginia/_Lakes~Virginia.secret.md)
 

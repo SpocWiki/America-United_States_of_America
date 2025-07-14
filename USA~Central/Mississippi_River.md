@@ -133,20 +133,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Mississippi%20River) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Mississippi_River.public](/_public/\Earth\Continent\America~North\USA\USA~CentralMississippi_River.public.md) 
+### [Mississippi_River](/_Standards/Earth/Continent/America~North/USA/USA~Central/Mississippi_River.md) 
 
-### [Mississippi_River.internal](/_internal/\Earth\Continent\America~North\USA\USA~CentralMississippi_River.internal.md) 
+### [Mississippi_River.public](/_public/Earth/Continent/America~North/USA/USA~Central/Mississippi_River.public.md) 
 
-### [Mississippi_River.protect](/_protect/\Earth\Continent\America~North\USA\USA~CentralMississippi_River.protect.md) 
+### [Mississippi_River.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Mississippi_River.internal.md) 
 
-### [Mississippi_River.private](/_private/\Earth\Continent\America~North\USA\USA~CentralMississippi_River.private.md) 
+### [Mississippi_River.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Mississippi_River.protect.md) 
 
-### [Mississippi_River.personal](/_personal/\Earth\Continent\America~North\USA\USA~CentralMississippi_River.personal.md) 
+### [Mississippi_River.private](/_private/Earth/Continent/America~North/USA/USA~Central/Mississippi_River.private.md) 
 
-### [Mississippi_River.secret](/_secret/\Earth\Continent\America~North\USA\USA~CentralMississippi_River.secret.md)
+### [Mississippi_River.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Mississippi_River.personal.md) 
+
+### [Mississippi_River.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Mississippi_River.secret.md)
 

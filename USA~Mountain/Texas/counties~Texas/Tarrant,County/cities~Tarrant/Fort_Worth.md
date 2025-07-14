@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fort_Worth.public](/_public/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Tarrant,County\cities~TarrantFort_Worth.public.md) 
+### [Fort_Worth](/_Standards/Earth/Continent/America~North/USA/USA~Mountain/Texas/counties~Texas/Tarrant,County/cities~Tarrant/Fort_Worth.md) 
 
-### [Fort_Worth.internal](/_internal/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Tarrant,County\cities~TarrantFort_Worth.internal.md) 
+### [Fort_Worth.public](/_public/Earth/Continent/America~North/USA/USA~Mountain/Texas/counties~Texas/Tarrant,County/cities~Tarrant/Fort_Worth.public.md) 
 
-### [Fort_Worth.protect](/_protect/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Tarrant,County\cities~TarrantFort_Worth.protect.md) 
+### [Fort_Worth.internal](/_internal/Earth/Continent/America~North/USA/USA~Mountain/Texas/counties~Texas/Tarrant,County/cities~Tarrant/Fort_Worth.internal.md) 
 
-### [Fort_Worth.private](/_private/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Tarrant,County\cities~TarrantFort_Worth.private.md) 
+### [Fort_Worth.protect](/_protect/Earth/Continent/America~North/USA/USA~Mountain/Texas/counties~Texas/Tarrant,County/cities~Tarrant/Fort_Worth.protect.md) 
 
-### [Fort_Worth.personal](/_personal/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Tarrant,County\cities~TarrantFort_Worth.personal.md) 
+### [Fort_Worth.private](/_private/Earth/Continent/America~North/USA/USA~Mountain/Texas/counties~Texas/Tarrant,County/cities~Tarrant/Fort_Worth.private.md) 
 
-### [Fort_Worth.secret](/_secret/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Tarrant,County\cities~TarrantFort_Worth.secret.md)
+### [Fort_Worth.personal](/_personal/Earth/Continent/America~North/USA/USA~Mountain/Texas/counties~Texas/Tarrant,County/cities~Tarrant/Fort_Worth.personal.md) 
+
+### [Fort_Worth.secret](/_secret/Earth/Continent/America~North/USA/USA~Mountain/Texas/counties~Texas/Tarrant,County/cities~Tarrant/Fort_Worth.secret.md)
 

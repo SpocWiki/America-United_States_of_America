@@ -41,15 +41,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Indiana.public](/_public/\Earth\Continent\America~North\USA\USA~CentralIndiana.public.md) 
+### [Indiana](/_Standards/Earth/Continent/America~North/USA/USA~Central/Indiana.md) 
 
-### [Indiana.internal](/_internal/\Earth\Continent\America~North\USA\USA~CentralIndiana.internal.md) 
+### [Indiana.public](/_public/Earth/Continent/America~North/USA/USA~Central/Indiana.public.md) 
 
-### [Indiana.protect](/_protect/\Earth\Continent\America~North\USA\USA~CentralIndiana.protect.md) 
+### [Indiana.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Indiana.internal.md) 
 
-### [Indiana.private](/_private/\Earth\Continent\America~North\USA\USA~CentralIndiana.private.md) 
+### [Indiana.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Indiana.protect.md) 
 
-### [Indiana.personal](/_personal/\Earth\Continent\America~North\USA\USA~CentralIndiana.personal.md) 
+### [Indiana.private](/_private/Earth/Continent/America~North/USA/USA~Central/Indiana.private.md) 
 
-### [Indiana.secret](/_secret/\Earth\Continent\America~North\USA\USA~CentralIndiana.secret.md)
+### [Indiana.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Indiana.personal.md) 
+
+### [Indiana.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Indiana.secret.md)
 

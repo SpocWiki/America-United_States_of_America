@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Springfield.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Sangamon,County\cities~SangamonSpringfield.public.md) 
+### [Springfield](/_Standards/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Sangamon,County/cities~Sangamon/Springfield.md) 
 
-### [Springfield.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Sangamon,County\cities~SangamonSpringfield.internal.md) 
+### [Springfield.public](/_public/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Sangamon,County/cities~Sangamon/Springfield.public.md) 
 
-### [Springfield.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Sangamon,County\cities~SangamonSpringfield.protect.md) 
+### [Springfield.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Sangamon,County/cities~Sangamon/Springfield.internal.md) 
 
-### [Springfield.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Sangamon,County\cities~SangamonSpringfield.private.md) 
+### [Springfield.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Sangamon,County/cities~Sangamon/Springfield.protect.md) 
 
-### [Springfield.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Sangamon,County\cities~SangamonSpringfield.personal.md) 
+### [Springfield.private](/_private/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Sangamon,County/cities~Sangamon/Springfield.private.md) 
 
-### [Springfield.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Sangamon,County\cities~SangamonSpringfield.secret.md)
+### [Springfield.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Sangamon,County/cities~Sangamon/Springfield.personal.md) 
+
+### [Springfield.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Illinois/counties~Illinois/Sangamon,County/cities~Sangamon/Springfield.secret.md)
 

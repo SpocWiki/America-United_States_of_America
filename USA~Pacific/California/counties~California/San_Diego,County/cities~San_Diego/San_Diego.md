@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [San_Diego.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\San_Diego,County\cities~San_DiegoSan_Diego.public.md) 
+### [San_Diego](/_Standards/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/San_Diego,County/cities~San_Diego/San_Diego.md) 
 
-### [San_Diego.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\San_Diego,County\cities~San_DiegoSan_Diego.internal.md) 
+### [San_Diego.public](/_public/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/San_Diego,County/cities~San_Diego/San_Diego.public.md) 
 
-### [San_Diego.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\San_Diego,County\cities~San_DiegoSan_Diego.protect.md) 
+### [San_Diego.internal](/_internal/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/San_Diego,County/cities~San_Diego/San_Diego.internal.md) 
 
-### [San_Diego.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\San_Diego,County\cities~San_DiegoSan_Diego.private.md) 
+### [San_Diego.protect](/_protect/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/San_Diego,County/cities~San_Diego/San_Diego.protect.md) 
 
-### [San_Diego.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\San_Diego,County\cities~San_DiegoSan_Diego.personal.md) 
+### [San_Diego.private](/_private/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/San_Diego,County/cities~San_Diego/San_Diego.private.md) 
 
-### [San_Diego.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\San_Diego,County\cities~San_DiegoSan_Diego.secret.md)
+### [San_Diego.personal](/_personal/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/San_Diego,County/cities~San_Diego/San_Diego.personal.md) 
+
+### [San_Diego.secret](/_secret/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/San_Diego,County/cities~San_Diego/San_Diego.secret.md)
 

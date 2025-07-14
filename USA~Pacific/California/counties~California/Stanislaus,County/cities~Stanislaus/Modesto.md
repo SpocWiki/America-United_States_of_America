@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Modesto.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Stanislaus,County\cities~StanislausModesto.public.md) 
+### [Modesto](/_Standards/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Stanislaus,County/cities~Stanislaus/Modesto.md) 
 
-### [Modesto.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Stanislaus,County\cities~StanislausModesto.internal.md) 
+### [Modesto.public](/_public/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Stanislaus,County/cities~Stanislaus/Modesto.public.md) 
 
-### [Modesto.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Stanislaus,County\cities~StanislausModesto.protect.md) 
+### [Modesto.internal](/_internal/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Stanislaus,County/cities~Stanislaus/Modesto.internal.md) 
 
-### [Modesto.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Stanislaus,County\cities~StanislausModesto.private.md) 
+### [Modesto.protect](/_protect/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Stanislaus,County/cities~Stanislaus/Modesto.protect.md) 
 
-### [Modesto.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Stanislaus,County\cities~StanislausModesto.personal.md) 
+### [Modesto.private](/_private/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Stanislaus,County/cities~Stanislaus/Modesto.private.md) 
 
-### [Modesto.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Stanislaus,County\cities~StanislausModesto.secret.md)
+### [Modesto.personal](/_personal/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Stanislaus,County/cities~Stanislaus/Modesto.personal.md) 
+
+### [Modesto.secret](/_secret/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Stanislaus,County/cities~Stanislaus/Modesto.secret.md)
 

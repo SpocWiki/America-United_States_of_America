@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Grand_Rapids.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Michigan\counties~Michigan\Kent,County\cities~KentGrand_Rapids.public.md) 
+### [Grand_Rapids](/_Standards/Earth/Continent/America~North/USA/USA~Central/Michigan/counties~Michigan/Kent,County/cities~Kent/Grand_Rapids.md) 
 
-### [Grand_Rapids.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Michigan\counties~Michigan\Kent,County\cities~KentGrand_Rapids.internal.md) 
+### [Grand_Rapids.public](/_public/Earth/Continent/America~North/USA/USA~Central/Michigan/counties~Michigan/Kent,County/cities~Kent/Grand_Rapids.public.md) 
 
-### [Grand_Rapids.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Michigan\counties~Michigan\Kent,County\cities~KentGrand_Rapids.protect.md) 
+### [Grand_Rapids.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Michigan/counties~Michigan/Kent,County/cities~Kent/Grand_Rapids.internal.md) 
 
-### [Grand_Rapids.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Michigan\counties~Michigan\Kent,County\cities~KentGrand_Rapids.private.md) 
+### [Grand_Rapids.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Michigan/counties~Michigan/Kent,County/cities~Kent/Grand_Rapids.protect.md) 
 
-### [Grand_Rapids.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Michigan\counties~Michigan\Kent,County\cities~KentGrand_Rapids.personal.md) 
+### [Grand_Rapids.private](/_private/Earth/Continent/America~North/USA/USA~Central/Michigan/counties~Michigan/Kent,County/cities~Kent/Grand_Rapids.private.md) 
 
-### [Grand_Rapids.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Michigan\counties~Michigan\Kent,County\cities~KentGrand_Rapids.secret.md)
+### [Grand_Rapids.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Michigan/counties~Michigan/Kent,County/cities~Kent/Grand_Rapids.personal.md) 
+
+### [Grand_Rapids.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Michigan/counties~Michigan/Kent,County/cities~Kent/Grand_Rapids.secret.md)
 

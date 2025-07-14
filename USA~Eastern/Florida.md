@@ -41,15 +41,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Florida.public](/_public/\Earth\Continent\America~North\USA\USA~EasternFlorida.public.md) 
+### [Florida](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/Florida.md) 
 
-### [Florida.internal](/_internal/\Earth\Continent\America~North\USA\USA~EasternFlorida.internal.md) 
+### [Florida.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/Florida.public.md) 
 
-### [Florida.protect](/_protect/\Earth\Continent\America~North\USA\USA~EasternFlorida.protect.md) 
+### [Florida.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/Florida.internal.md) 
 
-### [Florida.private](/_private/\Earth\Continent\America~North\USA\USA~EasternFlorida.private.md) 
+### [Florida.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/Florida.protect.md) 
 
-### [Florida.personal](/_personal/\Earth\Continent\America~North\USA\USA~EasternFlorida.personal.md) 
+### [Florida.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/Florida.private.md) 
 
-### [Florida.secret](/_secret/\Earth\Continent\America~North\USA\USA~EasternFlorida.secret.md)
+### [Florida.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/Florida.personal.md) 
+
+### [Florida.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/Florida.secret.md)
 

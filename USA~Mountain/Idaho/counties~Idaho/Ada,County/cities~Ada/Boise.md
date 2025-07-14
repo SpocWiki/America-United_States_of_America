@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Boise.public](/_public/\Earth\Continent\America~North\USA\USA~Mountain\Idaho\counties~Idaho\Ada,County\cities~AdaBoise.public.md) 
+### [Boise](/_Standards/Earth/Continent/America~North/USA/USA~Mountain/Idaho/counties~Idaho/Ada,County/cities~Ada/Boise.md) 
 
-### [Boise.internal](/_internal/\Earth\Continent\America~North\USA\USA~Mountain\Idaho\counties~Idaho\Ada,County\cities~AdaBoise.internal.md) 
+### [Boise.public](/_public/Earth/Continent/America~North/USA/USA~Mountain/Idaho/counties~Idaho/Ada,County/cities~Ada/Boise.public.md) 
 
-### [Boise.protect](/_protect/\Earth\Continent\America~North\USA\USA~Mountain\Idaho\counties~Idaho\Ada,County\cities~AdaBoise.protect.md) 
+### [Boise.internal](/_internal/Earth/Continent/America~North/USA/USA~Mountain/Idaho/counties~Idaho/Ada,County/cities~Ada/Boise.internal.md) 
 
-### [Boise.private](/_private/\Earth\Continent\America~North\USA\USA~Mountain\Idaho\counties~Idaho\Ada,County\cities~AdaBoise.private.md) 
+### [Boise.protect](/_protect/Earth/Continent/America~North/USA/USA~Mountain/Idaho/counties~Idaho/Ada,County/cities~Ada/Boise.protect.md) 
 
-### [Boise.personal](/_personal/\Earth\Continent\America~North\USA\USA~Mountain\Idaho\counties~Idaho\Ada,County\cities~AdaBoise.personal.md) 
+### [Boise.private](/_private/Earth/Continent/America~North/USA/USA~Mountain/Idaho/counties~Idaho/Ada,County/cities~Ada/Boise.private.md) 
 
-### [Boise.secret](/_secret/\Earth\Continent\America~North\USA\USA~Mountain\Idaho\counties~Idaho\Ada,County\cities~AdaBoise.secret.md)
+### [Boise.personal](/_personal/Earth/Continent/America~North/USA/USA~Mountain/Idaho/counties~Idaho/Ada,County/cities~Ada/Boise.personal.md) 
+
+### [Boise.secret](/_secret/Earth/Continent/America~North/USA/USA~Mountain/Idaho/counties~Idaho/Ada,County/cities~Ada/Boise.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hackensack.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Bergen,County\cities~BergenHackensack.public.md) 
+### [Hackensack](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Bergen,County/cities~Bergen/Hackensack.md) 
 
-### [Hackensack.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Bergen,County\cities~BergenHackensack.internal.md) 
+### [Hackensack.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Bergen,County/cities~Bergen/Hackensack.public.md) 
 
-### [Hackensack.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Bergen,County\cities~BergenHackensack.protect.md) 
+### [Hackensack.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Bergen,County/cities~Bergen/Hackensack.internal.md) 
 
-### [Hackensack.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Bergen,County\cities~BergenHackensack.private.md) 
+### [Hackensack.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Bergen,County/cities~Bergen/Hackensack.protect.md) 
 
-### [Hackensack.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Bergen,County\cities~BergenHackensack.personal.md) 
+### [Hackensack.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Bergen,County/cities~Bergen/Hackensack.private.md) 
 
-### [Hackensack.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Bergen,County\cities~BergenHackensack.secret.md)
+### [Hackensack.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Bergen,County/cities~Bergen/Hackensack.personal.md) 
+
+### [Hackensack.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey/counties~New_Jersey/Bergen,County/cities~Bergen/Hackensack.secret.md)
 

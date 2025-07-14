@@ -45,15 +45,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Utah.public](/_public/\Earth\Continent\America~North\USA\USA~MountainUtah.public.md) 
+### [Utah](/_Standards/Earth/Continent/America~North/USA/USA~Mountain/Utah.md) 
 
-### [Utah.internal](/_internal/\Earth\Continent\America~North\USA\USA~MountainUtah.internal.md) 
+### [Utah.public](/_public/Earth/Continent/America~North/USA/USA~Mountain/Utah.public.md) 
 
-### [Utah.protect](/_protect/\Earth\Continent\America~North\USA\USA~MountainUtah.protect.md) 
+### [Utah.internal](/_internal/Earth/Continent/America~North/USA/USA~Mountain/Utah.internal.md) 
 
-### [Utah.private](/_private/\Earth\Continent\America~North\USA\USA~MountainUtah.private.md) 
+### [Utah.protect](/_protect/Earth/Continent/America~North/USA/USA~Mountain/Utah.protect.md) 
 
-### [Utah.personal](/_personal/\Earth\Continent\America~North\USA\USA~MountainUtah.personal.md) 
+### [Utah.private](/_private/Earth/Continent/America~North/USA/USA~Mountain/Utah.private.md) 
 
-### [Utah.secret](/_secret/\Earth\Continent\America~North\USA\USA~MountainUtah.secret.md)
+### [Utah.personal](/_personal/Earth/Continent/America~North/USA/USA~Mountain/Utah.personal.md) 
+
+### [Utah.secret](/_secret/Earth/Continent/America~North/USA/USA~Mountain/Utah.secret.md)
 

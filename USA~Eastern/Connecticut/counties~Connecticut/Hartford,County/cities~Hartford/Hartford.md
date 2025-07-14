@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hartford.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\Connecticut\counties~Connecticut\Hartford,County\cities~HartfordHartford.public.md) 
+### [Hartford](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/Connecticut/counties~Connecticut/Hartford,County/cities~Hartford/Hartford.md) 
 
-### [Hartford.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\Connecticut\counties~Connecticut\Hartford,County\cities~HartfordHartford.internal.md) 
+### [Hartford.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/Connecticut/counties~Connecticut/Hartford,County/cities~Hartford/Hartford.public.md) 
 
-### [Hartford.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\Connecticut\counties~Connecticut\Hartford,County\cities~HartfordHartford.protect.md) 
+### [Hartford.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/Connecticut/counties~Connecticut/Hartford,County/cities~Hartford/Hartford.internal.md) 
 
-### [Hartford.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\Connecticut\counties~Connecticut\Hartford,County\cities~HartfordHartford.private.md) 
+### [Hartford.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/Connecticut/counties~Connecticut/Hartford,County/cities~Hartford/Hartford.protect.md) 
 
-### [Hartford.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\Connecticut\counties~Connecticut\Hartford,County\cities~HartfordHartford.personal.md) 
+### [Hartford.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/Connecticut/counties~Connecticut/Hartford,County/cities~Hartford/Hartford.private.md) 
 
-### [Hartford.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\Connecticut\counties~Connecticut\Hartford,County\cities~HartfordHartford.secret.md)
+### [Hartford.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/Connecticut/counties~Connecticut/Hartford,County/cities~Hartford/Hartford.personal.md) 
+
+### [Hartford.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/Connecticut/counties~Connecticut/Hartford,County/cities~Hartford/Hartford.secret.md)
 

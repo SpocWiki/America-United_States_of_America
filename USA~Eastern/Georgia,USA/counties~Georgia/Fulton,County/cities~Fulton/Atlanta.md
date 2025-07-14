@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Atlanta.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\Georgia,USA\counties~Georgia\Fulton,County\cities~FultonAtlanta.public.md) 
+### [Atlanta](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/Georgia,USA/counties~Georgia/Fulton,County/cities~Fulton/Atlanta.md) 
 
-### [Atlanta.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\Georgia,USA\counties~Georgia\Fulton,County\cities~FultonAtlanta.internal.md) 
+### [Atlanta.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/Georgia,USA/counties~Georgia/Fulton,County/cities~Fulton/Atlanta.public.md) 
 
-### [Atlanta.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\Georgia,USA\counties~Georgia\Fulton,County\cities~FultonAtlanta.protect.md) 
+### [Atlanta.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/Georgia,USA/counties~Georgia/Fulton,County/cities~Fulton/Atlanta.internal.md) 
 
-### [Atlanta.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\Georgia,USA\counties~Georgia\Fulton,County\cities~FultonAtlanta.private.md) 
+### [Atlanta.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/Georgia,USA/counties~Georgia/Fulton,County/cities~Fulton/Atlanta.protect.md) 
 
-### [Atlanta.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\Georgia,USA\counties~Georgia\Fulton,County\cities~FultonAtlanta.personal.md) 
+### [Atlanta.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/Georgia,USA/counties~Georgia/Fulton,County/cities~Fulton/Atlanta.private.md) 
 
-### [Atlanta.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\Georgia,USA\counties~Georgia\Fulton,County\cities~FultonAtlanta.secret.md)
+### [Atlanta.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/Georgia,USA/counties~Georgia/Fulton,County/cities~Fulton/Atlanta.personal.md) 
+
+### [Atlanta.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/Georgia,USA/counties~Georgia/Fulton,County/cities~Fulton/Atlanta.secret.md)
 

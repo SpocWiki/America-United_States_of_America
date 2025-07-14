@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bethune_USA.public](/_public/\Earth\Continent\America~North\USA\USA~Mountain\Colorado\counties~Colorado\Kit_Carson,CountyBethune_USA.public.md) 
+### [Bethune_USA](/_Standards/Earth/Continent/America~North/USA/USA~Mountain/Colorado/counties~Colorado/Kit_Carson,County/Bethune_USA.md) 
 
-### [Bethune_USA.internal](/_internal/\Earth\Continent\America~North\USA\USA~Mountain\Colorado\counties~Colorado\Kit_Carson,CountyBethune_USA.internal.md) 
+### [Bethune_USA.public](/_public/Earth/Continent/America~North/USA/USA~Mountain/Colorado/counties~Colorado/Kit_Carson,County/Bethune_USA.public.md) 
 
-### [Bethune_USA.protect](/_protect/\Earth\Continent\America~North\USA\USA~Mountain\Colorado\counties~Colorado\Kit_Carson,CountyBethune_USA.protect.md) 
+### [Bethune_USA.internal](/_internal/Earth/Continent/America~North/USA/USA~Mountain/Colorado/counties~Colorado/Kit_Carson,County/Bethune_USA.internal.md) 
 
-### [Bethune_USA.private](/_private/\Earth\Continent\America~North\USA\USA~Mountain\Colorado\counties~Colorado\Kit_Carson,CountyBethune_USA.private.md) 
+### [Bethune_USA.protect](/_protect/Earth/Continent/America~North/USA/USA~Mountain/Colorado/counties~Colorado/Kit_Carson,County/Bethune_USA.protect.md) 
 
-### [Bethune_USA.personal](/_personal/\Earth\Continent\America~North\USA\USA~Mountain\Colorado\counties~Colorado\Kit_Carson,CountyBethune_USA.personal.md) 
+### [Bethune_USA.private](/_private/Earth/Continent/America~North/USA/USA~Mountain/Colorado/counties~Colorado/Kit_Carson,County/Bethune_USA.private.md) 
 
-### [Bethune_USA.secret](/_secret/\Earth\Continent\America~North\USA\USA~Mountain\Colorado\counties~Colorado\Kit_Carson,CountyBethune_USA.secret.md)
+### [Bethune_USA.personal](/_personal/Earth/Continent/America~North/USA/USA~Mountain/Colorado/counties~Colorado/Kit_Carson,County/Bethune_USA.personal.md) 
+
+### [Bethune_USA.secret](/_secret/Earth/Continent/America~North/USA/USA~Mountain/Colorado/counties~Colorado/Kit_Carson,County/Bethune_USA.secret.md)
 

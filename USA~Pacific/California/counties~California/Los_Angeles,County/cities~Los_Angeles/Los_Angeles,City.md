@@ -331,15 +331,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Los_Angeles,City.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Los_Angeles,County\cities~Los_AngelesLos_Angeles,City.public.md) 
+### [Los_Angeles,City](/_Standards/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Los_Angeles,County/cities~Los_Angeles/Los_Angeles,City.md) 
 
-### [Los_Angeles,City.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Los_Angeles,County\cities~Los_AngelesLos_Angeles,City.internal.md) 
+### [Los_Angeles,City.public](/_public/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Los_Angeles,County/cities~Los_Angeles/Los_Angeles,City.public.md) 
 
-### [Los_Angeles,City.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Los_Angeles,County\cities~Los_AngelesLos_Angeles,City.protect.md) 
+### [Los_Angeles,City.internal](/_internal/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Los_Angeles,County/cities~Los_Angeles/Los_Angeles,City.internal.md) 
 
-### [Los_Angeles,City.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Los_Angeles,County\cities~Los_AngelesLos_Angeles,City.private.md) 
+### [Los_Angeles,City.protect](/_protect/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Los_Angeles,County/cities~Los_Angeles/Los_Angeles,City.protect.md) 
 
-### [Los_Angeles,City.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Los_Angeles,County\cities~Los_AngelesLos_Angeles,City.personal.md) 
+### [Los_Angeles,City.private](/_private/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Los_Angeles,County/cities~Los_Angeles/Los_Angeles,City.private.md) 
 
-### [Los_Angeles,City.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Los_Angeles,County\cities~Los_AngelesLos_Angeles,City.secret.md)
+### [Los_Angeles,City.personal](/_personal/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Los_Angeles,County/cities~Los_Angeles/Los_Angeles,City.personal.md) 
+
+### [Los_Angeles,City.secret](/_secret/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Los_Angeles,County/cities~Los_Angeles/Los_Angeles,City.secret.md)
 

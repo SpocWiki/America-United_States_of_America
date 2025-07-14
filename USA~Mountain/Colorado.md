@@ -44,15 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Colorado.public](/_public/\Earth\Continent\America~North\USA\USA~MountainColorado.public.md) 
+### [Colorado](/_Standards/Earth/Continent/America~North/USA/USA~Mountain/Colorado.md) 
 
-### [Colorado.internal](/_internal/\Earth\Continent\America~North\USA\USA~MountainColorado.internal.md) 
+### [Colorado.public](/_public/Earth/Continent/America~North/USA/USA~Mountain/Colorado.public.md) 
 
-### [Colorado.protect](/_protect/\Earth\Continent\America~North\USA\USA~MountainColorado.protect.md) 
+### [Colorado.internal](/_internal/Earth/Continent/America~North/USA/USA~Mountain/Colorado.internal.md) 
 
-### [Colorado.private](/_private/\Earth\Continent\America~North\USA\USA~MountainColorado.private.md) 
+### [Colorado.protect](/_protect/Earth/Continent/America~North/USA/USA~Mountain/Colorado.protect.md) 
 
-### [Colorado.personal](/_personal/\Earth\Continent\America~North\USA\USA~MountainColorado.personal.md) 
+### [Colorado.private](/_private/Earth/Continent/America~North/USA/USA~Mountain/Colorado.private.md) 
 
-### [Colorado.secret](/_secret/\Earth\Continent\America~North\USA\USA~MountainColorado.secret.md)
+### [Colorado.personal](/_personal/Earth/Continent/America~North/USA/USA~Mountain/Colorado.personal.md) 
+
+### [Colorado.secret](/_secret/Earth/Continent/America~North/USA/USA~Mountain/Colorado.secret.md)
 

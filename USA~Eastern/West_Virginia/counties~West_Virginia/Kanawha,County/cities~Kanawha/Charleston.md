@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Charleston.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\West_Virginia\counties~West_Virginia\Kanawha,County\cities~KanawhaCharleston.public.md) 
+### [Charleston](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/West_Virginia/counties~West_Virginia/Kanawha,County/cities~Kanawha/Charleston.md) 
 
-### [Charleston.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\West_Virginia\counties~West_Virginia\Kanawha,County\cities~KanawhaCharleston.internal.md) 
+### [Charleston.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/West_Virginia/counties~West_Virginia/Kanawha,County/cities~Kanawha/Charleston.public.md) 
 
-### [Charleston.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\West_Virginia\counties~West_Virginia\Kanawha,County\cities~KanawhaCharleston.protect.md) 
+### [Charleston.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/West_Virginia/counties~West_Virginia/Kanawha,County/cities~Kanawha/Charleston.internal.md) 
 
-### [Charleston.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\West_Virginia\counties~West_Virginia\Kanawha,County\cities~KanawhaCharleston.private.md) 
+### [Charleston.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/West_Virginia/counties~West_Virginia/Kanawha,County/cities~Kanawha/Charleston.protect.md) 
 
-### [Charleston.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\West_Virginia\counties~West_Virginia\Kanawha,County\cities~KanawhaCharleston.personal.md) 
+### [Charleston.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/West_Virginia/counties~West_Virginia/Kanawha,County/cities~Kanawha/Charleston.private.md) 
 
-### [Charleston.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\West_Virginia\counties~West_Virginia\Kanawha,County\cities~KanawhaCharleston.secret.md)
+### [Charleston.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/West_Virginia/counties~West_Virginia/Kanawha,County/cities~Kanawha/Charleston.personal.md) 
+
+### [Charleston.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/West_Virginia/counties~West_Virginia/Kanawha,County/cities~Kanawha/Charleston.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [New_Orleans.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Louisiana\counties~Louisiana\Orleans,County\cities~OrleansNew_Orleans.public.md) 
+### [New_Orleans](/_Standards/Earth/Continent/America~North/USA/USA~Central/Louisiana/counties~Louisiana/Orleans,County/cities~Orleans/New_Orleans.md) 
 
-### [New_Orleans.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Louisiana\counties~Louisiana\Orleans,County\cities~OrleansNew_Orleans.internal.md) 
+### [New_Orleans.public](/_public/Earth/Continent/America~North/USA/USA~Central/Louisiana/counties~Louisiana/Orleans,County/cities~Orleans/New_Orleans.public.md) 
 
-### [New_Orleans.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Louisiana\counties~Louisiana\Orleans,County\cities~OrleansNew_Orleans.protect.md) 
+### [New_Orleans.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Louisiana/counties~Louisiana/Orleans,County/cities~Orleans/New_Orleans.internal.md) 
 
-### [New_Orleans.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Louisiana\counties~Louisiana\Orleans,County\cities~OrleansNew_Orleans.private.md) 
+### [New_Orleans.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Louisiana/counties~Louisiana/Orleans,County/cities~Orleans/New_Orleans.protect.md) 
 
-### [New_Orleans.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Louisiana\counties~Louisiana\Orleans,County\cities~OrleansNew_Orleans.personal.md) 
+### [New_Orleans.private](/_private/Earth/Continent/America~North/USA/USA~Central/Louisiana/counties~Louisiana/Orleans,County/cities~Orleans/New_Orleans.private.md) 
 
-### [New_Orleans.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Louisiana\counties~Louisiana\Orleans,County\cities~OrleansNew_Orleans.secret.md)
+### [New_Orleans.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Louisiana/counties~Louisiana/Orleans,County/cities~Orleans/New_Orleans.personal.md) 
+
+### [New_Orleans.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Louisiana/counties~Louisiana/Orleans,County/cities~Orleans/New_Orleans.secret.md)
 

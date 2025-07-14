@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sacramento.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Sacramento,County\cities~SacramentoSacramento.public.md) 
+### [Sacramento](/_Standards/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Sacramento,County/cities~Sacramento/Sacramento.md) 
 
-### [Sacramento.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Sacramento,County\cities~SacramentoSacramento.internal.md) 
+### [Sacramento.public](/_public/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Sacramento,County/cities~Sacramento/Sacramento.public.md) 
 
-### [Sacramento.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Sacramento,County\cities~SacramentoSacramento.protect.md) 
+### [Sacramento.internal](/_internal/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Sacramento,County/cities~Sacramento/Sacramento.internal.md) 
 
-### [Sacramento.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Sacramento,County\cities~SacramentoSacramento.private.md) 
+### [Sacramento.protect](/_protect/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Sacramento,County/cities~Sacramento/Sacramento.protect.md) 
 
-### [Sacramento.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Sacramento,County\cities~SacramentoSacramento.personal.md) 
+### [Sacramento.private](/_private/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Sacramento,County/cities~Sacramento/Sacramento.private.md) 
 
-### [Sacramento.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Sacramento,County\cities~SacramentoSacramento.secret.md)
+### [Sacramento.personal](/_personal/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Sacramento,County/cities~Sacramento/Sacramento.personal.md) 
+
+### [Sacramento.secret](/_secret/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Sacramento,County/cities~Sacramento/Sacramento.secret.md)
 

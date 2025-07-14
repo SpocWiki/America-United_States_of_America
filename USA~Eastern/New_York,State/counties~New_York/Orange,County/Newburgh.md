@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Newburgh.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\Orange,CountyNewburgh.public.md) 
+### [Newburgh](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/Orange,County/Newburgh.md) 
 
-### [Newburgh.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\Orange,CountyNewburgh.internal.md) 
+### [Newburgh.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/Orange,County/Newburgh.public.md) 
 
-### [Newburgh.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\Orange,CountyNewburgh.protect.md) 
+### [Newburgh.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/Orange,County/Newburgh.internal.md) 
 
-### [Newburgh.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\Orange,CountyNewburgh.private.md) 
+### [Newburgh.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/Orange,County/Newburgh.protect.md) 
 
-### [Newburgh.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\Orange,CountyNewburgh.personal.md) 
+### [Newburgh.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/Orange,County/Newburgh.private.md) 
 
-### [Newburgh.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\Orange,CountyNewburgh.secret.md)
+### [Newburgh.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/Orange,County/Newburgh.personal.md) 
+
+### [Newburgh.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/Orange,County/Newburgh.secret.md)
 

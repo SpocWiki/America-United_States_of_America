@@ -41,15 +41,17 @@ markerFolder: ./Saint_John/
 
 ## Confidential Links & Embeds: 
 
-### [Saint_John.public](/_public/\Earth\Continent\America~North\USA\USA~Islands\USA_Virgin-Islands\Districts~USA_Virgin-IslandsSaint_John.public.md) 
+### [Saint_John](/_Standards/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands/Districts~USA_Virgin-Islands/Saint_John.md) 
 
-### [Saint_John.internal](/_internal/\Earth\Continent\America~North\USA\USA~Islands\USA_Virgin-Islands\Districts~USA_Virgin-IslandsSaint_John.internal.md) 
+### [Saint_John.public](/_public/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands/Districts~USA_Virgin-Islands/Saint_John.public.md) 
 
-### [Saint_John.protect](/_protect/\Earth\Continent\America~North\USA\USA~Islands\USA_Virgin-Islands\Districts~USA_Virgin-IslandsSaint_John.protect.md) 
+### [Saint_John.internal](/_internal/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands/Districts~USA_Virgin-Islands/Saint_John.internal.md) 
 
-### [Saint_John.private](/_private/\Earth\Continent\America~North\USA\USA~Islands\USA_Virgin-Islands\Districts~USA_Virgin-IslandsSaint_John.private.md) 
+### [Saint_John.protect](/_protect/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands/Districts~USA_Virgin-Islands/Saint_John.protect.md) 
 
-### [Saint_John.personal](/_personal/\Earth\Continent\America~North\USA\USA~Islands\USA_Virgin-Islands\Districts~USA_Virgin-IslandsSaint_John.personal.md) 
+### [Saint_John.private](/_private/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands/Districts~USA_Virgin-Islands/Saint_John.private.md) 
 
-### [Saint_John.secret](/_secret/\Earth\Continent\America~North\USA\USA~Islands\USA_Virgin-Islands\Districts~USA_Virgin-IslandsSaint_John.secret.md)
+### [Saint_John.personal](/_personal/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands/Districts~USA_Virgin-Islands/Saint_John.personal.md) 
+
+### [Saint_John.secret](/_secret/Earth/Continent/America~North/USA/USA~Islands/USA_Virgin-Islands/Districts~USA_Virgin-Islands/Saint_John.secret.md)
 

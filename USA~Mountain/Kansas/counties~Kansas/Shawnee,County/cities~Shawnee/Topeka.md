@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Topeka.public](/_public/\Earth\Continent\America~North\USA\USA~Mountain\Kansas\counties~Kansas\Shawnee,County\cities~ShawneeTopeka.public.md) 
+### [Topeka](/_Standards/Earth/Continent/America~North/USA/USA~Mountain/Kansas/counties~Kansas/Shawnee,County/cities~Shawnee/Topeka.md) 
 
-### [Topeka.internal](/_internal/\Earth\Continent\America~North\USA\USA~Mountain\Kansas\counties~Kansas\Shawnee,County\cities~ShawneeTopeka.internal.md) 
+### [Topeka.public](/_public/Earth/Continent/America~North/USA/USA~Mountain/Kansas/counties~Kansas/Shawnee,County/cities~Shawnee/Topeka.public.md) 
 
-### [Topeka.protect](/_protect/\Earth\Continent\America~North\USA\USA~Mountain\Kansas\counties~Kansas\Shawnee,County\cities~ShawneeTopeka.protect.md) 
+### [Topeka.internal](/_internal/Earth/Continent/America~North/USA/USA~Mountain/Kansas/counties~Kansas/Shawnee,County/cities~Shawnee/Topeka.internal.md) 
 
-### [Topeka.private](/_private/\Earth\Continent\America~North\USA\USA~Mountain\Kansas\counties~Kansas\Shawnee,County\cities~ShawneeTopeka.private.md) 
+### [Topeka.protect](/_protect/Earth/Continent/America~North/USA/USA~Mountain/Kansas/counties~Kansas/Shawnee,County/cities~Shawnee/Topeka.protect.md) 
 
-### [Topeka.personal](/_personal/\Earth\Continent\America~North\USA\USA~Mountain\Kansas\counties~Kansas\Shawnee,County\cities~ShawneeTopeka.personal.md) 
+### [Topeka.private](/_private/Earth/Continent/America~North/USA/USA~Mountain/Kansas/counties~Kansas/Shawnee,County/cities~Shawnee/Topeka.private.md) 
 
-### [Topeka.secret](/_secret/\Earth\Continent\America~North\USA\USA~Mountain\Kansas\counties~Kansas\Shawnee,County\cities~ShawneeTopeka.secret.md)
+### [Topeka.personal](/_personal/Earth/Continent/America~North/USA/USA~Mountain/Kansas/counties~Kansas/Shawnee,County/cities~Shawnee/Topeka.personal.md) 
+
+### [Topeka.secret](/_secret/Earth/Continent/America~North/USA/USA~Mountain/Kansas/counties~Kansas/Shawnee,County/cities~Shawnee/Topeka.secret.md)
 

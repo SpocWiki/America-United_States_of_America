@@ -42,15 +42,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ohio.public](/_public/\Earth\Continent\America~North\USA\USA~CentralOhio.public.md) 
+### [Ohio](/_Standards/Earth/Continent/America~North/USA/USA~Central/Ohio.md) 
 
-### [Ohio.internal](/_internal/\Earth\Continent\America~North\USA\USA~CentralOhio.internal.md) 
+### [Ohio.public](/_public/Earth/Continent/America~North/USA/USA~Central/Ohio.public.md) 
 
-### [Ohio.protect](/_protect/\Earth\Continent\America~North\USA\USA~CentralOhio.protect.md) 
+### [Ohio.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Ohio.internal.md) 
 
-### [Ohio.private](/_private/\Earth\Continent\America~North\USA\USA~CentralOhio.private.md) 
+### [Ohio.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Ohio.protect.md) 
 
-### [Ohio.personal](/_personal/\Earth\Continent\America~North\USA\USA~CentralOhio.personal.md) 
+### [Ohio.private](/_private/Earth/Continent/America~North/USA/USA~Central/Ohio.private.md) 
 
-### [Ohio.secret](/_secret/\Earth\Continent\America~North\USA\USA~CentralOhio.secret.md)
+### [Ohio.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Ohio.personal.md) 
+
+### [Ohio.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Ohio.secret.md)
 

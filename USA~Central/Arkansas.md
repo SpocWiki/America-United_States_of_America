@@ -42,15 +42,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Arkansas.public](/_public/\Earth\Continent\America~North\USA\USA~CentralArkansas.public.md) 
+### [Arkansas](/_Standards/Earth/Continent/America~North/USA/USA~Central/Arkansas.md) 
 
-### [Arkansas.internal](/_internal/\Earth\Continent\America~North\USA\USA~CentralArkansas.internal.md) 
+### [Arkansas.public](/_public/Earth/Continent/America~North/USA/USA~Central/Arkansas.public.md) 
 
-### [Arkansas.protect](/_protect/\Earth\Continent\America~North\USA\USA~CentralArkansas.protect.md) 
+### [Arkansas.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Arkansas.internal.md) 
 
-### [Arkansas.private](/_private/\Earth\Continent\America~North\USA\USA~CentralArkansas.private.md) 
+### [Arkansas.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Arkansas.protect.md) 
 
-### [Arkansas.personal](/_personal/\Earth\Continent\America~North\USA\USA~CentralArkansas.personal.md) 
+### [Arkansas.private](/_private/Earth/Continent/America~North/USA/USA~Central/Arkansas.private.md) 
 
-### [Arkansas.secret](/_secret/\Earth\Continent\America~North\USA\USA~CentralArkansas.secret.md)
+### [Arkansas.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Arkansas.personal.md) 
+
+### [Arkansas.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Arkansas.secret.md)
 

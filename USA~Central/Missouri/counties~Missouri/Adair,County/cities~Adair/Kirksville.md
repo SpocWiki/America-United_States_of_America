@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kirksville.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Missouri\counties~Missouri\Adair,County\cities~AdairKirksville.public.md) 
+### [Kirksville](/_Standards/Earth/Continent/America~North/USA/USA~Central/Missouri/counties~Missouri/Adair,County/cities~Adair/Kirksville.md) 
 
-### [Kirksville.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Missouri\counties~Missouri\Adair,County\cities~AdairKirksville.internal.md) 
+### [Kirksville.public](/_public/Earth/Continent/America~North/USA/USA~Central/Missouri/counties~Missouri/Adair,County/cities~Adair/Kirksville.public.md) 
 
-### [Kirksville.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Missouri\counties~Missouri\Adair,County\cities~AdairKirksville.protect.md) 
+### [Kirksville.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Missouri/counties~Missouri/Adair,County/cities~Adair/Kirksville.internal.md) 
 
-### [Kirksville.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Missouri\counties~Missouri\Adair,County\cities~AdairKirksville.private.md) 
+### [Kirksville.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Missouri/counties~Missouri/Adair,County/cities~Adair/Kirksville.protect.md) 
 
-### [Kirksville.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Missouri\counties~Missouri\Adair,County\cities~AdairKirksville.personal.md) 
+### [Kirksville.private](/_private/Earth/Continent/America~North/USA/USA~Central/Missouri/counties~Missouri/Adair,County/cities~Adair/Kirksville.private.md) 
 
-### [Kirksville.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Missouri\counties~Missouri\Adair,County\cities~AdairKirksville.secret.md)
+### [Kirksville.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Missouri/counties~Missouri/Adair,County/cities~Adair/Kirksville.personal.md) 
+
+### [Kirksville.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Missouri/counties~Missouri/Adair,County/cities~Adair/Kirksville.secret.md)
 

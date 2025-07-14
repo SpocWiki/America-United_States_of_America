@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Saint_Paul.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Minnesota\counties~Minnesota\Ramsey,County\cities~RamseySaint_Paul.public.md) 
+### [Saint_Paul](/_Standards/Earth/Continent/America~North/USA/USA~Central/Minnesota/counties~Minnesota/Ramsey,County/cities~Ramsey/Saint_Paul.md) 
 
-### [Saint_Paul.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Minnesota\counties~Minnesota\Ramsey,County\cities~RamseySaint_Paul.internal.md) 
+### [Saint_Paul.public](/_public/Earth/Continent/America~North/USA/USA~Central/Minnesota/counties~Minnesota/Ramsey,County/cities~Ramsey/Saint_Paul.public.md) 
 
-### [Saint_Paul.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Minnesota\counties~Minnesota\Ramsey,County\cities~RamseySaint_Paul.protect.md) 
+### [Saint_Paul.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Minnesota/counties~Minnesota/Ramsey,County/cities~Ramsey/Saint_Paul.internal.md) 
 
-### [Saint_Paul.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Minnesota\counties~Minnesota\Ramsey,County\cities~RamseySaint_Paul.private.md) 
+### [Saint_Paul.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Minnesota/counties~Minnesota/Ramsey,County/cities~Ramsey/Saint_Paul.protect.md) 
 
-### [Saint_Paul.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Minnesota\counties~Minnesota\Ramsey,County\cities~RamseySaint_Paul.personal.md) 
+### [Saint_Paul.private](/_private/Earth/Continent/America~North/USA/USA~Central/Minnesota/counties~Minnesota/Ramsey,County/cities~Ramsey/Saint_Paul.private.md) 
 
-### [Saint_Paul.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Minnesota\counties~Minnesota\Ramsey,County\cities~RamseySaint_Paul.secret.md)
+### [Saint_Paul.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Minnesota/counties~Minnesota/Ramsey,County/cities~Ramsey/Saint_Paul.personal.md) 
+
+### [Saint_Paul.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Minnesota/counties~Minnesota/Ramsey,County/cities~Ramsey/Saint_Paul.secret.md)
 

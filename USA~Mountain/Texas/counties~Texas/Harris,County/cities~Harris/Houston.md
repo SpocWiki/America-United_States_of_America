@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Houston.public](/_public/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Harris,County\cities~HarrisHouston.public.md) 
+### [Houston](/_Standards/Earth/Continent/America~North/USA/USA~Mountain/Texas/counties~Texas/Harris,County/cities~Harris/Houston.md) 
 
-### [Houston.internal](/_internal/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Harris,County\cities~HarrisHouston.internal.md) 
+### [Houston.public](/_public/Earth/Continent/America~North/USA/USA~Mountain/Texas/counties~Texas/Harris,County/cities~Harris/Houston.public.md) 
 
-### [Houston.protect](/_protect/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Harris,County\cities~HarrisHouston.protect.md) 
+### [Houston.internal](/_internal/Earth/Continent/America~North/USA/USA~Mountain/Texas/counties~Texas/Harris,County/cities~Harris/Houston.internal.md) 
 
-### [Houston.private](/_private/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Harris,County\cities~HarrisHouston.private.md) 
+### [Houston.protect](/_protect/Earth/Continent/America~North/USA/USA~Mountain/Texas/counties~Texas/Harris,County/cities~Harris/Houston.protect.md) 
 
-### [Houston.personal](/_personal/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Harris,County\cities~HarrisHouston.personal.md) 
+### [Houston.private](/_private/Earth/Continent/America~North/USA/USA~Mountain/Texas/counties~Texas/Harris,County/cities~Harris/Houston.private.md) 
 
-### [Houston.secret](/_secret/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Harris,County\cities~HarrisHouston.secret.md)
+### [Houston.personal](/_personal/Earth/Continent/America~North/USA/USA~Mountain/Texas/counties~Texas/Harris,County/cities~Harris/Houston.personal.md) 
+
+### [Houston.secret](/_secret/Earth/Continent/America~North/USA/USA~Mountain/Texas/counties~Texas/Harris,County/cities~Harris/Houston.secret.md)
 

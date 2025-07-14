@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Augusta.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\Maine\counties~Maine\Kennebec,County\cities~KennebecAugusta.public.md) 
+### [Augusta](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/Maine/counties~Maine/Kennebec,County/cities~Kennebec/Augusta.md) 
 
-### [Augusta.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\Maine\counties~Maine\Kennebec,County\cities~KennebecAugusta.internal.md) 
+### [Augusta.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/Maine/counties~Maine/Kennebec,County/cities~Kennebec/Augusta.public.md) 
 
-### [Augusta.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\Maine\counties~Maine\Kennebec,County\cities~KennebecAugusta.protect.md) 
+### [Augusta.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/Maine/counties~Maine/Kennebec,County/cities~Kennebec/Augusta.internal.md) 
 
-### [Augusta.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\Maine\counties~Maine\Kennebec,County\cities~KennebecAugusta.private.md) 
+### [Augusta.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/Maine/counties~Maine/Kennebec,County/cities~Kennebec/Augusta.protect.md) 
 
-### [Augusta.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\Maine\counties~Maine\Kennebec,County\cities~KennebecAugusta.personal.md) 
+### [Augusta.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/Maine/counties~Maine/Kennebec,County/cities~Kennebec/Augusta.private.md) 
 
-### [Augusta.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\Maine\counties~Maine\Kennebec,County\cities~KennebecAugusta.secret.md)
+### [Augusta.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/Maine/counties~Maine/Kennebec,County/cities~Kennebec/Augusta.personal.md) 
+
+### [Augusta.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/Maine/counties~Maine/Kennebec,County/cities~Kennebec/Augusta.secret.md)
 

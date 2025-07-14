@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cheyenne.public](/_public/\Earth\Continent\America~North\USA\USA~Mountain\Wyoming\counties~Wyoming\Laramie,County\cities~LaramieCheyenne.public.md) 
+### [Cheyenne](/_Standards/Earth/Continent/America~North/USA/USA~Mountain/Wyoming/counties~Wyoming/Laramie,County/cities~Laramie/Cheyenne.md) 
 
-### [Cheyenne.internal](/_internal/\Earth\Continent\America~North\USA\USA~Mountain\Wyoming\counties~Wyoming\Laramie,County\cities~LaramieCheyenne.internal.md) 
+### [Cheyenne.public](/_public/Earth/Continent/America~North/USA/USA~Mountain/Wyoming/counties~Wyoming/Laramie,County/cities~Laramie/Cheyenne.public.md) 
 
-### [Cheyenne.protect](/_protect/\Earth\Continent\America~North\USA\USA~Mountain\Wyoming\counties~Wyoming\Laramie,County\cities~LaramieCheyenne.protect.md) 
+### [Cheyenne.internal](/_internal/Earth/Continent/America~North/USA/USA~Mountain/Wyoming/counties~Wyoming/Laramie,County/cities~Laramie/Cheyenne.internal.md) 
 
-### [Cheyenne.private](/_private/\Earth\Continent\America~North\USA\USA~Mountain\Wyoming\counties~Wyoming\Laramie,County\cities~LaramieCheyenne.private.md) 
+### [Cheyenne.protect](/_protect/Earth/Continent/America~North/USA/USA~Mountain/Wyoming/counties~Wyoming/Laramie,County/cities~Laramie/Cheyenne.protect.md) 
 
-### [Cheyenne.personal](/_personal/\Earth\Continent\America~North\USA\USA~Mountain\Wyoming\counties~Wyoming\Laramie,County\cities~LaramieCheyenne.personal.md) 
+### [Cheyenne.private](/_private/Earth/Continent/America~North/USA/USA~Mountain/Wyoming/counties~Wyoming/Laramie,County/cities~Laramie/Cheyenne.private.md) 
 
-### [Cheyenne.secret](/_secret/\Earth\Continent\America~North\USA\USA~Mountain\Wyoming\counties~Wyoming\Laramie,County\cities~LaramieCheyenne.secret.md)
+### [Cheyenne.personal](/_personal/Earth/Continent/America~North/USA/USA~Mountain/Wyoming/counties~Wyoming/Laramie,County/cities~Laramie/Cheyenne.personal.md) 
+
+### [Cheyenne.secret](/_secret/Earth/Continent/America~North/USA/USA~Mountain/Wyoming/counties~Wyoming/Laramie,County/cities~Laramie/Cheyenne.secret.md)
 

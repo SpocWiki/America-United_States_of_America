@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mitchell.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Indiana\counties~Indiana\Lawrence,County\cities~LawrenceMitchell.public.md) 
+### [Mitchell](/_Standards/Earth/Continent/America~North/USA/USA~Central/Indiana/counties~Indiana/Lawrence,County/cities~Lawrence/Mitchell.md) 
 
-### [Mitchell.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Indiana\counties~Indiana\Lawrence,County\cities~LawrenceMitchell.internal.md) 
+### [Mitchell.public](/_public/Earth/Continent/America~North/USA/USA~Central/Indiana/counties~Indiana/Lawrence,County/cities~Lawrence/Mitchell.public.md) 
 
-### [Mitchell.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Indiana\counties~Indiana\Lawrence,County\cities~LawrenceMitchell.protect.md) 
+### [Mitchell.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Indiana/counties~Indiana/Lawrence,County/cities~Lawrence/Mitchell.internal.md) 
 
-### [Mitchell.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Indiana\counties~Indiana\Lawrence,County\cities~LawrenceMitchell.private.md) 
+### [Mitchell.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Indiana/counties~Indiana/Lawrence,County/cities~Lawrence/Mitchell.protect.md) 
 
-### [Mitchell.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Indiana\counties~Indiana\Lawrence,County\cities~LawrenceMitchell.personal.md) 
+### [Mitchell.private](/_private/Earth/Continent/America~North/USA/USA~Central/Indiana/counties~Indiana/Lawrence,County/cities~Lawrence/Mitchell.private.md) 
 
-### [Mitchell.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Indiana\counties~Indiana\Lawrence,County\cities~LawrenceMitchell.secret.md)
+### [Mitchell.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Indiana/counties~Indiana/Lawrence,County/cities~Lawrence/Mitchell.personal.md) 
+
+### [Mitchell.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Indiana/counties~Indiana/Lawrence,County/cities~Lawrence/Mitchell.secret.md)
 

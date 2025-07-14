@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Delaware~Dover.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\Delaware\counties~Delaware\Kent,County\cities~KentDelaware~Dover.public.md) 
+### [Delaware~Dover](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/Delaware/counties~Delaware/Kent,County/cities~Kent/Delaware~Dover.md) 
 
-### [Delaware~Dover.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\Delaware\counties~Delaware\Kent,County\cities~KentDelaware~Dover.internal.md) 
+### [Delaware~Dover.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/Delaware/counties~Delaware/Kent,County/cities~Kent/Delaware~Dover.public.md) 
 
-### [Delaware~Dover.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\Delaware\counties~Delaware\Kent,County\cities~KentDelaware~Dover.protect.md) 
+### [Delaware~Dover.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/Delaware/counties~Delaware/Kent,County/cities~Kent/Delaware~Dover.internal.md) 
 
-### [Delaware~Dover.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\Delaware\counties~Delaware\Kent,County\cities~KentDelaware~Dover.private.md) 
+### [Delaware~Dover.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/Delaware/counties~Delaware/Kent,County/cities~Kent/Delaware~Dover.protect.md) 
 
-### [Delaware~Dover.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\Delaware\counties~Delaware\Kent,County\cities~KentDelaware~Dover.personal.md) 
+### [Delaware~Dover.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/Delaware/counties~Delaware/Kent,County/cities~Kent/Delaware~Dover.private.md) 
 
-### [Delaware~Dover.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\Delaware\counties~Delaware\Kent,County\cities~KentDelaware~Dover.secret.md)
+### [Delaware~Dover.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/Delaware/counties~Delaware/Kent,County/cities~Kent/Delaware~Dover.personal.md) 
+
+### [Delaware~Dover.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/Delaware/counties~Delaware/Kent,County/cities~Kent/Delaware~Dover.secret.md)
 

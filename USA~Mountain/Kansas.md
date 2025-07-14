@@ -42,15 +42,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kansas.public](/_public/\Earth\Continent\America~North\USA\USA~MountainKansas.public.md) 
+### [Kansas](/_Standards/Earth/Continent/America~North/USA/USA~Mountain/Kansas.md) 
 
-### [Kansas.internal](/_internal/\Earth\Continent\America~North\USA\USA~MountainKansas.internal.md) 
+### [Kansas.public](/_public/Earth/Continent/America~North/USA/USA~Mountain/Kansas.public.md) 
 
-### [Kansas.protect](/_protect/\Earth\Continent\America~North\USA\USA~MountainKansas.protect.md) 
+### [Kansas.internal](/_internal/Earth/Continent/America~North/USA/USA~Mountain/Kansas.internal.md) 
 
-### [Kansas.private](/_private/\Earth\Continent\America~North\USA\USA~MountainKansas.private.md) 
+### [Kansas.protect](/_protect/Earth/Continent/America~North/USA/USA~Mountain/Kansas.protect.md) 
 
-### [Kansas.personal](/_personal/\Earth\Continent\America~North\USA\USA~MountainKansas.personal.md) 
+### [Kansas.private](/_private/Earth/Continent/America~North/USA/USA~Mountain/Kansas.private.md) 
 
-### [Kansas.secret](/_secret/\Earth\Continent\America~North\USA\USA~MountainKansas.secret.md)
+### [Kansas.personal](/_personal/Earth/Continent/America~North/USA/USA~Mountain/Kansas.personal.md) 
+
+### [Kansas.secret](/_secret/Earth/Continent/America~North/USA/USA~Mountain/Kansas.secret.md)
 

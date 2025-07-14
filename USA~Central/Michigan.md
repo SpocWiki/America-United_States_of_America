@@ -42,15 +42,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Michigan.public](/_public/\Earth\Continent\America~North\USA\USA~CentralMichigan.public.md) 
+### [Michigan](/_Standards/Earth/Continent/America~North/USA/USA~Central/Michigan.md) 
 
-### [Michigan.internal](/_internal/\Earth\Continent\America~North\USA\USA~CentralMichigan.internal.md) 
+### [Michigan.public](/_public/Earth/Continent/America~North/USA/USA~Central/Michigan.public.md) 
 
-### [Michigan.protect](/_protect/\Earth\Continent\America~North\USA\USA~CentralMichigan.protect.md) 
+### [Michigan.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Michigan.internal.md) 
 
-### [Michigan.private](/_private/\Earth\Continent\America~North\USA\USA~CentralMichigan.private.md) 
+### [Michigan.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Michigan.protect.md) 
 
-### [Michigan.personal](/_personal/\Earth\Continent\America~North\USA\USA~CentralMichigan.personal.md) 
+### [Michigan.private](/_private/Earth/Continent/America~North/USA/USA~Central/Michigan.private.md) 
 
-### [Michigan.secret](/_secret/\Earth\Continent\America~North\USA\USA~CentralMichigan.secret.md)
+### [Michigan.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Michigan.personal.md) 
+
+### [Michigan.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Michigan.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pittsburg.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\New_Hampshire\counties~New_Hampshire\Coos,County\cities~CoosPittsburg.public.md) 
+### [Pittsburg](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/New_Hampshire/counties~New_Hampshire/Coos,County/cities~Coos/Pittsburg.md) 
 
-### [Pittsburg.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\New_Hampshire\counties~New_Hampshire\Coos,County\cities~CoosPittsburg.internal.md) 
+### [Pittsburg.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/New_Hampshire/counties~New_Hampshire/Coos,County/cities~Coos/Pittsburg.public.md) 
 
-### [Pittsburg.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\New_Hampshire\counties~New_Hampshire\Coos,County\cities~CoosPittsburg.protect.md) 
+### [Pittsburg.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/New_Hampshire/counties~New_Hampshire/Coos,County/cities~Coos/Pittsburg.internal.md) 
 
-### [Pittsburg.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\New_Hampshire\counties~New_Hampshire\Coos,County\cities~CoosPittsburg.private.md) 
+### [Pittsburg.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/New_Hampshire/counties~New_Hampshire/Coos,County/cities~Coos/Pittsburg.protect.md) 
 
-### [Pittsburg.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\New_Hampshire\counties~New_Hampshire\Coos,County\cities~CoosPittsburg.personal.md) 
+### [Pittsburg.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/New_Hampshire/counties~New_Hampshire/Coos,County/cities~Coos/Pittsburg.private.md) 
 
-### [Pittsburg.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\New_Hampshire\counties~New_Hampshire\Coos,County\cities~CoosPittsburg.secret.md)
+### [Pittsburg.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/New_Hampshire/counties~New_Hampshire/Coos,County/cities~Coos/Pittsburg.personal.md) 
+
+### [Pittsburg.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/New_Hampshire/counties~New_Hampshire/Coos,County/cities~Coos/Pittsburg.secret.md)
 

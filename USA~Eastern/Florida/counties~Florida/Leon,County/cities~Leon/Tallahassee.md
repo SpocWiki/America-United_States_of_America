@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tallahassee.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\Florida\counties~Florida\Leon,County\cities~LeonTallahassee.public.md) 
+### [Tallahassee](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/Florida/counties~Florida/Leon,County/cities~Leon/Tallahassee.md) 
 
-### [Tallahassee.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\Florida\counties~Florida\Leon,County\cities~LeonTallahassee.internal.md) 
+### [Tallahassee.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/Florida/counties~Florida/Leon,County/cities~Leon/Tallahassee.public.md) 
 
-### [Tallahassee.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\Florida\counties~Florida\Leon,County\cities~LeonTallahassee.protect.md) 
+### [Tallahassee.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/Florida/counties~Florida/Leon,County/cities~Leon/Tallahassee.internal.md) 
 
-### [Tallahassee.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\Florida\counties~Florida\Leon,County\cities~LeonTallahassee.private.md) 
+### [Tallahassee.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/Florida/counties~Florida/Leon,County/cities~Leon/Tallahassee.protect.md) 
 
-### [Tallahassee.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\Florida\counties~Florida\Leon,County\cities~LeonTallahassee.personal.md) 
+### [Tallahassee.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/Florida/counties~Florida/Leon,County/cities~Leon/Tallahassee.private.md) 
 
-### [Tallahassee.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\Florida\counties~Florida\Leon,County\cities~LeonTallahassee.secret.md)
+### [Tallahassee.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/Florida/counties~Florida/Leon,County/cities~Leon/Tallahassee.personal.md) 
+
+### [Tallahassee.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/Florida/counties~Florida/Leon,County/cities~Leon/Tallahassee.secret.md)
 

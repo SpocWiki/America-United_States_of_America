@@ -41,15 +41,17 @@ markerFolder: ./_Lakes/
 
 ## Confidential Links & Embeds: 
 
-### [_Lakes~Colorado.public](/_public/\Earth\Continent\America~North\USA\USA~Mountain\Colorado_Lakes~Colorado.public.md) 
+### [_Lakes~Colorado](/_Standards/Earth/Continent/America~North/USA/USA~Mountain/Colorado/_Lakes~Colorado.md) 
 
-### [_Lakes~Colorado.internal](/_internal/\Earth\Continent\America~North\USA\USA~Mountain\Colorado_Lakes~Colorado.internal.md) 
+### [_Lakes~Colorado.public](/_public/Earth/Continent/America~North/USA/USA~Mountain/Colorado/_Lakes~Colorado.public.md) 
 
-### [_Lakes~Colorado.protect](/_protect/\Earth\Continent\America~North\USA\USA~Mountain\Colorado_Lakes~Colorado.protect.md) 
+### [_Lakes~Colorado.internal](/_internal/Earth/Continent/America~North/USA/USA~Mountain/Colorado/_Lakes~Colorado.internal.md) 
 
-### [_Lakes~Colorado.private](/_private/\Earth\Continent\America~North\USA\USA~Mountain\Colorado_Lakes~Colorado.private.md) 
+### [_Lakes~Colorado.protect](/_protect/Earth/Continent/America~North/USA/USA~Mountain/Colorado/_Lakes~Colorado.protect.md) 
 
-### [_Lakes~Colorado.personal](/_personal/\Earth\Continent\America~North\USA\USA~Mountain\Colorado_Lakes~Colorado.personal.md) 
+### [_Lakes~Colorado.private](/_private/Earth/Continent/America~North/USA/USA~Mountain/Colorado/_Lakes~Colorado.private.md) 
 
-### [_Lakes~Colorado.secret](/_secret/\Earth\Continent\America~North\USA\USA~Mountain\Colorado_Lakes~Colorado.secret.md)
+### [_Lakes~Colorado.personal](/_personal/Earth/Continent/America~North/USA/USA~Mountain/Colorado/_Lakes~Colorado.personal.md) 
+
+### [_Lakes~Colorado.secret](/_secret/Earth/Continent/America~North/USA/USA~Mountain/Colorado/_Lakes~Colorado.secret.md)
 

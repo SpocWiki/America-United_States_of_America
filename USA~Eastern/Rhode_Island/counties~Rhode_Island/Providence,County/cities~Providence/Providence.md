@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Providence.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\Rhode_Island\counties~Rhode_Island\Providence,County\cities~ProvidenceProvidence.public.md) 
+### [Providence](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/Rhode_Island/counties~Rhode_Island/Providence,County/cities~Providence/Providence.md) 
 
-### [Providence.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\Rhode_Island\counties~Rhode_Island\Providence,County\cities~ProvidenceProvidence.internal.md) 
+### [Providence.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/Rhode_Island/counties~Rhode_Island/Providence,County/cities~Providence/Providence.public.md) 
 
-### [Providence.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\Rhode_Island\counties~Rhode_Island\Providence,County\cities~ProvidenceProvidence.protect.md) 
+### [Providence.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/Rhode_Island/counties~Rhode_Island/Providence,County/cities~Providence/Providence.internal.md) 
 
-### [Providence.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\Rhode_Island\counties~Rhode_Island\Providence,County\cities~ProvidenceProvidence.private.md) 
+### [Providence.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/Rhode_Island/counties~Rhode_Island/Providence,County/cities~Providence/Providence.protect.md) 
 
-### [Providence.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\Rhode_Island\counties~Rhode_Island\Providence,County\cities~ProvidenceProvidence.personal.md) 
+### [Providence.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/Rhode_Island/counties~Rhode_Island/Providence,County/cities~Providence/Providence.private.md) 
 
-### [Providence.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\Rhode_Island\counties~Rhode_Island\Providence,County\cities~ProvidenceProvidence.secret.md)
+### [Providence.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/Rhode_Island/counties~Rhode_Island/Providence,County/cities~Providence/Providence.personal.md) 
+
+### [Providence.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/Rhode_Island/counties~Rhode_Island/Providence,County/cities~Providence/Providence.secret.md)
 

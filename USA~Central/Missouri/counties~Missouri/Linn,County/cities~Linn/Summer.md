@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Summer.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Missouri\counties~Missouri\Linn,County\cities~LinnSummer.public.md) 
+### [Summer](/_Standards/Earth/Continent/America~North/USA/USA~Central/Missouri/counties~Missouri/Linn,County/cities~Linn/Summer.md) 
 
-### [Summer.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Missouri\counties~Missouri\Linn,County\cities~LinnSummer.internal.md) 
+### [Summer.public](/_public/Earth/Continent/America~North/USA/USA~Central/Missouri/counties~Missouri/Linn,County/cities~Linn/Summer.public.md) 
 
-### [Summer.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Missouri\counties~Missouri\Linn,County\cities~LinnSummer.protect.md) 
+### [Summer.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Missouri/counties~Missouri/Linn,County/cities~Linn/Summer.internal.md) 
 
-### [Summer.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Missouri\counties~Missouri\Linn,County\cities~LinnSummer.private.md) 
+### [Summer.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Missouri/counties~Missouri/Linn,County/cities~Linn/Summer.protect.md) 
 
-### [Summer.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Missouri\counties~Missouri\Linn,County\cities~LinnSummer.personal.md) 
+### [Summer.private](/_private/Earth/Continent/America~North/USA/USA~Central/Missouri/counties~Missouri/Linn,County/cities~Linn/Summer.private.md) 
 
-### [Summer.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Missouri\counties~Missouri\Linn,County\cities~LinnSummer.secret.md)
+### [Summer.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Missouri/counties~Missouri/Linn,County/cities~Linn/Summer.personal.md) 
+
+### [Summer.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Missouri/counties~Missouri/Linn,County/cities~Linn/Summer.secret.md)
 

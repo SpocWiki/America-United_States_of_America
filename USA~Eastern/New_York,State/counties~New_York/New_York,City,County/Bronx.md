@@ -26,19 +26,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Bronx)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Bronx.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\New_York,City,CountyBronx.public.md) 
+### [Bronx](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/New_York,City,County/Bronx.md) 
 
-### [Bronx.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\New_York,City,CountyBronx.internal.md) 
+### [Bronx.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/New_York,City,County/Bronx.public.md) 
 
-### [Bronx.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\New_York,City,CountyBronx.protect.md) 
+### [Bronx.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/New_York,City,County/Bronx.internal.md) 
 
-### [Bronx.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\New_York,City,CountyBronx.private.md) 
+### [Bronx.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/New_York,City,County/Bronx.protect.md) 
 
-### [Bronx.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\New_York,City,CountyBronx.personal.md) 
+### [Bronx.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/New_York,City,County/Bronx.private.md) 
 
-### [Bronx.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\New_York,City,CountyBronx.secret.md)
+### [Bronx.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/New_York,City,County/Bronx.personal.md) 
+
+### [Bronx.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/New_York,City,County/Bronx.secret.md)
 

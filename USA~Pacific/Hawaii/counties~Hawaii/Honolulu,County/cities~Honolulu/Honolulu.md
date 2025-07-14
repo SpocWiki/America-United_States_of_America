@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Honolulu.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\Hawaii\counties~Hawaii\Honolulu,County\cities~HonoluluHonolulu.public.md) 
+### [Honolulu](/_Standards/Earth/Continent/America~North/USA/USA~Pacific/Hawaii/counties~Hawaii/Honolulu,County/cities~Honolulu/Honolulu.md) 
 
-### [Honolulu.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\Hawaii\counties~Hawaii\Honolulu,County\cities~HonoluluHonolulu.internal.md) 
+### [Honolulu.public](/_public/Earth/Continent/America~North/USA/USA~Pacific/Hawaii/counties~Hawaii/Honolulu,County/cities~Honolulu/Honolulu.public.md) 
 
-### [Honolulu.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\Hawaii\counties~Hawaii\Honolulu,County\cities~HonoluluHonolulu.protect.md) 
+### [Honolulu.internal](/_internal/Earth/Continent/America~North/USA/USA~Pacific/Hawaii/counties~Hawaii/Honolulu,County/cities~Honolulu/Honolulu.internal.md) 
 
-### [Honolulu.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\Hawaii\counties~Hawaii\Honolulu,County\cities~HonoluluHonolulu.private.md) 
+### [Honolulu.protect](/_protect/Earth/Continent/America~North/USA/USA~Pacific/Hawaii/counties~Hawaii/Honolulu,County/cities~Honolulu/Honolulu.protect.md) 
 
-### [Honolulu.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\Hawaii\counties~Hawaii\Honolulu,County\cities~HonoluluHonolulu.personal.md) 
+### [Honolulu.private](/_private/Earth/Continent/America~North/USA/USA~Pacific/Hawaii/counties~Hawaii/Honolulu,County/cities~Honolulu/Honolulu.private.md) 
 
-### [Honolulu.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\Hawaii\counties~Hawaii\Honolulu,County\cities~HonoluluHonolulu.secret.md)
+### [Honolulu.personal](/_personal/Earth/Continent/America~North/USA/USA~Pacific/Hawaii/counties~Hawaii/Honolulu,County/cities~Honolulu/Honolulu.personal.md) 
+
+### [Honolulu.secret](/_secret/Earth/Continent/America~North/USA/USA~Pacific/Hawaii/counties~Hawaii/Honolulu,County/cities~Honolulu/Honolulu.secret.md)
 

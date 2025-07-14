@@ -13,19 +13,19 @@ markerFolder: ./USA~Pacific/
 ```
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [USA~Pacific.public](/_public/\Earth\Continent\America~North\USAUSA~Pacific.public.md) 
+### [USA~Pacific](/_Standards/Earth/Continent/America~North/USA/USA~Pacific.md) 
 
-### [USA~Pacific.internal](/_internal/\Earth\Continent\America~North\USAUSA~Pacific.internal.md) 
+### [USA~Pacific.public](/_public/Earth/Continent/America~North/USA/USA~Pacific.public.md) 
 
-### [USA~Pacific.protect](/_protect/\Earth\Continent\America~North\USAUSA~Pacific.protect.md) 
+### [USA~Pacific.internal](/_internal/Earth/Continent/America~North/USA/USA~Pacific.internal.md) 
 
-### [USA~Pacific.private](/_private/\Earth\Continent\America~North\USAUSA~Pacific.private.md) 
+### [USA~Pacific.protect](/_protect/Earth/Continent/America~North/USA/USA~Pacific.protect.md) 
 
-### [USA~Pacific.personal](/_personal/\Earth\Continent\America~North\USAUSA~Pacific.personal.md) 
+### [USA~Pacific.private](/_private/Earth/Continent/America~North/USA/USA~Pacific.private.md) 
 
-### [USA~Pacific.secret](/_secret/\Earth\Continent\America~North\USAUSA~Pacific.secret.md)
+### [USA~Pacific.personal](/_personal/Earth/Continent/America~North/USA/USA~Pacific.personal.md) 
+
+### [USA~Pacific.secret](/_secret/Earth/Continent/America~North/USA/USA~Pacific.secret.md)
 

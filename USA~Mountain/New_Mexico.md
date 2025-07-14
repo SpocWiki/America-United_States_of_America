@@ -43,15 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [New_Mexico.public](/_public/\Earth\Continent\America~North\USA\USA~MountainNew_Mexico.public.md) 
+### [New_Mexico](/_Standards/Earth/Continent/America~North/USA/USA~Mountain/New_Mexico.md) 
 
-### [New_Mexico.internal](/_internal/\Earth\Continent\America~North\USA\USA~MountainNew_Mexico.internal.md) 
+### [New_Mexico.public](/_public/Earth/Continent/America~North/USA/USA~Mountain/New_Mexico.public.md) 
 
-### [New_Mexico.protect](/_protect/\Earth\Continent\America~North\USA\USA~MountainNew_Mexico.protect.md) 
+### [New_Mexico.internal](/_internal/Earth/Continent/America~North/USA/USA~Mountain/New_Mexico.internal.md) 
 
-### [New_Mexico.private](/_private/\Earth\Continent\America~North\USA\USA~MountainNew_Mexico.private.md) 
+### [New_Mexico.protect](/_protect/Earth/Continent/America~North/USA/USA~Mountain/New_Mexico.protect.md) 
 
-### [New_Mexico.personal](/_personal/\Earth\Continent\America~North\USA\USA~MountainNew_Mexico.personal.md) 
+### [New_Mexico.private](/_private/Earth/Continent/America~North/USA/USA~Mountain/New_Mexico.private.md) 
 
-### [New_Mexico.secret](/_secret/\Earth\Continent\America~North\USA\USA~MountainNew_Mexico.secret.md)
+### [New_Mexico.personal](/_personal/Earth/Continent/America~North/USA/USA~Mountain/New_Mexico.personal.md) 
+
+### [New_Mexico.secret](/_secret/Earth/Continent/America~North/USA/USA~Mountain/New_Mexico.secret.md)
 

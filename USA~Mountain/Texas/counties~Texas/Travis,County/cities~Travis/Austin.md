@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Austin.public](/_public/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Travis,County\cities~TravisAustin.public.md) 
+### [Austin](/_Standards/Earth/Continent/America~North/USA/USA~Mountain/Texas/counties~Texas/Travis,County/cities~Travis/Austin.md) 
 
-### [Austin.internal](/_internal/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Travis,County\cities~TravisAustin.internal.md) 
+### [Austin.public](/_public/Earth/Continent/America~North/USA/USA~Mountain/Texas/counties~Texas/Travis,County/cities~Travis/Austin.public.md) 
 
-### [Austin.protect](/_protect/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Travis,County\cities~TravisAustin.protect.md) 
+### [Austin.internal](/_internal/Earth/Continent/America~North/USA/USA~Mountain/Texas/counties~Texas/Travis,County/cities~Travis/Austin.internal.md) 
 
-### [Austin.private](/_private/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Travis,County\cities~TravisAustin.private.md) 
+### [Austin.protect](/_protect/Earth/Continent/America~North/USA/USA~Mountain/Texas/counties~Texas/Travis,County/cities~Travis/Austin.protect.md) 
 
-### [Austin.personal](/_personal/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Travis,County\cities~TravisAustin.personal.md) 
+### [Austin.private](/_private/Earth/Continent/America~North/USA/USA~Mountain/Texas/counties~Texas/Travis,County/cities~Travis/Austin.private.md) 
 
-### [Austin.secret](/_secret/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Travis,County\cities~TravisAustin.secret.md)
+### [Austin.personal](/_personal/Earth/Continent/America~North/USA/USA~Mountain/Texas/counties~Texas/Travis,County/cities~Travis/Austin.personal.md) 
+
+### [Austin.secret](/_secret/Earth/Continent/America~North/USA/USA~Mountain/Texas/counties~Texas/Travis,County/cities~Travis/Austin.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Olympia.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\Washington\counties~Washington\Thurston,County\cities~ThurstonOlympia.public.md) 
+### [Olympia](/_Standards/Earth/Continent/America~North/USA/USA~Pacific/Washington/counties~Washington/Thurston,County/cities~Thurston/Olympia.md) 
 
-### [Olympia.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\Washington\counties~Washington\Thurston,County\cities~ThurstonOlympia.internal.md) 
+### [Olympia.public](/_public/Earth/Continent/America~North/USA/USA~Pacific/Washington/counties~Washington/Thurston,County/cities~Thurston/Olympia.public.md) 
 
-### [Olympia.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\Washington\counties~Washington\Thurston,County\cities~ThurstonOlympia.protect.md) 
+### [Olympia.internal](/_internal/Earth/Continent/America~North/USA/USA~Pacific/Washington/counties~Washington/Thurston,County/cities~Thurston/Olympia.internal.md) 
 
-### [Olympia.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\Washington\counties~Washington\Thurston,County\cities~ThurstonOlympia.private.md) 
+### [Olympia.protect](/_protect/Earth/Continent/America~North/USA/USA~Pacific/Washington/counties~Washington/Thurston,County/cities~Thurston/Olympia.protect.md) 
 
-### [Olympia.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\Washington\counties~Washington\Thurston,County\cities~ThurstonOlympia.personal.md) 
+### [Olympia.private](/_private/Earth/Continent/America~North/USA/USA~Pacific/Washington/counties~Washington/Thurston,County/cities~Thurston/Olympia.private.md) 
 
-### [Olympia.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\Washington\counties~Washington\Thurston,County\cities~ThurstonOlympia.secret.md)
+### [Olympia.personal](/_personal/Earth/Continent/America~North/USA/USA~Pacific/Washington/counties~Washington/Thurston,County/cities~Thurston/Olympia.personal.md) 
+
+### [Olympia.secret](/_secret/Earth/Continent/America~North/USA/USA~Pacific/Washington/counties~Washington/Thurston,County/cities~Thurston/Olympia.secret.md)
 

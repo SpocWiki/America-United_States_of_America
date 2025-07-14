@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Phoenix.public](/_public/\Earth\Continent\America~North\USA\USA~Mountain\Arizona\counties~Arizona\Maricopa,County\cities~MaricopaPhoenix.public.md) 
+### [Phoenix](/_Standards/Earth/Continent/America~North/USA/USA~Mountain/Arizona/counties~Arizona/Maricopa,County/cities~Maricopa/Phoenix.md) 
 
-### [Phoenix.internal](/_internal/\Earth\Continent\America~North\USA\USA~Mountain\Arizona\counties~Arizona\Maricopa,County\cities~MaricopaPhoenix.internal.md) 
+### [Phoenix.public](/_public/Earth/Continent/America~North/USA/USA~Mountain/Arizona/counties~Arizona/Maricopa,County/cities~Maricopa/Phoenix.public.md) 
 
-### [Phoenix.protect](/_protect/\Earth\Continent\America~North\USA\USA~Mountain\Arizona\counties~Arizona\Maricopa,County\cities~MaricopaPhoenix.protect.md) 
+### [Phoenix.internal](/_internal/Earth/Continent/America~North/USA/USA~Mountain/Arizona/counties~Arizona/Maricopa,County/cities~Maricopa/Phoenix.internal.md) 
 
-### [Phoenix.private](/_private/\Earth\Continent\America~North\USA\USA~Mountain\Arizona\counties~Arizona\Maricopa,County\cities~MaricopaPhoenix.private.md) 
+### [Phoenix.protect](/_protect/Earth/Continent/America~North/USA/USA~Mountain/Arizona/counties~Arizona/Maricopa,County/cities~Maricopa/Phoenix.protect.md) 
 
-### [Phoenix.personal](/_personal/\Earth\Continent\America~North\USA\USA~Mountain\Arizona\counties~Arizona\Maricopa,County\cities~MaricopaPhoenix.personal.md) 
+### [Phoenix.private](/_private/Earth/Continent/America~North/USA/USA~Mountain/Arizona/counties~Arizona/Maricopa,County/cities~Maricopa/Phoenix.private.md) 
 
-### [Phoenix.secret](/_secret/\Earth\Continent\America~North\USA\USA~Mountain\Arizona\counties~Arizona\Maricopa,County\cities~MaricopaPhoenix.secret.md)
+### [Phoenix.personal](/_personal/Earth/Continent/America~North/USA/USA~Mountain/Arizona/counties~Arizona/Maricopa,County/cities~Maricopa/Phoenix.personal.md) 
+
+### [Phoenix.secret](/_secret/Earth/Continent/America~North/USA/USA~Mountain/Arizona/counties~Arizona/Maricopa,County/cities~Maricopa/Phoenix.secret.md)
 

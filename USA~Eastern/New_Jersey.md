@@ -43,15 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [New_Jersey.public](/_public/\Earth\Continent\America~North\USA\USA~EasternNew_Jersey.public.md) 
+### [New_Jersey](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey.md) 
 
-### [New_Jersey.internal](/_internal/\Earth\Continent\America~North\USA\USA~EasternNew_Jersey.internal.md) 
+### [New_Jersey.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey.public.md) 
 
-### [New_Jersey.protect](/_protect/\Earth\Continent\America~North\USA\USA~EasternNew_Jersey.protect.md) 
+### [New_Jersey.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey.internal.md) 
 
-### [New_Jersey.private](/_private/\Earth\Continent\America~North\USA\USA~EasternNew_Jersey.private.md) 
+### [New_Jersey.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey.protect.md) 
 
-### [New_Jersey.personal](/_personal/\Earth\Continent\America~North\USA\USA~EasternNew_Jersey.personal.md) 
+### [New_Jersey.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey.private.md) 
 
-### [New_Jersey.secret](/_secret/\Earth\Continent\America~North\USA\USA~EasternNew_Jersey.secret.md)
+### [New_Jersey.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey.personal.md) 
+
+### [New_Jersey.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/New_Jersey.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mt.Palomar.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\San_Diego,County\cities~San_DiegoMt.Palomar.public.md) 
+### [Mt.Palomar](/_Standards/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/San_Diego,County/cities~San_Diego/Mt.Palomar.md) 
 
-### [Mt.Palomar.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\San_Diego,County\cities~San_DiegoMt.Palomar.internal.md) 
+### [Mt.Palomar.public](/_public/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/San_Diego,County/cities~San_Diego/Mt.Palomar.public.md) 
 
-### [Mt.Palomar.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\San_Diego,County\cities~San_DiegoMt.Palomar.protect.md) 
+### [Mt.Palomar.internal](/_internal/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/San_Diego,County/cities~San_Diego/Mt.Palomar.internal.md) 
 
-### [Mt.Palomar.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\San_Diego,County\cities~San_DiegoMt.Palomar.private.md) 
+### [Mt.Palomar.protect](/_protect/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/San_Diego,County/cities~San_Diego/Mt.Palomar.protect.md) 
 
-### [Mt.Palomar.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\San_Diego,County\cities~San_DiegoMt.Palomar.personal.md) 
+### [Mt.Palomar.private](/_private/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/San_Diego,County/cities~San_Diego/Mt.Palomar.private.md) 
 
-### [Mt.Palomar.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\San_Diego,County\cities~San_DiegoMt.Palomar.secret.md)
+### [Mt.Palomar.personal](/_personal/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/San_Diego,County/cities~San_Diego/Mt.Palomar.personal.md) 
+
+### [Mt.Palomar.secret](/_secret/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/San_Diego,County/cities~San_Diego/Mt.Palomar.secret.md)
 

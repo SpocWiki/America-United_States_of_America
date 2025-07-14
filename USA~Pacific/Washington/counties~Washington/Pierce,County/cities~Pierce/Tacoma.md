@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tacoma.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\Washington\counties~Washington\Pierce,County\cities~PierceTacoma.public.md) 
+### [Tacoma](/_Standards/Earth/Continent/America~North/USA/USA~Pacific/Washington/counties~Washington/Pierce,County/cities~Pierce/Tacoma.md) 
 
-### [Tacoma.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\Washington\counties~Washington\Pierce,County\cities~PierceTacoma.internal.md) 
+### [Tacoma.public](/_public/Earth/Continent/America~North/USA/USA~Pacific/Washington/counties~Washington/Pierce,County/cities~Pierce/Tacoma.public.md) 
 
-### [Tacoma.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\Washington\counties~Washington\Pierce,County\cities~PierceTacoma.protect.md) 
+### [Tacoma.internal](/_internal/Earth/Continent/America~North/USA/USA~Pacific/Washington/counties~Washington/Pierce,County/cities~Pierce/Tacoma.internal.md) 
 
-### [Tacoma.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\Washington\counties~Washington\Pierce,County\cities~PierceTacoma.private.md) 
+### [Tacoma.protect](/_protect/Earth/Continent/America~North/USA/USA~Pacific/Washington/counties~Washington/Pierce,County/cities~Pierce/Tacoma.protect.md) 
 
-### [Tacoma.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\Washington\counties~Washington\Pierce,County\cities~PierceTacoma.personal.md) 
+### [Tacoma.private](/_private/Earth/Continent/America~North/USA/USA~Pacific/Washington/counties~Washington/Pierce,County/cities~Pierce/Tacoma.private.md) 
 
-### [Tacoma.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\Washington\counties~Washington\Pierce,County\cities~PierceTacoma.secret.md)
+### [Tacoma.personal](/_personal/Earth/Continent/America~North/USA/USA~Pacific/Washington/counties~Washington/Pierce,County/cities~Pierce/Tacoma.personal.md) 
+
+### [Tacoma.secret](/_secret/Earth/Continent/America~North/USA/USA~Pacific/Washington/counties~Washington/Pierce,County/cities~Pierce/Tacoma.secret.md)
 

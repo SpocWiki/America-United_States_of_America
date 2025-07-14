@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Minneapolis.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Minnesota\counties~Minnesota\Hennepin,County\cities~HennepinMinneapolis.public.md) 
+### [Minneapolis](/_Standards/Earth/Continent/America~North/USA/USA~Central/Minnesota/counties~Minnesota/Hennepin,County/cities~Hennepin/Minneapolis.md) 
 
-### [Minneapolis.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Minnesota\counties~Minnesota\Hennepin,County\cities~HennepinMinneapolis.internal.md) 
+### [Minneapolis.public](/_public/Earth/Continent/America~North/USA/USA~Central/Minnesota/counties~Minnesota/Hennepin,County/cities~Hennepin/Minneapolis.public.md) 
 
-### [Minneapolis.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Minnesota\counties~Minnesota\Hennepin,County\cities~HennepinMinneapolis.protect.md) 
+### [Minneapolis.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Minnesota/counties~Minnesota/Hennepin,County/cities~Hennepin/Minneapolis.internal.md) 
 
-### [Minneapolis.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Minnesota\counties~Minnesota\Hennepin,County\cities~HennepinMinneapolis.private.md) 
+### [Minneapolis.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Minnesota/counties~Minnesota/Hennepin,County/cities~Hennepin/Minneapolis.protect.md) 
 
-### [Minneapolis.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Minnesota\counties~Minnesota\Hennepin,County\cities~HennepinMinneapolis.personal.md) 
+### [Minneapolis.private](/_private/Earth/Continent/America~North/USA/USA~Central/Minnesota/counties~Minnesota/Hennepin,County/cities~Hennepin/Minneapolis.private.md) 
 
-### [Minneapolis.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Minnesota\counties~Minnesota\Hennepin,County\cities~HennepinMinneapolis.secret.md)
+### [Minneapolis.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Minnesota/counties~Minnesota/Hennepin,County/cities~Hennepin/Minneapolis.personal.md) 
+
+### [Minneapolis.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Minnesota/counties~Minnesota/Hennepin,County/cities~Hennepin/Minneapolis.secret.md)
 

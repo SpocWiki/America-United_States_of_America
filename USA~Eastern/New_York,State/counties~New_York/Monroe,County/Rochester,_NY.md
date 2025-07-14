@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rochester,_NY.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\Monroe,CountyRochester,_NY.public.md) 
+### [Rochester,_NY](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/Monroe,County/Rochester,_NY.md) 
 
-### [Rochester,_NY.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\Monroe,CountyRochester,_NY.internal.md) 
+### [Rochester,_NY.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/Monroe,County/Rochester,_NY.public.md) 
 
-### [Rochester,_NY.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\Monroe,CountyRochester,_NY.protect.md) 
+### [Rochester,_NY.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/Monroe,County/Rochester,_NY.internal.md) 
 
-### [Rochester,_NY.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\Monroe,CountyRochester,_NY.private.md) 
+### [Rochester,_NY.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/Monroe,County/Rochester,_NY.protect.md) 
 
-### [Rochester,_NY.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\Monroe,CountyRochester,_NY.personal.md) 
+### [Rochester,_NY.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/Monroe,County/Rochester,_NY.private.md) 
 
-### [Rochester,_NY.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\Monroe,CountyRochester,_NY.secret.md)
+### [Rochester,_NY.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/Monroe,County/Rochester,_NY.personal.md) 
+
+### [Rochester,_NY.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/Monroe,County/Rochester,_NY.secret.md)
 

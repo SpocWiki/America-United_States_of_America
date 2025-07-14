@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wapakoneta.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Ohio\counties~Ohio\Auglaize,County\cities~AuglaizeWapakoneta.public.md) 
+### [Wapakoneta](/_Standards/Earth/Continent/America~North/USA/USA~Central/Ohio/counties~Ohio/Auglaize,County/cities~Auglaize/Wapakoneta.md) 
 
-### [Wapakoneta.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Ohio\counties~Ohio\Auglaize,County\cities~AuglaizeWapakoneta.internal.md) 
+### [Wapakoneta.public](/_public/Earth/Continent/America~North/USA/USA~Central/Ohio/counties~Ohio/Auglaize,County/cities~Auglaize/Wapakoneta.public.md) 
 
-### [Wapakoneta.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Ohio\counties~Ohio\Auglaize,County\cities~AuglaizeWapakoneta.protect.md) 
+### [Wapakoneta.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Ohio/counties~Ohio/Auglaize,County/cities~Auglaize/Wapakoneta.internal.md) 
 
-### [Wapakoneta.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Ohio\counties~Ohio\Auglaize,County\cities~AuglaizeWapakoneta.private.md) 
+### [Wapakoneta.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Ohio/counties~Ohio/Auglaize,County/cities~Auglaize/Wapakoneta.protect.md) 
 
-### [Wapakoneta.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Ohio\counties~Ohio\Auglaize,County\cities~AuglaizeWapakoneta.personal.md) 
+### [Wapakoneta.private](/_private/Earth/Continent/America~North/USA/USA~Central/Ohio/counties~Ohio/Auglaize,County/cities~Auglaize/Wapakoneta.private.md) 
 
-### [Wapakoneta.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Ohio\counties~Ohio\Auglaize,County\cities~AuglaizeWapakoneta.secret.md)
+### [Wapakoneta.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Ohio/counties~Ohio/Auglaize,County/cities~Auglaize/Wapakoneta.personal.md) 
+
+### [Wapakoneta.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Ohio/counties~Ohio/Auglaize,County/cities~Auglaize/Wapakoneta.secret.md)
 

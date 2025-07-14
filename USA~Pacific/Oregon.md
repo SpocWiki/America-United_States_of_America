@@ -98,15 +98,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oregon.public](/_public/\Earth\Continent\America~North\USA\USA~PacificOregon.public.md) 
+### [Oregon](/_Standards/Earth/Continent/America~North/USA/USA~Pacific/Oregon.md) 
 
-### [Oregon.internal](/_internal/\Earth\Continent\America~North\USA\USA~PacificOregon.internal.md) 
+### [Oregon.public](/_public/Earth/Continent/America~North/USA/USA~Pacific/Oregon.public.md) 
 
-### [Oregon.protect](/_protect/\Earth\Continent\America~North\USA\USA~PacificOregon.protect.md) 
+### [Oregon.internal](/_internal/Earth/Continent/America~North/USA/USA~Pacific/Oregon.internal.md) 
 
-### [Oregon.private](/_private/\Earth\Continent\America~North\USA\USA~PacificOregon.private.md) 
+### [Oregon.protect](/_protect/Earth/Continent/America~North/USA/USA~Pacific/Oregon.protect.md) 
 
-### [Oregon.personal](/_personal/\Earth\Continent\America~North\USA\USA~PacificOregon.personal.md) 
+### [Oregon.private](/_private/Earth/Continent/America~North/USA/USA~Pacific/Oregon.private.md) 
 
-### [Oregon.secret](/_secret/\Earth\Continent\America~North\USA\USA~PacificOregon.secret.md)
+### [Oregon.personal](/_personal/Earth/Continent/America~North/USA/USA~Pacific/Oregon.personal.md) 
+
+### [Oregon.secret](/_secret/Earth/Continent/America~North/USA/USA~Pacific/Oregon.secret.md)
 

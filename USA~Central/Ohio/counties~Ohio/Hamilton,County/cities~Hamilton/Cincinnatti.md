@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cincinnatti.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Ohio\counties~Ohio\Hamilton,County\cities~HamiltonCincinnatti.public.md) 
+### [Cincinnatti](/_Standards/Earth/Continent/America~North/USA/USA~Central/Ohio/counties~Ohio/Hamilton,County/cities~Hamilton/Cincinnatti.md) 
 
-### [Cincinnatti.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Ohio\counties~Ohio\Hamilton,County\cities~HamiltonCincinnatti.internal.md) 
+### [Cincinnatti.public](/_public/Earth/Continent/America~North/USA/USA~Central/Ohio/counties~Ohio/Hamilton,County/cities~Hamilton/Cincinnatti.public.md) 
 
-### [Cincinnatti.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Ohio\counties~Ohio\Hamilton,County\cities~HamiltonCincinnatti.protect.md) 
+### [Cincinnatti.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Ohio/counties~Ohio/Hamilton,County/cities~Hamilton/Cincinnatti.internal.md) 
 
-### [Cincinnatti.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Ohio\counties~Ohio\Hamilton,County\cities~HamiltonCincinnatti.private.md) 
+### [Cincinnatti.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Ohio/counties~Ohio/Hamilton,County/cities~Hamilton/Cincinnatti.protect.md) 
 
-### [Cincinnatti.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Ohio\counties~Ohio\Hamilton,County\cities~HamiltonCincinnatti.personal.md) 
+### [Cincinnatti.private](/_private/Earth/Continent/America~North/USA/USA~Central/Ohio/counties~Ohio/Hamilton,County/cities~Hamilton/Cincinnatti.private.md) 
 
-### [Cincinnatti.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Ohio\counties~Ohio\Hamilton,County\cities~HamiltonCincinnatti.secret.md)
+### [Cincinnatti.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Ohio/counties~Ohio/Hamilton,County/cities~Hamilton/Cincinnatti.personal.md) 
+
+### [Cincinnatti.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Ohio/counties~Ohio/Hamilton,County/cities~Hamilton/Cincinnatti.secret.md)
 

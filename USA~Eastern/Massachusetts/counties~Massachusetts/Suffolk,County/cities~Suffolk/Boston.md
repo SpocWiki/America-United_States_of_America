@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Boston.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\Massachusetts\counties~Massachusetts\Suffolk,County\cities~SuffolkBoston.public.md) 
+### [Boston](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/Massachusetts/counties~Massachusetts/Suffolk,County/cities~Suffolk/Boston.md) 
 
-### [Boston.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\Massachusetts\counties~Massachusetts\Suffolk,County\cities~SuffolkBoston.internal.md) 
+### [Boston.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/Massachusetts/counties~Massachusetts/Suffolk,County/cities~Suffolk/Boston.public.md) 
 
-### [Boston.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\Massachusetts\counties~Massachusetts\Suffolk,County\cities~SuffolkBoston.protect.md) 
+### [Boston.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/Massachusetts/counties~Massachusetts/Suffolk,County/cities~Suffolk/Boston.internal.md) 
 
-### [Boston.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\Massachusetts\counties~Massachusetts\Suffolk,County\cities~SuffolkBoston.private.md) 
+### [Boston.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/Massachusetts/counties~Massachusetts/Suffolk,County/cities~Suffolk/Boston.protect.md) 
 
-### [Boston.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\Massachusetts\counties~Massachusetts\Suffolk,County\cities~SuffolkBoston.personal.md) 
+### [Boston.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/Massachusetts/counties~Massachusetts/Suffolk,County/cities~Suffolk/Boston.private.md) 
 
-### [Boston.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\Massachusetts\counties~Massachusetts\Suffolk,County\cities~SuffolkBoston.secret.md)
+### [Boston.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/Massachusetts/counties~Massachusetts/Suffolk,County/cities~Suffolk/Boston.personal.md) 
+
+### [Boston.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/Massachusetts/counties~Massachusetts/Suffolk,County/cities~Suffolk/Boston.secret.md)
 

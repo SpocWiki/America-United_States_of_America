@@ -42,15 +42,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tennessee.public](/_public/\Earth\Continent\America~North\USA\USA~CentralTennessee.public.md) 
+### [Tennessee](/_Standards/Earth/Continent/America~North/USA/USA~Central/Tennessee.md) 
 
-### [Tennessee.internal](/_internal/\Earth\Continent\America~North\USA\USA~CentralTennessee.internal.md) 
+### [Tennessee.public](/_public/Earth/Continent/America~North/USA/USA~Central/Tennessee.public.md) 
 
-### [Tennessee.protect](/_protect/\Earth\Continent\America~North\USA\USA~CentralTennessee.protect.md) 
+### [Tennessee.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Tennessee.internal.md) 
 
-### [Tennessee.private](/_private/\Earth\Continent\America~North\USA\USA~CentralTennessee.private.md) 
+### [Tennessee.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Tennessee.protect.md) 
 
-### [Tennessee.personal](/_personal/\Earth\Continent\America~North\USA\USA~CentralTennessee.personal.md) 
+### [Tennessee.private](/_private/Earth/Continent/America~North/USA/USA~Central/Tennessee.private.md) 
 
-### [Tennessee.secret](/_secret/\Earth\Continent\America~North\USA\USA~CentralTennessee.secret.md)
+### [Tennessee.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Tennessee.personal.md) 
+
+### [Tennessee.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Tennessee.secret.md)
 

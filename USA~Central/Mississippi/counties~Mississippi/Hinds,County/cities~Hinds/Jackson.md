@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jackson.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Mississippi\counties~Mississippi\Hinds,County\cities~HindsJackson.public.md) 
+### [Jackson](/_Standards/Earth/Continent/America~North/USA/USA~Central/Mississippi/counties~Mississippi/Hinds,County/cities~Hinds/Jackson.md) 
 
-### [Jackson.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Mississippi\counties~Mississippi\Hinds,County\cities~HindsJackson.internal.md) 
+### [Jackson.public](/_public/Earth/Continent/America~North/USA/USA~Central/Mississippi/counties~Mississippi/Hinds,County/cities~Hinds/Jackson.public.md) 
 
-### [Jackson.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Mississippi\counties~Mississippi\Hinds,County\cities~HindsJackson.protect.md) 
+### [Jackson.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Mississippi/counties~Mississippi/Hinds,County/cities~Hinds/Jackson.internal.md) 
 
-### [Jackson.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Mississippi\counties~Mississippi\Hinds,County\cities~HindsJackson.private.md) 
+### [Jackson.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Mississippi/counties~Mississippi/Hinds,County/cities~Hinds/Jackson.protect.md) 
 
-### [Jackson.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Mississippi\counties~Mississippi\Hinds,County\cities~HindsJackson.personal.md) 
+### [Jackson.private](/_private/Earth/Continent/America~North/USA/USA~Central/Mississippi/counties~Mississippi/Hinds,County/cities~Hinds/Jackson.private.md) 
 
-### [Jackson.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Mississippi\counties~Mississippi\Hinds,County\cities~HindsJackson.secret.md)
+### [Jackson.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Mississippi/counties~Mississippi/Hinds,County/cities~Hinds/Jackson.personal.md) 
+
+### [Jackson.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Mississippi/counties~Mississippi/Hinds,County/cities~Hinds/Jackson.secret.md)
 

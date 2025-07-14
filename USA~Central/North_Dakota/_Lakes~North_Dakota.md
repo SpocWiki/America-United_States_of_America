@@ -41,15 +41,17 @@ markerFolder: ./_Lakes/
 
 ## Confidential Links & Embeds: 
 
-### [_Lakes~North_Dakota.public](/_public/\Earth\Continent\America~North\USA\USA~Central\North_Dakota_Lakes~North_Dakota.public.md) 
+### [_Lakes~North_Dakota](/_Standards/Earth/Continent/America~North/USA/USA~Central/North_Dakota/_Lakes~North_Dakota.md) 
 
-### [_Lakes~North_Dakota.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\North_Dakota_Lakes~North_Dakota.internal.md) 
+### [_Lakes~North_Dakota.public](/_public/Earth/Continent/America~North/USA/USA~Central/North_Dakota/_Lakes~North_Dakota.public.md) 
 
-### [_Lakes~North_Dakota.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\North_Dakota_Lakes~North_Dakota.protect.md) 
+### [_Lakes~North_Dakota.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/North_Dakota/_Lakes~North_Dakota.internal.md) 
 
-### [_Lakes~North_Dakota.private](/_private/\Earth\Continent\America~North\USA\USA~Central\North_Dakota_Lakes~North_Dakota.private.md) 
+### [_Lakes~North_Dakota.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/North_Dakota/_Lakes~North_Dakota.protect.md) 
 
-### [_Lakes~North_Dakota.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\North_Dakota_Lakes~North_Dakota.personal.md) 
+### [_Lakes~North_Dakota.private](/_private/Earth/Continent/America~North/USA/USA~Central/North_Dakota/_Lakes~North_Dakota.private.md) 
 
-### [_Lakes~North_Dakota.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\North_Dakota_Lakes~North_Dakota.secret.md)
+### [_Lakes~North_Dakota.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/North_Dakota/_Lakes~North_Dakota.personal.md) 
+
+### [_Lakes~North_Dakota.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/North_Dakota/_Lakes~North_Dakota.secret.md)
 

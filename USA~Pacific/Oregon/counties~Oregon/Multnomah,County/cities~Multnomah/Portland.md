@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Portland.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\Oregon\counties~Oregon\Multnomah,County\cities~MultnomahPortland.public.md) 
+### [Portland](/_Standards/Earth/Continent/America~North/USA/USA~Pacific/Oregon/counties~Oregon/Multnomah,County/cities~Multnomah/Portland.md) 
 
-### [Portland.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\Oregon\counties~Oregon\Multnomah,County\cities~MultnomahPortland.internal.md) 
+### [Portland.public](/_public/Earth/Continent/America~North/USA/USA~Pacific/Oregon/counties~Oregon/Multnomah,County/cities~Multnomah/Portland.public.md) 
 
-### [Portland.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\Oregon\counties~Oregon\Multnomah,County\cities~MultnomahPortland.protect.md) 
+### [Portland.internal](/_internal/Earth/Continent/America~North/USA/USA~Pacific/Oregon/counties~Oregon/Multnomah,County/cities~Multnomah/Portland.internal.md) 
 
-### [Portland.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\Oregon\counties~Oregon\Multnomah,County\cities~MultnomahPortland.private.md) 
+### [Portland.protect](/_protect/Earth/Continent/America~North/USA/USA~Pacific/Oregon/counties~Oregon/Multnomah,County/cities~Multnomah/Portland.protect.md) 
 
-### [Portland.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\Oregon\counties~Oregon\Multnomah,County\cities~MultnomahPortland.personal.md) 
+### [Portland.private](/_private/Earth/Continent/America~North/USA/USA~Pacific/Oregon/counties~Oregon/Multnomah,County/cities~Multnomah/Portland.private.md) 
 
-### [Portland.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\Oregon\counties~Oregon\Multnomah,County\cities~MultnomahPortland.secret.md)
+### [Portland.personal](/_personal/Earth/Continent/America~North/USA/USA~Pacific/Oregon/counties~Oregon/Multnomah,County/cities~Multnomah/Portland.personal.md) 
+
+### [Portland.secret](/_secret/Earth/Continent/America~North/USA/USA~Pacific/Oregon/counties~Oregon/Multnomah,County/cities~Multnomah/Portland.secret.md)
 

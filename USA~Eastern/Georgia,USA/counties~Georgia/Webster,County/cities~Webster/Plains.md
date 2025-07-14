@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Plains.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\Georgia,USA\counties~Georgia\Webster,County\cities~WebsterPlains.public.md) 
+### [Plains](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/Georgia,USA/counties~Georgia/Webster,County/cities~Webster/Plains.md) 
 
-### [Plains.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\Georgia,USA\counties~Georgia\Webster,County\cities~WebsterPlains.internal.md) 
+### [Plains.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/Georgia,USA/counties~Georgia/Webster,County/cities~Webster/Plains.public.md) 
 
-### [Plains.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\Georgia,USA\counties~Georgia\Webster,County\cities~WebsterPlains.protect.md) 
+### [Plains.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/Georgia,USA/counties~Georgia/Webster,County/cities~Webster/Plains.internal.md) 
 
-### [Plains.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\Georgia,USA\counties~Georgia\Webster,County\cities~WebsterPlains.private.md) 
+### [Plains.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/Georgia,USA/counties~Georgia/Webster,County/cities~Webster/Plains.protect.md) 
 
-### [Plains.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\Georgia,USA\counties~Georgia\Webster,County\cities~WebsterPlains.personal.md) 
+### [Plains.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/Georgia,USA/counties~Georgia/Webster,County/cities~Webster/Plains.private.md) 
 
-### [Plains.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\Georgia,USA\counties~Georgia\Webster,County\cities~WebsterPlains.secret.md)
+### [Plains.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/Georgia,USA/counties~Georgia/Webster,County/cities~Webster/Plains.personal.md) 
+
+### [Plains.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/Georgia,USA/counties~Georgia/Webster,County/cities~Webster/Plains.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Knoxville.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Tennessee\counties~Tennessee\Knox,County\cities~KnoxKnoxville.public.md) 
+### [Knoxville](/_Standards/Earth/Continent/America~North/USA/USA~Central/Tennessee/counties~Tennessee/Knox,County/cities~Knox/Knoxville.md) 
 
-### [Knoxville.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Tennessee\counties~Tennessee\Knox,County\cities~KnoxKnoxville.internal.md) 
+### [Knoxville.public](/_public/Earth/Continent/America~North/USA/USA~Central/Tennessee/counties~Tennessee/Knox,County/cities~Knox/Knoxville.public.md) 
 
-### [Knoxville.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Tennessee\counties~Tennessee\Knox,County\cities~KnoxKnoxville.protect.md) 
+### [Knoxville.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Tennessee/counties~Tennessee/Knox,County/cities~Knox/Knoxville.internal.md) 
 
-### [Knoxville.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Tennessee\counties~Tennessee\Knox,County\cities~KnoxKnoxville.private.md) 
+### [Knoxville.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Tennessee/counties~Tennessee/Knox,County/cities~Knox/Knoxville.protect.md) 
 
-### [Knoxville.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Tennessee\counties~Tennessee\Knox,County\cities~KnoxKnoxville.personal.md) 
+### [Knoxville.private](/_private/Earth/Continent/America~North/USA/USA~Central/Tennessee/counties~Tennessee/Knox,County/cities~Knox/Knoxville.private.md) 
 
-### [Knoxville.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Tennessee\counties~Tennessee\Knox,County\cities~KnoxKnoxville.secret.md)
+### [Knoxville.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Tennessee/counties~Tennessee/Knox,County/cities~Knox/Knoxville.personal.md) 
+
+### [Knoxville.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Tennessee/counties~Tennessee/Knox,County/cities~Knox/Knoxville.secret.md)
 

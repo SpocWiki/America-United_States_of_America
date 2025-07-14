@@ -45,15 +45,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wisconsin.public](/_public/\Earth\Continent\America~North\USA\USA~CentralWisconsin.public.md) 
+### [Wisconsin](/_Standards/Earth/Continent/America~North/USA/USA~Central/Wisconsin.md) 
 
-### [Wisconsin.internal](/_internal/\Earth\Continent\America~North\USA\USA~CentralWisconsin.internal.md) 
+### [Wisconsin.public](/_public/Earth/Continent/America~North/USA/USA~Central/Wisconsin.public.md) 
 
-### [Wisconsin.protect](/_protect/\Earth\Continent\America~North\USA\USA~CentralWisconsin.protect.md) 
+### [Wisconsin.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Wisconsin.internal.md) 
 
-### [Wisconsin.private](/_private/\Earth\Continent\America~North\USA\USA~CentralWisconsin.private.md) 
+### [Wisconsin.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Wisconsin.protect.md) 
 
-### [Wisconsin.personal](/_personal/\Earth\Continent\America~North\USA\USA~CentralWisconsin.personal.md) 
+### [Wisconsin.private](/_private/Earth/Continent/America~North/USA/USA~Central/Wisconsin.private.md) 
 
-### [Wisconsin.secret](/_secret/\Earth\Continent\America~North\USA\USA~CentralWisconsin.secret.md)
+### [Wisconsin.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Wisconsin.personal.md) 
+
+### [Wisconsin.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Wisconsin.secret.md)
 

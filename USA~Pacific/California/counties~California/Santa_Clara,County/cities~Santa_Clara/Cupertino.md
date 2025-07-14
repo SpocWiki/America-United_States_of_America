@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cupertino.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Santa_Clara,County\cities~Santa_ClaraCupertino.public.md) 
+### [Cupertino](/_Standards/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Santa_Clara,County/cities~Santa_Clara/Cupertino.md) 
 
-### [Cupertino.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Santa_Clara,County\cities~Santa_ClaraCupertino.internal.md) 
+### [Cupertino.public](/_public/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Santa_Clara,County/cities~Santa_Clara/Cupertino.public.md) 
 
-### [Cupertino.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Santa_Clara,County\cities~Santa_ClaraCupertino.protect.md) 
+### [Cupertino.internal](/_internal/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Santa_Clara,County/cities~Santa_Clara/Cupertino.internal.md) 
 
-### [Cupertino.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Santa_Clara,County\cities~Santa_ClaraCupertino.private.md) 
+### [Cupertino.protect](/_protect/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Santa_Clara,County/cities~Santa_Clara/Cupertino.protect.md) 
 
-### [Cupertino.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Santa_Clara,County\cities~Santa_ClaraCupertino.personal.md) 
+### [Cupertino.private](/_private/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Santa_Clara,County/cities~Santa_Clara/Cupertino.private.md) 
 
-### [Cupertino.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Santa_Clara,County\cities~Santa_ClaraCupertino.secret.md)
+### [Cupertino.personal](/_personal/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Santa_Clara,County/cities~Santa_Clara/Cupertino.personal.md) 
+
+### [Cupertino.secret](/_secret/Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Santa_Clara,County/cities~Santa_Clara/Cupertino.secret.md)
 

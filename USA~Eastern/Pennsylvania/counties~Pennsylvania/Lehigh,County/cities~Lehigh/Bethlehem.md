@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bethlehem.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\Pennsylvania\counties~Pennsylvania\Lehigh,County\cities~LehighBethlehem.public.md) 
+### [Bethlehem](/_Standards/Earth/Continent/America~North/USA/USA~Eastern/Pennsylvania/counties~Pennsylvania/Lehigh,County/cities~Lehigh/Bethlehem.md) 
 
-### [Bethlehem.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\Pennsylvania\counties~Pennsylvania\Lehigh,County\cities~LehighBethlehem.internal.md) 
+### [Bethlehem.public](/_public/Earth/Continent/America~North/USA/USA~Eastern/Pennsylvania/counties~Pennsylvania/Lehigh,County/cities~Lehigh/Bethlehem.public.md) 
 
-### [Bethlehem.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\Pennsylvania\counties~Pennsylvania\Lehigh,County\cities~LehighBethlehem.protect.md) 
+### [Bethlehem.internal](/_internal/Earth/Continent/America~North/USA/USA~Eastern/Pennsylvania/counties~Pennsylvania/Lehigh,County/cities~Lehigh/Bethlehem.internal.md) 
 
-### [Bethlehem.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\Pennsylvania\counties~Pennsylvania\Lehigh,County\cities~LehighBethlehem.private.md) 
+### [Bethlehem.protect](/_protect/Earth/Continent/America~North/USA/USA~Eastern/Pennsylvania/counties~Pennsylvania/Lehigh,County/cities~Lehigh/Bethlehem.protect.md) 
 
-### [Bethlehem.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\Pennsylvania\counties~Pennsylvania\Lehigh,County\cities~LehighBethlehem.personal.md) 
+### [Bethlehem.private](/_private/Earth/Continent/America~North/USA/USA~Eastern/Pennsylvania/counties~Pennsylvania/Lehigh,County/cities~Lehigh/Bethlehem.private.md) 
 
-### [Bethlehem.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\Pennsylvania\counties~Pennsylvania\Lehigh,County\cities~LehighBethlehem.secret.md)
+### [Bethlehem.personal](/_personal/Earth/Continent/America~North/USA/USA~Eastern/Pennsylvania/counties~Pennsylvania/Lehigh,County/cities~Lehigh/Bethlehem.personal.md) 
+
+### [Bethlehem.secret](/_secret/Earth/Continent/America~North/USA/USA~Eastern/Pennsylvania/counties~Pennsylvania/Lehigh,County/cities~Lehigh/Bethlehem.secret.md)
 

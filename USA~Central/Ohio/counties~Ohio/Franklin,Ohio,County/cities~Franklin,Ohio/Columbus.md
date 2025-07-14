@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Columbus.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Ohio\counties~Ohio\Franklin,Ohio,County\cities~Franklin,OhioColumbus.public.md) 
+### [Columbus](/_Standards/Earth/Continent/America~North/USA/USA~Central/Ohio/counties~Ohio/Franklin,Ohio,County/cities~Franklin,Ohio/Columbus.md) 
 
-### [Columbus.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Ohio\counties~Ohio\Franklin,Ohio,County\cities~Franklin,OhioColumbus.internal.md) 
+### [Columbus.public](/_public/Earth/Continent/America~North/USA/USA~Central/Ohio/counties~Ohio/Franklin,Ohio,County/cities~Franklin,Ohio/Columbus.public.md) 
 
-### [Columbus.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Ohio\counties~Ohio\Franklin,Ohio,County\cities~Franklin,OhioColumbus.protect.md) 
+### [Columbus.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Ohio/counties~Ohio/Franklin,Ohio,County/cities~Franklin,Ohio/Columbus.internal.md) 
 
-### [Columbus.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Ohio\counties~Ohio\Franklin,Ohio,County\cities~Franklin,OhioColumbus.private.md) 
+### [Columbus.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Ohio/counties~Ohio/Franklin,Ohio,County/cities~Franklin,Ohio/Columbus.protect.md) 
 
-### [Columbus.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Ohio\counties~Ohio\Franklin,Ohio,County\cities~Franklin,OhioColumbus.personal.md) 
+### [Columbus.private](/_private/Earth/Continent/America~North/USA/USA~Central/Ohio/counties~Ohio/Franklin,Ohio,County/cities~Franklin,Ohio/Columbus.private.md) 
 
-### [Columbus.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Ohio\counties~Ohio\Franklin,Ohio,County\cities~Franklin,OhioColumbus.secret.md)
+### [Columbus.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Ohio/counties~Ohio/Franklin,Ohio,County/cities~Franklin,Ohio/Columbus.personal.md) 
+
+### [Columbus.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Ohio/counties~Ohio/Franklin,Ohio,County/cities~Franklin,Ohio/Columbus.secret.md)
 

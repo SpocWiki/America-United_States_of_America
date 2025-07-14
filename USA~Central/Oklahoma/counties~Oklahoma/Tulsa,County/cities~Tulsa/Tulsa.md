@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tulsa.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Oklahoma\counties~Oklahoma\Tulsa,County\cities~TulsaTulsa.public.md) 
+### [Tulsa](/_Standards/Earth/Continent/America~North/USA/USA~Central/Oklahoma/counties~Oklahoma/Tulsa,County/cities~Tulsa/Tulsa.md) 
 
-### [Tulsa.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Oklahoma\counties~Oklahoma\Tulsa,County\cities~TulsaTulsa.internal.md) 
+### [Tulsa.public](/_public/Earth/Continent/America~North/USA/USA~Central/Oklahoma/counties~Oklahoma/Tulsa,County/cities~Tulsa/Tulsa.public.md) 
 
-### [Tulsa.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Oklahoma\counties~Oklahoma\Tulsa,County\cities~TulsaTulsa.protect.md) 
+### [Tulsa.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Oklahoma/counties~Oklahoma/Tulsa,County/cities~Tulsa/Tulsa.internal.md) 
 
-### [Tulsa.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Oklahoma\counties~Oklahoma\Tulsa,County\cities~TulsaTulsa.private.md) 
+### [Tulsa.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Oklahoma/counties~Oklahoma/Tulsa,County/cities~Tulsa/Tulsa.protect.md) 
 
-### [Tulsa.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Oklahoma\counties~Oklahoma\Tulsa,County\cities~TulsaTulsa.personal.md) 
+### [Tulsa.private](/_private/Earth/Continent/America~North/USA/USA~Central/Oklahoma/counties~Oklahoma/Tulsa,County/cities~Tulsa/Tulsa.private.md) 
 
-### [Tulsa.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Oklahoma\counties~Oklahoma\Tulsa,County\cities~TulsaTulsa.secret.md)
+### [Tulsa.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Oklahoma/counties~Oklahoma/Tulsa,County/cities~Tulsa/Tulsa.personal.md) 
+
+### [Tulsa.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Oklahoma/counties~Oklahoma/Tulsa,County/cities~Tulsa/Tulsa.secret.md)
 

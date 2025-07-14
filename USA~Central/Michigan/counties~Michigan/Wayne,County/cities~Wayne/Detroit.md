@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Detroit.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Michigan\counties~Michigan\Wayne,County\cities~WayneDetroit.public.md) 
+### [Detroit](/_Standards/Earth/Continent/America~North/USA/USA~Central/Michigan/counties~Michigan/Wayne,County/cities~Wayne/Detroit.md) 
 
-### [Detroit.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Michigan\counties~Michigan\Wayne,County\cities~WayneDetroit.internal.md) 
+### [Detroit.public](/_public/Earth/Continent/America~North/USA/USA~Central/Michigan/counties~Michigan/Wayne,County/cities~Wayne/Detroit.public.md) 
 
-### [Detroit.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Michigan\counties~Michigan\Wayne,County\cities~WayneDetroit.protect.md) 
+### [Detroit.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Michigan/counties~Michigan/Wayne,County/cities~Wayne/Detroit.internal.md) 
 
-### [Detroit.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Michigan\counties~Michigan\Wayne,County\cities~WayneDetroit.private.md) 
+### [Detroit.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Michigan/counties~Michigan/Wayne,County/cities~Wayne/Detroit.protect.md) 
 
-### [Detroit.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Michigan\counties~Michigan\Wayne,County\cities~WayneDetroit.personal.md) 
+### [Detroit.private](/_private/Earth/Continent/America~North/USA/USA~Central/Michigan/counties~Michigan/Wayne,County/cities~Wayne/Detroit.private.md) 
 
-### [Detroit.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Michigan\counties~Michigan\Wayne,County\cities~WayneDetroit.secret.md)
+### [Detroit.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Michigan/counties~Michigan/Wayne,County/cities~Wayne/Detroit.personal.md) 
+
+### [Detroit.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Michigan/counties~Michigan/Wayne,County/cities~Wayne/Detroit.secret.md)
 

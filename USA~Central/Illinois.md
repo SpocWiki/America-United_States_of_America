@@ -41,15 +41,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Illinois.public](/_public/\Earth\Continent\America~North\USA\USA~CentralIllinois.public.md) 
+### [Illinois](/_Standards/Earth/Continent/America~North/USA/USA~Central/Illinois.md) 
 
-### [Illinois.internal](/_internal/\Earth\Continent\America~North\USA\USA~CentralIllinois.internal.md) 
+### [Illinois.public](/_public/Earth/Continent/America~North/USA/USA~Central/Illinois.public.md) 
 
-### [Illinois.protect](/_protect/\Earth\Continent\America~North\USA\USA~CentralIllinois.protect.md) 
+### [Illinois.internal](/_internal/Earth/Continent/America~North/USA/USA~Central/Illinois.internal.md) 
 
-### [Illinois.private](/_private/\Earth\Continent\America~North\USA\USA~CentralIllinois.private.md) 
+### [Illinois.protect](/_protect/Earth/Continent/America~North/USA/USA~Central/Illinois.protect.md) 
 
-### [Illinois.personal](/_personal/\Earth\Continent\America~North\USA\USA~CentralIllinois.personal.md) 
+### [Illinois.private](/_private/Earth/Continent/America~North/USA/USA~Central/Illinois.private.md) 
 
-### [Illinois.secret](/_secret/\Earth\Continent\America~North\USA\USA~CentralIllinois.secret.md)
+### [Illinois.personal](/_personal/Earth/Continent/America~North/USA/USA~Central/Illinois.personal.md) 
+
+### [Illinois.secret](/_secret/Earth/Continent/America~North/USA/USA~Central/Illinois.secret.md)
 
