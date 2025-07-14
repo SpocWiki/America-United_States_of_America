@@ -99,11 +99,18 @@ but only 1 hour behind the UTC-8 used from California up to and including Wester
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Alaska)
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA/Alaska|Alaska]] 
-- [[../../../../../_public/geo/Continent/America~North/USA/Alaska.public|Alaska.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA/Alaska.internal|Alaska.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA/Alaska.protect|Alaska.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA/Alaska.private|Alaska.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA/Alaska.personal|Alaska.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA/Alaska.secret|Alaska.secret]] 
+
+### [Alaska.public](/_public/\Earth\Continent\America~North\USA\USA~PacificAlaska.public.md) 
+
+### [Alaska.internal](/_internal/\Earth\Continent\America~North\USA\USA~PacificAlaska.internal.md) 
+
+### [Alaska.protect](/_protect/\Earth\Continent\America~North\USA\USA~PacificAlaska.protect.md) 
+
+### [Alaska.private](/_private/\Earth\Continent\America~North\USA\USA~PacificAlaska.private.md) 
+
+### [Alaska.personal](/_personal/\Earth\Continent\America~North\USA\USA~PacificAlaska.personal.md) 
+
+### [Alaska.secret](/_secret/\Earth\Continent\America~North\USA\USA~PacificAlaska.secret.md)
+

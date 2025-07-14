@@ -1,4 +1,4 @@
-﻿---
+---
 location: [40.75,-111.8833] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Utah/City/Salt_Lake_City|Salt_Lake_City]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Utah/City/Salt_Lake_City.public|Salt_Lake_City.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Utah/City/Salt_Lake_City.internal|Salt_Lake_City.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Utah/City/Salt_Lake_City.protect|Salt_Lake_City.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Utah/City/Salt_Lake_City.private|Salt_Lake_City.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Utah/City/Salt_Lake_City.personal|Salt_Lake_City.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Utah/City/Salt_Lake_City.secret|Salt_Lake_City.secret]] 
+
+### [Salt_Lake_City.public](/_public/\Earth\Continent\America~North\USA\USA~Mountain\Utah\counties~Utah\Salt_Lake,County\cities~Salt_LakeSalt_Lake_City.public.md) 
+
+### [Salt_Lake_City.internal](/_internal/\Earth\Continent\America~North\USA\USA~Mountain\Utah\counties~Utah\Salt_Lake,County\cities~Salt_LakeSalt_Lake_City.internal.md) 
+
+### [Salt_Lake_City.protect](/_protect/\Earth\Continent\America~North\USA\USA~Mountain\Utah\counties~Utah\Salt_Lake,County\cities~Salt_LakeSalt_Lake_City.protect.md) 
+
+### [Salt_Lake_City.private](/_private/\Earth\Continent\America~North\USA\USA~Mountain\Utah\counties~Utah\Salt_Lake,County\cities~Salt_LakeSalt_Lake_City.private.md) 
+
+### [Salt_Lake_City.personal](/_personal/\Earth\Continent\America~North\USA\USA~Mountain\Utah\counties~Utah\Salt_Lake,County\cities~Salt_LakeSalt_Lake_City.personal.md) 
+
+### [Salt_Lake_City.secret](/_secret/\Earth\Continent\America~North\USA\USA~Mountain\Utah\counties~Utah\Salt_Lake,County\cities~Salt_LakeSalt_Lake_City.secret.md)
+

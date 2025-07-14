@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/New_York/City/Idlewild|Idlewild]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/New_York/City/Idlewild.public|Idlewild.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/New_York/City/Idlewild.internal|Idlewild.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/New_York/City/Idlewild.protect|Idlewild.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/New_York/City/Idlewild.private|Idlewild.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/New_York/City/Idlewild.personal|Idlewild.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/New_York/City/Idlewild.secret|Idlewild.secret]] 
+
+### [Idlewild.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\New_York.CitiesIdlewild.public.md) 
+
+### [Idlewild.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\New_York.CitiesIdlewild.internal.md) 
+
+### [Idlewild.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\New_York.CitiesIdlewild.protect.md) 
+
+### [Idlewild.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\New_York.CitiesIdlewild.private.md) 
+
+### [Idlewild.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\New_York.CitiesIdlewild.personal.md) 
+
+### [Idlewild.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\New_York.CitiesIdlewild.secret.md)
+

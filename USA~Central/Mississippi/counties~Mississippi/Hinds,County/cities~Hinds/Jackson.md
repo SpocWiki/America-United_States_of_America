@@ -1,4 +1,4 @@
-﻿---
+---
 location: [32.29889,-90.18472] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Mississippi/City/Jackson|Jackson]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Mississippi/City/Jackson.public|Jackson.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Mississippi/City/Jackson.internal|Jackson.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Mississippi/City/Jackson.protect|Jackson.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Mississippi/City/Jackson.private|Jackson.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Mississippi/City/Jackson.personal|Jackson.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Mississippi/City/Jackson.secret|Jackson.secret]] 
+
+### [Jackson.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Mississippi\counties~Mississippi\Hinds,County\cities~HindsJackson.public.md) 
+
+### [Jackson.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Mississippi\counties~Mississippi\Hinds,County\cities~HindsJackson.internal.md) 
+
+### [Jackson.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Mississippi\counties~Mississippi\Hinds,County\cities~HindsJackson.protect.md) 
+
+### [Jackson.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Mississippi\counties~Mississippi\Hinds,County\cities~HindsJackson.private.md) 
+
+### [Jackson.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Mississippi\counties~Mississippi\Hinds,County\cities~HindsJackson.personal.md) 
+
+### [Jackson.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Mississippi\counties~Mississippi\Hinds,County\cities~HindsJackson.secret.md)
+

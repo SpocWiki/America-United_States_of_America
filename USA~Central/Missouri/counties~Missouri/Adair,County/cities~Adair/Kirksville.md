@@ -1,4 +1,4 @@
-﻿---
+---
 location: [40.2,-92.58] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Missouri/City/Kirksville|Kirksville]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Missouri/City/Kirksville.public|Kirksville.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Missouri/City/Kirksville.internal|Kirksville.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Missouri/City/Kirksville.protect|Kirksville.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Missouri/City/Kirksville.private|Kirksville.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Missouri/City/Kirksville.personal|Kirksville.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Missouri/City/Kirksville.secret|Kirksville.secret]] 
+
+### [Kirksville.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Missouri\counties~Missouri\Adair,County\cities~AdairKirksville.public.md) 
+
+### [Kirksville.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Missouri\counties~Missouri\Adair,County\cities~AdairKirksville.internal.md) 
+
+### [Kirksville.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Missouri\counties~Missouri\Adair,County\cities~AdairKirksville.protect.md) 
+
+### [Kirksville.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Missouri\counties~Missouri\Adair,County\cities~AdairKirksville.private.md) 
+
+### [Kirksville.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Missouri\counties~Missouri\Adair,County\cities~AdairKirksville.personal.md) 
+
+### [Kirksville.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Missouri\counties~Missouri\Adair,County\cities~AdairKirksville.secret.md)
+

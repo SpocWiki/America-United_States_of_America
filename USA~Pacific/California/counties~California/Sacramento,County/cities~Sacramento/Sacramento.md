@@ -1,4 +1,4 @@
-﻿---
+---
 location: [38.55556,-121.4689] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/California/City/Sacramento|Sacramento]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/California/City/Sacramento.public|Sacramento.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/California/City/Sacramento.internal|Sacramento.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/California/City/Sacramento.protect|Sacramento.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/California/City/Sacramento.private|Sacramento.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/California/City/Sacramento.personal|Sacramento.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/California/City/Sacramento.secret|Sacramento.secret]] 
+
+### [Sacramento.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Sacramento,County\cities~SacramentoSacramento.public.md) 
+
+### [Sacramento.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Sacramento,County\cities~SacramentoSacramento.internal.md) 
+
+### [Sacramento.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Sacramento,County\cities~SacramentoSacramento.protect.md) 
+
+### [Sacramento.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Sacramento,County\cities~SacramentoSacramento.private.md) 
+
+### [Sacramento.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Sacramento,County\cities~SacramentoSacramento.personal.md) 
+
+### [Sacramento.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Sacramento,County\cities~SacramentoSacramento.secret.md)
+

@@ -35,10 +35,16 @@ markerFolder: ./Albany/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/New_York/City/Albany|Albany]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/New_York/City/Albany.public|Albany.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/New_York/City/Albany.internal|Albany.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/New_York/City/Albany.protect|Albany.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/New_York/City/Albany.private|Albany.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/New_York/City/Albany.personal|Albany.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/New_York/City/Albany.secret|Albany.secret]] 
+
+### [Albany.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_YorkAlbany.public.md) 
+
+### [Albany.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_YorkAlbany.internal.md) 
+
+### [Albany.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_YorkAlbany.protect.md) 
+
+### [Albany.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_YorkAlbany.private.md) 
+
+### [Albany.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_YorkAlbany.personal.md) 
+
+### [Albany.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_YorkAlbany.secret.md)
+

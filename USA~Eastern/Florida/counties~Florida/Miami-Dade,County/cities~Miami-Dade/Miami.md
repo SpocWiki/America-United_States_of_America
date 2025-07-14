@@ -1,4 +1,4 @@
-﻿---
+---
 location: [25.77,-80.2] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Florida/City/Miami|Miami]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Florida/City/Miami.public|Miami.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Florida/City/Miami.internal|Miami.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Florida/City/Miami.protect|Miami.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Florida/City/Miami.private|Miami.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Florida/City/Miami.personal|Miami.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Florida/City/Miami.secret|Miami.secret]] 
+
+### [Miami.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\Florida\counties~Florida\Miami-Dade,County\cities~Miami-DadeMiami.public.md) 
+
+### [Miami.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\Florida\counties~Florida\Miami-Dade,County\cities~Miami-DadeMiami.internal.md) 
+
+### [Miami.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\Florida\counties~Florida\Miami-Dade,County\cities~Miami-DadeMiami.protect.md) 
+
+### [Miami.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\Florida\counties~Florida\Miami-Dade,County\cities~Miami-DadeMiami.private.md) 
+
+### [Miami.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\Florida\counties~Florida\Miami-Dade,County\cities~Miami-DadeMiami.personal.md) 
+
+### [Miami.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\Florida\counties~Florida\Miami-Dade,County\cities~Miami-DadeMiami.secret.md)
+

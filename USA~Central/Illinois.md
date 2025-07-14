@@ -40,10 +40,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA/Illinois|Illinois]] 
-- [[../../../../../_public/geo/Continent/America~North/USA/Illinois.public|Illinois.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA/Illinois.internal|Illinois.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA/Illinois.protect|Illinois.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA/Illinois.private|Illinois.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA/Illinois.personal|Illinois.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA/Illinois.secret|Illinois.secret]] 
+
+### [Illinois.public](/_public/\Earth\Continent\America~North\USA\USA~CentralIllinois.public.md) 
+
+### [Illinois.internal](/_internal/\Earth\Continent\America~North\USA\USA~CentralIllinois.internal.md) 
+
+### [Illinois.protect](/_protect/\Earth\Continent\America~North\USA\USA~CentralIllinois.protect.md) 
+
+### [Illinois.private](/_private/\Earth\Continent\America~North\USA\USA~CentralIllinois.private.md) 
+
+### [Illinois.personal](/_personal/\Earth\Continent\America~North\USA\USA~CentralIllinois.personal.md) 
+
+### [Illinois.secret](/_secret/\Earth\Continent\America~North\USA\USA~CentralIllinois.secret.md)
+

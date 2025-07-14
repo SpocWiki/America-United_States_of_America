@@ -50,3 +50,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Philadelphia)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Philadelphia.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\Pennsylvania\counties~Pennsylvania\Philadelphia,CountyPhiladelphia.public.md) 
+
+### [Philadelphia.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\Pennsylvania\counties~Pennsylvania\Philadelphia,CountyPhiladelphia.internal.md) 
+
+### [Philadelphia.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\Pennsylvania\counties~Pennsylvania\Philadelphia,CountyPhiladelphia.protect.md) 
+
+### [Philadelphia.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\Pennsylvania\counties~Pennsylvania\Philadelphia,CountyPhiladelphia.private.md) 
+
+### [Philadelphia.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\Pennsylvania\counties~Pennsylvania\Philadelphia,CountyPhiladelphia.personal.md) 
+
+### [Philadelphia.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\Pennsylvania\counties~Pennsylvania\Philadelphia,CountyPhiladelphia.secret.md)
+

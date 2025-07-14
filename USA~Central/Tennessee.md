@@ -41,10 +41,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA/Tennessee|Tennessee]] 
-- [[../../../../../_public/geo/Continent/America~North/USA/Tennessee.public|Tennessee.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA/Tennessee.internal|Tennessee.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA/Tennessee.protect|Tennessee.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA/Tennessee.private|Tennessee.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA/Tennessee.personal|Tennessee.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA/Tennessee.secret|Tennessee.secret]] 
+
+### [Tennessee.public](/_public/\Earth\Continent\America~North\USA\USA~CentralTennessee.public.md) 
+
+### [Tennessee.internal](/_internal/\Earth\Continent\America~North\USA\USA~CentralTennessee.internal.md) 
+
+### [Tennessee.protect](/_protect/\Earth\Continent\America~North\USA\USA~CentralTennessee.protect.md) 
+
+### [Tennessee.private](/_private/\Earth\Continent\America~North\USA\USA~CentralTennessee.private.md) 
+
+### [Tennessee.personal](/_personal/\Earth\Continent\America~North\USA\USA~CentralTennessee.personal.md) 
+
+### [Tennessee.secret](/_secret/\Earth\Continent\America~North\USA\USA~CentralTennessee.secret.md)
+

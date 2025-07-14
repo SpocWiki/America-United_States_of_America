@@ -1,4 +1,4 @@
-﻿---
+---
 location: [34.00056,-81.04417] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/South_Carolina/City/Columbia|Columbia]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/South_Carolina/City/Columbia.public|Columbia.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/South_Carolina/City/Columbia.internal|Columbia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/South_Carolina/City/Columbia.protect|Columbia.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/South_Carolina/City/Columbia.private|Columbia.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/South_Carolina/City/Columbia.personal|Columbia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/South_Carolina/City/Columbia.secret|Columbia.secret]] 
+
+### [Columbia.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\South_Carolina\counties~South_Carolina\Richland,County\cities~RichlandColumbia.public.md) 
+
+### [Columbia.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\South_Carolina\counties~South_Carolina\Richland,County\cities~RichlandColumbia.internal.md) 
+
+### [Columbia.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\South_Carolina\counties~South_Carolina\Richland,County\cities~RichlandColumbia.protect.md) 
+
+### [Columbia.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\South_Carolina\counties~South_Carolina\Richland,County\cities~RichlandColumbia.private.md) 
+
+### [Columbia.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\South_Carolina\counties~South_Carolina\Richland,County\cities~RichlandColumbia.personal.md) 
+
+### [Columbia.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\South_Carolina\counties~South_Carolina\Richland,County\cities~RichlandColumbia.secret.md)
+

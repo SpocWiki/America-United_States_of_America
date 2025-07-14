@@ -1,4 +1,4 @@
-﻿---
+---
 location: [39.79094,-86.14768] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Indiana/City/Indianapolis|Indianapolis]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Indiana/City/Indianapolis.public|Indianapolis.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Indiana/City/Indianapolis.internal|Indianapolis.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Indiana/City/Indianapolis.protect|Indianapolis.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Indiana/City/Indianapolis.private|Indianapolis.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Indiana/City/Indianapolis.personal|Indianapolis.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Indiana/City/Indianapolis.secret|Indianapolis.secret]] 
+
+### [Indianapolis.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Indiana\counties~Indiana\Marion,County\cities~MarionIndianapolis.public.md) 
+
+### [Indianapolis.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Indiana\counties~Indiana\Marion,County\cities~MarionIndianapolis.internal.md) 
+
+### [Indianapolis.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Indiana\counties~Indiana\Marion,County\cities~MarionIndianapolis.protect.md) 
+
+### [Indianapolis.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Indiana\counties~Indiana\Marion,County\cities~MarionIndianapolis.private.md) 
+
+### [Indianapolis.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Indiana\counties~Indiana\Marion,County\cities~MarionIndianapolis.personal.md) 
+
+### [Indianapolis.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Indiana\counties~Indiana\Marion,County\cities~MarionIndianapolis.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [39.28,-102.42] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Colorado/City/BethuneUSA|BethuneUSA]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Colorado/City/BethuneUSA.public|BethuneUSA.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Colorado/City/BethuneUSA.internal|BethuneUSA.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Colorado/City/BethuneUSA.protect|BethuneUSA.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Colorado/City/BethuneUSA.private|BethuneUSA.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Colorado/City/BethuneUSA.personal|BethuneUSA.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Colorado/City/BethuneUSA.secret|BethuneUSA.secret]] 
+
+### [Bethune_USA.public](/_public/\Earth\Continent\America~North\USA\USA~Mountain\Colorado\counties~Colorado\Kit_Carson,CountyBethune_USA.public.md) 
+
+### [Bethune_USA.internal](/_internal/\Earth\Continent\America~North\USA\USA~Mountain\Colorado\counties~Colorado\Kit_Carson,CountyBethune_USA.internal.md) 
+
+### [Bethune_USA.protect](/_protect/\Earth\Continent\America~North\USA\USA~Mountain\Colorado\counties~Colorado\Kit_Carson,CountyBethune_USA.protect.md) 
+
+### [Bethune_USA.private](/_private/\Earth\Continent\America~North\USA\USA~Mountain\Colorado\counties~Colorado\Kit_Carson,CountyBethune_USA.private.md) 
+
+### [Bethune_USA.personal](/_personal/\Earth\Continent\America~North\USA\USA~Mountain\Colorado\counties~Colorado\Kit_Carson,CountyBethune_USA.personal.md) 
+
+### [Bethune_USA.secret](/_secret/\Earth\Continent\America~North\USA\USA~Mountain\Colorado\counties~Colorado\Kit_Carson,CountyBethune_USA.secret.md)
+

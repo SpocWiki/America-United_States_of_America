@@ -44,10 +44,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA/Wisconsin|Wisconsin]] 
-- [[../../../../../_public/geo/Continent/America~North/USA/Wisconsin.public|Wisconsin.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA/Wisconsin.internal|Wisconsin.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA/Wisconsin.protect|Wisconsin.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA/Wisconsin.private|Wisconsin.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA/Wisconsin.personal|Wisconsin.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA/Wisconsin.secret|Wisconsin.secret]] 
+
+### [Wisconsin.public](/_public/\Earth\Continent\America~North\USA\USA~CentralWisconsin.public.md) 
+
+### [Wisconsin.internal](/_internal/\Earth\Continent\America~North\USA\USA~CentralWisconsin.internal.md) 
+
+### [Wisconsin.protect](/_protect/\Earth\Continent\America~North\USA\USA~CentralWisconsin.protect.md) 
+
+### [Wisconsin.private](/_private/\Earth\Continent\America~North\USA\USA~CentralWisconsin.private.md) 
+
+### [Wisconsin.personal](/_personal/\Earth\Continent\America~North\USA\USA~CentralWisconsin.personal.md) 
+
+### [Wisconsin.secret](/_secret/\Earth\Continent\America~North\USA\USA~CentralWisconsin.secret.md)
+

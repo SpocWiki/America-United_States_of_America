@@ -47,10 +47,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA/New_York.State|New_York.State]] 
-- [[../../../../../_public/geo/Continent/America~North/USA/New_York.State.public|New_York.State.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA/New_York.State.internal|New_York.State.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA/New_York.State.protect|New_York.State.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA/New_York.State.private|New_York.State.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA/New_York.State.personal|New_York.State.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA/New_York.State.secret|New_York.State.secret]] 
+
+### [New_York,State.public](/_public/\Earth\Continent\America~North\USA\USA~EasternNew_York,State.public.md) 
+
+### [New_York,State.internal](/_internal/\Earth\Continent\America~North\USA\USA~EasternNew_York,State.internal.md) 
+
+### [New_York,State.protect](/_protect/\Earth\Continent\America~North\USA\USA~EasternNew_York,State.protect.md) 
+
+### [New_York,State.private](/_private/\Earth\Continent\America~North\USA\USA~EasternNew_York,State.private.md) 
+
+### [New_York,State.personal](/_personal/\Earth\Continent\America~North\USA\USA~EasternNew_York,State.personal.md) 
+
+### [New_York,State.secret](/_secret/\Earth\Continent\America~North\USA\USA~EasternNew_York,State.secret.md)
+

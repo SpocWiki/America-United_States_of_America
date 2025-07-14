@@ -1,4 +1,4 @@
-﻿---
+---
 location: [40.8,-96.7] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Nebraska/City/Lincoln|Lincoln]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Nebraska/City/Lincoln.public|Lincoln.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Nebraska/City/Lincoln.internal|Lincoln.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Nebraska/City/Lincoln.protect|Lincoln.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Nebraska/City/Lincoln.private|Lincoln.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Nebraska/City/Lincoln.personal|Lincoln.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Nebraska/City/Lincoln.secret|Lincoln.secret]] 
+
+### [Lincoln.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Nebraska\counties~Nebraska\Lancaster,County\cities~LancasterLincoln.public.md) 
+
+### [Lincoln.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Nebraska\counties~Nebraska\Lancaster,County\cities~LancasterLincoln.internal.md) 
+
+### [Lincoln.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Nebraska\counties~Nebraska\Lancaster,County\cities~LancasterLincoln.protect.md) 
+
+### [Lincoln.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Nebraska\counties~Nebraska\Lancaster,County\cities~LancasterLincoln.private.md) 
+
+### [Lincoln.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Nebraska\counties~Nebraska\Lancaster,County\cities~LancasterLincoln.personal.md) 
+
+### [Lincoln.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Nebraska\counties~Nebraska\Lancaster,County\cities~LancasterLincoln.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [39.58,-74.57] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Delaware/City/Delaware-City|Delaware-City]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Delaware/City/Delaware-City.public|Delaware-City.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Delaware/City/Delaware-City.internal|Delaware-City.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Delaware/City/Delaware-City.protect|Delaware-City.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Delaware/City/Delaware-City.private|Delaware-City.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Delaware/City/Delaware-City.personal|Delaware-City.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Delaware/City/Delaware-City.secret|Delaware-City.secret]] 
+
+### [Delaware-City.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Atlantic,County\cities~AtlanticDelaware-City.public.md) 
+
+### [Delaware-City.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Atlantic,County\cities~AtlanticDelaware-City.internal.md) 
+
+### [Delaware-City.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Atlantic,County\cities~AtlanticDelaware-City.protect.md) 
+
+### [Delaware-City.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Atlantic,County\cities~AtlanticDelaware-City.private.md) 
+
+### [Delaware-City.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Atlantic,County\cities~AtlanticDelaware-City.personal.md) 
+
+### [Delaware-City.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Atlantic,County\cities~AtlanticDelaware-City.secret.md)
+

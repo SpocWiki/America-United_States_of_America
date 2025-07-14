@@ -40,10 +40,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA/Maine|Maine]] 
-- [[../../../../../_public/geo/Continent/America~North/USA/Maine.public|Maine.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA/Maine.internal|Maine.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA/Maine.protect|Maine.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA/Maine.private|Maine.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA/Maine.personal|Maine.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA/Maine.secret|Maine.secret]] 
+
+### [Maine.public](/_public/\Earth\Continent\America~North\USA\USA~EasternMaine.public.md) 
+
+### [Maine.internal](/_internal/\Earth\Continent\America~North\USA\USA~EasternMaine.internal.md) 
+
+### [Maine.protect](/_protect/\Earth\Continent\America~North\USA\USA~EasternMaine.protect.md) 
+
+### [Maine.private](/_private/\Earth\Continent\America~North\USA\USA~EasternMaine.private.md) 
+
+### [Maine.personal](/_personal/\Earth\Continent\America~North\USA\USA~EasternMaine.personal.md) 
+
+### [Maine.secret](/_secret/\Earth\Continent\America~North\USA\USA~EasternMaine.secret.md)
+

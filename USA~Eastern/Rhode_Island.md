@@ -47,10 +47,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA/Rhode_Island|Rhode_Island]] 
-- [[../../../../../_public/geo/Continent/America~North/USA/Rhode_Island.public|Rhode_Island.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA/Rhode_Island.internal|Rhode_Island.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA/Rhode_Island.protect|Rhode_Island.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA/Rhode_Island.private|Rhode_Island.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA/Rhode_Island.personal|Rhode_Island.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA/Rhode_Island.secret|Rhode_Island.secret]] 
+
+### [Rhode_Island.public](/_public/\Earth\Continent\America~North\USA\USA~EasternRhode_Island.public.md) 
+
+### [Rhode_Island.internal](/_internal/\Earth\Continent\America~North\USA\USA~EasternRhode_Island.internal.md) 
+
+### [Rhode_Island.protect](/_protect/\Earth\Continent\America~North\USA\USA~EasternRhode_Island.protect.md) 
+
+### [Rhode_Island.private](/_private/\Earth\Continent\America~North\USA\USA~EasternRhode_Island.private.md) 
+
+### [Rhode_Island.personal](/_personal/\Earth\Continent\America~North\USA\USA~EasternRhode_Island.personal.md) 
+
+### [Rhode_Island.secret](/_secret/\Earth\Continent\America~North\USA\USA~EasternRhode_Island.secret.md)
+

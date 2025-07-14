@@ -69,3 +69,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Manhattan)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Manhattan.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\New_York,City,CountyManhattan.public.md) 
+
+### [Manhattan.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\New_York,City,CountyManhattan.internal.md) 
+
+### [Manhattan.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\New_York,City,CountyManhattan.protect.md) 
+
+### [Manhattan.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\New_York,City,CountyManhattan.private.md) 
+
+### [Manhattan.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\New_York,City,CountyManhattan.personal.md) 
+
+### [Manhattan.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\New_York,City,CountyManhattan.secret.md)
+

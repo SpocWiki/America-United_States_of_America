@@ -1,4 +1,4 @@
-﻿---
+---
 location: [42.7335,-84.5467] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Michigan/City/Lansing|Lansing]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Michigan/City/Lansing.public|Lansing.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Michigan/City/Lansing.internal|Lansing.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Michigan/City/Lansing.protect|Lansing.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Michigan/City/Lansing.private|Lansing.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Michigan/City/Lansing.personal|Lansing.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Michigan/City/Lansing.secret|Lansing.secret]] 
+
+### [Lansing.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Michigan\counties~Michigan\Ingham,County\cities~InghamLansing.public.md) 
+
+### [Lansing.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Michigan\counties~Michigan\Ingham,County\cities~InghamLansing.internal.md) 
+
+### [Lansing.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Michigan\counties~Michigan\Ingham,County\cities~InghamLansing.protect.md) 
+
+### [Lansing.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Michigan\counties~Michigan\Ingham,County\cities~InghamLansing.private.md) 
+
+### [Lansing.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Michigan\counties~Michigan\Ingham,County\cities~InghamLansing.personal.md) 
+
+### [Lansing.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Michigan\counties~Michigan\Ingham,County\cities~InghamLansing.secret.md)
+

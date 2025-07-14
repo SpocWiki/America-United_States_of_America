@@ -1,4 +1,4 @@
-﻿---
+---
 location: [40.48,-89] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Illinois/City/Bloomingtown|Bloomingtown]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Illinois/City/Bloomingtown.public|Bloomingtown.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Illinois/City/Bloomingtown.internal|Bloomingtown.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Illinois/City/Bloomingtown.protect|Bloomingtown.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Illinois/City/Bloomingtown.private|Bloomingtown.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Illinois/City/Bloomingtown.personal|Bloomingtown.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Illinois/City/Bloomingtown.secret|Bloomingtown.secret]] 
+
+### [Bloomingtown.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Mc_Lean,County\cities~Mc_LeanBloomingtown.public.md) 
+
+### [Bloomingtown.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Mc_Lean,County\cities~Mc_LeanBloomingtown.internal.md) 
+
+### [Bloomingtown.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Mc_Lean,County\cities~Mc_LeanBloomingtown.protect.md) 
+
+### [Bloomingtown.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Mc_Lean,County\cities~Mc_LeanBloomingtown.private.md) 
+
+### [Bloomingtown.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Mc_Lean,County\cities~Mc_LeanBloomingtown.personal.md) 
+
+### [Bloomingtown.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Mc_Lean,County\cities~Mc_LeanBloomingtown.secret.md)
+

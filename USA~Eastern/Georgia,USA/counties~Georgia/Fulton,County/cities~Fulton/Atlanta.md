@@ -1,4 +1,4 @@
-﻿---
+---
 location: [33.76,-84.38] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Georgia~USA/City/Atlanta|Atlanta]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Georgia~USA/City/Atlanta.public|Atlanta.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Georgia~USA/City/Atlanta.internal|Atlanta.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Georgia~USA/City/Atlanta.protect|Atlanta.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Georgia~USA/City/Atlanta.private|Atlanta.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Georgia~USA/City/Atlanta.personal|Atlanta.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Georgia~USA/City/Atlanta.secret|Atlanta.secret]] 
+
+### [Atlanta.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\Georgia,USA\counties~Georgia\Fulton,County\cities~FultonAtlanta.public.md) 
+
+### [Atlanta.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\Georgia,USA\counties~Georgia\Fulton,County\cities~FultonAtlanta.internal.md) 
+
+### [Atlanta.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\Georgia,USA\counties~Georgia\Fulton,County\cities~FultonAtlanta.protect.md) 
+
+### [Atlanta.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\Georgia,USA\counties~Georgia\Fulton,County\cities~FultonAtlanta.private.md) 
+
+### [Atlanta.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\Georgia,USA\counties~Georgia\Fulton,County\cities~FultonAtlanta.personal.md) 
+
+### [Atlanta.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\Georgia,USA\counties~Georgia\Fulton,County\cities~FultonAtlanta.secret.md)
+

@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/New_York/City/Rochester,_NY|Rochester,_NY]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/New_York/City/Rochester,_NY.public|Rochester,_NY.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/New_York/City/Rochester,_NY.internal|Rochester,_NY.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/New_York/City/Rochester,_NY.protect|Rochester,_NY.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/New_York/City/Rochester,_NY.private|Rochester,_NY.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/New_York/City/Rochester,_NY.personal|Rochester,_NY.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/New_York/City/Rochester,_NY.secret|Rochester,_NY.secret]] 
+
+### [Rochester,_NY.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\Monroe,CountyRochester,_NY.public.md) 
+
+### [Rochester,_NY.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\Monroe,CountyRochester,_NY.internal.md) 
+
+### [Rochester,_NY.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\Monroe,CountyRochester,_NY.protect.md) 
+
+### [Rochester,_NY.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\Monroe,CountyRochester,_NY.private.md) 
+
+### [Rochester,_NY.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\Monroe,CountyRochester,_NY.personal.md) 
+
+### [Rochester,_NY.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\Monroe,CountyRochester,_NY.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [58.44444,-134.2297] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Alaska/City/Juneau|Juneau]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Alaska/City/Juneau.public|Juneau.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Alaska/City/Juneau.internal|Juneau.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Alaska/City/Juneau.protect|Juneau.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Alaska/City/Juneau.private|Juneau.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Alaska/City/Juneau.personal|Juneau.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Alaska/City/Juneau.secret|Juneau.secret]] 
+
+### [Juneau.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\Alaska\counties~Alaska\Juneau,County\cities~JuneauJuneau.public.md) 
+
+### [Juneau.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\Alaska\counties~Alaska\Juneau,County\cities~JuneauJuneau.internal.md) 
+
+### [Juneau.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\Alaska\counties~Alaska\Juneau,County\cities~JuneauJuneau.protect.md) 
+
+### [Juneau.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\Alaska\counties~Alaska\Juneau,County\cities~JuneauJuneau.private.md) 
+
+### [Juneau.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\Alaska\counties~Alaska\Juneau,County\cities~JuneauJuneau.personal.md) 
+
+### [Juneau.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\Alaska\counties~Alaska\Juneau,County\cities~JuneauJuneau.secret.md)
+

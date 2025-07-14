@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45.55,-122.6] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Oregon/City/Portland|Portland]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Oregon/City/Portland.public|Portland.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Oregon/City/Portland.internal|Portland.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Oregon/City/Portland.protect|Portland.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Oregon/City/Portland.private|Portland.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Oregon/City/Portland.personal|Portland.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Oregon/City/Portland.secret|Portland.secret]] 
+
+### [Portland.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\Oregon\counties~Oregon\Multnomah,County\cities~MultnomahPortland.public.md) 
+
+### [Portland.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\Oregon\counties~Oregon\Multnomah,County\cities~MultnomahPortland.internal.md) 
+
+### [Portland.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\Oregon\counties~Oregon\Multnomah,County\cities~MultnomahPortland.protect.md) 
+
+### [Portland.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\Oregon\counties~Oregon\Multnomah,County\cities~MultnomahPortland.private.md) 
+
+### [Portland.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\Oregon\counties~Oregon\Multnomah,County\cities~MultnomahPortland.personal.md) 
+
+### [Portland.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\Oregon\counties~Oregon\Multnomah,County\cities~MultnomahPortland.secret.md)
+

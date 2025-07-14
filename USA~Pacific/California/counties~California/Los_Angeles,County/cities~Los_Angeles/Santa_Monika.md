@@ -1,4 +1,4 @@
-﻿---
+---
 location: [34.02,-118.5] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/California/City/Santa_Monika|Santa_Monika]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/California/City/Santa_Monika.public|Santa_Monika.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/California/City/Santa_Monika.internal|Santa_Monika.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/California/City/Santa_Monika.protect|Santa_Monika.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/California/City/Santa_Monika.private|Santa_Monika.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/California/City/Santa_Monika.personal|Santa_Monika.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/California/City/Santa_Monika.secret|Santa_Monika.secret]] 
+
+### [Santa_Monika.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Los_Angeles,County\cities~Los_AngelesSanta_Monika.public.md) 
+
+### [Santa_Monika.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Los_Angeles,County\cities~Los_AngelesSanta_Monika.internal.md) 
+
+### [Santa_Monika.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Los_Angeles,County\cities~Los_AngelesSanta_Monika.protect.md) 
+
+### [Santa_Monika.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Los_Angeles,County\cities~Los_AngelesSanta_Monika.private.md) 
+
+### [Santa_Monika.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Los_Angeles,County\cities~Los_AngelesSanta_Monika.personal.md) 
+
+### [Santa_Monika.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Los_Angeles,County\cities~Los_AngelesSanta_Monika.secret.md)
+

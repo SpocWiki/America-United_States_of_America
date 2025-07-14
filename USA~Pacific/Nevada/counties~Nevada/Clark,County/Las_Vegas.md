@@ -30,3 +30,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Las%20Vegas)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Las_Vegas.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\Nevada\counties~Nevada\Clark,CountyLas_Vegas.public.md) 
+
+### [Las_Vegas.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\Nevada\counties~Nevada\Clark,CountyLas_Vegas.internal.md) 
+
+### [Las_Vegas.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\Nevada\counties~Nevada\Clark,CountyLas_Vegas.protect.md) 
+
+### [Las_Vegas.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\Nevada\counties~Nevada\Clark,CountyLas_Vegas.private.md) 
+
+### [Las_Vegas.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\Nevada\counties~Nevada\Clark,CountyLas_Vegas.personal.md) 
+
+### [Las_Vegas.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\Nevada\counties~Nevada\Clark,CountyLas_Vegas.secret.md)
+

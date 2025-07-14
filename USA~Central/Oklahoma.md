@@ -41,10 +41,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA/Oklahoma|Oklahoma]] 
-- [[../../../../../_public/geo/Continent/America~North/USA/Oklahoma.public|Oklahoma.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA/Oklahoma.internal|Oklahoma.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA/Oklahoma.protect|Oklahoma.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA/Oklahoma.private|Oklahoma.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA/Oklahoma.personal|Oklahoma.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA/Oklahoma.secret|Oklahoma.secret]] 
+
+### [Oklahoma.public](/_public/\Earth\Continent\America~North\USA\USA~CentralOklahoma.public.md) 
+
+### [Oklahoma.internal](/_internal/\Earth\Continent\America~North\USA\USA~CentralOklahoma.internal.md) 
+
+### [Oklahoma.protect](/_protect/\Earth\Continent\America~North\USA\USA~CentralOklahoma.protect.md) 
+
+### [Oklahoma.private](/_private/\Earth\Continent\America~North\USA\USA~CentralOklahoma.private.md) 
+
+### [Oklahoma.personal](/_personal/\Earth\Continent\America~North\USA\USA~CentralOklahoma.personal.md) 
+
+### [Oklahoma.secret](/_secret/\Earth\Continent\America~North\USA\USA~CentralOklahoma.secret.md)
+

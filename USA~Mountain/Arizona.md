@@ -41,10 +41,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA/Arizona|Arizona]] 
-- [[../../../../../_public/geo/Continent/America~North/USA/Arizona.public|Arizona.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA/Arizona.internal|Arizona.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA/Arizona.protect|Arizona.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA/Arizona.private|Arizona.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA/Arizona.personal|Arizona.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA/Arizona.secret|Arizona.secret]] 
+
+### [Arizona.public](/_public/\Earth\Continent\America~North\USA\USA~MountainArizona.public.md) 
+
+### [Arizona.internal](/_internal/\Earth\Continent\America~North\USA\USA~MountainArizona.internal.md) 
+
+### [Arizona.protect](/_protect/\Earth\Continent\America~North\USA\USA~MountainArizona.protect.md) 
+
+### [Arizona.private](/_private/\Earth\Continent\America~North\USA\USA~MountainArizona.private.md) 
+
+### [Arizona.personal](/_personal/\Earth\Continent\America~North\USA\USA~MountainArizona.personal.md) 
+
+### [Arizona.secret](/_secret/\Earth\Continent\America~North\USA\USA~MountainArizona.secret.md)
+

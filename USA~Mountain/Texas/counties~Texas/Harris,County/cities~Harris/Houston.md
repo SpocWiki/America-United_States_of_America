@@ -1,4 +1,4 @@
-﻿---
+---
 location: [29.77,-95.37] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Texas/City/Houston|Houston]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Texas/City/Houston.public|Houston.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Texas/City/Houston.internal|Houston.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Texas/City/Houston.protect|Houston.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Texas/City/Houston.private|Houston.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Texas/City/Houston.personal|Houston.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Texas/City/Houston.secret|Houston.secret]] 
+
+### [Houston.public](/_public/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Harris,County\cities~HarrisHouston.public.md) 
+
+### [Houston.internal](/_internal/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Harris,County\cities~HarrisHouston.internal.md) 
+
+### [Houston.protect](/_protect/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Harris,County\cities~HarrisHouston.protect.md) 
+
+### [Houston.private](/_private/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Harris,County\cities~HarrisHouston.private.md) 
+
+### [Houston.personal](/_personal/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Harris,County\cities~HarrisHouston.personal.md) 
+
+### [Houston.secret](/_secret/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Harris,County\cities~HarrisHouston.secret.md)
+

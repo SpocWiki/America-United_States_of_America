@@ -40,10 +40,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA/Minnesota|Minnesota]] 
-- [[../../../../../_public/geo/Continent/America~North/USA/Minnesota.public|Minnesota.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA/Minnesota.internal|Minnesota.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA/Minnesota.protect|Minnesota.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA/Minnesota.private|Minnesota.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA/Minnesota.personal|Minnesota.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA/Minnesota.secret|Minnesota.secret]] 
+
+### [Minnesota.public](/_public/\Earth\Continent\America~North\USA\USA~CentralMinnesota.public.md) 
+
+### [Minnesota.internal](/_internal/\Earth\Continent\America~North\USA\USA~CentralMinnesota.internal.md) 
+
+### [Minnesota.protect](/_protect/\Earth\Continent\America~North\USA\USA~CentralMinnesota.protect.md) 
+
+### [Minnesota.private](/_private/\Earth\Continent\America~North\USA\USA~CentralMinnesota.private.md) 
+
+### [Minnesota.personal](/_personal/\Earth\Continent\America~North\USA\USA~CentralMinnesota.personal.md) 
+
+### [Minnesota.secret](/_secret/\Earth\Continent\America~North\USA\USA~CentralMinnesota.secret.md)
+

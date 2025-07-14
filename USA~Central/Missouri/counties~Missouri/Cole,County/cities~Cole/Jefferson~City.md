@@ -1,4 +1,4 @@
-﻿---
+---
 location: [38.57667,-92.17361] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Missouri/City/Jefferson~City|Jefferson~City]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Missouri/City/Jefferson~City.public|Jefferson~City.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Missouri/City/Jefferson~City.internal|Jefferson~City.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Missouri/City/Jefferson~City.protect|Jefferson~City.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Missouri/City/Jefferson~City.private|Jefferson~City.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Missouri/City/Jefferson~City.personal|Jefferson~City.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Missouri/City/Jefferson~City.secret|Jefferson~City.secret]] 
+
+### [Jefferson~City.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Missouri\counties~Missouri\Cole,County\cities~ColeJefferson~City.public.md) 
+
+### [Jefferson~City.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Missouri\counties~Missouri\Cole,County\cities~ColeJefferson~City.internal.md) 
+
+### [Jefferson~City.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Missouri\counties~Missouri\Cole,County\cities~ColeJefferson~City.protect.md) 
+
+### [Jefferson~City.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Missouri\counties~Missouri\Cole,County\cities~ColeJefferson~City.private.md) 
+
+### [Jefferson~City.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Missouri\counties~Missouri\Cole,County\cities~ColeJefferson~City.personal.md) 
+
+### [Jefferson~City.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Missouri\counties~Missouri\Cole,County\cities~ColeJefferson~City.secret.md)
+

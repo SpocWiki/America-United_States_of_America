@@ -394,11 +394,18 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/New%20York%20City) 
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/New_York/City/New_York,City|New_York,City]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/New_York/City/New_York,City.public|New_York,City.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/New_York/City/New_York,City.internal|New_York,City.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/New_York/City/New_York,City.protect|New_York,City.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/New_York/City/New_York,City.private|New_York,City.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/New_York/City/New_York,City.personal|New_York,City.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/New_York/City/New_York,City.secret|New_York,City.secret]] 
+
+### [New_York,City.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_YorkNew_York,City.public.md) 
+
+### [New_York,City.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_YorkNew_York,City.internal.md) 
+
+### [New_York,City.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_YorkNew_York,City.protect.md) 
+
+### [New_York,City.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_YorkNew_York,City.private.md) 
+
+### [New_York,City.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_YorkNew_York,City.personal.md) 
+
+### [New_York,City.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_YorkNew_York,City.secret.md)
+

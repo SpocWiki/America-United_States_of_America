@@ -1,4 +1,4 @@
-﻿---
+---
 location: [38.9,-90.17] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Illinois/City/Alton|Alton]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Illinois/City/Alton.public|Alton.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Illinois/City/Alton.internal|Alton.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Illinois/City/Alton.protect|Alton.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Illinois/City/Alton.private|Alton.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Illinois/City/Alton.personal|Alton.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Illinois/City/Alton.secret|Alton.secret]] 
+
+### [Alton.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Madison,County\cities~MadisonAlton.public.md) 
+
+### [Alton.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Madison,County\cities~MadisonAlton.internal.md) 
+
+### [Alton.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Madison,County\cities~MadisonAlton.protect.md) 
+
+### [Alton.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Madison,County\cities~MadisonAlton.private.md) 
+
+### [Alton.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Madison,County\cities~MadisonAlton.personal.md) 
+
+### [Alton.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Madison,County\cities~MadisonAlton.secret.md)
+

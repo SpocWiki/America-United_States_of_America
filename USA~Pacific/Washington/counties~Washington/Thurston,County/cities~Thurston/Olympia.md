@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.0425,-122.8931] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Washington/City/Olympia|Olympia]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Washington/City/Olympia.public|Olympia.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Washington/City/Olympia.internal|Olympia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Washington/City/Olympia.protect|Olympia.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Washington/City/Olympia.private|Olympia.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Washington/City/Olympia.personal|Olympia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Washington/City/Olympia.secret|Olympia.secret]] 
+
+### [Olympia.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\Washington\counties~Washington\Thurston,County\cities~ThurstonOlympia.public.md) 
+
+### [Olympia.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\Washington\counties~Washington\Thurston,County\cities~ThurstonOlympia.internal.md) 
+
+### [Olympia.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\Washington\counties~Washington\Thurston,County\cities~ThurstonOlympia.protect.md) 
+
+### [Olympia.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\Washington\counties~Washington\Thurston,County\cities~ThurstonOlympia.private.md) 
+
+### [Olympia.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\Washington\counties~Washington\Thurston,County\cities~ThurstonOlympia.personal.md) 
+
+### [Olympia.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\Washington\counties~Washington\Thurston,County\cities~ThurstonOlympia.secret.md)
+

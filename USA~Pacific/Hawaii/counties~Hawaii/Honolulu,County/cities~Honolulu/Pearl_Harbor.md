@@ -1,4 +1,4 @@
-﻿---
+---
 location: [21.37,-158] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Hawaii/City/Pearl_Harbor|Pearl_Harbor]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Hawaii/City/Pearl_Harbor.public|Pearl_Harbor.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Hawaii/City/Pearl_Harbor.internal|Pearl_Harbor.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Hawaii/City/Pearl_Harbor.protect|Pearl_Harbor.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Hawaii/City/Pearl_Harbor.private|Pearl_Harbor.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Hawaii/City/Pearl_Harbor.personal|Pearl_Harbor.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Hawaii/City/Pearl_Harbor.secret|Pearl_Harbor.secret]] 
+
+### [Pearl_Harbor.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\Hawaii\counties~Hawaii\Honolulu,County\cities~HonoluluPearl_Harbor.public.md) 
+
+### [Pearl_Harbor.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\Hawaii\counties~Hawaii\Honolulu,County\cities~HonoluluPearl_Harbor.internal.md) 
+
+### [Pearl_Harbor.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\Hawaii\counties~Hawaii\Honolulu,County\cities~HonoluluPearl_Harbor.protect.md) 
+
+### [Pearl_Harbor.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\Hawaii\counties~Hawaii\Honolulu,County\cities~HonoluluPearl_Harbor.private.md) 
+
+### [Pearl_Harbor.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\Hawaii\counties~Hawaii\Honolulu,County\cities~HonoluluPearl_Harbor.personal.md) 
+
+### [Pearl_Harbor.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\Hawaii\counties~Hawaii\Honolulu,County\cities~HonoluluPearl_Harbor.secret.md)
+

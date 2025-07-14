@@ -40,11 +40,16 @@ markerFolder: ./_Lakes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/USA~Central/Nebraska/_Lakes|_Lakes]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/USA~Central/Nebraska/_Lakes.public|_Lakes.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/USA~Central/Nebraska/_Lakes.internal|_Lakes.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/USA~Central/Nebraska/_Lakes.protect|_Lakes.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/USA~Central/Nebraska/_Lakes.private|_Lakes.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/USA~Central/Nebraska/_Lakes.personal|_Lakes.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/USA~Central/Nebraska/_Lakes.secret|_Lakes.secret]] 
+
+### [_Lakes~Nebraska.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Nebraska_Lakes~Nebraska.public.md) 
+
+### [_Lakes~Nebraska.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Nebraska_Lakes~Nebraska.internal.md) 
+
+### [_Lakes~Nebraska.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Nebraska_Lakes~Nebraska.protect.md) 
+
+### [_Lakes~Nebraska.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Nebraska_Lakes~Nebraska.private.md) 
+
+### [_Lakes~Nebraska.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Nebraska_Lakes~Nebraska.personal.md) 
+
+### [_Lakes~Nebraska.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Nebraska_Lakes~Nebraska.secret.md)
 

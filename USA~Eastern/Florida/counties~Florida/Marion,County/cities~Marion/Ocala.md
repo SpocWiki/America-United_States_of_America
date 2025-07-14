@@ -1,4 +1,4 @@
-﻿---
+---
 location: [29.18,-82.15] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Florida/City/Ocala|Ocala]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Florida/City/Ocala.public|Ocala.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Florida/City/Ocala.internal|Ocala.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Florida/City/Ocala.protect|Ocala.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Florida/City/Ocala.private|Ocala.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Florida/City/Ocala.personal|Ocala.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Florida/City/Ocala.secret|Ocala.secret]] 
+
+### [Ocala.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\Florida\counties~Florida\Marion,County\cities~MarionOcala.public.md) 
+
+### [Ocala.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\Florida\counties~Florida\Marion,County\cities~MarionOcala.internal.md) 
+
+### [Ocala.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\Florida\counties~Florida\Marion,County\cities~MarionOcala.protect.md) 
+
+### [Ocala.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\Florida\counties~Florida\Marion,County\cities~MarionOcala.private.md) 
+
+### [Ocala.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\Florida\counties~Florida\Marion,County\cities~MarionOcala.personal.md) 
+
+### [Ocala.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\Florida\counties~Florida\Marion,County\cities~MarionOcala.secret.md)
+

@@ -41,10 +41,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA/Montana|Montana]] 
-- [[../../../../../_public/geo/Continent/America~North/USA/Montana.public|Montana.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA/Montana.internal|Montana.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA/Montana.protect|Montana.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA/Montana.private|Montana.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA/Montana.personal|Montana.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA/Montana.secret|Montana.secret]] 
+
+### [Montana.public](/_public/\Earth\Continent\America~North\USA\USA~MountainMontana.public.md) 
+
+### [Montana.internal](/_internal/\Earth\Continent\America~North\USA\USA~MountainMontana.internal.md) 
+
+### [Montana.protect](/_protect/\Earth\Continent\America~North\USA\USA~MountainMontana.protect.md) 
+
+### [Montana.private](/_private/\Earth\Continent\America~North\USA\USA~MountainMontana.private.md) 
+
+### [Montana.personal](/_personal/\Earth\Continent\America~North\USA\USA~MountainMontana.personal.md) 
+
+### [Montana.secret](/_secret/\Earth\Continent\America~North\USA\USA~MountainMontana.secret.md)
+

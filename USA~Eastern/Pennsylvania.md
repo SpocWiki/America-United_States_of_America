@@ -43,10 +43,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA/Pennsylvania|Pennsylvania]] 
-- [[../../../../../_public/geo/Continent/America~North/USA/Pennsylvania.public|Pennsylvania.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA/Pennsylvania.internal|Pennsylvania.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA/Pennsylvania.protect|Pennsylvania.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA/Pennsylvania.private|Pennsylvania.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA/Pennsylvania.personal|Pennsylvania.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA/Pennsylvania.secret|Pennsylvania.secret]] 
+
+### [Pennsylvania.public](/_public/\Earth\Continent\America~North\USA\USA~EasternPennsylvania.public.md) 
+
+### [Pennsylvania.internal](/_internal/\Earth\Continent\America~North\USA\USA~EasternPennsylvania.internal.md) 
+
+### [Pennsylvania.protect](/_protect/\Earth\Continent\America~North\USA\USA~EasternPennsylvania.protect.md) 
+
+### [Pennsylvania.private](/_private/\Earth\Continent\America~North\USA\USA~EasternPennsylvania.private.md) 
+
+### [Pennsylvania.personal](/_personal/\Earth\Continent\America~North\USA\USA~EasternPennsylvania.personal.md) 
+
+### [Pennsylvania.secret](/_secret/\Earth\Continent\America~North\USA\USA~EasternPennsylvania.secret.md)
+

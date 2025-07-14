@@ -1,4 +1,4 @@
-﻿---
+---
 location: [33.5,-112.05] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Arizona/City/Phoenix|Phoenix]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Arizona/City/Phoenix.public|Phoenix.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Arizona/City/Phoenix.internal|Phoenix.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Arizona/City/Phoenix.protect|Phoenix.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Arizona/City/Phoenix.private|Phoenix.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Arizona/City/Phoenix.personal|Phoenix.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Arizona/City/Phoenix.secret|Phoenix.secret]] 
+
+### [Phoenix.public](/_public/\Earth\Continent\America~North\USA\USA~Mountain\Arizona\counties~Arizona\Maricopa,County\cities~MaricopaPhoenix.public.md) 
+
+### [Phoenix.internal](/_internal/\Earth\Continent\America~North\USA\USA~Mountain\Arizona\counties~Arizona\Maricopa,County\cities~MaricopaPhoenix.internal.md) 
+
+### [Phoenix.protect](/_protect/\Earth\Continent\America~North\USA\USA~Mountain\Arizona\counties~Arizona\Maricopa,County\cities~MaricopaPhoenix.protect.md) 
+
+### [Phoenix.private](/_private/\Earth\Continent\America~North\USA\USA~Mountain\Arizona\counties~Arizona\Maricopa,County\cities~MaricopaPhoenix.private.md) 
+
+### [Phoenix.personal](/_personal/\Earth\Continent\America~North\USA\USA~Mountain\Arizona\counties~Arizona\Maricopa,County\cities~MaricopaPhoenix.personal.md) 
+
+### [Phoenix.secret](/_secret/\Earth\Continent\America~North\USA\USA~Mountain\Arizona\counties~Arizona\Maricopa,County\cities~MaricopaPhoenix.secret.md)
+

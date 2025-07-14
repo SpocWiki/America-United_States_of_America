@@ -42,10 +42,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA/Wyoming|Wyoming]] 
-- [[../../../../../_public/geo/Continent/America~North/USA/Wyoming.public|Wyoming.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA/Wyoming.internal|Wyoming.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA/Wyoming.protect|Wyoming.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA/Wyoming.private|Wyoming.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA/Wyoming.personal|Wyoming.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA/Wyoming.secret|Wyoming.secret]] 
+
+### [Wyoming.public](/_public/\Earth\Continent\America~North\USA\USA~MountainWyoming.public.md) 
+
+### [Wyoming.internal](/_internal/\Earth\Continent\America~North\USA\USA~MountainWyoming.internal.md) 
+
+### [Wyoming.protect](/_protect/\Earth\Continent\America~North\USA\USA~MountainWyoming.protect.md) 
+
+### [Wyoming.private](/_private/\Earth\Continent\America~North\USA\USA~MountainWyoming.private.md) 
+
+### [Wyoming.personal](/_personal/\Earth\Continent\America~North\USA\USA~MountainWyoming.personal.md) 
+
+### [Wyoming.secret](/_secret/\Earth\Continent\America~North\USA\USA~MountainWyoming.secret.md)
+

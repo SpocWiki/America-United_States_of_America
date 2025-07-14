@@ -1,4 +1,4 @@
-﻿---
+---
 location: [32.36167,-86.27917] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Alabama/City/Montgomery|Montgomery]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Alabama/City/Montgomery.public|Montgomery.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Alabama/City/Montgomery.internal|Montgomery.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Alabama/City/Montgomery.protect|Montgomery.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Alabama/City/Montgomery.private|Montgomery.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Alabama/City/Montgomery.personal|Montgomery.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Alabama/City/Montgomery.secret|Montgomery.secret]] 
+
+### [Montgomery.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Alabama\counties~Alabama\Montgomery,County\cities~MontgomeryMontgomery.public.md) 
+
+### [Montgomery.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Alabama\counties~Alabama\Montgomery,County\cities~MontgomeryMontgomery.internal.md) 
+
+### [Montgomery.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Alabama\counties~Alabama\Montgomery,County\cities~MontgomeryMontgomery.protect.md) 
+
+### [Montgomery.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Alabama\counties~Alabama\Montgomery,County\cities~MontgomeryMontgomery.private.md) 
+
+### [Montgomery.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Alabama\counties~Alabama\Montgomery,County\cities~MontgomeryMontgomery.personal.md) 
+
+### [Montgomery.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Alabama\counties~Alabama\Montgomery,County\cities~MontgomeryMontgomery.secret.md)
+

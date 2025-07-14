@@ -1,4 +1,4 @@
-﻿---
+---
 location: [30.45809,-91.14023] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Louisiana/City/Baton_Rouge|Baton_Rouge]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Louisiana/City/Baton_Rouge.public|Baton_Rouge.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Louisiana/City/Baton_Rouge.internal|Baton_Rouge.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Louisiana/City/Baton_Rouge.protect|Baton_Rouge.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Louisiana/City/Baton_Rouge.private|Baton_Rouge.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Louisiana/City/Baton_Rouge.personal|Baton_Rouge.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Louisiana/City/Baton_Rouge.secret|Baton_Rouge.secret]] 
+
+### [Baton_Rouge.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Louisiana\counties~Louisiana\Baton_Rouge~East,County\cities~East_Baton_RougeBaton_Rouge.public.md) 
+
+### [Baton_Rouge.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Louisiana\counties~Louisiana\Baton_Rouge~East,County\cities~East_Baton_RougeBaton_Rouge.internal.md) 
+
+### [Baton_Rouge.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Louisiana\counties~Louisiana\Baton_Rouge~East,County\cities~East_Baton_RougeBaton_Rouge.protect.md) 
+
+### [Baton_Rouge.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Louisiana\counties~Louisiana\Baton_Rouge~East,County\cities~East_Baton_RougeBaton_Rouge.private.md) 
+
+### [Baton_Rouge.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Louisiana\counties~Louisiana\Baton_Rouge~East,County\cities~East_Baton_RougeBaton_Rouge.personal.md) 
+
+### [Baton_Rouge.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Louisiana\counties~Louisiana\Baton_Rouge~East,County\cities~East_Baton_RougeBaton_Rouge.secret.md)
+

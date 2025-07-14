@@ -44,11 +44,16 @@ markerFolder: ./Navassa-Island/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/USA~Islands/Counties/Navassa-Island|Navassa-Island]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/USA~Islands/Counties/Navassa-Island.public|Navassa-Island.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/USA~Islands/Counties/Navassa-Island.internal|Navassa-Island.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/USA~Islands/Counties/Navassa-Island.protect|Navassa-Island.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/USA~Islands/Counties/Navassa-Island.private|Navassa-Island.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/USA~Islands/Counties/Navassa-Island.personal|Navassa-Island.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/USA~Islands/Counties/Navassa-Island.secret|Navassa-Island.secret]] 
+
+### [Navassa-Island.public](/_public/\Earth\Continent\America~North\USA\USA~Islands\CountiesNavassa-Island.public.md) 
+
+### [Navassa-Island.internal](/_internal/\Earth\Continent\America~North\USA\USA~Islands\CountiesNavassa-Island.internal.md) 
+
+### [Navassa-Island.protect](/_protect/\Earth\Continent\America~North\USA\USA~Islands\CountiesNavassa-Island.protect.md) 
+
+### [Navassa-Island.private](/_private/\Earth\Continent\America~North\USA\USA~Islands\CountiesNavassa-Island.private.md) 
+
+### [Navassa-Island.personal](/_personal/\Earth\Continent\America~North\USA\USA~Islands\CountiesNavassa-Island.personal.md) 
+
+### [Navassa-Island.secret](/_secret/\Earth\Continent\America~North\USA\USA~Islands\CountiesNavassa-Island.secret.md)
 

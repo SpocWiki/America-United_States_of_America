@@ -43,11 +43,16 @@ markerFolder: ./Baker-Island/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/USA~Islands/Counties/Baker_Island|Baker_Island]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/USA~Islands/Counties/Baker_Island.public|Baker_Island.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/USA~Islands/Counties/Baker_Island.internal|Baker_Island.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/USA~Islands/Counties/Baker_Island.protect|Baker_Island.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/USA~Islands/Counties/Baker_Island.private|Baker_Island.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/USA~Islands/Counties/Baker_Island.personal|Baker_Island.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/USA~Islands/Counties/Baker_Island.secret|Baker_Island.secret]] 
+
+### [Baker-Island.public](/_public/\Earth\Continent\America~North\USA\USA~Islands\CountiesBaker-Island.public.md) 
+
+### [Baker-Island.internal](/_internal/\Earth\Continent\America~North\USA\USA~Islands\CountiesBaker-Island.internal.md) 
+
+### [Baker-Island.protect](/_protect/\Earth\Continent\America~North\USA\USA~Islands\CountiesBaker-Island.protect.md) 
+
+### [Baker-Island.private](/_private/\Earth\Continent\America~North\USA\USA~Islands\CountiesBaker-Island.private.md) 
+
+### [Baker-Island.personal](/_personal/\Earth\Continent\America~North\USA\USA~Islands\CountiesBaker-Island.personal.md) 
+
+### [Baker-Island.secret](/_secret/\Earth\Continent\America~North\USA\USA~Islands\CountiesBaker-Island.secret.md)
 

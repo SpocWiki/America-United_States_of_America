@@ -1,4 +1,4 @@
-﻿---
+---
 location: [32.78,-96.82] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Texas/City/Dallas|Dallas]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Texas/City/Dallas.public|Dallas.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Texas/City/Dallas.internal|Dallas.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Texas/City/Dallas.protect|Dallas.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Texas/City/Dallas.private|Dallas.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Texas/City/Dallas.personal|Dallas.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Texas/City/Dallas.secret|Dallas.secret]] 
+
+### [Dallas.public](/_public/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Dallas,County\cities~DallasDallas.public.md) 
+
+### [Dallas.internal](/_internal/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Dallas,County\cities~DallasDallas.internal.md) 
+
+### [Dallas.protect](/_protect/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Dallas,County\cities~DallasDallas.protect.md) 
+
+### [Dallas.private](/_private/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Dallas,County\cities~DallasDallas.private.md) 
+
+### [Dallas.personal](/_personal/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Dallas,County\cities~DallasDallas.personal.md) 
+
+### [Dallas.secret](/_secret/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Dallas,County\cities~DallasDallas.secret.md)
+

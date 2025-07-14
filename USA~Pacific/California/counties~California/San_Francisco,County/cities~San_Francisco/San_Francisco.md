@@ -1,4 +1,4 @@
-﻿---
+---
 location: [37.79,-122.43] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/California/City/San_Francisco|San_Francisco]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/California/City/San_Francisco.public|San_Francisco.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/California/City/San_Francisco.internal|San_Francisco.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/California/City/San_Francisco.protect|San_Francisco.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/California/City/San_Francisco.private|San_Francisco.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/California/City/San_Francisco.personal|San_Francisco.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/California/City/San_Francisco.secret|San_Francisco.secret]] 
+
+### [San_Francisco.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\San_Francisco,County\cities~San_FranciscoSan_Francisco.public.md) 
+
+### [San_Francisco.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\San_Francisco,County\cities~San_FranciscoSan_Francisco.internal.md) 
+
+### [San_Francisco.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\San_Francisco,County\cities~San_FranciscoSan_Francisco.protect.md) 
+
+### [San_Francisco.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\San_Francisco,County\cities~San_FranciscoSan_Francisco.private.md) 
+
+### [San_Francisco.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\San_Francisco,County\cities~San_FranciscoSan_Francisco.personal.md) 
+
+### [San_Francisco.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\San_Francisco,County\cities~San_FranciscoSan_Francisco.secret.md)
+

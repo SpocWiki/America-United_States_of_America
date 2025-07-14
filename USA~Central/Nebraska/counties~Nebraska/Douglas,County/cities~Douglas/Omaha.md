@@ -1,4 +1,4 @@
-﻿---
+---
 location: [41.27,-95.95] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Nebraska/City/Omaha|Omaha]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Nebraska/City/Omaha.public|Omaha.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Nebraska/City/Omaha.internal|Omaha.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Nebraska/City/Omaha.protect|Omaha.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Nebraska/City/Omaha.private|Omaha.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Nebraska/City/Omaha.personal|Omaha.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Nebraska/City/Omaha.secret|Omaha.secret]] 
+
+### [Omaha.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Nebraska\counties~Nebraska\Douglas,County\cities~DouglasOmaha.public.md) 
+
+### [Omaha.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Nebraska\counties~Nebraska\Douglas,County\cities~DouglasOmaha.internal.md) 
+
+### [Omaha.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Nebraska\counties~Nebraska\Douglas,County\cities~DouglasOmaha.protect.md) 
+
+### [Omaha.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Nebraska\counties~Nebraska\Douglas,County\cities~DouglasOmaha.private.md) 
+
+### [Omaha.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Nebraska\counties~Nebraska\Douglas,County\cities~DouglasOmaha.personal.md) 
+
+### [Omaha.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Nebraska\counties~Nebraska\Douglas,County\cities~DouglasOmaha.secret.md)
+

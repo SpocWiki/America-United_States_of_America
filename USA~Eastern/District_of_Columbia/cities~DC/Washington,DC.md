@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 38.89
 - -77.01
@@ -231,10 +231,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/District_of_Columbia/City/Washington,DC|Washington,DC]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/District_of_Columbia/City/Washington,DC.public|Washington,DC.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/District_of_Columbia/City/Washington,DC.internal|Washington,DC.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/District_of_Columbia/City/Washington,DC.protect|Washington,DC.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/District_of_Columbia/City/Washington,DC.private|Washington,DC.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/District_of_Columbia/City/Washington,DC.personal|Washington,DC.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/District_of_Columbia/City/Washington,DC.secret|Washington,DC.secret]] 
+
+### [Washington,DC.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\District_of_Columbia\cities~DCWashington,DC.public.md) 
+
+### [Washington,DC.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\District_of_Columbia\cities~DCWashington,DC.internal.md) 
+
+### [Washington,DC.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\District_of_Columbia\cities~DCWashington,DC.protect.md) 
+
+### [Washington,DC.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\District_of_Columbia\cities~DCWashington,DC.private.md) 
+
+### [Washington,DC.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\District_of_Columbia\cities~DCWashington,DC.personal.md) 
+
+### [Washington,DC.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\District_of_Columbia\cities~DCWashington,DC.secret.md)
+

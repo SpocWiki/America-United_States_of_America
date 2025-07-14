@@ -1,4 +1,4 @@
-﻿---
+---
 location: [39.05583,-95.68945] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Kansas/City/Topeka|Topeka]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Kansas/City/Topeka.public|Topeka.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Kansas/City/Topeka.internal|Topeka.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Kansas/City/Topeka.protect|Topeka.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Kansas/City/Topeka.private|Topeka.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Kansas/City/Topeka.personal|Topeka.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Kansas/City/Topeka.secret|Topeka.secret]] 
+
+### [Topeka.public](/_public/\Earth\Continent\America~North\USA\USA~Mountain\Kansas\counties~Kansas\Shawnee,County\cities~ShawneeTopeka.public.md) 
+
+### [Topeka.internal](/_internal/\Earth\Continent\America~North\USA\USA~Mountain\Kansas\counties~Kansas\Shawnee,County\cities~ShawneeTopeka.internal.md) 
+
+### [Topeka.protect](/_protect/\Earth\Continent\America~North\USA\USA~Mountain\Kansas\counties~Kansas\Shawnee,County\cities~ShawneeTopeka.protect.md) 
+
+### [Topeka.private](/_private/\Earth\Continent\America~North\USA\USA~Mountain\Kansas\counties~Kansas\Shawnee,County\cities~ShawneeTopeka.private.md) 
+
+### [Topeka.personal](/_personal/\Earth\Continent\America~North\USA\USA~Mountain\Kansas\counties~Kansas\Shawnee,County\cities~ShawneeTopeka.personal.md) 
+
+### [Topeka.secret](/_secret/\Earth\Continent\America~North\USA\USA~Mountain\Kansas\counties~Kansas\Shawnee,County\cities~ShawneeTopeka.secret.md)
+

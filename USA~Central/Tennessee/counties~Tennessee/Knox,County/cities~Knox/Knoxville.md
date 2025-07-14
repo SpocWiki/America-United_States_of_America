@@ -1,4 +1,4 @@
-﻿---
+---
 location: [35.97,-83.93] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Tennessee/City/Knoxville|Knoxville]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Tennessee/City/Knoxville.public|Knoxville.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Tennessee/City/Knoxville.internal|Knoxville.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Tennessee/City/Knoxville.protect|Knoxville.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Tennessee/City/Knoxville.private|Knoxville.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Tennessee/City/Knoxville.personal|Knoxville.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Tennessee/City/Knoxville.secret|Knoxville.secret]] 
+
+### [Knoxville.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Tennessee\counties~Tennessee\Knox,County\cities~KnoxKnoxville.public.md) 
+
+### [Knoxville.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Tennessee\counties~Tennessee\Knox,County\cities~KnoxKnoxville.internal.md) 
+
+### [Knoxville.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Tennessee\counties~Tennessee\Knox,County\cities~KnoxKnoxville.protect.md) 
+
+### [Knoxville.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Tennessee\counties~Tennessee\Knox,County\cities~KnoxKnoxville.private.md) 
+
+### [Knoxville.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Tennessee\counties~Tennessee\Knox,County\cities~KnoxKnoxville.personal.md) 
+
+### [Knoxville.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Tennessee\counties~Tennessee\Knox,County\cities~KnoxKnoxville.secret.md)
+

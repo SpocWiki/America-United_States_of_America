@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.6,-112.02] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Montana/City/Helena|Helena]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Montana/City/Helena.public|Helena.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Montana/City/Helena.internal|Helena.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Montana/City/Helena.protect|Helena.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Montana/City/Helena.private|Helena.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Montana/City/Helena.personal|Helena.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Montana/City/Helena.secret|Helena.secret]] 
+
+### [Helena.public](/_public/\Earth\Continent\America~North\USA\USA~Mountain\Montana\counties~Montana\Lewis_and_Clark,County\cities~Lewis_and_ClarkHelena.public.md) 
+
+### [Helena.internal](/_internal/\Earth\Continent\America~North\USA\USA~Mountain\Montana\counties~Montana\Lewis_and_Clark,County\cities~Lewis_and_ClarkHelena.internal.md) 
+
+### [Helena.protect](/_protect/\Earth\Continent\America~North\USA\USA~Mountain\Montana\counties~Montana\Lewis_and_Clark,County\cities~Lewis_and_ClarkHelena.protect.md) 
+
+### [Helena.private](/_private/\Earth\Continent\America~North\USA\USA~Mountain\Montana\counties~Montana\Lewis_and_Clark,County\cities~Lewis_and_ClarkHelena.private.md) 
+
+### [Helena.personal](/_personal/\Earth\Continent\America~North\USA\USA~Mountain\Montana\counties~Montana\Lewis_and_Clark,County\cities~Lewis_and_ClarkHelena.personal.md) 
+
+### [Helena.secret](/_secret/\Earth\Continent\America~North\USA\USA~Mountain\Montana\counties~Montana\Lewis_and_Clark,County\cities~Lewis_and_ClarkHelena.secret.md)
+

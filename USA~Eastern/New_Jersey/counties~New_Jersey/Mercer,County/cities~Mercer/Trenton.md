@@ -1,4 +1,4 @@
-﻿---
+---
 location: [40.22167,-74.75611] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/New_Jersey/City/Trenton|Trenton]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/New_Jersey/City/Trenton.public|Trenton.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/New_Jersey/City/Trenton.internal|Trenton.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/New_Jersey/City/Trenton.protect|Trenton.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/New_Jersey/City/Trenton.private|Trenton.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/New_Jersey/City/Trenton.personal|Trenton.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/New_Jersey/City/Trenton.secret|Trenton.secret]] 
+
+### [Trenton.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Mercer,County\cities~MercerTrenton.public.md) 
+
+### [Trenton.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Mercer,County\cities~MercerTrenton.internal.md) 
+
+### [Trenton.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Mercer,County\cities~MercerTrenton.protect.md) 
+
+### [Trenton.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Mercer,County\cities~MercerTrenton.private.md) 
+
+### [Trenton.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Mercer,County\cities~MercerTrenton.personal.md) 
+
+### [Trenton.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Mercer,County\cities~MercerTrenton.secret.md)
+

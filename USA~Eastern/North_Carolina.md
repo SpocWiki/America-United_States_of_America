@@ -43,10 +43,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA/North_Carolina|North_Carolina]] 
-- [[../../../../../_public/geo/Continent/America~North/USA/North_Carolina.public|North_Carolina.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA/North_Carolina.internal|North_Carolina.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA/North_Carolina.protect|North_Carolina.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA/North_Carolina.private|North_Carolina.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA/North_Carolina.personal|North_Carolina.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA/North_Carolina.secret|North_Carolina.secret]] 
+
+### [North_Carolina.public](/_public/\Earth\Continent\America~North\USA\USA~EasternNorth_Carolina.public.md) 
+
+### [North_Carolina.internal](/_internal/\Earth\Continent\America~North\USA\USA~EasternNorth_Carolina.internal.md) 
+
+### [North_Carolina.protect](/_protect/\Earth\Continent\America~North\USA\USA~EasternNorth_Carolina.protect.md) 
+
+### [North_Carolina.private](/_private/\Earth\Continent\America~North\USA\USA~EasternNorth_Carolina.private.md) 
+
+### [North_Carolina.personal](/_personal/\Earth\Continent\America~North\USA\USA~EasternNorth_Carolina.personal.md) 
+
+### [North_Carolina.secret](/_secret/\Earth\Continent\America~North\USA\USA~EasternNorth_Carolina.secret.md)
+

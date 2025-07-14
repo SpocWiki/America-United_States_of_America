@@ -41,10 +41,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA/Nevada|Nevada]] 
-- [[../../../../../_public/geo/Continent/America~North/USA/Nevada.public|Nevada.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA/Nevada.internal|Nevada.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA/Nevada.protect|Nevada.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA/Nevada.private|Nevada.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA/Nevada.personal|Nevada.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA/Nevada.secret|Nevada.secret]] 
+
+### [Nevada.public](/_public/\Earth\Continent\America~North\USA\USA~PacificNevada.public.md) 
+
+### [Nevada.internal](/_internal/\Earth\Continent\America~North\USA\USA~PacificNevada.internal.md) 
+
+### [Nevada.protect](/_protect/\Earth\Continent\America~North\USA\USA~PacificNevada.protect.md) 
+
+### [Nevada.private](/_private/\Earth\Continent\America~North\USA\USA~PacificNevada.private.md) 
+
+### [Nevada.personal](/_personal/\Earth\Continent\America~North\USA\USA~PacificNevada.personal.md) 
+
+### [Nevada.secret](/_secret/\Earth\Continent\America~North\USA\USA~PacificNevada.secret.md)
+

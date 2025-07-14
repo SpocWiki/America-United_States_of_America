@@ -1,4 +1,4 @@
-﻿---
+---
 location: [38.72,-86.48] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Indiana/City/Mitchell|Mitchell]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Indiana/City/Mitchell.public|Mitchell.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Indiana/City/Mitchell.internal|Mitchell.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Indiana/City/Mitchell.protect|Mitchell.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Indiana/City/Mitchell.private|Mitchell.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Indiana/City/Mitchell.personal|Mitchell.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Indiana/City/Mitchell.secret|Mitchell.secret]] 
+
+### [Mitchell.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Indiana\counties~Indiana\Lawrence,County\cities~LawrenceMitchell.public.md) 
+
+### [Mitchell.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Indiana\counties~Indiana\Lawrence,County\cities~LawrenceMitchell.internal.md) 
+
+### [Mitchell.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Indiana\counties~Indiana\Lawrence,County\cities~LawrenceMitchell.protect.md) 
+
+### [Mitchell.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Indiana\counties~Indiana\Lawrence,County\cities~LawrenceMitchell.private.md) 
+
+### [Mitchell.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Indiana\counties~Indiana\Lawrence,County\cities~LawrenceMitchell.personal.md) 
+
+### [Mitchell.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Indiana\counties~Indiana\Lawrence,County\cities~LawrenceMitchell.secret.md)
+

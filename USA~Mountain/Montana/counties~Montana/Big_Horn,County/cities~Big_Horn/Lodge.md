@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45.32,-107.37] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Montana/City/Lodge|Lodge]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Montana/City/Lodge.public|Lodge.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Montana/City/Lodge.internal|Lodge.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Montana/City/Lodge.protect|Lodge.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Montana/City/Lodge.private|Lodge.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Montana/City/Lodge.personal|Lodge.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Montana/City/Lodge.secret|Lodge.secret]] 
+
+### [Lodge.public](/_public/\Earth\Continent\America~North\USA\USA~Mountain\Montana\counties~Montana\Big_Horn,County\cities~Big_HornLodge.public.md) 
+
+### [Lodge.internal](/_internal/\Earth\Continent\America~North\USA\USA~Mountain\Montana\counties~Montana\Big_Horn,County\cities~Big_HornLodge.internal.md) 
+
+### [Lodge.protect](/_protect/\Earth\Continent\America~North\USA\USA~Mountain\Montana\counties~Montana\Big_Horn,County\cities~Big_HornLodge.protect.md) 
+
+### [Lodge.private](/_private/\Earth\Continent\America~North\USA\USA~Mountain\Montana\counties~Montana\Big_Horn,County\cities~Big_HornLodge.private.md) 
+
+### [Lodge.personal](/_personal/\Earth\Continent\America~North\USA\USA~Mountain\Montana\counties~Montana\Big_Horn,County\cities~Big_HornLodge.personal.md) 
+
+### [Lodge.secret](/_secret/\Earth\Continent\America~North\USA\USA~Mountain\Montana\counties~Montana\Big_Horn,County\cities~Big_HornLodge.secret.md)
+

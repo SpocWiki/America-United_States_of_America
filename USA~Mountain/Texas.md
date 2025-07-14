@@ -42,10 +42,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA/Texas|Texas]] 
-- [[../../../../../_public/geo/Continent/America~North/USA/Texas.public|Texas.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA/Texas.internal|Texas.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA/Texas.protect|Texas.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA/Texas.private|Texas.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA/Texas.personal|Texas.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA/Texas.secret|Texas.secret]] 
+
+### [Texas.public](/_public/\Earth\Continent\America~North\USA\USA~MountainTexas.public.md) 
+
+### [Texas.internal](/_internal/\Earth\Continent\America~North\USA\USA~MountainTexas.internal.md) 
+
+### [Texas.protect](/_protect/\Earth\Continent\America~North\USA\USA~MountainTexas.protect.md) 
+
+### [Texas.private](/_private/\Earth\Continent\America~North\USA\USA~MountainTexas.private.md) 
+
+### [Texas.personal](/_personal/\Earth\Continent\America~North\USA\USA~MountainTexas.personal.md) 
+
+### [Texas.secret](/_secret/\Earth\Continent\America~North\USA\USA~MountainTexas.secret.md)
+

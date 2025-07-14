@@ -1,4 +1,4 @@
-﻿---
+---
 location: [40.15,-76.73] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Pennsylvania/City/Harrisburg|Harrisburg]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Pennsylvania/City/Harrisburg.public|Harrisburg.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Pennsylvania/City/Harrisburg.internal|Harrisburg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Pennsylvania/City/Harrisburg.protect|Harrisburg.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Pennsylvania/City/Harrisburg.private|Harrisburg.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Pennsylvania/City/Harrisburg.personal|Harrisburg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Pennsylvania/City/Harrisburg.secret|Harrisburg.secret]] 
+
+### [Harrisburg.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\Pennsylvania\counties~Pennsylvania\Dauphin,County\cities~DauphinHarrisburg.public.md) 
+
+### [Harrisburg.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\Pennsylvania\counties~Pennsylvania\Dauphin,County\cities~DauphinHarrisburg.internal.md) 
+
+### [Harrisburg.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\Pennsylvania\counties~Pennsylvania\Dauphin,County\cities~DauphinHarrisburg.protect.md) 
+
+### [Harrisburg.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\Pennsylvania\counties~Pennsylvania\Dauphin,County\cities~DauphinHarrisburg.private.md) 
+
+### [Harrisburg.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\Pennsylvania\counties~Pennsylvania\Dauphin,County\cities~DauphinHarrisburg.personal.md) 
+
+### [Harrisburg.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\Pennsylvania\counties~Pennsylvania\Dauphin,County\cities~DauphinHarrisburg.secret.md)
+

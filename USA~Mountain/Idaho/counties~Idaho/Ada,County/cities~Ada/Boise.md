@@ -1,4 +1,4 @@
-﻿---
+---
 location: [43.61374,-116.2376] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Idaho/City/Boise|Boise]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Idaho/City/Boise.public|Boise.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Idaho/City/Boise.internal|Boise.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Idaho/City/Boise.protect|Boise.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Idaho/City/Boise.private|Boise.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Idaho/City/Boise.personal|Boise.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Idaho/City/Boise.secret|Boise.secret]] 
+
+### [Boise.public](/_public/\Earth\Continent\America~North\USA\USA~Mountain\Idaho\counties~Idaho\Ada,County\cities~AdaBoise.public.md) 
+
+### [Boise.internal](/_internal/\Earth\Continent\America~North\USA\USA~Mountain\Idaho\counties~Idaho\Ada,County\cities~AdaBoise.internal.md) 
+
+### [Boise.protect](/_protect/\Earth\Continent\America~North\USA\USA~Mountain\Idaho\counties~Idaho\Ada,County\cities~AdaBoise.protect.md) 
+
+### [Boise.private](/_private/\Earth\Continent\America~North\USA\USA~Mountain\Idaho\counties~Idaho\Ada,County\cities~AdaBoise.private.md) 
+
+### [Boise.personal](/_personal/\Earth\Continent\America~North\USA\USA~Mountain\Idaho\counties~Idaho\Ada,County\cities~AdaBoise.personal.md) 
+
+### [Boise.secret](/_secret/\Earth\Continent\America~North\USA\USA~Mountain\Idaho\counties~Idaho\Ada,County\cities~AdaBoise.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [37.35,-121.95] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/California/City/Cupertino|Cupertino]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/California/City/Cupertino.public|Cupertino.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/California/City/Cupertino.internal|Cupertino.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/California/City/Cupertino.protect|Cupertino.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/California/City/Cupertino.private|Cupertino.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/California/City/Cupertino.personal|Cupertino.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/California/City/Cupertino.secret|Cupertino.secret]] 
+
+### [Cupertino.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Santa_Clara,County\cities~Santa_ClaraCupertino.public.md) 
+
+### [Cupertino.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Santa_Clara,County\cities~Santa_ClaraCupertino.internal.md) 
+
+### [Cupertino.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Santa_Clara,County\cities~Santa_ClaraCupertino.protect.md) 
+
+### [Cupertino.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Santa_Clara,County\cities~Santa_ClaraCupertino.private.md) 
+
+### [Cupertino.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Santa_Clara,County\cities~Santa_ClaraCupertino.personal.md) 
+
+### [Cupertino.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Santa_Clara,County\cities~Santa_ClaraCupertino.secret.md)
+

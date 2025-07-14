@@ -1,4 +1,4 @@
-﻿---
+---
 location: [40.42,-85.65] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Indiana/City/Fairmount|Fairmount]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Indiana/City/Fairmount.public|Fairmount.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Indiana/City/Fairmount.internal|Fairmount.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Indiana/City/Fairmount.protect|Fairmount.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Indiana/City/Fairmount.private|Fairmount.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Indiana/City/Fairmount.personal|Fairmount.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Indiana/City/Fairmount.secret|Fairmount.secret]] 
+
+### [Fairmount.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Indiana\counties~Indiana\Grant,County\cities~GrantFairmount.public.md) 
+
+### [Fairmount.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Indiana\counties~Indiana\Grant,County\cities~GrantFairmount.internal.md) 
+
+### [Fairmount.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Indiana\counties~Indiana\Grant,County\cities~GrantFairmount.protect.md) 
+
+### [Fairmount.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Indiana\counties~Indiana\Grant,County\cities~GrantFairmount.private.md) 
+
+### [Fairmount.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Indiana\counties~Indiana\Grant,County\cities~GrantFairmount.personal.md) 
+
+### [Fairmount.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Indiana\counties~Indiana\Grant,County\cities~GrantFairmount.secret.md)
+

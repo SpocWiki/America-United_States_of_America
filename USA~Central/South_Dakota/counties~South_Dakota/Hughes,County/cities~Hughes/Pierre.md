@@ -1,4 +1,4 @@
-﻿---
+---
 location: [44.36797,-100.3364] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/South_Dakota/City/Pierre|Pierre]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/South_Dakota/City/Pierre.public|Pierre.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/South_Dakota/City/Pierre.internal|Pierre.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/South_Dakota/City/Pierre.protect|Pierre.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/South_Dakota/City/Pierre.private|Pierre.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/South_Dakota/City/Pierre.personal|Pierre.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/South_Dakota/City/Pierre.secret|Pierre.secret]] 
+
+### [Pierre.public](/_public/\Earth\Continent\America~North\USA\USA~Central\South_Dakota\counties~South_Dakota\Hughes,County\cities~HughesPierre.public.md) 
+
+### [Pierre.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\South_Dakota\counties~South_Dakota\Hughes,County\cities~HughesPierre.internal.md) 
+
+### [Pierre.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\South_Dakota\counties~South_Dakota\Hughes,County\cities~HughesPierre.protect.md) 
+
+### [Pierre.private](/_private/\Earth\Continent\America~North\USA\USA~Central\South_Dakota\counties~South_Dakota\Hughes,County\cities~HughesPierre.private.md) 
+
+### [Pierre.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\South_Dakota\counties~South_Dakota\Hughes,County\cities~HughesPierre.personal.md) 
+
+### [Pierre.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\South_Dakota\counties~South_Dakota\Hughes,County\cities~HughesPierre.secret.md)
+

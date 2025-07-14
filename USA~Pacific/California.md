@@ -47,11 +47,18 @@ maxZoom: 18
 
 `$=JSON.stringify(dv.current())`
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA/California|California]] 
-- [[../../../../../_public/geo/Continent/America~North/USA/California.public|California.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA/California.internal|California.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA/California.protect|California.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA/California.private|California.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA/California.personal|California.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA/California.secret|California.secret]] 
+
+### [California.public](/_public/\Earth\Continent\America~North\USA\USA~PacificCalifornia.public.md) 
+
+### [California.internal](/_internal/\Earth\Continent\America~North\USA\USA~PacificCalifornia.internal.md) 
+
+### [California.protect](/_protect/\Earth\Continent\America~North\USA\USA~PacificCalifornia.protect.md) 
+
+### [California.private](/_private/\Earth\Continent\America~North\USA\USA~PacificCalifornia.private.md) 
+
+### [California.personal](/_personal/\Earth\Continent\America~North\USA\USA~PacificCalifornia.personal.md) 
+
+### [California.secret](/_secret/\Earth\Continent\America~North\USA\USA~PacificCalifornia.secret.md)
+

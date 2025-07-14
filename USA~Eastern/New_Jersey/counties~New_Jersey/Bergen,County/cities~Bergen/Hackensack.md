@@ -1,4 +1,4 @@
-﻿---
+---
 location: [40.9,-74.05] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/New_Jersey/City/Hackensack|Hackensack]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/New_Jersey/City/Hackensack.public|Hackensack.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/New_Jersey/City/Hackensack.internal|Hackensack.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/New_Jersey/City/Hackensack.protect|Hackensack.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/New_Jersey/City/Hackensack.private|Hackensack.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/New_Jersey/City/Hackensack.personal|Hackensack.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/New_Jersey/City/Hackensack.secret|Hackensack.secret]] 
+
+### [Hackensack.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Bergen,County\cities~BergenHackensack.public.md) 
+
+### [Hackensack.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Bergen,County\cities~BergenHackensack.internal.md) 
+
+### [Hackensack.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Bergen,County\cities~BergenHackensack.protect.md) 
+
+### [Hackensack.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Bergen,County\cities~BergenHackensack.private.md) 
+
+### [Hackensack.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Bergen,County\cities~BergenHackensack.personal.md) 
+
+### [Hackensack.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Bergen,County\cities~BergenHackensack.secret.md)
+

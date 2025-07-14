@@ -1,4 +1,4 @@
-﻿---
+---
 location: [35.5,-78.33] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/North_Carolina/City/Grabtown|Grabtown]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/North_Carolina/City/Grabtown.public|Grabtown.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/North_Carolina/City/Grabtown.internal|Grabtown.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/North_Carolina/City/Grabtown.protect|Grabtown.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/North_Carolina/City/Grabtown.private|Grabtown.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/North_Carolina/City/Grabtown.personal|Grabtown.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/North_Carolina/City/Grabtown.secret|Grabtown.secret]] 
+
+### [Grabtown.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\North_Carolina\counties~North_Carolina\Johnston,County\cities~JohnstonGrabtown.public.md) 
+
+### [Grabtown.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\North_Carolina\counties~North_Carolina\Johnston,County\cities~JohnstonGrabtown.internal.md) 
+
+### [Grabtown.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\North_Carolina\counties~North_Carolina\Johnston,County\cities~JohnstonGrabtown.protect.md) 
+
+### [Grabtown.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\North_Carolina\counties~North_Carolina\Johnston,County\cities~JohnstonGrabtown.private.md) 
+
+### [Grabtown.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\North_Carolina\counties~North_Carolina\Johnston,County\cities~JohnstonGrabtown.personal.md) 
+
+### [Grabtown.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\North_Carolina\counties~North_Carolina\Johnston,County\cities~JohnstonGrabtown.secret.md)
+

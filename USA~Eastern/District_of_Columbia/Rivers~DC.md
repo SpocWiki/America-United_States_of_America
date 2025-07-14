@@ -40,11 +40,16 @@ markerFolder: ./Rivers~DC/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/USA~Eastern/District_of_Columbia/Rivers~DC|Rivers~DC]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/USA~Eastern/District_of_Columbia/Rivers~DC.public|Rivers~DC.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/USA~Eastern/District_of_Columbia/Rivers~DC.internal|Rivers~DC.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/USA~Eastern/District_of_Columbia/Rivers~DC.protect|Rivers~DC.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/USA~Eastern/District_of_Columbia/Rivers~DC.private|Rivers~DC.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/USA~Eastern/District_of_Columbia/Rivers~DC.personal|Rivers~DC.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/USA~Eastern/District_of_Columbia/Rivers~DC.secret|Rivers~DC.secret]] 
+
+### [Rivers~DC.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\District_of_ColumbiaRivers~DC.public.md) 
+
+### [Rivers~DC.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\District_of_ColumbiaRivers~DC.internal.md) 
+
+### [Rivers~DC.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\District_of_ColumbiaRivers~DC.protect.md) 
+
+### [Rivers~DC.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\District_of_ColumbiaRivers~DC.private.md) 
+
+### [Rivers~DC.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\District_of_ColumbiaRivers~DC.personal.md) 
+
+### [Rivers~DC.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\District_of_ColumbiaRivers~DC.secret.md)
 

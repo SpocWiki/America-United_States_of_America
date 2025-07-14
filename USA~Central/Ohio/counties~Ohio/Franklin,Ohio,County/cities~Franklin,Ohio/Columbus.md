@@ -1,4 +1,4 @@
-﻿---
+---
 location: [39.98333,-82.98333] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Ohio/City/Columbus|Columbus]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Ohio/City/Columbus.public|Columbus.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Ohio/City/Columbus.internal|Columbus.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Ohio/City/Columbus.protect|Columbus.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Ohio/City/Columbus.private|Columbus.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Ohio/City/Columbus.personal|Columbus.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Ohio/City/Columbus.secret|Columbus.secret]] 
+
+### [Columbus.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Ohio\counties~Ohio\Franklin,Ohio,County\cities~Franklin,OhioColumbus.public.md) 
+
+### [Columbus.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Ohio\counties~Ohio\Franklin,Ohio,County\cities~Franklin,OhioColumbus.internal.md) 
+
+### [Columbus.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Ohio\counties~Ohio\Franklin,Ohio,County\cities~Franklin,OhioColumbus.protect.md) 
+
+### [Columbus.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Ohio\counties~Ohio\Franklin,Ohio,County\cities~Franklin,OhioColumbus.private.md) 
+
+### [Columbus.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Ohio\counties~Ohio\Franklin,Ohio,County\cities~Franklin,OhioColumbus.personal.md) 
+
+### [Columbus.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Ohio\counties~Ohio\Franklin,Ohio,County\cities~Franklin,OhioColumbus.secret.md)
+

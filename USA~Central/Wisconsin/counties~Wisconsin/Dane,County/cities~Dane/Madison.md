@@ -1,4 +1,4 @@
-﻿---
+---
 location: [43.06667,-89.4] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Wisconsin/City/Madison|Madison]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Wisconsin/City/Madison.public|Madison.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Wisconsin/City/Madison.internal|Madison.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Wisconsin/City/Madison.protect|Madison.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Wisconsin/City/Madison.private|Madison.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Wisconsin/City/Madison.personal|Madison.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Wisconsin/City/Madison.secret|Madison.secret]] 
+
+### [Madison.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Wisconsin\counties~Wisconsin\Dane,County\cities~DaneMadison.public.md) 
+
+### [Madison.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Wisconsin\counties~Wisconsin\Dane,County\cities~DaneMadison.internal.md) 
+
+### [Madison.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Wisconsin\counties~Wisconsin\Dane,County\cities~DaneMadison.protect.md) 
+
+### [Madison.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Wisconsin\counties~Wisconsin\Dane,County\cities~DaneMadison.private.md) 
+
+### [Madison.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Wisconsin\counties~Wisconsin\Dane,County\cities~DaneMadison.personal.md) 
+
+### [Madison.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Wisconsin\counties~Wisconsin\Dane,County\cities~DaneMadison.secret.md)
+

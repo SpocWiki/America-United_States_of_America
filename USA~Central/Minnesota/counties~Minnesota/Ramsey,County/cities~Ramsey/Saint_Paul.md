@@ -1,4 +1,4 @@
-﻿---
+---
 location: [44.9441,-93.0852] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Minnesota/City/Saint_Paul|Saint_Paul]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Minnesota/City/Saint_Paul.public|Saint_Paul.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Minnesota/City/Saint_Paul.internal|Saint_Paul.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Minnesota/City/Saint_Paul.protect|Saint_Paul.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Minnesota/City/Saint_Paul.private|Saint_Paul.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Minnesota/City/Saint_Paul.personal|Saint_Paul.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Minnesota/City/Saint_Paul.secret|Saint_Paul.secret]] 
+
+### [Saint_Paul.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Minnesota\counties~Minnesota\Ramsey,County\cities~RamseySaint_Paul.public.md) 
+
+### [Saint_Paul.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Minnesota\counties~Minnesota\Ramsey,County\cities~RamseySaint_Paul.internal.md) 
+
+### [Saint_Paul.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Minnesota\counties~Minnesota\Ramsey,County\cities~RamseySaint_Paul.protect.md) 
+
+### [Saint_Paul.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Minnesota\counties~Minnesota\Ramsey,County\cities~RamseySaint_Paul.private.md) 
+
+### [Saint_Paul.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Minnesota\counties~Minnesota\Ramsey,County\cities~RamseySaint_Paul.personal.md) 
+
+### [Saint_Paul.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Minnesota\counties~Minnesota\Ramsey,County\cities~RamseySaint_Paul.secret.md)
+

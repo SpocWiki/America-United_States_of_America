@@ -1,4 +1,4 @@
-﻿---
+---
 location: [44.32354,-69.76526] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Maine/City/Augusta|Augusta]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Maine/City/Augusta.public|Augusta.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Maine/City/Augusta.internal|Augusta.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Maine/City/Augusta.protect|Augusta.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Maine/City/Augusta.private|Augusta.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Maine/City/Augusta.personal|Augusta.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Maine/City/Augusta.secret|Augusta.secret]] 
+
+### [Augusta.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\Maine\counties~Maine\Kennebec,County\cities~KennebecAugusta.public.md) 
+
+### [Augusta.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\Maine\counties~Maine\Kennebec,County\cities~KennebecAugusta.internal.md) 
+
+### [Augusta.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\Maine\counties~Maine\Kennebec,County\cities~KennebecAugusta.protect.md) 
+
+### [Augusta.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\Maine\counties~Maine\Kennebec,County\cities~KennebecAugusta.private.md) 
+
+### [Augusta.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\Maine\counties~Maine\Kennebec,County\cities~KennebecAugusta.personal.md) 
+
+### [Augusta.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\Maine\counties~Maine\Kennebec,County\cities~KennebecAugusta.secret.md)
+

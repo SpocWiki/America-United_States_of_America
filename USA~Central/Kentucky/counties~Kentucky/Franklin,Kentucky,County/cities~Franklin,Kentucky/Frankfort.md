@@ -1,4 +1,4 @@
-﻿---
+---
 location: [38.19727,-84.86311] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Kentucky/City/Frankfort|Frankfort]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Kentucky/City/Frankfort.public|Frankfort.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Kentucky/City/Frankfort.internal|Frankfort.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Kentucky/City/Frankfort.protect|Frankfort.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Kentucky/City/Frankfort.private|Frankfort.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Kentucky/City/Frankfort.personal|Frankfort.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Kentucky/City/Frankfort.secret|Frankfort.secret]] 
+
+### [Frankfort.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Kentucky\counties~Kentucky\Franklin,Kentucky,County\cities~Franklin,KentuckyFrankfort.public.md) 
+
+### [Frankfort.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Kentucky\counties~Kentucky\Franklin,Kentucky,County\cities~Franklin,KentuckyFrankfort.internal.md) 
+
+### [Frankfort.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Kentucky\counties~Kentucky\Franklin,Kentucky,County\cities~Franklin,KentuckyFrankfort.protect.md) 
+
+### [Frankfort.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Kentucky\counties~Kentucky\Franklin,Kentucky,County\cities~Franklin,KentuckyFrankfort.private.md) 
+
+### [Frankfort.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Kentucky\counties~Kentucky\Franklin,Kentucky,County\cities~Franklin,KentuckyFrankfort.personal.md) 
+
+### [Frankfort.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Kentucky\counties~Kentucky\Franklin,Kentucky,County\cities~Franklin,KentuckyFrankfort.secret.md)
+

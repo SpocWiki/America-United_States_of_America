@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.81334,-100.779] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/North_Dakota/City/Bismarck|Bismarck]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/North_Dakota/City/Bismarck.public|Bismarck.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/North_Dakota/City/Bismarck.internal|Bismarck.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/North_Dakota/City/Bismarck.protect|Bismarck.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/North_Dakota/City/Bismarck.private|Bismarck.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/North_Dakota/City/Bismarck.personal|Bismarck.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/North_Dakota/City/Bismarck.secret|Bismarck.secret]] 
+
+### [Bismarck.public](/_public/\Earth\Continent\America~North\USA\USA~Central\North_Dakota\counties~North_Dakota\Burleigh,County\cities~BurleighBismarck.public.md) 
+
+### [Bismarck.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\North_Dakota\counties~North_Dakota\Burleigh,County\cities~BurleighBismarck.internal.md) 
+
+### [Bismarck.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\North_Dakota\counties~North_Dakota\Burleigh,County\cities~BurleighBismarck.protect.md) 
+
+### [Bismarck.private](/_private/\Earth\Continent\America~North\USA\USA~Central\North_Dakota\counties~North_Dakota\Burleigh,County\cities~BurleighBismarck.private.md) 
+
+### [Bismarck.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\North_Dakota\counties~North_Dakota\Burleigh,County\cities~BurleighBismarck.personal.md) 
+
+### [Bismarck.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\North_Dakota\counties~North_Dakota\Burleigh,County\cities~BurleighBismarck.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [42.97,-85.67] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Michigan/City/Grand_Rapids|Grand_Rapids]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Michigan/City/Grand_Rapids.public|Grand_Rapids.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Michigan/City/Grand_Rapids.internal|Grand_Rapids.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Michigan/City/Grand_Rapids.protect|Grand_Rapids.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Michigan/City/Grand_Rapids.private|Grand_Rapids.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Michigan/City/Grand_Rapids.personal|Grand_Rapids.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Michigan/City/Grand_Rapids.secret|Grand_Rapids.secret]] 
+
+### [Grand_Rapids.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Michigan\counties~Michigan\Kent,County\cities~KentGrand_Rapids.public.md) 
+
+### [Grand_Rapids.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Michigan\counties~Michigan\Kent,County\cities~KentGrand_Rapids.internal.md) 
+
+### [Grand_Rapids.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Michigan\counties~Michigan\Kent,County\cities~KentGrand_Rapids.protect.md) 
+
+### [Grand_Rapids.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Michigan\counties~Michigan\Kent,County\cities~KentGrand_Rapids.private.md) 
+
+### [Grand_Rapids.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Michigan\counties~Michigan\Kent,County\cities~KentGrand_Rapids.personal.md) 
+
+### [Grand_Rapids.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Michigan\counties~Michigan\Kent,County\cities~KentGrand_Rapids.secret.md)
+

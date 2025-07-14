@@ -1,4 +1,4 @@
-﻿---
+---
 location: [31.47,-100.47] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Texas/City/San_Angelo|San_Angelo]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Texas/City/San_Angelo.public|San_Angelo.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Texas/City/San_Angelo.internal|San_Angelo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Texas/City/San_Angelo.protect|San_Angelo.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Texas/City/San_Angelo.private|San_Angelo.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Texas/City/San_Angelo.personal|San_Angelo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Texas/City/San_Angelo.secret|San_Angelo.secret]] 
+
+### [San_Angelo.public](/_public/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Tom_Green,County\cities~Tom_GreenSan_Angelo.public.md) 
+
+### [San_Angelo.internal](/_internal/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Tom_Green,County\cities~Tom_GreenSan_Angelo.internal.md) 
+
+### [San_Angelo.protect](/_protect/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Tom_Green,County\cities~Tom_GreenSan_Angelo.protect.md) 
+
+### [San_Angelo.private](/_private/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Tom_Green,County\cities~Tom_GreenSan_Angelo.private.md) 
+
+### [San_Angelo.personal](/_personal/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Tom_Green,County\cities~Tom_GreenSan_Angelo.personal.md) 
+
+### [San_Angelo.secret](/_secret/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Tom_Green,County\cities~Tom_GreenSan_Angelo.secret.md)
+

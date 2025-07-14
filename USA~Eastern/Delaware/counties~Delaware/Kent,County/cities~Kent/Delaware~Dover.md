@@ -1,4 +1,4 @@
-﻿---
+---
 location: [39.16195,-75.52666] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Delaware/City/Delaware~Dover|Delaware~Dover]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Delaware/City/Delaware~Dover.public|Delaware~Dover.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Delaware/City/Delaware~Dover.internal|Delaware~Dover.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Delaware/City/Delaware~Dover.protect|Delaware~Dover.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Delaware/City/Delaware~Dover.private|Delaware~Dover.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Delaware/City/Delaware~Dover.personal|Delaware~Dover.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Delaware/City/Delaware~Dover.secret|Delaware~Dover.secret]] 
+
+### [Delaware~Dover.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\Delaware\counties~Delaware\Kent,County\cities~KentDelaware~Dover.public.md) 
+
+### [Delaware~Dover.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\Delaware\counties~Delaware\Kent,County\cities~KentDelaware~Dover.internal.md) 
+
+### [Delaware~Dover.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\Delaware\counties~Delaware\Kent,County\cities~KentDelaware~Dover.protect.md) 
+
+### [Delaware~Dover.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\Delaware\counties~Delaware\Kent,County\cities~KentDelaware~Dover.private.md) 
+
+### [Delaware~Dover.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\Delaware\counties~Delaware\Kent,County\cities~KentDelaware~Dover.personal.md) 
+
+### [Delaware~Dover.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\Delaware\counties~Delaware\Kent,County\cities~KentDelaware~Dover.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [41.88,-87.8] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Illinois/City/Oak_Park|Oak_Park]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Illinois/City/Oak_Park.public|Oak_Park.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Illinois/City/Oak_Park.internal|Oak_Park.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Illinois/City/Oak_Park.protect|Oak_Park.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Illinois/City/Oak_Park.private|Oak_Park.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Illinois/City/Oak_Park.personal|Oak_Park.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Illinois/City/Oak_Park.secret|Oak_Park.secret]] 
+
+### [Oak_Park.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Cook,County\cities~CookOak_Park.public.md) 
+
+### [Oak_Park.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Cook,County\cities~CookOak_Park.internal.md) 
+
+### [Oak_Park.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Cook,County\cities~CookOak_Park.protect.md) 
+
+### [Oak_Park.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Cook,County\cities~CookOak_Park.private.md) 
+
+### [Oak_Park.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Cook,County\cities~CookOak_Park.personal.md) 
+
+### [Oak_Park.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Cook,County\cities~CookOak_Park.secret.md)
+

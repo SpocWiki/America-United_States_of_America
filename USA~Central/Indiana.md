@@ -40,10 +40,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA/Indiana|Indiana]] 
-- [[../../../../../_public/geo/Continent/America~North/USA/Indiana.public|Indiana.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA/Indiana.internal|Indiana.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA/Indiana.protect|Indiana.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA/Indiana.private|Indiana.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA/Indiana.personal|Indiana.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA/Indiana.secret|Indiana.secret]] 
+
+### [Indiana.public](/_public/\Earth\Continent\America~North\USA\USA~CentralIndiana.public.md) 
+
+### [Indiana.internal](/_internal/\Earth\Continent\America~North\USA\USA~CentralIndiana.internal.md) 
+
+### [Indiana.protect](/_protect/\Earth\Continent\America~North\USA\USA~CentralIndiana.protect.md) 
+
+### [Indiana.private](/_private/\Earth\Continent\America~North\USA\USA~CentralIndiana.private.md) 
+
+### [Indiana.personal](/_personal/\Earth\Continent\America~North\USA\USA~CentralIndiana.personal.md) 
+
+### [Indiana.secret](/_secret/\Earth\Continent\America~North\USA\USA~CentralIndiana.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [39.72,-75.47] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/New_Jersey/City/Penns_Grove|Penns_Grove]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/New_Jersey/City/Penns_Grove.public|Penns_Grove.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/New_Jersey/City/Penns_Grove.internal|Penns_Grove.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/New_Jersey/City/Penns_Grove.protect|Penns_Grove.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/New_Jersey/City/Penns_Grove.private|Penns_Grove.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/New_Jersey/City/Penns_Grove.personal|Penns_Grove.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/New_Jersey/City/Penns_Grove.secret|Penns_Grove.secret]] 
+
+### [Penns_Grove.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Salem,County\cities~SalemPenns_Grove.public.md) 
+
+### [Penns_Grove.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Salem,County\cities~SalemPenns_Grove.internal.md) 
+
+### [Penns_Grove.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Salem,County\cities~SalemPenns_Grove.protect.md) 
+
+### [Penns_Grove.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Salem,County\cities~SalemPenns_Grove.private.md) 
+
+### [Penns_Grove.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Salem,County\cities~SalemPenns_Grove.personal.md) 
+
+### [Penns_Grove.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Salem,County\cities~SalemPenns_Grove.secret.md)
+

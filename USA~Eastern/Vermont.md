@@ -42,10 +42,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA/Vermont|Vermont]] 
-- [[../../../../../_public/geo/Continent/America~North/USA/Vermont.public|Vermont.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA/Vermont.internal|Vermont.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA/Vermont.protect|Vermont.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA/Vermont.private|Vermont.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA/Vermont.personal|Vermont.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA/Vermont.secret|Vermont.secret]] 
+
+### [Vermont.public](/_public/\Earth\Continent\America~North\USA\USA~EasternVermont.public.md) 
+
+### [Vermont.internal](/_internal/\Earth\Continent\America~North\USA\USA~EasternVermont.internal.md) 
+
+### [Vermont.protect](/_protect/\Earth\Continent\America~North\USA\USA~EasternVermont.protect.md) 
+
+### [Vermont.private](/_private/\Earth\Continent\America~North\USA\USA~EasternVermont.private.md) 
+
+### [Vermont.personal](/_personal/\Earth\Continent\America~North\USA\USA~EasternVermont.personal.md) 
+
+### [Vermont.secret](/_secret/\Earth\Continent\America~North\USA\USA~EasternVermont.secret.md)
+

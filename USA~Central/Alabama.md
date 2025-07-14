@@ -42,10 +42,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA/Alabama|Alabama]] 
-- [[../../../../../_public/geo/Continent/America~North/USA/Alabama.public|Alabama.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA/Alabama.internal|Alabama.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA/Alabama.protect|Alabama.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA/Alabama.private|Alabama.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA/Alabama.personal|Alabama.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA/Alabama.secret|Alabama.secret]] 
+
+### [Alabama.public](/_public/\Earth\Continent\America~North\USA\USA~CentralAlabama.public.md) 
+
+### [Alabama.internal](/_internal/\Earth\Continent\America~North\USA\USA~CentralAlabama.internal.md) 
+
+### [Alabama.protect](/_protect/\Earth\Continent\America~North\USA\USA~CentralAlabama.protect.md) 
+
+### [Alabama.private](/_private/\Earth\Continent\America~North\USA\USA~CentralAlabama.private.md) 
+
+### [Alabama.personal](/_personal/\Earth\Continent\America~North\USA\USA~CentralAlabama.personal.md) 
+
+### [Alabama.secret](/_secret/\Earth\Continent\America~North\USA\USA~CentralAlabama.secret.md)
+

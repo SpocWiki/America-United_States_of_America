@@ -1,4 +1,4 @@
-﻿---
+---
 location: [61.22,-149.88] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Alaska/City/Anchorage|Anchorage]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Alaska/City/Anchorage.public|Anchorage.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Alaska/City/Anchorage.internal|Anchorage.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Alaska/City/Anchorage.protect|Anchorage.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Alaska/City/Anchorage.private|Anchorage.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Alaska/City/Anchorage.personal|Anchorage.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Alaska/City/Anchorage.secret|Anchorage.secret]] 
+
+### [Anchorage.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\Alaska\counties~Alaska\Anchorage,County\cities~AnchorageAnchorage.public.md) 
+
+### [Anchorage.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\Alaska\counties~Alaska\Anchorage,County\cities~AnchorageAnchorage.internal.md) 
+
+### [Anchorage.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\Alaska\counties~Alaska\Anchorage,County\cities~AnchorageAnchorage.protect.md) 
+
+### [Anchorage.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\Alaska\counties~Alaska\Anchorage,County\cities~AnchorageAnchorage.private.md) 
+
+### [Anchorage.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\Alaska\counties~Alaska\Anchorage,County\cities~AnchorageAnchorage.personal.md) 
+
+### [Anchorage.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\Alaska\counties~Alaska\Anchorage,County\cities~AnchorageAnchorage.secret.md)
+

@@ -41,10 +41,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA/Missouri|Missouri]] 
-- [[../../../../../_public/geo/Continent/America~North/USA/Missouri.public|Missouri.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA/Missouri.internal|Missouri.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA/Missouri.protect|Missouri.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA/Missouri.private|Missouri.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA/Missouri.personal|Missouri.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA/Missouri.secret|Missouri.secret]] 
+
+### [Missouri.public](/_public/\Earth\Continent\America~North\USA\USA~CentralMissouri.public.md) 
+
+### [Missouri.internal](/_internal/\Earth\Continent\America~North\USA\USA~CentralMissouri.internal.md) 
+
+### [Missouri.protect](/_protect/\Earth\Continent\America~North\USA\USA~CentralMissouri.protect.md) 
+
+### [Missouri.private](/_private/\Earth\Continent\America~North\USA\USA~CentralMissouri.private.md) 
+
+### [Missouri.personal](/_personal/\Earth\Continent\America~North\USA\USA~CentralMissouri.personal.md) 
+
+### [Missouri.secret](/_secret/\Earth\Continent\America~North\USA\USA~CentralMissouri.secret.md)
+

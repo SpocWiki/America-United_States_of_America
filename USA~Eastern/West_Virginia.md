@@ -47,10 +47,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA/West_Virginia|West_Virginia]] 
-- [[../../../../../_public/geo/Continent/America~North/USA/West_Virginia.public|West_Virginia.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA/West_Virginia.internal|West_Virginia.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA/West_Virginia.protect|West_Virginia.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA/West_Virginia.private|West_Virginia.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA/West_Virginia.personal|West_Virginia.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA/West_Virginia.secret|West_Virginia.secret]] 
+
+### [West_Virginia.public](/_public/\Earth\Continent\America~North\USA\USA~EasternWest_Virginia.public.md) 
+
+### [West_Virginia.internal](/_internal/\Earth\Continent\America~North\USA\USA~EasternWest_Virginia.internal.md) 
+
+### [West_Virginia.protect](/_protect/\Earth\Continent\America~North\USA\USA~EasternWest_Virginia.protect.md) 
+
+### [West_Virginia.private](/_private/\Earth\Continent\America~North\USA\USA~EasternWest_Virginia.private.md) 
+
+### [West_Virginia.personal](/_personal/\Earth\Continent\America~North\USA\USA~EasternWest_Virginia.personal.md) 
+
+### [West_Virginia.secret](/_secret/\Earth\Continent\America~North\USA\USA~EasternWest_Virginia.secret.md)
+

@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/New_York/City/Long_Island|Long_Island]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/New_York/City/Long_Island.public|Long_Island.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/New_York/City/Long_Island.internal|Long_Island.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/New_York/City/Long_Island.protect|Long_Island.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/New_York/City/Long_Island.private|Long_Island.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/New_York/City/Long_Island.personal|Long_Island.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/New_York/City/Long_Island.secret|Long_Island.secret]] 
+
+### [Long_Island.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\New_York.CitiesLong_Island.public.md) 
+
+### [Long_Island.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\New_York.CitiesLong_Island.internal.md) 
+
+### [Long_Island.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\New_York.CitiesLong_Island.protect.md) 
+
+### [Long_Island.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\New_York.CitiesLong_Island.private.md) 
+
+### [Long_Island.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\New_York.CitiesLong_Island.personal.md) 
+
+### [Long_Island.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\New_York.CitiesLong_Island.secret.md)
+

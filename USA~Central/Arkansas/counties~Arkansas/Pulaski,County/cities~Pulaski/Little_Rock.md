@@ -1,4 +1,4 @@
-﻿---
+---
 location: [34.73611,-92.33111] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -35,10 +35,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Arkansas/City/Little_Rock|Little_Rock]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Arkansas/City/Little_Rock.public|Little_Rock.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Arkansas/City/Little_Rock.internal|Little_Rock.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Arkansas/City/Little_Rock.protect|Little_Rock.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Arkansas/City/Little_Rock.private|Little_Rock.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Arkansas/City/Little_Rock.personal|Little_Rock.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Arkansas/City/Little_Rock.secret|Little_Rock.secret]] 
+
+### [Little_Rock.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Arkansas\counties~Arkansas\Pulaski,County\cities~PulaskiLittle_Rock.public.md) 
+
+### [Little_Rock.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Arkansas\counties~Arkansas\Pulaski,County\cities~PulaskiLittle_Rock.internal.md) 
+
+### [Little_Rock.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Arkansas\counties~Arkansas\Pulaski,County\cities~PulaskiLittle_Rock.protect.md) 
+
+### [Little_Rock.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Arkansas\counties~Arkansas\Pulaski,County\cities~PulaskiLittle_Rock.private.md) 
+
+### [Little_Rock.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Arkansas\counties~Arkansas\Pulaski,County\cities~PulaskiLittle_Rock.personal.md) 
+
+### [Little_Rock.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Arkansas\counties~Arkansas\Pulaski,County\cities~PulaskiLittle_Rock.secret.md)
+

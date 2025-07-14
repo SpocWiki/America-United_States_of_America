@@ -1,4 +1,4 @@
-﻿---
+---
 location: [41.63,-89.78] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Illinois/City/Tampico|Tampico]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Illinois/City/Tampico.public|Tampico.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Illinois/City/Tampico.internal|Tampico.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Illinois/City/Tampico.protect|Tampico.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Illinois/City/Tampico.private|Tampico.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Illinois/City/Tampico.personal|Tampico.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Illinois/City/Tampico.secret|Tampico.secret]] 
+
+### [Tampico.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Whiteside,County\cities~WhitesideTampico.public.md) 
+
+### [Tampico.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Whiteside,County\cities~WhitesideTampico.internal.md) 
+
+### [Tampico.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Whiteside,County\cities~WhitesideTampico.protect.md) 
+
+### [Tampico.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Whiteside,County\cities~WhitesideTampico.private.md) 
+
+### [Tampico.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Whiteside,County\cities~WhitesideTampico.personal.md) 
+
+### [Tampico.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Whiteside,County\cities~WhitesideTampico.secret.md)
+

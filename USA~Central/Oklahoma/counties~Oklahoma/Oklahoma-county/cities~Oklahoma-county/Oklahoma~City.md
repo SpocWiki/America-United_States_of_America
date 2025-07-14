@@ -1,4 +1,4 @@
-﻿---
+---
 location: [35.5,-97.5] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Oklahoma/City/Oklahoma~City|Oklahoma~City]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Oklahoma/City/Oklahoma~City.public|Oklahoma~City.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Oklahoma/City/Oklahoma~City.internal|Oklahoma~City.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Oklahoma/City/Oklahoma~City.protect|Oklahoma~City.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Oklahoma/City/Oklahoma~City.private|Oklahoma~City.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Oklahoma/City/Oklahoma~City.personal|Oklahoma~City.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Oklahoma/City/Oklahoma~City.secret|Oklahoma~City.secret]] 
+
+### [Oklahoma~City.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Oklahoma\counties~Oklahoma\Oklahoma-county\cities~Oklahoma-countyOklahoma~City.public.md) 
+
+### [Oklahoma~City.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Oklahoma\counties~Oklahoma\Oklahoma-county\cities~Oklahoma-countyOklahoma~City.internal.md) 
+
+### [Oklahoma~City.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Oklahoma\counties~Oklahoma\Oklahoma-county\cities~Oklahoma-countyOklahoma~City.protect.md) 
+
+### [Oklahoma~City.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Oklahoma\counties~Oklahoma\Oklahoma-county\cities~Oklahoma-countyOklahoma~City.private.md) 
+
+### [Oklahoma~City.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Oklahoma\counties~Oklahoma\Oklahoma-county\cities~Oklahoma-countyOklahoma~City.personal.md) 
+
+### [Oklahoma~City.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Oklahoma\counties~Oklahoma\Oklahoma-county\cities~Oklahoma-countyOklahoma~City.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [30.25,-97.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Texas/City/Austin|Austin]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Texas/City/Austin.public|Austin.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Texas/City/Austin.internal|Austin.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Texas/City/Austin.protect|Austin.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Texas/City/Austin.private|Austin.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Texas/City/Austin.personal|Austin.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Texas/City/Austin.secret|Austin.secret]] 
+
+### [Austin.public](/_public/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Travis,County\cities~TravisAustin.public.md) 
+
+### [Austin.internal](/_internal/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Travis,County\cities~TravisAustin.internal.md) 
+
+### [Austin.protect](/_protect/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Travis,County\cities~TravisAustin.protect.md) 
+
+### [Austin.private](/_private/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Travis,County\cities~TravisAustin.private.md) 
+
+### [Austin.personal](/_personal/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Travis,County\cities~TravisAustin.personal.md) 
+
+### [Austin.secret](/_secret/\Earth\Continent\America~North\USA\USA~Mountain\Texas\counties~Texas\Travis,County\cities~TravisAustin.secret.md)
+

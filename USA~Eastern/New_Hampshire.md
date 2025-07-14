@@ -42,10 +42,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA/New_Hampshire|New_Hampshire]] 
-- [[../../../../../_public/geo/Continent/America~North/USA/New_Hampshire.public|New_Hampshire.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA/New_Hampshire.internal|New_Hampshire.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA/New_Hampshire.protect|New_Hampshire.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA/New_Hampshire.private|New_Hampshire.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA/New_Hampshire.personal|New_Hampshire.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA/New_Hampshire.secret|New_Hampshire.secret]] 
+
+### [New_Hampshire.public](/_public/\Earth\Continent\America~North\USA\USA~EasternNew_Hampshire.public.md) 
+
+### [New_Hampshire.internal](/_internal/\Earth\Continent\America~North\USA\USA~EasternNew_Hampshire.internal.md) 
+
+### [New_Hampshire.protect](/_protect/\Earth\Continent\America~North\USA\USA~EasternNew_Hampshire.protect.md) 
+
+### [New_Hampshire.private](/_private/\Earth\Continent\America~North\USA\USA~EasternNew_Hampshire.private.md) 
+
+### [New_Hampshire.personal](/_personal/\Earth\Continent\America~North\USA\USA~EasternNew_Hampshire.personal.md) 
+
+### [New_Hampshire.secret](/_secret/\Earth\Continent\America~North\USA\USA~EasternNew_Hampshire.secret.md)
+

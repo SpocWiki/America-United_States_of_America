@@ -18,3 +18,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Barbour%20County,%20West%20Virginia)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Barbour,County.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Alabama\counties~AlabamaBarbour,County.public.md) 
+
+### [Barbour,County.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Alabama\counties~AlabamaBarbour,County.internal.md) 
+
+### [Barbour,County.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Alabama\counties~AlabamaBarbour,County.protect.md) 
+
+### [Barbour,County.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Alabama\counties~AlabamaBarbour,County.private.md) 
+
+### [Barbour,County.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Alabama\counties~AlabamaBarbour,County.personal.md) 
+
+### [Barbour,County.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Alabama\counties~AlabamaBarbour,County.secret.md)
+

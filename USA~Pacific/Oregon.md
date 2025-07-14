@@ -96,12 +96,17 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Oregon)
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA/Oregon|Oregon]] 
-- [[../../../../../_public/geo/Continent/America~North/USA/Oregon.public|Oregon.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA/Oregon.internal|Oregon.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA/Oregon.protect|Oregon.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA/Oregon.private|Oregon.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA/Oregon.personal|Oregon.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA/Oregon.secret|Oregon.secret]] 
+
+### [Oregon.public](/_public/\Earth\Continent\America~North\USA\USA~PacificOregon.public.md) 
+
+### [Oregon.internal](/_internal/\Earth\Continent\America~North\USA\USA~PacificOregon.internal.md) 
+
+### [Oregon.protect](/_protect/\Earth\Continent\America~North\USA\USA~PacificOregon.protect.md) 
+
+### [Oregon.private](/_private/\Earth\Continent\America~North\USA\USA~PacificOregon.private.md) 
+
+### [Oregon.personal](/_personal/\Earth\Continent\America~North\USA\USA~PacificOregon.personal.md) 
+
+### [Oregon.secret](/_secret/\Earth\Continent\America~North\USA\USA~PacificOregon.secret.md)
+

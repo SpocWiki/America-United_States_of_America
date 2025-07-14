@@ -40,11 +40,16 @@ markerFolder: ./_Lakes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/USA~Central/South_Dakota/_Lakes|_Lakes]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/USA~Central/South_Dakota/_Lakes.public|_Lakes.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/USA~Central/South_Dakota/_Lakes.internal|_Lakes.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/USA~Central/South_Dakota/_Lakes.protect|_Lakes.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/USA~Central/South_Dakota/_Lakes.private|_Lakes.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/USA~Central/South_Dakota/_Lakes.personal|_Lakes.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/USA~Central/South_Dakota/_Lakes.secret|_Lakes.secret]] 
+
+### [_Lakes~South_Dakota.public](/_public/\Earth\Continent\America~North\USA\USA~Central\South_Dakota_Lakes~South_Dakota.public.md) 
+
+### [_Lakes~South_Dakota.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\South_Dakota_Lakes~South_Dakota.internal.md) 
+
+### [_Lakes~South_Dakota.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\South_Dakota_Lakes~South_Dakota.protect.md) 
+
+### [_Lakes~South_Dakota.private](/_private/\Earth\Continent\America~North\USA\USA~Central\South_Dakota_Lakes~South_Dakota.private.md) 
+
+### [_Lakes~South_Dakota.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\South_Dakota_Lakes~South_Dakota.personal.md) 
+
+### [_Lakes~South_Dakota.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\South_Dakota_Lakes~South_Dakota.secret.md)
 

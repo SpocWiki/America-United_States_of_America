@@ -42,10 +42,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA/Virginia|Virginia]] 
-- [[../../../../../_public/geo/Continent/America~North/USA/Virginia.public|Virginia.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA/Virginia.internal|Virginia.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA/Virginia.protect|Virginia.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA/Virginia.private|Virginia.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA/Virginia.personal|Virginia.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA/Virginia.secret|Virginia.secret]] 
+
+### [Virginia.public](/_public/\Earth\Continent\America~North\USA\USA~EasternVirginia.public.md) 
+
+### [Virginia.internal](/_internal/\Earth\Continent\America~North\USA\USA~EasternVirginia.internal.md) 
+
+### [Virginia.protect](/_protect/\Earth\Continent\America~North\USA\USA~EasternVirginia.protect.md) 
+
+### [Virginia.private](/_private/\Earth\Continent\America~North\USA\USA~EasternVirginia.private.md) 
+
+### [Virginia.personal](/_personal/\Earth\Continent\America~North\USA\USA~EasternVirginia.personal.md) 
+
+### [Virginia.secret](/_secret/\Earth\Continent\America~North\USA\USA~EasternVirginia.secret.md)
+

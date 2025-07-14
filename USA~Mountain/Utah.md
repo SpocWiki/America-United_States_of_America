@@ -44,10 +44,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA/Utah|Utah]] 
-- [[../../../../../_public/geo/Continent/America~North/USA/Utah.public|Utah.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA/Utah.internal|Utah.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA/Utah.protect|Utah.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA/Utah.private|Utah.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA/Utah.personal|Utah.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA/Utah.secret|Utah.secret]] 
+
+### [Utah.public](/_public/\Earth\Continent\America~North\USA\USA~MountainUtah.public.md) 
+
+### [Utah.internal](/_internal/\Earth\Continent\America~North\USA\USA~MountainUtah.internal.md) 
+
+### [Utah.protect](/_protect/\Earth\Continent\America~North\USA\USA~MountainUtah.protect.md) 
+
+### [Utah.private](/_private/\Earth\Continent\America~North\USA\USA~MountainUtah.private.md) 
+
+### [Utah.personal](/_personal/\Earth\Continent\America~North\USA\USA~MountainUtah.personal.md) 
+
+### [Utah.secret](/_secret/\Earth\Continent\America~North\USA\USA~MountainUtah.secret.md)
+

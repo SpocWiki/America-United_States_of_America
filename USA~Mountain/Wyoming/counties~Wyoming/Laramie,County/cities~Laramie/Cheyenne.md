@@ -1,4 +1,4 @@
-﻿---
+---
 location: [41.14556,-104.8019] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Wyoming/City/Cheyenne|Cheyenne]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Wyoming/City/Cheyenne.public|Cheyenne.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Wyoming/City/Cheyenne.internal|Cheyenne.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Wyoming/City/Cheyenne.protect|Cheyenne.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Wyoming/City/Cheyenne.private|Cheyenne.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Wyoming/City/Cheyenne.personal|Cheyenne.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Wyoming/City/Cheyenne.secret|Cheyenne.secret]] 
+
+### [Cheyenne.public](/_public/\Earth\Continent\America~North\USA\USA~Mountain\Wyoming\counties~Wyoming\Laramie,County\cities~LaramieCheyenne.public.md) 
+
+### [Cheyenne.internal](/_internal/\Earth\Continent\America~North\USA\USA~Mountain\Wyoming\counties~Wyoming\Laramie,County\cities~LaramieCheyenne.internal.md) 
+
+### [Cheyenne.protect](/_protect/\Earth\Continent\America~North\USA\USA~Mountain\Wyoming\counties~Wyoming\Laramie,County\cities~LaramieCheyenne.protect.md) 
+
+### [Cheyenne.private](/_private/\Earth\Continent\America~North\USA\USA~Mountain\Wyoming\counties~Wyoming\Laramie,County\cities~LaramieCheyenne.private.md) 
+
+### [Cheyenne.personal](/_personal/\Earth\Continent\America~North\USA\USA~Mountain\Wyoming\counties~Wyoming\Laramie,County\cities~LaramieCheyenne.personal.md) 
+
+### [Cheyenne.secret](/_secret/\Earth\Continent\America~North\USA\USA~Mountain\Wyoming\counties~Wyoming\Laramie,County\cities~LaramieCheyenne.secret.md)
+

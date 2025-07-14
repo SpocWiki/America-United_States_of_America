@@ -1,4 +1,4 @@
-﻿---
+---
 location: [41.82361,-71.42223] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Rhode_Island/City/Providence|Providence]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Rhode_Island/City/Providence.public|Providence.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Rhode_Island/City/Providence.internal|Providence.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Rhode_Island/City/Providence.protect|Providence.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Rhode_Island/City/Providence.private|Providence.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Rhode_Island/City/Providence.personal|Providence.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Rhode_Island/City/Providence.secret|Providence.secret]] 
+
+### [Providence.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\Rhode_Island\counties~Rhode_Island\Providence,County\cities~ProvidenceProvidence.public.md) 
+
+### [Providence.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\Rhode_Island\counties~Rhode_Island\Providence,County\cities~ProvidenceProvidence.internal.md) 
+
+### [Providence.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\Rhode_Island\counties~Rhode_Island\Providence,County\cities~ProvidenceProvidence.protect.md) 
+
+### [Providence.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\Rhode_Island\counties~Rhode_Island\Providence,County\cities~ProvidenceProvidence.private.md) 
+
+### [Providence.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\Rhode_Island\counties~Rhode_Island\Providence,County\cities~ProvidenceProvidence.personal.md) 
+
+### [Providence.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\Rhode_Island\counties~Rhode_Island\Providence,County\cities~ProvidenceProvidence.secret.md)
+

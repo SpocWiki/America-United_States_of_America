@@ -40,10 +40,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA/Iowa|Iowa]] 
-- [[../../../../../_public/geo/Continent/America~North/USA/Iowa.public|Iowa.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA/Iowa.internal|Iowa.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA/Iowa.protect|Iowa.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA/Iowa.private|Iowa.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA/Iowa.personal|Iowa.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA/Iowa.secret|Iowa.secret]] 
+
+### [Iowa.public](/_public/\Earth\Continent\America~North\USA\USA~CentralIowa.public.md) 
+
+### [Iowa.internal](/_internal/\Earth\Continent\America~North\USA\USA~CentralIowa.internal.md) 
+
+### [Iowa.protect](/_protect/\Earth\Continent\America~North\USA\USA~CentralIowa.protect.md) 
+
+### [Iowa.private](/_private/\Earth\Continent\America~North\USA\USA~CentralIowa.private.md) 
+
+### [Iowa.personal](/_personal/\Earth\Continent\America~North\USA\USA~CentralIowa.personal.md) 
+
+### [Iowa.secret](/_secret/\Earth\Continent\America~North\USA\USA~CentralIowa.secret.md)
+

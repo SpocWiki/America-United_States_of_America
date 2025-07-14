@@ -53,10 +53,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA/District_of_Columbia|District_of_Columbia]] 
-- [[../../../../../_public/geo/Continent/America~North/USA/District_of_Columbia.public|District_of_Columbia.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA/District_of_Columbia.internal|District_of_Columbia.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA/District_of_Columbia.protect|District_of_Columbia.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA/District_of_Columbia.private|District_of_Columbia.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA/District_of_Columbia.personal|District_of_Columbia.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA/District_of_Columbia.secret|District_of_Columbia.secret]] 
+
+### [District_of_Columbia.public](/_public/\Earth\Continent\America~North\USA\USA~EasternDistrict_of_Columbia.public.md) 
+
+### [District_of_Columbia.internal](/_internal/\Earth\Continent\America~North\USA\USA~EasternDistrict_of_Columbia.internal.md) 
+
+### [District_of_Columbia.protect](/_protect/\Earth\Continent\America~North\USA\USA~EasternDistrict_of_Columbia.protect.md) 
+
+### [District_of_Columbia.private](/_private/\Earth\Continent\America~North\USA\USA~EasternDistrict_of_Columbia.private.md) 
+
+### [District_of_Columbia.personal](/_personal/\Earth\Continent\America~North\USA\USA~EasternDistrict_of_Columbia.personal.md) 
+
+### [District_of_Columbia.secret](/_secret/\Earth\Continent\America~North\USA\USA~EasternDistrict_of_Columbia.secret.md)
+

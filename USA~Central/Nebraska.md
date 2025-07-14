@@ -40,10 +40,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA/Nebraska|Nebraska]] 
-- [[../../../../../_public/geo/Continent/America~North/USA/Nebraska.public|Nebraska.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA/Nebraska.internal|Nebraska.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA/Nebraska.protect|Nebraska.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA/Nebraska.private|Nebraska.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA/Nebraska.personal|Nebraska.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA/Nebraska.secret|Nebraska.secret]] 
+
+### [Nebraska.public](/_public/\Earth\Continent\America~North\USA\USA~CentralNebraska.public.md) 
+
+### [Nebraska.internal](/_internal/\Earth\Continent\America~North\USA\USA~CentralNebraska.internal.md) 
+
+### [Nebraska.protect](/_protect/\Earth\Continent\America~North\USA\USA~CentralNebraska.protect.md) 
+
+### [Nebraska.private](/_private/\Earth\Continent\America~North\USA\USA~CentralNebraska.private.md) 
+
+### [Nebraska.personal](/_personal/\Earth\Continent\America~North\USA\USA~CentralNebraska.personal.md) 
+
+### [Nebraska.secret](/_secret/\Earth\Continent\America~North\USA\USA~CentralNebraska.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [34.58,-119.7] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/California/City/Santa_Barbara|Santa_Barbara]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/California/City/Santa_Barbara.public|Santa_Barbara.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/California/City/Santa_Barbara.internal|Santa_Barbara.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/California/City/Santa_Barbara.protect|Santa_Barbara.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/California/City/Santa_Barbara.private|Santa_Barbara.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/California/City/Santa_Barbara.personal|Santa_Barbara.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/California/City/Santa_Barbara.secret|Santa_Barbara.secret]] 
+
+### [Santa_Barbara.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Santa_Barbara,County\cities~Santa_BarbaraSanta_Barbara.public.md) 
+
+### [Santa_Barbara.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Santa_Barbara,County\cities~Santa_BarbaraSanta_Barbara.internal.md) 
+
+### [Santa_Barbara.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Santa_Barbara,County\cities~Santa_BarbaraSanta_Barbara.protect.md) 
+
+### [Santa_Barbara.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Santa_Barbara,County\cities~Santa_BarbaraSanta_Barbara.private.md) 
+
+### [Santa_Barbara.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Santa_Barbara,County\cities~Santa_BarbaraSanta_Barbara.personal.md) 
+
+### [Santa_Barbara.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Santa_Barbara,County\cities~Santa_BarbaraSanta_Barbara.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.25,-122.45] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Washington/City/Tacoma|Tacoma]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Washington/City/Tacoma.public|Tacoma.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Washington/City/Tacoma.internal|Tacoma.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Washington/City/Tacoma.protect|Tacoma.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Washington/City/Tacoma.private|Tacoma.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Washington/City/Tacoma.personal|Tacoma.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Washington/City/Tacoma.secret|Tacoma.secret]] 
+
+### [Tacoma.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\Washington\counties~Washington\Pierce,County\cities~PierceTacoma.public.md) 
+
+### [Tacoma.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\Washington\counties~Washington\Pierce,County\cities~PierceTacoma.internal.md) 
+
+### [Tacoma.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\Washington\counties~Washington\Pierce,County\cities~PierceTacoma.protect.md) 
+
+### [Tacoma.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\Washington\counties~Washington\Pierce,County\cities~PierceTacoma.private.md) 
+
+### [Tacoma.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\Washington\counties~Washington\Pierce,County\cities~PierceTacoma.personal.md) 
+
+### [Tacoma.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\Washington\counties~Washington\Pierce,County\cities~PierceTacoma.secret.md)
+

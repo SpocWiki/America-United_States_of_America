@@ -1,4 +1,4 @@
-﻿---
+---
 location: [37.28,-120.49] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/California/City/Merced|Merced]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/California/City/Merced.public|Merced.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/California/City/Merced.internal|Merced.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/California/City/Merced.protect|Merced.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/California/City/Merced.private|Merced.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/California/City/Merced.personal|Merced.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/California/City/Merced.secret|Merced.secret]] 
+
+### [Merced.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Merced,County\cities~MercedMerced.public.md) 
+
+### [Merced.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Merced,County\cities~MercedMerced.internal.md) 
+
+### [Merced.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Merced,County\cities~MercedMerced.protect.md) 
+
+### [Merced.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Merced,County\cities~MercedMerced.private.md) 
+
+### [Merced.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Merced,County\cities~MercedMerced.personal.md) 
+
+### [Merced.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\Merced,County\cities~MercedMerced.secret.md)
+

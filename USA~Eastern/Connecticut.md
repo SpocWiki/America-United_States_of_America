@@ -41,10 +41,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA/Connecticut|Connecticut]] 
-- [[../../../../../_public/geo/Continent/America~North/USA/Connecticut.public|Connecticut.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA/Connecticut.internal|Connecticut.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA/Connecticut.protect|Connecticut.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA/Connecticut.private|Connecticut.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA/Connecticut.personal|Connecticut.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA/Connecticut.secret|Connecticut.secret]] 
+
+### [Connecticut.public](/_public/\Earth\Continent\America~North\USA\USA~EasternConnecticut.public.md) 
+
+### [Connecticut.internal](/_internal/\Earth\Continent\America~North\USA\USA~EasternConnecticut.internal.md) 
+
+### [Connecticut.protect](/_protect/\Earth\Continent\America~North\USA\USA~EasternConnecticut.protect.md) 
+
+### [Connecticut.private](/_private/\Earth\Continent\America~North\USA\USA~EasternConnecticut.private.md) 
+
+### [Connecticut.personal](/_personal/\Earth\Continent\America~North\USA\USA~EasternConnecticut.personal.md) 
+
+### [Connecticut.secret](/_secret/\Earth\Continent\America~North\USA\USA~EasternConnecticut.secret.md)
+

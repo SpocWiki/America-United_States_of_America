@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/New_York/City/Newburgh|Newburgh]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/New_York/City/Newburgh.public|Newburgh.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/New_York/City/Newburgh.internal|Newburgh.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/New_York/City/Newburgh.protect|Newburgh.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/New_York/City/Newburgh.private|Newburgh.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/New_York/City/Newburgh.personal|Newburgh.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/New_York/City/Newburgh.secret|Newburgh.secret]] 
+
+### [Newburgh.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\Orange,CountyNewburgh.public.md) 
+
+### [Newburgh.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\Orange,CountyNewburgh.internal.md) 
+
+### [Newburgh.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\Orange,CountyNewburgh.protect.md) 
+
+### [Newburgh.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\Orange,CountyNewburgh.private.md) 
+
+### [Newburgh.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\Orange,CountyNewburgh.personal.md) 
+
+### [Newburgh.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\Orange,CountyNewburgh.secret.md)
+

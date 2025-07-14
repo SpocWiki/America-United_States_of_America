@@ -1,4 +1,4 @@
-﻿---
+---
 location: [34.85,-82.38] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/South_Carolina/City/Greenville|Greenville]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/South_Carolina/City/Greenville.public|Greenville.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/South_Carolina/City/Greenville.internal|Greenville.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/South_Carolina/City/Greenville.protect|Greenville.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/South_Carolina/City/Greenville.private|Greenville.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/South_Carolina/City/Greenville.personal|Greenville.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/South_Carolina/City/Greenville.secret|Greenville.secret]] 
+
+### [Greenville.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\South_Carolina\counties~South_Carolina\Greenville,County\cities~GreenvilleGreenville.public.md) 
+
+### [Greenville.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\South_Carolina\counties~South_Carolina\Greenville,County\cities~GreenvilleGreenville.internal.md) 
+
+### [Greenville.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\South_Carolina\counties~South_Carolina\Greenville,County\cities~GreenvilleGreenville.protect.md) 
+
+### [Greenville.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\South_Carolina\counties~South_Carolina\Greenville,County\cities~GreenvilleGreenville.private.md) 
+
+### [Greenville.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\South_Carolina\counties~South_Carolina\Greenville,County\cities~GreenvilleGreenville.personal.md) 
+
+### [Greenville.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\South_Carolina\counties~South_Carolina\Greenville,County\cities~GreenvilleGreenville.secret.md)
+

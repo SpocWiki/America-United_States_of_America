@@ -134,11 +134,17 @@ dv.table(
 ```
 
 
-
 ## Confidential Links & Embeds: 
-- [[USA|USA]] 
-- [[../../../../_internal/geo/Continent/America~North/USA.internal|USA.internal]] 
-- [[../../../../_protect/geo/Continent/America~North/USA.protect|USA.protect]] 
-- [[../../../../_private/geo/Continent/America~North/USA.private|USA.private]] 
-- [[../../../../_personal/geo/Continent/America~North/USA.personal|USA.personal]] 
-- [[../../../../_secret/geo/Continent/America~North/USA.secret|USA.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\America~North\USAReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\America~North\USAReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\America~North\USAReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\America~North\USAReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\America~North\USAReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\America~North\USAReadMe.secret.md)
+

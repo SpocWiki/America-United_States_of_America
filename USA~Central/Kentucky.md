@@ -41,10 +41,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA/Kentucky|Kentucky]] 
-- [[../../../../../_public/geo/Continent/America~North/USA/Kentucky.public|Kentucky.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA/Kentucky.internal|Kentucky.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA/Kentucky.protect|Kentucky.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA/Kentucky.private|Kentucky.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA/Kentucky.personal|Kentucky.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA/Kentucky.secret|Kentucky.secret]] 
+
+### [Kentucky.public](/_public/\Earth\Continent\America~North\USA\USA~CentralKentucky.public.md) 
+
+### [Kentucky.internal](/_internal/\Earth\Continent\America~North\USA\USA~CentralKentucky.internal.md) 
+
+### [Kentucky.protect](/_protect/\Earth\Continent\America~North\USA\USA~CentralKentucky.protect.md) 
+
+### [Kentucky.private](/_private/\Earth\Continent\America~North\USA\USA~CentralKentucky.private.md) 
+
+### [Kentucky.personal](/_personal/\Earth\Continent\America~North\USA\USA~CentralKentucky.personal.md) 
+
+### [Kentucky.secret](/_secret/\Earth\Continent\America~North\USA\USA~CentralKentucky.secret.md)
+

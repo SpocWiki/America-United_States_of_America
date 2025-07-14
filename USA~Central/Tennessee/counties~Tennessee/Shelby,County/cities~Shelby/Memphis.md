@@ -1,4 +1,4 @@
-﻿---
+---
 location: [35.13,-90.05] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Tennessee/City/Memphis|Memphis]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Tennessee/City/Memphis.public|Memphis.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Tennessee/City/Memphis.internal|Memphis.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Tennessee/City/Memphis.protect|Memphis.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Tennessee/City/Memphis.private|Memphis.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Tennessee/City/Memphis.personal|Memphis.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Tennessee/City/Memphis.secret|Memphis.secret]] 
+
+### [Memphis.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Tennessee\counties~Tennessee\Shelby,County\cities~ShelbyMemphis.public.md) 
+
+### [Memphis.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Tennessee\counties~Tennessee\Shelby,County\cities~ShelbyMemphis.internal.md) 
+
+### [Memphis.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Tennessee\counties~Tennessee\Shelby,County\cities~ShelbyMemphis.protect.md) 
+
+### [Memphis.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Tennessee\counties~Tennessee\Shelby,County\cities~ShelbyMemphis.private.md) 
+
+### [Memphis.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Tennessee\counties~Tennessee\Shelby,County\cities~ShelbyMemphis.personal.md) 
+
+### [Memphis.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Tennessee\counties~Tennessee\Shelby,County\cities~ShelbyMemphis.secret.md)
+

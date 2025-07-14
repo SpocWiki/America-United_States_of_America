@@ -13,3 +13,19 @@ aliases:
 > Motor traffic can reach the borough from Brooklyn by the Verrazzano-Narrows Bridge and from New Jersey by the Outerbridge Crossing, Goethals Bridge and Bayonne Bridge. Staten Island has Metropolitan Transportation Authority (MTA) bus lines and an MTA rapid transit line, the Staten Island Railway, which runs from the ferry terminal at St. George to Tottenville. Staten Island is the only borough not connected to the New York City Subway system. The free Staten Island Ferry connects the borough to Manhattan across New York Harbor. It provides views of the Statue of Liberty, Ellis Island, and Lower Manhattan.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Staten%20Island)
+
+
+## Confidential Links & Embeds: 
+
+### [Staten_Island.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\New_York,City,CountyStaten_Island.public.md) 
+
+### [Staten_Island.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\New_York,City,CountyStaten_Island.internal.md) 
+
+### [Staten_Island.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\New_York,City,CountyStaten_Island.protect.md) 
+
+### [Staten_Island.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\New_York,City,CountyStaten_Island.private.md) 
+
+### [Staten_Island.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\New_York,City,CountyStaten_Island.personal.md) 
+
+### [Staten_Island.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\New_York,State\counties~New_York\New_York,City,CountyStaten_Island.secret.md)
+

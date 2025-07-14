@@ -1,4 +1,4 @@
-﻿---
+---
 location: [44.93083,-123.0289] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Oregon/City/Oregon~Salem|Oregon~Salem]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Oregon/City/Oregon~Salem.public|Oregon~Salem.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Oregon/City/Oregon~Salem.internal|Oregon~Salem.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Oregon/City/Oregon~Salem.protect|Oregon~Salem.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Oregon/City/Oregon~Salem.private|Oregon~Salem.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Oregon/City/Oregon~Salem.personal|Oregon~Salem.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Oregon/City/Oregon~Salem.secret|Oregon~Salem.secret]] 
+
+### [Oregon~Salem.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\Oregon\counties~Oregon\Marion,County\cities~MarionOregon~Salem.public.md) 
+
+### [Oregon~Salem.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\Oregon\counties~Oregon\Marion,County\cities~MarionOregon~Salem.internal.md) 
+
+### [Oregon~Salem.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\Oregon\counties~Oregon\Marion,County\cities~MarionOregon~Salem.protect.md) 
+
+### [Oregon~Salem.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\Oregon\counties~Oregon\Marion,County\cities~MarionOregon~Salem.private.md) 
+
+### [Oregon~Salem.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\Oregon\counties~Oregon\Marion,County\cities~MarionOregon~Salem.personal.md) 
+
+### [Oregon~Salem.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\Oregon\counties~Oregon\Marion,County\cities~MarionOregon~Salem.secret.md)
+

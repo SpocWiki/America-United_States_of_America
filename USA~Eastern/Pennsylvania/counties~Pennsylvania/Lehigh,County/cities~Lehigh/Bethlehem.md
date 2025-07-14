@@ -1,4 +1,4 @@
-﻿---
+---
 location: [40.62,-75.42] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Pennsylvania/City/Bethlehem|Bethlehem]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Pennsylvania/City/Bethlehem.public|Bethlehem.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Pennsylvania/City/Bethlehem.internal|Bethlehem.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Pennsylvania/City/Bethlehem.protect|Bethlehem.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Pennsylvania/City/Bethlehem.private|Bethlehem.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Pennsylvania/City/Bethlehem.personal|Bethlehem.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Pennsylvania/City/Bethlehem.secret|Bethlehem.secret]] 
+
+### [Bethlehem.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\Pennsylvania\counties~Pennsylvania\Lehigh,County\cities~LehighBethlehem.public.md) 
+
+### [Bethlehem.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\Pennsylvania\counties~Pennsylvania\Lehigh,County\cities~LehighBethlehem.internal.md) 
+
+### [Bethlehem.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\Pennsylvania\counties~Pennsylvania\Lehigh,County\cities~LehighBethlehem.protect.md) 
+
+### [Bethlehem.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\Pennsylvania\counties~Pennsylvania\Lehigh,County\cities~LehighBethlehem.private.md) 
+
+### [Bethlehem.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\Pennsylvania\counties~Pennsylvania\Lehigh,County\cities~LehighBethlehem.personal.md) 
+
+### [Bethlehem.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\Pennsylvania\counties~Pennsylvania\Lehigh,County\cities~LehighBethlehem.secret.md)
+

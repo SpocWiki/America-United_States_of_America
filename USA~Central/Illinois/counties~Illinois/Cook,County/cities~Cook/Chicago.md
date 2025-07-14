@@ -1,4 +1,4 @@
-﻿---
+---
 location: [41.83,-87.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Illinois/City/Chicago|Chicago]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Illinois/City/Chicago.public|Chicago.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Illinois/City/Chicago.internal|Chicago.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Illinois/City/Chicago.protect|Chicago.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Illinois/City/Chicago.private|Chicago.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Illinois/City/Chicago.personal|Chicago.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Illinois/City/Chicago.secret|Chicago.secret]] 
+
+### [Chicago.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Cook,County\cities~CookChicago.public.md) 
+
+### [Chicago.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Cook,County\cities~CookChicago.internal.md) 
+
+### [Chicago.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Cook,County\cities~CookChicago.protect.md) 
+
+### [Chicago.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Cook,County\cities~CookChicago.private.md) 
+
+### [Chicago.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Cook,County\cities~CookChicago.personal.md) 
+
+### [Chicago.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Cook,County\cities~CookChicago.secret.md)
+

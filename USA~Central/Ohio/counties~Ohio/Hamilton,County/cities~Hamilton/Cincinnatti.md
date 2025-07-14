@@ -1,4 +1,4 @@
-﻿---
+---
 location: [39.13,-84.42] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Ohio/City/Cincinnatti|Cincinnatti]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Ohio/City/Cincinnatti.public|Cincinnatti.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Ohio/City/Cincinnatti.internal|Cincinnatti.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Ohio/City/Cincinnatti.protect|Cincinnatti.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Ohio/City/Cincinnatti.private|Cincinnatti.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Ohio/City/Cincinnatti.personal|Cincinnatti.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Ohio/City/Cincinnatti.secret|Cincinnatti.secret]] 
+
+### [Cincinnatti.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Ohio\counties~Ohio\Hamilton,County\cities~HamiltonCincinnatti.public.md) 
+
+### [Cincinnatti.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Ohio\counties~Ohio\Hamilton,County\cities~HamiltonCincinnatti.internal.md) 
+
+### [Cincinnatti.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Ohio\counties~Ohio\Hamilton,County\cities~HamiltonCincinnatti.protect.md) 
+
+### [Cincinnatti.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Ohio\counties~Ohio\Hamilton,County\cities~HamiltonCincinnatti.private.md) 
+
+### [Cincinnatti.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Ohio\counties~Ohio\Hamilton,County\cities~HamiltonCincinnatti.personal.md) 
+
+### [Cincinnatti.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Ohio\counties~Ohio\Hamilton,County\cities~HamiltonCincinnatti.secret.md)
+

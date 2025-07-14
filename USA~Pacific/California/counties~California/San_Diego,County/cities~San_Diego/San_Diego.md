@@ -1,4 +1,4 @@
-﻿---
+---
 location: [32.72,-117.15] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/California/City/San_Diego|San_Diego]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/California/City/San_Diego.public|San_Diego.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/California/City/San_Diego.internal|San_Diego.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/California/City/San_Diego.protect|San_Diego.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/California/City/San_Diego.private|San_Diego.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/California/City/San_Diego.personal|San_Diego.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/California/City/San_Diego.secret|San_Diego.secret]] 
+
+### [San_Diego.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\San_Diego,County\cities~San_DiegoSan_Diego.public.md) 
+
+### [San_Diego.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\San_Diego,County\cities~San_DiegoSan_Diego.internal.md) 
+
+### [San_Diego.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\San_Diego,County\cities~San_DiegoSan_Diego.protect.md) 
+
+### [San_Diego.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\San_Diego,County\cities~San_DiegoSan_Diego.private.md) 
+
+### [San_Diego.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\San_Diego,County\cities~San_DiegoSan_Diego.personal.md) 
+
+### [San_Diego.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\San_Diego,County\cities~San_DiegoSan_Diego.secret.md)
+

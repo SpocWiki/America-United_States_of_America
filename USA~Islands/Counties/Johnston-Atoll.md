@@ -44,11 +44,16 @@ markerFolder: ./Johnston-Atoll/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/USA~Islands/Counties/Johnston-Atoll|Johnston-Atoll]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/USA~Islands/Counties/Johnston-Atoll.public|Johnston-Atoll.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/USA~Islands/Counties/Johnston-Atoll.internal|Johnston-Atoll.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/USA~Islands/Counties/Johnston-Atoll.protect|Johnston-Atoll.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/USA~Islands/Counties/Johnston-Atoll.private|Johnston-Atoll.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/USA~Islands/Counties/Johnston-Atoll.personal|Johnston-Atoll.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/USA~Islands/Counties/Johnston-Atoll.secret|Johnston-Atoll.secret]] 
+
+### [Johnston-Atoll.public](/_public/\Earth\Continent\America~North\USA\USA~Islands\CountiesJohnston-Atoll.public.md) 
+
+### [Johnston-Atoll.internal](/_internal/\Earth\Continent\America~North\USA\USA~Islands\CountiesJohnston-Atoll.internal.md) 
+
+### [Johnston-Atoll.protect](/_protect/\Earth\Continent\America~North\USA\USA~Islands\CountiesJohnston-Atoll.protect.md) 
+
+### [Johnston-Atoll.private](/_private/\Earth\Continent\America~North\USA\USA~Islands\CountiesJohnston-Atoll.private.md) 
+
+### [Johnston-Atoll.personal](/_personal/\Earth\Continent\America~North\USA\USA~Islands\CountiesJohnston-Atoll.personal.md) 
+
+### [Johnston-Atoll.secret](/_secret/\Earth\Continent\America~North\USA\USA~Islands\CountiesJohnston-Atoll.secret.md)
 

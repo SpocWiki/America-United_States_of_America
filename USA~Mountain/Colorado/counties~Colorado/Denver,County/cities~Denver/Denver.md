@@ -1,4 +1,4 @@
-﻿---
+---
 location: [39.72,-105] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Colorado/City/Denver|Denver]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Colorado/City/Denver.public|Denver.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Colorado/City/Denver.internal|Denver.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Colorado/City/Denver.protect|Denver.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Colorado/City/Denver.private|Denver.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Colorado/City/Denver.personal|Denver.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Colorado/City/Denver.secret|Denver.secret]] 
+
+### [Denver.public](/_public/\Earth\Continent\America~North\USA\USA~Mountain\Colorado\counties~Colorado\Denver,County\cities~DenverDenver.public.md) 
+
+### [Denver.internal](/_internal/\Earth\Continent\America~North\USA\USA~Mountain\Colorado\counties~Colorado\Denver,County\cities~DenverDenver.internal.md) 
+
+### [Denver.protect](/_protect/\Earth\Continent\America~North\USA\USA~Mountain\Colorado\counties~Colorado\Denver,County\cities~DenverDenver.protect.md) 
+
+### [Denver.private](/_private/\Earth\Continent\America~North\USA\USA~Mountain\Colorado\counties~Colorado\Denver,County\cities~DenverDenver.private.md) 
+
+### [Denver.personal](/_personal/\Earth\Continent\America~North\USA\USA~Mountain\Colorado\counties~Colorado\Denver,County\cities~DenverDenver.personal.md) 
+
+### [Denver.secret](/_secret/\Earth\Continent\America~North\USA\USA~Mountain\Colorado\counties~Colorado\Denver,County\cities~DenverDenver.secret.md)
+

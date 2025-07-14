@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Pennsylvania/City/Philadelphia|Philadelphia]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Pennsylvania/City/Philadelphia.public|Philadelphia.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Pennsylvania/City/Philadelphia.internal|Philadelphia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Pennsylvania/City/Philadelphia.protect|Philadelphia.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Pennsylvania/City/Philadelphia.private|Philadelphia.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Pennsylvania/City/Philadelphia.personal|Philadelphia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Pennsylvania/City/Philadelphia.secret|Philadelphia.secret]] 
+
+### [Philadelphia.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Camden,New_Jersey,County\cities~CamdenPhiladelphia.public.md) 
+
+### [Philadelphia.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Camden,New_Jersey,County\cities~CamdenPhiladelphia.internal.md) 
+
+### [Philadelphia.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Camden,New_Jersey,County\cities~CamdenPhiladelphia.protect.md) 
+
+### [Philadelphia.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Camden,New_Jersey,County\cities~CamdenPhiladelphia.private.md) 
+
+### [Philadelphia.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Camden,New_Jersey,County\cities~CamdenPhiladelphia.personal.md) 
+
+### [Philadelphia.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\New_Jersey\counties~New_Jersey\Camden,New_Jersey,County\cities~CamdenPhiladelphia.secret.md)
+

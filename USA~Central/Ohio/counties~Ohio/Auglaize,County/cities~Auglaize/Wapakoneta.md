@@ -1,4 +1,4 @@
-﻿---
+---
 location: [40.57,-84.2] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Ohio/City/Wapakoneta|Wapakoneta]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Ohio/City/Wapakoneta.public|Wapakoneta.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Ohio/City/Wapakoneta.internal|Wapakoneta.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Ohio/City/Wapakoneta.protect|Wapakoneta.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Ohio/City/Wapakoneta.private|Wapakoneta.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Ohio/City/Wapakoneta.personal|Wapakoneta.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Ohio/City/Wapakoneta.secret|Wapakoneta.secret]] 
+
+### [Wapakoneta.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Ohio\counties~Ohio\Auglaize,County\cities~AuglaizeWapakoneta.public.md) 
+
+### [Wapakoneta.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Ohio\counties~Ohio\Auglaize,County\cities~AuglaizeWapakoneta.internal.md) 
+
+### [Wapakoneta.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Ohio\counties~Ohio\Auglaize,County\cities~AuglaizeWapakoneta.protect.md) 
+
+### [Wapakoneta.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Ohio\counties~Ohio\Auglaize,County\cities~AuglaizeWapakoneta.private.md) 
+
+### [Wapakoneta.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Ohio\counties~Ohio\Auglaize,County\cities~AuglaizeWapakoneta.personal.md) 
+
+### [Wapakoneta.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Ohio\counties~Ohio\Auglaize,County\cities~AuglaizeWapakoneta.secret.md)
+

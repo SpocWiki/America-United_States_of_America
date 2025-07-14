@@ -1,4 +1,4 @@
-﻿---
+---
 location: [41.76274,-72.67429] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Connecticut/City/Hartford|Hartford]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Connecticut/City/Hartford.public|Hartford.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Connecticut/City/Hartford.internal|Hartford.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Connecticut/City/Hartford.protect|Hartford.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Connecticut/City/Hartford.private|Hartford.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Connecticut/City/Hartford.personal|Hartford.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Connecticut/City/Hartford.secret|Hartford.secret]] 
+
+### [Hartford.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\Connecticut\counties~Connecticut\Hartford,County\cities~HartfordHartford.public.md) 
+
+### [Hartford.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\Connecticut\counties~Connecticut\Hartford,County\cities~HartfordHartford.internal.md) 
+
+### [Hartford.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\Connecticut\counties~Connecticut\Hartford,County\cities~HartfordHartford.protect.md) 
+
+### [Hartford.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\Connecticut\counties~Connecticut\Hartford,County\cities~HartfordHartford.private.md) 
+
+### [Hartford.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\Connecticut\counties~Connecticut\Hartford,County\cities~HartfordHartford.personal.md) 
+
+### [Hartford.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\Connecticut\counties~Connecticut\Hartford,County\cities~HartfordHartford.secret.md)
+

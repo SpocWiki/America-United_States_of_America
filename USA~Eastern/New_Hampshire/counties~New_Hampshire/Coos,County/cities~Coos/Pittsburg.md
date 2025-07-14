@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45.05,-71.35] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/New_Hampshire/City/Pittsburg|Pittsburg]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/New_Hampshire/City/Pittsburg.public|Pittsburg.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/New_Hampshire/City/Pittsburg.internal|Pittsburg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/New_Hampshire/City/Pittsburg.protect|Pittsburg.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/New_Hampshire/City/Pittsburg.private|Pittsburg.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/New_Hampshire/City/Pittsburg.personal|Pittsburg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/New_Hampshire/City/Pittsburg.secret|Pittsburg.secret]] 
+
+### [Pittsburg.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\New_Hampshire\counties~New_Hampshire\Coos,County\cities~CoosPittsburg.public.md) 
+
+### [Pittsburg.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\New_Hampshire\counties~New_Hampshire\Coos,County\cities~CoosPittsburg.internal.md) 
+
+### [Pittsburg.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\New_Hampshire\counties~New_Hampshire\Coos,County\cities~CoosPittsburg.protect.md) 
+
+### [Pittsburg.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\New_Hampshire\counties~New_Hampshire\Coos,County\cities~CoosPittsburg.private.md) 
+
+### [Pittsburg.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\New_Hampshire\counties~New_Hampshire\Coos,County\cities~CoosPittsburg.personal.md) 
+
+### [Pittsburg.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\New_Hampshire\counties~New_Hampshire\Coos,County\cities~CoosPittsburg.secret.md)
+

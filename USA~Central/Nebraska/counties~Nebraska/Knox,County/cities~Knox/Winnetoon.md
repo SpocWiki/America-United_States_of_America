@@ -1,4 +1,4 @@
-﻿---
+---
 location: [42.53,-97.97] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Nebraska/City/Winnetoon|Winnetoon]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Nebraska/City/Winnetoon.public|Winnetoon.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Nebraska/City/Winnetoon.internal|Winnetoon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Nebraska/City/Winnetoon.protect|Winnetoon.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Nebraska/City/Winnetoon.private|Winnetoon.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Nebraska/City/Winnetoon.personal|Winnetoon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Nebraska/City/Winnetoon.secret|Winnetoon.secret]] 
+
+### [Winnetoon.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Nebraska\counties~Nebraska\Knox,County\cities~KnoxWinnetoon.public.md) 
+
+### [Winnetoon.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Nebraska\counties~Nebraska\Knox,County\cities~KnoxWinnetoon.internal.md) 
+
+### [Winnetoon.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Nebraska\counties~Nebraska\Knox,County\cities~KnoxWinnetoon.protect.md) 
+
+### [Winnetoon.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Nebraska\counties~Nebraska\Knox,County\cities~KnoxWinnetoon.private.md) 
+
+### [Winnetoon.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Nebraska\counties~Nebraska\Knox,County\cities~KnoxWinnetoon.personal.md) 
+
+### [Winnetoon.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Nebraska\counties~Nebraska\Knox,County\cities~KnoxWinnetoon.secret.md)
+

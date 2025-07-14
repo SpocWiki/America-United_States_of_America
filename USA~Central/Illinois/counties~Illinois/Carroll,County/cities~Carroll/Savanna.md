@@ -1,4 +1,4 @@
-﻿---
+---
 location: [42.08,-90.13] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Illinois/City/Savanna|Savanna]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Illinois/City/Savanna.public|Savanna.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Illinois/City/Savanna.internal|Savanna.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Illinois/City/Savanna.protect|Savanna.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Illinois/City/Savanna.private|Savanna.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Illinois/City/Savanna.personal|Savanna.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Illinois/City/Savanna.secret|Savanna.secret]] 
+
+### [Savanna.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Carroll,County\cities~CarrollSavanna.public.md) 
+
+### [Savanna.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Carroll,County\cities~CarrollSavanna.internal.md) 
+
+### [Savanna.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Carroll,County\cities~CarrollSavanna.protect.md) 
+
+### [Savanna.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Carroll,County\cities~CarrollSavanna.private.md) 
+
+### [Savanna.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Carroll,County\cities~CarrollSavanna.personal.md) 
+
+### [Savanna.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Carroll,County\cities~CarrollSavanna.secret.md)
+

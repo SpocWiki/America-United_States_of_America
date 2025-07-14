@@ -1,4 +1,4 @@
-﻿---
+---
 location: [36.15,-95.97] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Oklahoma/City/Tulsa|Tulsa]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Oklahoma/City/Tulsa.public|Tulsa.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Oklahoma/City/Tulsa.internal|Tulsa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Oklahoma/City/Tulsa.protect|Tulsa.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Oklahoma/City/Tulsa.private|Tulsa.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Oklahoma/City/Tulsa.personal|Tulsa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Oklahoma/City/Tulsa.secret|Tulsa.secret]] 
+
+### [Tulsa.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Oklahoma\counties~Oklahoma\Tulsa,County\cities~TulsaTulsa.public.md) 
+
+### [Tulsa.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Oklahoma\counties~Oklahoma\Tulsa,County\cities~TulsaTulsa.internal.md) 
+
+### [Tulsa.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Oklahoma\counties~Oklahoma\Tulsa,County\cities~TulsaTulsa.protect.md) 
+
+### [Tulsa.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Oklahoma\counties~Oklahoma\Tulsa,County\cities~TulsaTulsa.private.md) 
+
+### [Tulsa.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Oklahoma\counties~Oklahoma\Tulsa,County\cities~TulsaTulsa.personal.md) 
+
+### [Tulsa.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Oklahoma\counties~Oklahoma\Tulsa,County\cities~TulsaTulsa.secret.md)
+

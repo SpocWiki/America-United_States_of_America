@@ -1,4 +1,4 @@
-﻿---
+---
 location: [44.25,-72.56667] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Vermont/City/Montpelier|Montpelier]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Vermont/City/Montpelier.public|Montpelier.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Vermont/City/Montpelier.internal|Montpelier.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Vermont/City/Montpelier.protect|Montpelier.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Vermont/City/Montpelier.private|Montpelier.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Vermont/City/Montpelier.personal|Montpelier.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Vermont/City/Montpelier.secret|Montpelier.secret]] 
+
+### [Montpelier,Vermont.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\Vermont\counties~Vermont\Washington,Vermont,County\cities~Washington,VTMontpelier,Vermont.public.md) 
+
+### [Montpelier,Vermont.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\Vermont\counties~Vermont\Washington,Vermont,County\cities~Washington,VTMontpelier,Vermont.internal.md) 
+
+### [Montpelier,Vermont.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\Vermont\counties~Vermont\Washington,Vermont,County\cities~Washington,VTMontpelier,Vermont.protect.md) 
+
+### [Montpelier,Vermont.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\Vermont\counties~Vermont\Washington,Vermont,County\cities~Washington,VTMontpelier,Vermont.private.md) 
+
+### [Montpelier,Vermont.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\Vermont\counties~Vermont\Washington,Vermont,County\cities~Washington,VTMontpelier,Vermont.personal.md) 
+
+### [Montpelier,Vermont.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\Vermont\counties~Vermont\Washington,Vermont,County\cities~Washington,VTMontpelier,Vermont.secret.md)
+

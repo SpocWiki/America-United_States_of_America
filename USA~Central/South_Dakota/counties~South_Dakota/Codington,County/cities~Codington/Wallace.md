@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45.08,-97.45] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/South_Dakota/City/Wallace|Wallace]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/South_Dakota/City/Wallace.public|Wallace.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/South_Dakota/City/Wallace.internal|Wallace.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/South_Dakota/City/Wallace.protect|Wallace.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/South_Dakota/City/Wallace.private|Wallace.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/South_Dakota/City/Wallace.personal|Wallace.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/South_Dakota/City/Wallace.secret|Wallace.secret]] 
+
+### [Wallace.public](/_public/\Earth\Continent\America~North\USA\USA~Central\South_Dakota\counties~South_Dakota\Codington,County\cities~CodingtonWallace.public.md) 
+
+### [Wallace.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\South_Dakota\counties~South_Dakota\Codington,County\cities~CodingtonWallace.internal.md) 
+
+### [Wallace.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\South_Dakota\counties~South_Dakota\Codington,County\cities~CodingtonWallace.protect.md) 
+
+### [Wallace.private](/_private/\Earth\Continent\America~North\USA\USA~Central\South_Dakota\counties~South_Dakota\Codington,County\cities~CodingtonWallace.private.md) 
+
+### [Wallace.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\South_Dakota\counties~South_Dakota\Codington,County\cities~CodingtonWallace.personal.md) 
+
+### [Wallace.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\South_Dakota\counties~South_Dakota\Codington,County\cities~CodingtonWallace.secret.md)
+

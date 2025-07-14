@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.63,-117.42] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Washington/City/Spokane|Spokane]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Washington/City/Spokane.public|Spokane.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Washington/City/Spokane.internal|Spokane.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Washington/City/Spokane.protect|Spokane.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Washington/City/Spokane.private|Spokane.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Washington/City/Spokane.personal|Spokane.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Washington/City/Spokane.secret|Spokane.secret]] 
+
+### [Spokane.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\Washington\counties~Washington\Spokane,County\cities~SpokaneSpokane.public.md) 
+
+### [Spokane.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\Washington\counties~Washington\Spokane,County\cities~SpokaneSpokane.internal.md) 
+
+### [Spokane.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\Washington\counties~Washington\Spokane,County\cities~SpokaneSpokane.protect.md) 
+
+### [Spokane.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\Washington\counties~Washington\Spokane,County\cities~SpokaneSpokane.private.md) 
+
+### [Spokane.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\Washington\counties~Washington\Spokane,County\cities~SpokaneSpokane.personal.md) 
+
+### [Spokane.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\Washington\counties~Washington\Spokane,County\cities~SpokaneSpokane.secret.md)
+

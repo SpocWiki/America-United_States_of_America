@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Hawaii/City/Honolulu|Honolulu]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Hawaii/City/Honolulu.public|Honolulu.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Hawaii/City/Honolulu.internal|Honolulu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Hawaii/City/Honolulu.protect|Honolulu.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Hawaii/City/Honolulu.private|Honolulu.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Hawaii/City/Honolulu.personal|Honolulu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Hawaii/City/Honolulu.secret|Honolulu.secret]] 
+
+### [Honolulu.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\Hawaii\counties~Hawaii\Honolulu,County\cities~HonoluluHonolulu.public.md) 
+
+### [Honolulu.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\Hawaii\counties~Hawaii\Honolulu,County\cities~HonoluluHonolulu.internal.md) 
+
+### [Honolulu.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\Hawaii\counties~Hawaii\Honolulu,County\cities~HonoluluHonolulu.protect.md) 
+
+### [Honolulu.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\Hawaii\counties~Hawaii\Honolulu,County\cities~HonoluluHonolulu.private.md) 
+
+### [Honolulu.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\Hawaii\counties~Hawaii\Honolulu,County\cities~HonoluluHonolulu.personal.md) 
+
+### [Honolulu.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\Hawaii\counties~Hawaii\Honolulu,County\cities~HonoluluHonolulu.secret.md)
+

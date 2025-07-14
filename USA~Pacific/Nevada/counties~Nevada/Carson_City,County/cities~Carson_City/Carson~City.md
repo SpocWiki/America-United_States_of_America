@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Nevada/City/Carson~City|Carson~City]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Nevada/City/Carson~City.public|Carson~City.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Nevada/City/Carson~City.internal|Carson~City.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Nevada/City/Carson~City.protect|Carson~City.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Nevada/City/Carson~City.private|Carson~City.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Nevada/City/Carson~City.personal|Carson~City.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Nevada/City/Carson~City.secret|Carson~City.secret]] 
+
+### [Carson~City.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\Nevada\counties~Nevada\Carson_City,County\cities~Carson_CityCarson~City.public.md) 
+
+### [Carson~City.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\Nevada\counties~Nevada\Carson_City,County\cities~Carson_CityCarson~City.internal.md) 
+
+### [Carson~City.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\Nevada\counties~Nevada\Carson_City,County\cities~Carson_CityCarson~City.protect.md) 
+
+### [Carson~City.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\Nevada\counties~Nevada\Carson_City,County\cities~Carson_CityCarson~City.private.md) 
+
+### [Carson~City.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\Nevada\counties~Nevada\Carson_City,County\cities~Carson_CityCarson~City.personal.md) 
+
+### [Carson~City.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\Nevada\counties~Nevada\Carson_City,County\cities~Carson_CityCarson~City.secret.md)
+

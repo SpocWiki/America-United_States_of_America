@@ -1,4 +1,4 @@
-﻿---
+---
 location: [39.75,-93.33] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Missouri/City/Summer|Summer]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Missouri/City/Summer.public|Summer.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Missouri/City/Summer.internal|Summer.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Missouri/City/Summer.protect|Summer.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Missouri/City/Summer.private|Summer.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Missouri/City/Summer.personal|Summer.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Missouri/City/Summer.secret|Summer.secret]] 
+
+### [Summer.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Missouri\counties~Missouri\Linn,County\cities~LinnSummer.public.md) 
+
+### [Summer.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Missouri\counties~Missouri\Linn,County\cities~LinnSummer.internal.md) 
+
+### [Summer.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Missouri\counties~Missouri\Linn,County\cities~LinnSummer.protect.md) 
+
+### [Summer.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Missouri\counties~Missouri\Linn,County\cities~LinnSummer.private.md) 
+
+### [Summer.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Missouri\counties~Missouri\Linn,County\cities~LinnSummer.personal.md) 
+
+### [Summer.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Missouri\counties~Missouri\Linn,County\cities~LinnSummer.secret.md)
+

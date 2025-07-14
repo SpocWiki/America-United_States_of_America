@@ -39,10 +39,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA/Maryland|Maryland]] 
-- [[../../../../../_public/geo/Continent/America~North/USA/Maryland.public|Maryland.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA/Maryland.internal|Maryland.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA/Maryland.protect|Maryland.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA/Maryland.private|Maryland.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA/Maryland.personal|Maryland.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA/Maryland.secret|Maryland.secret]] 
+
+### [Maryland.public](/_public/\Earth\Continent\America~North\USA\USA~EasternMaryland.public.md) 
+
+### [Maryland.internal](/_internal/\Earth\Continent\America~North\USA\USA~EasternMaryland.internal.md) 
+
+### [Maryland.protect](/_protect/\Earth\Continent\America~North\USA\USA~EasternMaryland.protect.md) 
+
+### [Maryland.private](/_private/\Earth\Continent\America~North\USA\USA~EasternMaryland.private.md) 
+
+### [Maryland.personal](/_personal/\Earth\Continent\America~North\USA\USA~EasternMaryland.personal.md) 
+
+### [Maryland.secret](/_secret/\Earth\Continent\America~North\USA\USA~EasternMaryland.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [42.33,-83.05] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Michigan/City/Detroit|Detroit]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Michigan/City/Detroit.public|Detroit.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Michigan/City/Detroit.internal|Detroit.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Michigan/City/Detroit.protect|Detroit.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Michigan/City/Detroit.private|Detroit.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Michigan/City/Detroit.personal|Detroit.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Michigan/City/Detroit.secret|Detroit.secret]] 
+
+### [Detroit.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Michigan\counties~Michigan\Wayne,County\cities~WayneDetroit.public.md) 
+
+### [Detroit.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Michigan\counties~Michigan\Wayne,County\cities~WayneDetroit.internal.md) 
+
+### [Detroit.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Michigan\counties~Michigan\Wayne,County\cities~WayneDetroit.protect.md) 
+
+### [Detroit.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Michigan\counties~Michigan\Wayne,County\cities~WayneDetroit.private.md) 
+
+### [Detroit.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Michigan\counties~Michigan\Wayne,County\cities~WayneDetroit.personal.md) 
+
+### [Detroit.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Michigan\counties~Michigan\Wayne,County\cities~WayneDetroit.secret.md)
+

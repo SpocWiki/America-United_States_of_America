@@ -1,4 +1,4 @@
-﻿---
+---
 location: [35.66722,-105.9644] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/New_Mexico/City/Santa_Fe|Santa_Fe]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/New_Mexico/City/Santa_Fe.public|Santa_Fe.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/New_Mexico/City/Santa_Fe.internal|Santa_Fe.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/New_Mexico/City/Santa_Fe.protect|Santa_Fe.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/New_Mexico/City/Santa_Fe.private|Santa_Fe.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/New_Mexico/City/Santa_Fe.personal|Santa_Fe.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/New_Mexico/City/Santa_Fe.secret|Santa_Fe.secret]] 
+
+### [Santa_Fe.public](/_public/\Earth\Continent\America~North\USA\USA~Mountain\New_Mexico\counties~New_Mexico\Santa_Fe,County\cities~Santa_FeSanta_Fe.public.md) 
+
+### [Santa_Fe.internal](/_internal/\Earth\Continent\America~North\USA\USA~Mountain\New_Mexico\counties~New_Mexico\Santa_Fe,County\cities~Santa_FeSanta_Fe.internal.md) 
+
+### [Santa_Fe.protect](/_protect/\Earth\Continent\America~North\USA\USA~Mountain\New_Mexico\counties~New_Mexico\Santa_Fe,County\cities~Santa_FeSanta_Fe.protect.md) 
+
+### [Santa_Fe.private](/_private/\Earth\Continent\America~North\USA\USA~Mountain\New_Mexico\counties~New_Mexico\Santa_Fe,County\cities~Santa_FeSanta_Fe.private.md) 
+
+### [Santa_Fe.personal](/_personal/\Earth\Continent\America~North\USA\USA~Mountain\New_Mexico\counties~New_Mexico\Santa_Fe,County\cities~Santa_FeSanta_Fe.personal.md) 
+
+### [Santa_Fe.secret](/_secret/\Earth\Continent\America~North\USA\USA~Mountain\New_Mexico\counties~New_Mexico\Santa_Fe,County\cities~Santa_FeSanta_Fe.secret.md)
+

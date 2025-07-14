@@ -1,4 +1,4 @@
-﻿---
+---
 location: [39.58,-76.38] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Maryland/City/Forest_Hill|Forest_Hill]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Maryland/City/Forest_Hill.public|Forest_Hill.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Maryland/City/Forest_Hill.internal|Forest_Hill.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Maryland/City/Forest_Hill.protect|Forest_Hill.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Maryland/City/Forest_Hill.private|Forest_Hill.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Maryland/City/Forest_Hill.personal|Forest_Hill.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Maryland/City/Forest_Hill.secret|Forest_Hill.secret]] 
+
+### [Forest_Hill.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\Maryland\counties~Maryland\Harford,County\cities~HarfordForest_Hill.public.md) 
+
+### [Forest_Hill.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\Maryland\counties~Maryland\Harford,County\cities~HarfordForest_Hill.internal.md) 
+
+### [Forest_Hill.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\Maryland\counties~Maryland\Harford,County\cities~HarfordForest_Hill.protect.md) 
+
+### [Forest_Hill.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\Maryland\counties~Maryland\Harford,County\cities~HarfordForest_Hill.private.md) 
+
+### [Forest_Hill.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\Maryland\counties~Maryland\Harford,County\cities~HarfordForest_Hill.personal.md) 
+
+### [Forest_Hill.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\Maryland\counties~Maryland\Harford,County\cities~HarfordForest_Hill.secret.md)
+

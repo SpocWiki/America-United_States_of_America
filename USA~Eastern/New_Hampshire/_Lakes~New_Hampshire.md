@@ -40,11 +40,16 @@ markerFolder: ./_Lakes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/USA~Eastern/New_Hampshire/_Lakes|_Lakes]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/USA~Eastern/New_Hampshire/_Lakes.public|_Lakes.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/USA~Eastern/New_Hampshire/_Lakes.internal|_Lakes.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/USA~Eastern/New_Hampshire/_Lakes.protect|_Lakes.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/USA~Eastern/New_Hampshire/_Lakes.private|_Lakes.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/USA~Eastern/New_Hampshire/_Lakes.personal|_Lakes.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/USA~Eastern/New_Hampshire/_Lakes.secret|_Lakes.secret]] 
+
+### [_Lakes~New_Hampshire.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\New_Hampshire_Lakes~New_Hampshire.public.md) 
+
+### [_Lakes~New_Hampshire.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\New_Hampshire_Lakes~New_Hampshire.internal.md) 
+
+### [_Lakes~New_Hampshire.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\New_Hampshire_Lakes~New_Hampshire.protect.md) 
+
+### [_Lakes~New_Hampshire.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\New_Hampshire_Lakes~New_Hampshire.private.md) 
+
+### [_Lakes~New_Hampshire.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\New_Hampshire_Lakes~New_Hampshire.personal.md) 
+
+### [_Lakes~New_Hampshire.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\New_Hampshire_Lakes~New_Hampshire.secret.md)
 

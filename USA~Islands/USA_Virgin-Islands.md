@@ -126,12 +126,17 @@ Continent :: [[South-America]]
 [has_place_latitude::] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA_Outlying-Islands/USA_Virgin-Islands|USA_Virgin-Islands]] 
-- [[../../../../../_public/geo/Continent/America~North/USA_Outlying-Islands/USA_Virgin-Islands.public|USA_Virgin-Islands.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA_Outlying-Islands/USA_Virgin-Islands.internal|USA_Virgin-Islands.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA_Outlying-Islands/USA_Virgin-Islands.protect|USA_Virgin-Islands.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA_Outlying-Islands/USA_Virgin-Islands.private|USA_Virgin-Islands.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA_Outlying-Islands/USA_Virgin-Islands.personal|USA_Virgin-Islands.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA_Outlying-Islands/USA_Virgin-Islands.secret|USA_Virgin-Islands.secret]] 
+
+### [USA_Virgin-Islands.public](/_public/\Earth\Continent\America~North\USA\USA~IslandsUSA_Virgin-Islands.public.md) 
+
+### [USA_Virgin-Islands.internal](/_internal/\Earth\Continent\America~North\USA\USA~IslandsUSA_Virgin-Islands.internal.md) 
+
+### [USA_Virgin-Islands.protect](/_protect/\Earth\Continent\America~North\USA\USA~IslandsUSA_Virgin-Islands.protect.md) 
+
+### [USA_Virgin-Islands.private](/_private/\Earth\Continent\America~North\USA\USA~IslandsUSA_Virgin-Islands.private.md) 
+
+### [USA_Virgin-Islands.personal](/_personal/\Earth\Continent\America~North\USA\USA~IslandsUSA_Virgin-Islands.personal.md) 
+
+### [USA_Virgin-Islands.secret](/_secret/\Earth\Continent\America~North\USA\USA~IslandsUSA_Virgin-Islands.secret.md)
+

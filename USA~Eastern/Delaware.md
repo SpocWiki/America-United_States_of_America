@@ -41,10 +41,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA/Delaware|Delaware]] 
-- [[../../../../../_public/geo/Continent/America~North/USA/Delaware.public|Delaware.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA/Delaware.internal|Delaware.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA/Delaware.protect|Delaware.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA/Delaware.private|Delaware.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA/Delaware.personal|Delaware.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA/Delaware.secret|Delaware.secret]] 
+
+### [Delaware.public](/_public/\Earth\Continent\America~North\USA\USA~EasternDelaware.public.md) 
+
+### [Delaware.internal](/_internal/\Earth\Continent\America~North\USA\USA~EasternDelaware.internal.md) 
+
+### [Delaware.protect](/_protect/\Earth\Continent\America~North\USA\USA~EasternDelaware.protect.md) 
+
+### [Delaware.private](/_private/\Earth\Continent\America~North\USA\USA~EasternDelaware.private.md) 
+
+### [Delaware.personal](/_personal/\Earth\Continent\America~North\USA\USA~EasternDelaware.personal.md) 
+
+### [Delaware.secret](/_secret/\Earth\Continent\America~North\USA\USA~EasternDelaware.secret.md)
+

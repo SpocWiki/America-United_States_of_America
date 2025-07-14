@@ -43,10 +43,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA/North_Dakota|North_Dakota]] 
-- [[../../../../../_public/geo/Continent/America~North/USA/North_Dakota.public|North_Dakota.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA/North_Dakota.internal|North_Dakota.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA/North_Dakota.protect|North_Dakota.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA/North_Dakota.private|North_Dakota.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA/North_Dakota.personal|North_Dakota.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA/North_Dakota.secret|North_Dakota.secret]] 
+
+### [North_Dakota.public](/_public/\Earth\Continent\America~North\USA\USA~CentralNorth_Dakota.public.md) 
+
+### [North_Dakota.internal](/_internal/\Earth\Continent\America~North\USA\USA~CentralNorth_Dakota.internal.md) 
+
+### [North_Dakota.protect](/_protect/\Earth\Continent\America~North\USA\USA~CentralNorth_Dakota.protect.md) 
+
+### [North_Dakota.private](/_private/\Earth\Continent\America~North\USA\USA~CentralNorth_Dakota.private.md) 
+
+### [North_Dakota.personal](/_personal/\Earth\Continent\America~North\USA\USA~CentralNorth_Dakota.personal.md) 
+
+### [North_Dakota.secret](/_secret/\Earth\Continent\America~North\USA\USA~CentralNorth_Dakota.secret.md)
+

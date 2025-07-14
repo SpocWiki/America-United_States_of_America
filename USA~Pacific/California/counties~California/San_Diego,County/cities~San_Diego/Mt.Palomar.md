@@ -1,4 +1,4 @@
-﻿---
+---
 location: [33.36,-116.86] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/California/City/Mt.Palomar|Mt.Palomar]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/California/City/Mt.Palomar.public|Mt.Palomar.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/California/City/Mt.Palomar.internal|Mt.Palomar.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/California/City/Mt.Palomar.protect|Mt.Palomar.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/California/City/Mt.Palomar.private|Mt.Palomar.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/California/City/Mt.Palomar.personal|Mt.Palomar.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/California/City/Mt.Palomar.secret|Mt.Palomar.secret]] 
+
+### [Mt.Palomar.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\San_Diego,County\cities~San_DiegoMt.Palomar.public.md) 
+
+### [Mt.Palomar.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\San_Diego,County\cities~San_DiegoMt.Palomar.internal.md) 
+
+### [Mt.Palomar.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\San_Diego,County\cities~San_DiegoMt.Palomar.protect.md) 
+
+### [Mt.Palomar.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\San_Diego,County\cities~San_DiegoMt.Palomar.private.md) 
+
+### [Mt.Palomar.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\San_Diego,County\cities~San_DiegoMt.Palomar.personal.md) 
+
+### [Mt.Palomar.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\California\counties~California\San_Diego,County\cities~San_DiegoMt.Palomar.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [39.78325,-89.65038] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Illinois/City/Springfield|Springfield]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Illinois/City/Springfield.public|Springfield.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Illinois/City/Springfield.internal|Springfield.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Illinois/City/Springfield.protect|Springfield.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Illinois/City/Springfield.private|Springfield.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Illinois/City/Springfield.personal|Springfield.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Illinois/City/Springfield.secret|Springfield.secret]] 
+
+### [Springfield.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Sangamon,County\cities~SangamonSpringfield.public.md) 
+
+### [Springfield.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Sangamon,County\cities~SangamonSpringfield.internal.md) 
+
+### [Springfield.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Sangamon,County\cities~SangamonSpringfield.protect.md) 
+
+### [Springfield.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Sangamon,County\cities~SangamonSpringfield.private.md) 
+
+### [Springfield.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Sangamon,County\cities~SangamonSpringfield.personal.md) 
+
+### [Springfield.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Illinois\counties~Illinois\Sangamon,County\cities~SangamonSpringfield.secret.md)
+

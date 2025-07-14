@@ -1,4 +1,4 @@
-﻿---
+---
 location: [36.16667,-86.78333] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Tennessee/City/Nashville|Nashville]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Tennessee/City/Nashville.public|Nashville.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Tennessee/City/Nashville.internal|Nashville.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Tennessee/City/Nashville.protect|Nashville.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Tennessee/City/Nashville.private|Nashville.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Tennessee/City/Nashville.personal|Nashville.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Tennessee/City/Nashville.secret|Nashville.secret]] 
+
+### [Nashville.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Tennessee\counties~Tennessee\Davidson,County\cities~DavidsonNashville.public.md) 
+
+### [Nashville.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Tennessee\counties~Tennessee\Davidson,County\cities~DavidsonNashville.internal.md) 
+
+### [Nashville.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Tennessee\counties~Tennessee\Davidson,County\cities~DavidsonNashville.protect.md) 
+
+### [Nashville.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Tennessee\counties~Tennessee\Davidson,County\cities~DavidsonNashville.private.md) 
+
+### [Nashville.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Tennessee\counties~Tennessee\Davidson,County\cities~DavidsonNashville.personal.md) 
+
+### [Nashville.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Tennessee\counties~Tennessee\Davidson,County\cities~DavidsonNashville.secret.md)
+

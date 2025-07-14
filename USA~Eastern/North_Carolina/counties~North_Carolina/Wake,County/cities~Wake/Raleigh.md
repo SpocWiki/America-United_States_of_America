@@ -1,4 +1,4 @@
-﻿---
+---
 location: [35.81889,-78.64472] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/North_Carolina/City/Raleigh|Raleigh]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/North_Carolina/City/Raleigh.public|Raleigh.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/North_Carolina/City/Raleigh.internal|Raleigh.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/North_Carolina/City/Raleigh.protect|Raleigh.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/North_Carolina/City/Raleigh.private|Raleigh.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/North_Carolina/City/Raleigh.personal|Raleigh.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/North_Carolina/City/Raleigh.secret|Raleigh.secret]] 
+
+### [Raleigh.public](/_public/\Earth\Continent\America~North\USA\USA~Eastern\North_Carolina\counties~North_Carolina\Wake,County\cities~WakeRaleigh.public.md) 
+
+### [Raleigh.internal](/_internal/\Earth\Continent\America~North\USA\USA~Eastern\North_Carolina\counties~North_Carolina\Wake,County\cities~WakeRaleigh.internal.md) 
+
+### [Raleigh.protect](/_protect/\Earth\Continent\America~North\USA\USA~Eastern\North_Carolina\counties~North_Carolina\Wake,County\cities~WakeRaleigh.protect.md) 
+
+### [Raleigh.private](/_private/\Earth\Continent\America~North\USA\USA~Eastern\North_Carolina\counties~North_Carolina\Wake,County\cities~WakeRaleigh.private.md) 
+
+### [Raleigh.personal](/_personal/\Earth\Continent\America~North\USA\USA~Eastern\North_Carolina\counties~North_Carolina\Wake,County\cities~WakeRaleigh.personal.md) 
+
+### [Raleigh.secret](/_secret/\Earth\Continent\America~North\USA\USA~Eastern\North_Carolina\counties~North_Carolina\Wake,County\cities~WakeRaleigh.secret.md)
+

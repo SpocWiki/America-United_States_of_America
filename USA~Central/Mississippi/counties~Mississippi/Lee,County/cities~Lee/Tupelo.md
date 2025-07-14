@@ -1,4 +1,4 @@
-﻿---
+---
 location: [34.27,-88.72] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Missouri/City/Tupelo|Tupelo]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Missouri/City/Tupelo.public|Tupelo.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Missouri/City/Tupelo.internal|Tupelo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Missouri/City/Tupelo.protect|Tupelo.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Missouri/City/Tupelo.private|Tupelo.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Missouri/City/Tupelo.personal|Tupelo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Missouri/City/Tupelo.secret|Tupelo.secret]] 
+
+### [Tupelo.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Mississippi\counties~Mississippi\Lee,County\cities~LeeTupelo.public.md) 
+
+### [Tupelo.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Mississippi\counties~Mississippi\Lee,County\cities~LeeTupelo.internal.md) 
+
+### [Tupelo.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Mississippi\counties~Mississippi\Lee,County\cities~LeeTupelo.protect.md) 
+
+### [Tupelo.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Mississippi\counties~Mississippi\Lee,County\cities~LeeTupelo.private.md) 
+
+### [Tupelo.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Mississippi\counties~Mississippi\Lee,County\cities~LeeTupelo.personal.md) 
+
+### [Tupelo.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Mississippi\counties~Mississippi\Lee,County\cities~LeeTupelo.secret.md)
+

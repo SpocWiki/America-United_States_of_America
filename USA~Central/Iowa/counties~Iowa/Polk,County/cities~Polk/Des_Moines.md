@@ -1,4 +1,4 @@
-﻿---
+---
 location: [41.59083,-93.62083] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Iowa/City/Des_Moines|Des_Moines]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Iowa/City/Des_Moines.public|Des_Moines.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Iowa/City/Des_Moines.internal|Des_Moines.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Iowa/City/Des_Moines.protect|Des_Moines.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Iowa/City/Des_Moines.private|Des_Moines.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Iowa/City/Des_Moines.personal|Des_Moines.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Iowa/City/Des_Moines.secret|Des_Moines.secret]] 
+
+### [Des_Moines.public](/_public/\Earth\Continent\America~North\USA\USA~Central\Iowa\counties~Iowa\Polk,County\cities~PolkDes_Moines.public.md) 
+
+### [Des_Moines.internal](/_internal/\Earth\Continent\America~North\USA\USA~Central\Iowa\counties~Iowa\Polk,County\cities~PolkDes_Moines.internal.md) 
+
+### [Des_Moines.protect](/_protect/\Earth\Continent\America~North\USA\USA~Central\Iowa\counties~Iowa\Polk,County\cities~PolkDes_Moines.protect.md) 
+
+### [Des_Moines.private](/_private/\Earth\Continent\America~North\USA\USA~Central\Iowa\counties~Iowa\Polk,County\cities~PolkDes_Moines.private.md) 
+
+### [Des_Moines.personal](/_personal/\Earth\Continent\America~North\USA\USA~Central\Iowa\counties~Iowa\Polk,County\cities~PolkDes_Moines.personal.md) 
+
+### [Des_Moines.secret](/_secret/\Earth\Continent\America~North\USA\USA~Central\Iowa\counties~Iowa\Polk,County\cities~PolkDes_Moines.secret.md)
+

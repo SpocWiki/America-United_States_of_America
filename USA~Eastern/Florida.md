@@ -40,10 +40,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/America~North/USA/Florida|Florida]] 
-- [[../../../../../_public/geo/Continent/America~North/USA/Florida.public|Florida.public]] 
-- [[../../../../../_internal/geo/Continent/America~North/USA/Florida.internal|Florida.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/USA/Florida.protect|Florida.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/USA/Florida.private|Florida.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/USA/Florida.personal|Florida.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/USA/Florida.secret|Florida.secret]] 
+
+### [Florida.public](/_public/\Earth\Continent\America~North\USA\USA~EasternFlorida.public.md) 
+
+### [Florida.internal](/_internal/\Earth\Continent\America~North\USA\USA~EasternFlorida.internal.md) 
+
+### [Florida.protect](/_protect/\Earth\Continent\America~North\USA\USA~EasternFlorida.protect.md) 
+
+### [Florida.private](/_private/\Earth\Continent\America~North\USA\USA~EasternFlorida.private.md) 
+
+### [Florida.personal](/_personal/\Earth\Continent\America~North\USA\USA~EasternFlorida.personal.md) 
+
+### [Florida.secret](/_secret/\Earth\Continent\America~North\USA\USA~EasternFlorida.secret.md)
+

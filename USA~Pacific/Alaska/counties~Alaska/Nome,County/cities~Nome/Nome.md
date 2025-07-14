@@ -1,4 +1,4 @@
-﻿---
+---
 location: [64.5,-165.2] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~North/USA/Alaska/City/Nome|Nome]] 
-- [[../../../../../../../_public/geo/Continent/America~North/USA/Alaska/City/Nome.public|Nome.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~North/USA/Alaska/City/Nome.internal|Nome.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~North/USA/Alaska/City/Nome.protect|Nome.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~North/USA/Alaska/City/Nome.private|Nome.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~North/USA/Alaska/City/Nome.personal|Nome.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~North/USA/Alaska/City/Nome.secret|Nome.secret]] 
+
+### [Nome.public](/_public/\Earth\Continent\America~North\USA\USA~Pacific\Alaska\counties~Alaska\Nome,County\cities~NomeNome.public.md) 
+
+### [Nome.internal](/_internal/\Earth\Continent\America~North\USA\USA~Pacific\Alaska\counties~Alaska\Nome,County\cities~NomeNome.internal.md) 
+
+### [Nome.protect](/_protect/\Earth\Continent\America~North\USA\USA~Pacific\Alaska\counties~Alaska\Nome,County\cities~NomeNome.protect.md) 
+
+### [Nome.private](/_private/\Earth\Continent\America~North\USA\USA~Pacific\Alaska\counties~Alaska\Nome,County\cities~NomeNome.private.md) 
+
+### [Nome.personal](/_personal/\Earth\Continent\America~North\USA\USA~Pacific\Alaska\counties~Alaska\Nome,County\cities~NomeNome.personal.md) 
+
+### [Nome.secret](/_secret/\Earth\Continent\America~North\USA\USA~Pacific\Alaska\counties~Alaska\Nome,County\cities~NomeNome.secret.md)
+
