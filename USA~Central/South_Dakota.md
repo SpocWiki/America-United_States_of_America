@@ -13,6 +13,9 @@ aliases:
   - South Dakota
   - South_Dakota
 ---
+
+# [[South_Dakota]] 
+
 [name::South Dakota] 
 [name-abbr::SD] 
 #is_a_/member_of_/:: [[USA]]
