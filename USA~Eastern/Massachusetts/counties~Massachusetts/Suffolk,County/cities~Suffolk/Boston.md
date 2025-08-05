@@ -1,17 +1,22 @@
 ---
-location: [42.33,-71.08] 
-mapzoom: [7,12] 
-mapmarker: city 
+location:
+  - 42.33
+  - -71.08
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29291
 isDeleted: false
 confidential: public
-
+has_id_wikidata: Q100
 ---
+
+# [[Boston]] 
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::-71.08] 
@@ -22,6 +27,9 @@ State :: [[../../Massachusetts]]
 [Population::] 
 [Unknown::] 
 
+#is_/same_as  :: [[../../../../../../../../../WikiData/WD~Boston,100|WD~Boston,100]] 
+
+## #has_/map 
 
 ```leaflet
 id: Boston
