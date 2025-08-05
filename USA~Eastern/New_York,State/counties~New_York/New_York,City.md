@@ -327,6 +327,8 @@ located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~New_
 official_language: '[[_Standards/WikiData/WD~English,1860]]'
 ---
 
+# [[New_York,City]] 
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::-74.02] 
@@ -337,11 +339,15 @@ State :: [[../../New_York,State]]
 [Population::] 
 [Unknown::] 
 
+#is_/same_as :: [[../../../../../../../WikiData/WD~New_York_City,60|WD~New_York_City,60]] 
+
+## #has_/map 
+
 
 ```leaflet
 id: New York
-coordinates: [[New_York]] 
-markerFile: [[New_York]] 
+coordinates: [[New_York,City]] 
+markerFile: [[New_York,City]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
