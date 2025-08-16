@@ -10,6 +10,9 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [[Colorado]] 
+
 [name::Colorado] 
 [name-abbr::CO] 
 #is_a_/member_of_/:: [[USA]]
@@ -30,6 +33,9 @@ Capital :: [[Colorado/City/Denver]]
 [has_place_latitude::39.5] 
 [Population::] 
 
+#is_/same_as :: [[_Standards/WikiData/WD~Colorado,1261]] 
+
+## #has_/map 
 
 
 ```leaflet
