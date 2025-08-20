@@ -1,33 +1,34 @@
 ---
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 27054
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: U.S. Virgin Islands
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- U.S. Virgin Islands
-- United States Virgin Islands
-- Islas Vírgenes de los Estados Unidos
-- Îles Vierges américaines
-- جزر فرجن التابعة للولايات المتحدة
-- 美属维尔京群岛
-- Виргинские oстрова Coeдинeнныx Штaтoв
-- 
+  - U.S. Virgin Islands
+  - United States Virgin Islands
+  - Islas Vírgenes de los Estados Unidos
+  - Îles Vierges américaines
+  - جزر فرجن التابعة للولايات المتحدة
+  - 美属维尔京群岛
+  - Виргинские oстрова Coeдинeнныx Штaтoв
+  - 
 Languages:
-- en-VI
+  - en-VI
 ---
 
 
