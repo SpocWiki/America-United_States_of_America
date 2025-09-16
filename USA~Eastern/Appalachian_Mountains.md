@@ -4,6 +4,72 @@ aliases:
   - Appalachian Mountains
   - Appalachians
   - Appalachian
+  - Appalachen
+has_part_s_:
+  - "[[_Standards/WikiData/WD~Blue_Ridge_Mountains,166755]]"
+  - "[[_Standards/WikiData/WD~Adirondack_Mountains,357546]]"
+  - "[[_Standards/WikiData/WD~Catskill_Mountains,630566]]"
+  - "[[_Standards/WikiData/WD~Notre_Dame_Mountains,693579]]"
+  - "[[_Standards/WikiData/WD~Berkshires,820961]]"
+  - "[[_Standards/WikiData/WD~White_Mountains,1556007]]"
+  - "[[_Standards/WikiData/WD~Pocono_Mountains,2745292]]"
+  - "[[_Standards/WikiData/WD~Green_Mountains,41507]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
+  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+highest_point: "[[_Standards/WikiData/WD~Mount_Mitchell,615337]]"
+list_related_to_category: "[[_Standards/WikiData/WD~list_of_subranges_of_the_Appalachian_Mountains,124314448]]"
+located_in_the_administrative_territorial_entity:
+  - "[[_Standards/WikiData/WD~Maine,724]]"
+  - "[[_Standards/WikiData/WD~New_Hampshire,759]]"
+  - "[[_Standards/WikiData/WD~Massachusetts,771]]"
+  - "[[_Standards/WikiData/WD~Connecticut,779]]"
+  - "[[_Standards/WikiData/WD~Virginia,1370]]"
+  - "[[_Standards/WikiData/WD~West_Virginia,1371]]"
+  - "[[_Standards/WikiData/WD~New_York,1384]]"
+  - "[[_Standards/WikiData/WD~Maryland,1391]]"
+  - "[[_Standards/WikiData/WD~Ohio,1397]]"
+  - "[[_Standards/WikiData/WD~Pennsylvania,1400]]"
+  - "[[_Standards/WikiData/WD~New_Jersey,1408]]"
+  - "[[_Standards/WikiData/WD~Georgia,1428]]"
+  - "[[_Standards/WikiData/WD~North_Carolina,1454]]"
+  - "[[_Standards/WikiData/WD~South_Carolina,1456]]"
+  - "[[_Standards/WikiData/WD~Tennessee,1509]]"
+  - "[[_Standards/WikiData/WD~Kentucky,1603]]"
+  - "[[_Standards/WikiData/WD~Nova_Scotia,1952]]"
+  - "[[_Standards/WikiData/WD~New_Brunswick,1965]]"
+  - "[[_Standards/WikiData/WD~Newfoundland_and_Labrador,2003]]"
+  - "[[_Standards/WikiData/WD~Vermont,16551]]"
+  - "[[_Standards/WikiData/WD~Alabama,173]]"
+  - "[[_Standards/WikiData/WD~Quebec,176]]"
+  - "[[_Standards/WikiData/WD~Saint_Pierre_and_Miquelon,34617]]"
+continent: "[[_Standards/WikiData/WD~Americas,828]]"
+country:
+  - "[[_Standards/WikiData/WD~Canada,16]]"
+  - "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~France,142]]"
+length: 2400
+width: 480
+instance_of: "[[_Standards/WikiData/WD~mountain_range,46831]]"
+named_after: "[[_Standards/WikiData/WD~Apalachee_people,49306]]"
+elevation_above_sea_level: 2037
+U_S_National_Archives_Identifier: "10046795"
+OmegaWiki_Defined_Meaning: "1638065"
+coordinate_location: Point(-79.0 38.0)
+native_label: Appalachian Mountains
+Commons_category: Appalachian Mountains
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Appalachian%20Mountains%20WV%20Banner.jpg
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/AppalachianLocatorMap2.png
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Mitchell-27527.jpg
 ---
 
 # [[Appalachian_Mountains]] 
