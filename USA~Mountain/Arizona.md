@@ -10,6 +10,9 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [[Arizona]] 
+
 [name::Arizona] 
 [name-abbr::AZ] 
 #is_a_/member_of_/:: [[USA]]
@@ -28,7 +31,7 @@ Capital :: [[Arizona/City/Phoenix]]
 [has_place_latitude::33.5] 
 [Population::] 
 
-
+## #has_/map 
 
 ```leaflet
 id: Arizona

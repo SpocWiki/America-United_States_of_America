@@ -12,6 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [[San_Francisco]] 
+
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::-122.43] 
@@ -22,6 +26,9 @@ State :: [[../../California]]
 [Population::] 
 [Unknown::] 
 
+#is_/same_as :: Golden_Gate_Bridge
+
+## #has_/map 
 
 ```leaflet
 id: San Francisco
