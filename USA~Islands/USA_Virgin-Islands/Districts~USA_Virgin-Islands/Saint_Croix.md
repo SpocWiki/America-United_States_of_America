@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Saint_Croix
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Saint_Croix/
 markerFolder: ./Saint_Croix/

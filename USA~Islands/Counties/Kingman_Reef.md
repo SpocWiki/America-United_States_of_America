@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Kingman_Reef
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Kingman_Reef/
 markerFolder: ./Kingman_Reef/

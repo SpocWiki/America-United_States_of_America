@@ -36,7 +36,7 @@ id: New_Mexico
 geojsonFolder: ./New_Mexico/
 markerFolder: ./New_Mexico/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

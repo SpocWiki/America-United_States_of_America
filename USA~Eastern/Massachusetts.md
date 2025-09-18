@@ -34,7 +34,7 @@ id: Massachusetts
 geojsonFolder: ./Massachusetts//
 markerFolder: ./Massachusetts//
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

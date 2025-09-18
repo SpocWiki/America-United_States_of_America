@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Saint_Thomas
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Saint_Thomas/
 markerFolder: ./Saint_Thomas/

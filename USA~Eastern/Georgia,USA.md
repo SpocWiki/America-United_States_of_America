@@ -34,7 +34,7 @@ id: Georgia.USA
 geojsonFolder: ./Georgia.USA/
 markerFolder: ./Georgia.USA/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

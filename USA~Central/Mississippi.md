@@ -34,7 +34,7 @@ id: Mississippi
 geojsonFolder: ./Mississippi/
 markerFolder: ./Mississippi/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

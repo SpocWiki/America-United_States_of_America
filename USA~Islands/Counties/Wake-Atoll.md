@@ -34,7 +34,7 @@ expiryDate:
 ```leaflet
 id: Wake-Atoll
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Wake-Atoll/
 markerFolder: ./Wake-Atoll/

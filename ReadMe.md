@@ -91,7 +91,7 @@ and the subsequent drafting and ratification of the U.S. Constitution in 1787.
 ```leaflet
 id: United States of America
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: [USA~Pacific/,USA~Mountain/,USA~Islands/,USA~Eastern/,USA~Central/]
 markerFolder: [USA~Pacific/,USA~Mountain/,USA~Islands/,USA~Eastern/,USA~Central/]

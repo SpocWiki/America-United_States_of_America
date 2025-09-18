@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Guantanamo_Bay_USNB
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Guantanamo_Bay_USNB/
 markerFolder: ./Guantanamo_Bay_USNB/

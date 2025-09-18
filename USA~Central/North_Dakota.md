@@ -37,7 +37,7 @@ id: North_Dakota
 geojsonFolder: ./North_Dakota/
 markerFolder: ./North_Dakota/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

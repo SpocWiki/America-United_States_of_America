@@ -93,7 +93,7 @@ id: Colorado
 geojsonFolder: ./Colorado_River/
 markerFolder: ./Colorado_River/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

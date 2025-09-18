@@ -41,7 +41,7 @@ id: Rhode_Island
 geojsonFolder: ./Rhode_Island/
 markerFolder: ./Rhode_Island/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

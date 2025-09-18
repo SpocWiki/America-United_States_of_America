@@ -34,7 +34,7 @@ expiryDate:
 ```leaflet
 id: [[Baker-Island]]
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Baker-Island/
 markerFolder: ./Baker-Island/

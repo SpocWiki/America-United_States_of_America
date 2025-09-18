@@ -34,7 +34,7 @@ id: Illinois
 geojsonFolder: ./Illinois/
 markerFolder: ./Illinois/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

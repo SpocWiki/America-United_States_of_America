@@ -41,7 +41,7 @@ id: West_Virginia
 geojsonFolder: ./West_Virginia/
 markerFolder: ./West_Virginia/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

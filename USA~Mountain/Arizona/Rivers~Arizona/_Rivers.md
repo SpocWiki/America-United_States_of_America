@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: _Rivers
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./_Rivers/
 markerFolder: ./_Rivers/

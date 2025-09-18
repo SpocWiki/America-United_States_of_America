@@ -36,7 +36,7 @@ id: New_Jersey
 geojsonFolder: ./New_Jersey/
 markerFolder: ./New_Jersey/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

@@ -35,7 +35,7 @@ id: Nevada
 geojsonFolder: ./Nevada/
 markerFolder: ./Nevada/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

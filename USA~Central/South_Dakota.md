@@ -41,7 +41,7 @@ id: South_Dakota
 geojsonFolder: ./South_Dakota/
 markerFolder: ./South_Dakota/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

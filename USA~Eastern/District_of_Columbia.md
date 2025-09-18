@@ -47,7 +47,7 @@ id: District_of_Columbia
 geojsonFolder: ./District_of_Columbia//
 markerFolder: ./District_of_Columbia/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

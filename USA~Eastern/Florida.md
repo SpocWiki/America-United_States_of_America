@@ -256,7 +256,7 @@ id: Florida
 geojsonFolder: ./Florida//
 markerFolder: ./Florida/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

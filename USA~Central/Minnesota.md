@@ -34,7 +34,7 @@ id: Minnesota
 geojsonFolder: ./Minnesota/
 markerFolder: ./Minnesota/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

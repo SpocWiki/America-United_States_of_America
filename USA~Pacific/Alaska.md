@@ -36,7 +36,7 @@ id: Alaska
 geojsonFolder: ./Alaska/ 
 markerFolder: ./Alaska/ 
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

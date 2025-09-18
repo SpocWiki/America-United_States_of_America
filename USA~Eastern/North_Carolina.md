@@ -37,7 +37,7 @@ id: North_Carolina
 geojsonFolder: ./North_Carolina/
 markerFolder: ./North_Carolina/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

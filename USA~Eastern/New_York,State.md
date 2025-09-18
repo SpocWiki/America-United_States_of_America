@@ -41,7 +41,7 @@ id: New_York
 geojsonFolder: ./New_York.State//
 markerFolder: ./New_York.State//
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

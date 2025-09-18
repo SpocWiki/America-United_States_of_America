@@ -106,7 +106,7 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 ```leaflet
 id: Virgin Islands (U.S.)
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./USA_Virgin-Islands/
 markerFolder: ./USA_Virgin-Islands/

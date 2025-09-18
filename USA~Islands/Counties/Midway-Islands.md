@@ -35,7 +35,7 @@ expiryDate:
 ```leaflet
 id: Midway-Islands
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Midway-Islands/
 markerFolder: ./Midway-Islands/

@@ -39,7 +39,7 @@ id: South_Carolina
 geojsonFolder: ./South_Carolina/
 markerFolder: ./South_Carolina/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

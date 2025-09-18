@@ -34,7 +34,7 @@ id: Iowa
 geojsonFolder: ./Iowa/
 markerFolder: ./Iowa/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

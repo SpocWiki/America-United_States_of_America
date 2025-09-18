@@ -35,7 +35,7 @@ id: Kansas
 geojsonFolder: ./Kansas/
 markerFolder: ./Kansas/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 
