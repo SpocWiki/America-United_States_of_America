@@ -145,6 +145,8 @@ P8189: "987007554951505171"
 UN_LOCODE: USATL
 ---
 
+# [[Atlanta]] 
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::-84.38] 
@@ -155,6 +157,9 @@ State :: [[../../../../Europe/Georgia~Europe]] ]
 [Population::] 
 [Unknown::] 
 
+#is_/same_as :: [[../../../../../../../../../WikiData/WD~Atlanta,23556|WD~Atlanta,23556]] 
+
+## #has_/map  
 
 ```leaflet
 id: Atlanta
