@@ -10,6 +10,9 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [[Maryland]] 
+
 [name::Maryland] 
 [name-abbr::MD] 
 #is_a_/member_of_/:: [[USA]]
@@ -27,6 +30,10 @@ Capital :: [[Maryland/City/Annapolis]]
 [has_place_longitude::-76.4406] 
 [has_place_latitude::39.2765] 
 [Population::] 
+
+#is_/same_as :: [[Maryland]]
+
+## #has_/map  
 
 ```leaflet
 id: Maryland
