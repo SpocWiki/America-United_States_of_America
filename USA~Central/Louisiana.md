@@ -10,6 +10,9 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [[Louisiana]] 
+
 [name::Louisiana] 
 [name-abbr::LA] 
 #is_a_/member_of_/:: [[USA]]
@@ -27,11 +30,11 @@ Capital :: [[Louisiana/City/Baton_Rouge]]
 [has_place_latitude::30.214] 
 [Population::] 
 
-
+## #has_/map 
 
 ```leaflet
 id: Louisiana
-geojsonFolder: ./Louisiana/
+geojsonFolder: ./Louisiana//
 markerFolder: ./Louisiana/
 zoomFeatures: true 
 minZoom: 4 
