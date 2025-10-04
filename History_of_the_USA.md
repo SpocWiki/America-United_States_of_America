@@ -29,7 +29,7 @@ Commons_gallery: History of the United States
 Commons_category: History of the United States
 ---
 
-# [[History_of_the_United_States]] 
+# [[History_of_the_USA]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~History_of_the_United_States,131110|WD~History_of_the_United_States,131110]]  
 
