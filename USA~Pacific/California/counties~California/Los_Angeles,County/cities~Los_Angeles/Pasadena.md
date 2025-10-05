@@ -1,5 +1,6 @@
 ---
 has_id_wikidata: Q485176
+location: [ 34.1475, -118.143888888]
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Los_Angeles_County,104994]]"
 twinned_administrative_body:
   - "[[_Standards/WikiData/WD~Tangier,126148]]"
@@ -61,6 +62,19 @@ area: 59.901735
 # [[Pasadena]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Pasadena,485176]] 
+
+## #has_/map 
+
+```leaflet
+id: Pasadena
+coordinates: [[Pasadena]] 
+markerFile: [[Pasadena]] 
+geojsonFolder: ./Pasadena//
+markerFolder: ./Pasadena/
+defaultZoom: 11 
+maxZoom: 18
+```
+
 
 ## #has_/text_of_/abstract 
 

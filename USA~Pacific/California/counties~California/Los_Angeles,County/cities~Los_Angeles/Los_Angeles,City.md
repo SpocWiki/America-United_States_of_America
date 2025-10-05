@@ -264,10 +264,16 @@ State :: [[../../California]]
 [Population::] 
 [Unknown::] 
 
+#is_/same_as :: [[../../../../../../../../../WikiData/WD~Los_Angeles,65|WD~Los_Angeles,65]] 
+
+## #has_/map 
+
 ```leaflet
-id: Los Angeles
-coordinates: [[Los_Angeles]] 
-markerFile: [[Los_Angeles]] 
+id: Los_Angeles,City
+coordinates: [[Los_Angeles,City]] 
+markerFile: [[Los_Angeles,City]] 
+geojsonFolder: ./Los_Angeles,City//
+markerFolder: ./Los_Angeles,City/
 defaultZoom: 11 
 maxZoom: 18
 ```
