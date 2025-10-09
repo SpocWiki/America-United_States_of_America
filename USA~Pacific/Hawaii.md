@@ -40,7 +40,7 @@ Capital :: [[Hawaii/City/Honolulu]]
 
 ```leaflet
 id: Hawaii
-geojsonFolder: ./Hawaii/
+geojsonFolder: ./Hawaii//
 markerFolder: ./Hawaii/
 zoomFeatures: true 
 minZoom: 4 
