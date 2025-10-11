@@ -343,11 +343,12 @@ State :: [[../../New_York,State]]
 
 ## #has_/map 
 
-
 ```leaflet
 id: New York
 coordinates: [[New_York,City]] 
 markerFile: [[New_York,City]] 
+geojsonFolder: ./New_York,City/
+markerFolder: ./New_York,City/
 defaultZoom: 11 
 maxZoom: 18
 ```
