@@ -14,6 +14,8 @@ aliases:
   - New York State
 ---
 
+# [[New_York,State]] 
+
 [name::New York] 
 [name-abbr::NY] 
 
@@ -34,12 +36,14 @@ Capital :: [[New_York,State/counties~New_York/Albany]]
 [has_place_latitude::41.2905] 
 [Population::] 
 
-
+## #has_/map  
 
 ```leaflet
 id: New_York
-geojsonFolder: ./New_York.State//
-markerFolder: ./New_York.State//
+geojsonFolder: ./New_York,State//
+markerFolder: ./New_York,State//
+coordinates: [[New_York,State]] 
+markerFile: [[New_York,State]] 
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

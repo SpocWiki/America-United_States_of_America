@@ -196,7 +196,7 @@ Royal_Academy_new_identifier: metropolitan-museum-of-art-new-york
 
 # [[Metropolitan_Museum_of_Art]] 
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Metropolitan_Museum_of_Art,160236|WD~Metropolitan_Museum_of_Art,160236]]  
+#is_/same_as :: [[../../../../../../../../../WikiData/WD~Metropolitan_Museum_of_Art,160236|WD~Metropolitan_Museum_of_Art,160236]]  
 
 ## #has_/text_of_/abstract 
 

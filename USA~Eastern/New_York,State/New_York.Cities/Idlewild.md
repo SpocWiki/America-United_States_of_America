@@ -12,6 +12,9 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [[Idlewild]] 
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::-73.96] 
@@ -22,6 +25,7 @@ State :: [[../../New_York,State]]
 [Population::] 
 [Unknown::] 
 
+## #has_/map 
 
 ```leaflet
 id: Idlewild
@@ -30,6 +34,7 @@ markerFile: [[Idlewild]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
 
 
 ## Confidential Links & Embeds: 
