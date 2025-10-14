@@ -89,7 +89,7 @@ country: "[[_Standards/WikiData/WD~United_States,30]]"
 continent: "[[_Standards/WikiData/WD~North_America,49]]"
 lowest_point: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
-headquarters_location: "[[_Standards/WikiData/WD~Boston,100]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Boston,100]]"
 capital: "[[_Standards/WikiData/WD~Boston,100]]"
 elevation_above_sea_level: 150
 minimum_wage: 15

@@ -80,7 +80,7 @@ Wikidata_property:
 locations: "[[_Standards/WikiData/WD~Midtown_Manhattan,11249]]"
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Manhattan,11299]]"
 country: "[[_Standards/WikiData/WD~United_States,30]]"
-headquarters_location: "[[_Standards/WikiData/WD~New_York_City,60]]"
+headquarters_locations: "[[_Standards/WikiData/WD~New_York_City,60]]"
 instance_of: "[[_Standards/WikiData/WD~museum,33506]]"
 social_media_followers:
   - 576000

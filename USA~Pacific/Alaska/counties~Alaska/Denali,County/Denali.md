@@ -35,7 +35,7 @@ mountain_range: "[[_Standards/WikiData/WD~Alaska_Range,156684]]"
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Denali_Borough,179950]]"
 part_of: "[[_Standards/WikiData/WD~Seven_Summits,208126]]"
 located_in_protected_area: "[[_Standards/WikiData/WD~Denali_National_Park_and_Preserve,217136]]"
-location: "[[_Standards/WikiData/WD~Denali_National_Park_and_Preserve,217136]]"
+locations: "[[_Standards/WikiData/WD~Denali_National_Park_and_Preserve,217136]]"
 different_from: "[[_Standards/WikiData/WD~Denali,267035]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"

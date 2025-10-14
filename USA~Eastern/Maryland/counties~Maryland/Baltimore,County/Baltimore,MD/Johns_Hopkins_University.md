@@ -83,7 +83,7 @@ located_in_the_administrative_territorial_entity:
   - "[[_Standards/WikiData/WD~Maryland,1391]]"
   - "[[_Standards/WikiData/WD~Baltimore,5092]]"
 language_used: "[[_Standards/WikiData/WD~English,1860]]"
-headquarters_location: "[[_Standards/WikiData/WD~Baltimore,5092]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Baltimore,5092]]"
 country: "[[_Standards/WikiData/WD~United_States,30]]"
 ranking:
   - 20

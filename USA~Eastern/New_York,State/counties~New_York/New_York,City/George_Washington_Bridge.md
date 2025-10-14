@@ -23,7 +23,7 @@ located_in_the_administrative_territorial_entity:
 KML_file: "[[_Standards/WikiData/WD~Template_Attached_KML_George_Washington_Bridge,26330176]]"
 heritage_designation: "[[_Standards/WikiData/WD~Historic_Civil_Engineering_Landmark,56637937]]"
 crosses: "[[_Standards/WikiData/WD~Hudson_River,3140]]"
-location: "[[_Standards/WikiData/WD~Manhattan,11299]]"
+locations: "[[_Standards/WikiData/WD~Manhattan,11299]]"
 made_from_material: "[[_Standards/WikiData/WD~steel,11427]]"
 named_after: "[[_Standards/WikiData/WD~George_Washington,23]]"
 country: "[[_Standards/WikiData/WD~United_States,30]]"

@@ -19,7 +19,7 @@ director_manager:
 architectural_style: "[[_Standards/WikiData/WD~modern_architecture,245188]]"
 named_after: "[[_Standards/WikiData/WD~Solomon_R._Guggenheim,444352]]"
 founded_by: "[[_Standards/WikiData/WD~Solomon_R._Guggenheim,444352]]"
-location: "[[_Standards/WikiData/WD~Upper_East_Side,455587]]"
+locations: "[[_Standards/WikiData/WD~Upper_East_Side,455587]]"
 heritage_designation:
   - "[[_Standards/WikiData/WD~National_Historic_Landmark,624232]]"
   - "[[_Standards/WikiData/WD~Tentative_World_Heritage_Site,1459900]]"

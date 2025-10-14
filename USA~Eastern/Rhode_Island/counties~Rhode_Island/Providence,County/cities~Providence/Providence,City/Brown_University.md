@@ -73,7 +73,7 @@ coat_of_arms: "[[_Standards/WikiData/WD~Coat_of_arms_of_Brown_University,1056637
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wikidata_WikiProject_Academic_Publisher,117222928]]"
 legal_form: "[[_Standards/WikiData/WD~Q130264551,130264551]]"
 language_used: "[[_Standards/WikiData/WD~English,1860]]"
-headquarters_location: "[[_Standards/WikiData/WD~Providence,18383]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Providence,18383]]"
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Providence,18383]]"
 country: "[[_Standards/WikiData/WD~United_States,30]]"
 normal_graduation_time: 4

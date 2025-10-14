@@ -25,7 +25,7 @@ architect: "[[_Standards/WikiData/WD~William_Van_Alen,706549]]"
 part_of_the_series: "[[_Standards/WikiData/WD~history_of_the_world's_tallest_buildings,3698493]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Architourist_Guide,134412769]]"
 coordinate_location: Point(-73.975719444 40.751430555)
-location: "[[_Standards/WikiData/WD~Midtown_Manhattan,11249]]"
+locations: "[[_Standards/WikiData/WD~Midtown_Manhattan,11249]]"
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Manhattan,11299]]"
 instance_of: "[[_Standards/WikiData/WD~skyscraper,11303]]"
 made_from_material:

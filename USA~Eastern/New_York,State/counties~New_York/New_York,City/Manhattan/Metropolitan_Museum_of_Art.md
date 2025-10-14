@@ -137,7 +137,7 @@ inception: 1870-01-01T00:00:00Z
 Wikidata_property: The Met object ID
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Manhattan,11299]]"
 country: "[[_Standards/WikiData/WD~United_States,30]]"
-headquarters_location: "[[_Standards/WikiData/WD~New_York_City,60]]"
+headquarters_locations: "[[_Standards/WikiData/WD~New_York_City,60]]"
 collection_or_exhibition_size: 2000000
 visitors_per_year:
   - 6700000

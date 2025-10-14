@@ -170,7 +170,7 @@ compulsory_education_maximum_age_: 16
 marriageable_age: 18
 instance_of: "[[_Standards/WikiData/WD~U.S._state,35657]]"
 maximum_temperature_record: 109
-headquarters_location: "[[_Standards/WikiData/WD~Tallahassee,37043]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Tallahassee,37043]]"
 capital: "[[_Standards/WikiData/WD~Tallahassee,37043]]"
 mean_age: 42.2
 OpenStreetMap_zoom_level: "6"

@@ -52,7 +52,7 @@ inception: 1891-01-01T00:00:00Z
 coordinate_location: Point(-118.1244 34.1385)
 language_used: "[[_Standards/WikiData/WD~English,1860]]"
 country: "[[_Standards/WikiData/WD~United_States,30]]"
-headquarters_location: "[[_Standards/WikiData/WD~California,99]]"
+headquarters_locations: "[[_Standards/WikiData/WD~California,99]]"
 ranking:
   - 3
   - 6

@@ -146,7 +146,7 @@ endowment:
   - 39200000000
   - 49444494000
   - 51900662000
-headquarters_location: "[[_Standards/WikiData/WD~Cambridge,49111]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Cambridge,49111]]"
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Cambridge,49111]]"
 autonomous_system_number:
   - "11"

@@ -30,7 +30,7 @@ visitor_center:
   - "[[_Standards/WikiData/WD~Clingmans_Dome_Information_Center_and_Store,36013710]]"
   - "[[_Standards/WikiData/WD~Cades_Cove_Visitor_Center,36029847]]"
 permanent_duplicated_item: "[[_Standards/WikiData/WD~Q49495630,49495630]]"
-headquarters_location: "[[_Standards/WikiData/WD~Headquarters_Building,97586411]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Headquarters_Building,97586411]]"
 heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
 country: "[[_Standards/WikiData/WD~United_States,30]]"
 continent: "[[_Standards/WikiData/WD~North_America,49]]"
