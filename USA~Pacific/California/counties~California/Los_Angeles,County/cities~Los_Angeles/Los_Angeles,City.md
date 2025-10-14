@@ -262,7 +262,7 @@ per_capita_income: 37143
 Country :: [[../../../../USA]]  
 State :: [[../../California]]  
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Los_Angeles,65|WD~Los_Angeles,65]] 
 

@@ -337,7 +337,7 @@ official_language: '[[_Standards/WikiData/WD~English,1860]]'
 Country :: [[../../../../USA]]  
 State :: [[../../New_York,State]] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~New_York_City,60|WD~New_York_City,60]] 
 

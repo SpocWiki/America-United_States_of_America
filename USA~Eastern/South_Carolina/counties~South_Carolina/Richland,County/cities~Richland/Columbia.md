@@ -20,7 +20,7 @@ confidential: public
 Country :: [[../../../../USA]]  
 State :: [[../../South_Carolina]]  
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

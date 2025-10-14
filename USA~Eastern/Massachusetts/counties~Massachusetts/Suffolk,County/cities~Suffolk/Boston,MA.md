@@ -245,7 +245,7 @@ official_website: https://www.boston.gov/
 Country :: [[../../../../USA]]  
 State :: [[../../Massachusetts]]  
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as  :: [[../../../../../../../../../WikiData/WD~Boston,100|WD~Boston,100]] 
 

@@ -20,7 +20,7 @@ confidential: public
 Country :: [[../../../../USA]]  
 State :: [[../../Wyoming]]  
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

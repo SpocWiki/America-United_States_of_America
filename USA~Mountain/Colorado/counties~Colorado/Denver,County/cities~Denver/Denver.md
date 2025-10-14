@@ -143,7 +143,7 @@ coordinate_location: Point(-104.984722222 39.739166666)
 Country :: [[../../../../USA]]  
 State :: [[../../Colorado]]  
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Denver,16554|WD~Denver,16554]] 
 

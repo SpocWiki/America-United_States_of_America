@@ -20,7 +20,7 @@ confidential: public
 Country :: [[../../../../USA]]  
 State :: [[../../Nebraska]]  
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

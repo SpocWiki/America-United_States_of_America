@@ -20,7 +20,7 @@ confidential: public
 Country :: [[../../../../USA]]  
 State :: [[../../North_Carolina]]  
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

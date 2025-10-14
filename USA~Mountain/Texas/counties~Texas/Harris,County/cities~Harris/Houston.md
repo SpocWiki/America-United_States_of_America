@@ -212,7 +212,7 @@ area: 1724.544507
 Country :: [[../../../../USA]]  
 State :: [[../../Texas]]  
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Houston,16555|WD~Houston,16555]] 
 

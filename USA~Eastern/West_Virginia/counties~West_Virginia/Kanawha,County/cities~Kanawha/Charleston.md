@@ -20,7 +20,7 @@ confidential: public
 Country :: [[../../../../USA]]  
 State :: [[../../West_Virginia]]  
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

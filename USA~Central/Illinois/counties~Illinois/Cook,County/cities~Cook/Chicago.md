@@ -162,7 +162,7 @@ UMLS_CUI: C0008044
 Country :: [[../../../../USA]]  
 State :: [[../../Illinois]]  
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Chicago,1297|WD~Chicago,1297]] 
 

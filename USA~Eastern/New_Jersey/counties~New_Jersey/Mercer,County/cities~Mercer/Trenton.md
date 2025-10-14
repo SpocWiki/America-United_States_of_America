@@ -20,7 +20,7 @@ confidential: public
 Country :: [[../../../../USA]]  
 State :: [[../../New_Jersey]]  
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

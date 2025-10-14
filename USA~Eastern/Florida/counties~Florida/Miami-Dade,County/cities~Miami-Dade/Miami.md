@@ -235,7 +235,7 @@ DPLA_subject_term: Miami (Fla.)
 Country :: [[../../../../USA]]  
 State :: [[../../Florida]]  
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Miami,8652|WD~Miami,8652]] 
 

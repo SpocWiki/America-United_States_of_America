@@ -155,7 +155,7 @@ UN_LOCODE: USATL
 Country :: [[../../../../USA]]  
 State :: [[../../../../Europe/Georgia~Europe]] ] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Atlanta,23556|WD~Atlanta,23556]] 
 

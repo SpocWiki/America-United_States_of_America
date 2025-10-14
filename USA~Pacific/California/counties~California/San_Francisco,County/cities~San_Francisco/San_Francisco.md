@@ -24,7 +24,7 @@ confidential: public
 Country :: [[../../../../USA]]  
 State :: [[../../California]]  
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: Golden_Gate_Bridge
 

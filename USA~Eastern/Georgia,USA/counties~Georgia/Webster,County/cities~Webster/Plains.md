@@ -20,7 +20,7 @@ confidential: public
 Country :: [[../../../../USA]]  
 State :: [[../../../../Europe/Georgia~Europe]] ] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

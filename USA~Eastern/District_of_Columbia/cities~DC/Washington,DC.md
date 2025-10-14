@@ -212,7 +212,7 @@ official_name: Washington, District of Columbia
 Country :: [[../../../../USA]]  
 State :: [[../../District_of_Columbia]]  
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

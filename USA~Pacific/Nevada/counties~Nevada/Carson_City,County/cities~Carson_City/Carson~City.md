@@ -20,7 +20,7 @@ confidential: public
 Country :: [[../../../../USA]]  
 State :: [[../../Nevada]]  
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

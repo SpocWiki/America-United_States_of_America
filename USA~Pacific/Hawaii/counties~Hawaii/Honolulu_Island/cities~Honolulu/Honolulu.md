@@ -26,7 +26,7 @@ confidential: public
 Country :: [[../../../../USA]]  
 State ::[[../../../../../Oceania/Polynesia/Hawaii]]]  
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Honolulu,18094|WD~Honolulu,18094]] 
 

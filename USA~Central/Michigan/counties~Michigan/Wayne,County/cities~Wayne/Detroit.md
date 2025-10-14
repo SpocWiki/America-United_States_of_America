@@ -142,7 +142,7 @@ UN_LOCODE: USDET
 Country :: [[../../../../USA]]  
 State :: [[../../Michigan]]  
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Detroit,12439|WD~Detroit,12439]] 
 

@@ -192,7 +192,7 @@ Dewey_Decimal_Classification: 2--7642812
 Country :: [[../../../../USA]]  
 State :: [[../../Texas]]  
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Dallas,16557|WD~Dallas,16557]] 
 

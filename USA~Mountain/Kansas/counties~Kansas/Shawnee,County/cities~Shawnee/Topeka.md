@@ -20,7 +20,7 @@ confidential: public
 Country :: [[../../../../USA]]  
 State :: [[../../Kansas]]  
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

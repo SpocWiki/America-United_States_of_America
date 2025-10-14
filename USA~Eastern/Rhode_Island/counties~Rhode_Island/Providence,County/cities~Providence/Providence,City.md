@@ -102,7 +102,7 @@ official_website: https://www.providenceri.gov/
 Country :: [[../../../../USA]]  
 State :: [[../../Rhode_Island]]  
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[_Standards/WikiData/WD~Providence,18383]] 
 

@@ -20,7 +20,7 @@ confidential: public
 Country :: [[../../../../USA]]  
 State :: [[../../New_Hampshire]]  
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

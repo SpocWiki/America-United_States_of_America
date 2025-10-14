@@ -20,7 +20,7 @@ confidential: public
 Country :: [[../../../../USA]]  
 State :: [[../../New_York,State]] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet
