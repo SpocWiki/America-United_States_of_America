@@ -21,7 +21,7 @@ aliases:
 ![[New_Hampshire/Seal_of_New_Hampshire.svg|350]]  
 ![[New_Hampshire/Flag_of_New_Hampshire.svg|350]]  
 
-Country :: [[../../USA]]  
+Country :: [[../../../USA]]  
 Capital :: [[New_Hampshire/City/Concord]]  
 #is_a_/Place  
 #is_a_ :: [[Place]] 

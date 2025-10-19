@@ -26,7 +26,7 @@ aliases:
 ![[Rhode_Island/Flag_of_Rhode_Island.svg|350]] 
 
 
-Country :: [[../../USA]]  
+Country :: [[../../../USA]]  
 Capital :: [[Rhode_Island/City/Providence]]  
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -200,7 +200,7 @@ Mastodon_address: Harvard@mastodon.online
 
 # [[Harvard_University]] 
 
-#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Harvard_University,13371|WD~Harvard_University,13371]] 
+#is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Harvard_University,13371|WD~Harvard_University,13371]] 
 
 ## #has_/text_of_/abstract 
 

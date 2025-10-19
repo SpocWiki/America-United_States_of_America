@@ -172,7 +172,7 @@ U_S_National_Archives_Identifier: "10045228"
 ![[Massachusetts/Seal_of_Massachusetts.svg|350]]  
 ![[Massachusetts/Flag_of_Massachusetts.svg|350]]  
 
-Country :: [[../../USA]]  
+Country :: [[../../../USA]]  
 Capital :: [[Massachusetts/City/Boston]]  
 #is_a_/Place  
 #is_a_ :: [[Place]] 

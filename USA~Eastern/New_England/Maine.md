@@ -19,7 +19,7 @@ confidential: public
 ![[Maine/Seal_of_Maine.svg|350]]  
 ![[Maine/Flag_of_Maine.svg|350]]  
 
-Country :: [[../../USA]]  
+Country :: [[../../../USA]]  
 Capital :: [[Maine/City/Augusta]]  
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -140,7 +140,7 @@ inception: 1769-12-13T00:00:00Z
 
 # [[Dartmouth_College]] 
 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~Dartmouth_College,49116|WD~Dartmouth_College,49116]] 
+#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Dartmouth_College,49116|WD~Dartmouth_College,49116]] 
 
 ## #has_/text_of_/abstract 
 

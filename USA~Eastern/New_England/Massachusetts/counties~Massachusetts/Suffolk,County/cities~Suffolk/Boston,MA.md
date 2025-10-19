@@ -247,7 +247,7 @@ State :: [[../../Massachusetts]]
 [Population::] 
 
 
-#is_/same_as  :: [[../../../../../../../../../WikiData/WD~Boston,100|WD~Boston,100]] 
+#is_/same_as  :: [[../../../../../../../../../../WikiData/WD~Boston,100|WD~Boston,100]] 
 
 ## #has_/map 
 

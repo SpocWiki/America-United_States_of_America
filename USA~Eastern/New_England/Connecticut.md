@@ -20,7 +20,7 @@ confidential: public
 ![[Connecticut/Seal_of_Connecticut.svg|250]]  
 ![[Connecticut/Flag_of_Connecticut.svg|250]]  
 
-Country :: [[../../USA]]  
+Country :: [[../../../USA]]  
 Capital :: [[Connecticut/City/Hartford]]  
 #is_a_/Place  
 #is_a_ :: [[Place]] 
