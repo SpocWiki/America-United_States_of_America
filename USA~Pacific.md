@@ -6,7 +6,8 @@ Pacific Time Zone
 ```leaflet
 id: United States of America
 zoomFeatures: true 
-minZoom: 4 
+minZoom: 3 
+defaultZoom: 4
 maxZoom: 18
 geojsonFolder: ./USA~Pacific/
 markerFolder: ./USA~Pacific/
