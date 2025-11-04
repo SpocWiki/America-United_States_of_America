@@ -306,11 +306,13 @@ Capital :: [[California/City/Sacramento]]
 
 ## #has_/map  
 
-
 ```leaflet
 id: California
-geojsonFolder: ./California/
+geojsonFolder: ./California//
 markerFolder: ./California/
+coordinates: [[California]] 
+markerFile: [[California]] 
+defaultZoom: 11 
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
