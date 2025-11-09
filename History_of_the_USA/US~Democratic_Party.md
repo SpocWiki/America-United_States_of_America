@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Democrats
 ---
@@ -69,4 +69,19 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Democratic%20Party%20(United%20States))
 
+## Confidential Links & Embeds
+
+### #is_/same_as :: [US~Democratic_Party](/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.md) 
+
+### #is_/same_as :: [US~Democratic_Party.public](/_public/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.public.md) 
+
+### #is_/same_as :: [US~Democratic_Party.internal](/_internal/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.internal.md) 
+
+### #is_/same_as :: [US~Democratic_Party.protect](/_protect/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.protect.md) 
+
+### #is_/same_as :: [US~Democratic_Party.private](/_private/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.private.md) 
+
+### #is_/same_as :: [US~Democratic_Party.personal](/_personal/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.personal.md) 
+
+### #is_/same_as :: [US~Democratic_Party.secret](/_secret/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.secret.md)
 
