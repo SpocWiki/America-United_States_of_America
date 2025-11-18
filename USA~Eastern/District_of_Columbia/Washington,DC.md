@@ -209,8 +209,8 @@ official_name: Washington, District of Columbia
 [has_place_longitude::-77.01] 
 [has_place_latitude::38.89] 
 [name::Washington,DC] 
-Country :: [[../../../../USA]]  
-State :: [[../../District_of_Columbia]]  
+Country :: [[../../../USA]]  
+State :: [[../District_of_Columbia]]  
 [Population::] 
 
 
