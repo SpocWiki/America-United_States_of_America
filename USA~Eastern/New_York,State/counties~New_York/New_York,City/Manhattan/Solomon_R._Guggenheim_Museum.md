@@ -64,7 +64,7 @@ inception: 1937-01-01T00:00:00Z
 
 # [[Solomon_R._Guggenheim_Museum]] 
 
-#is_/same_as :: [[WD~Guggenheim_Museum,201469]]
+#is_/same_as :: [[../../../../../../../../../WikiData/WD~Solomon_R._Guggenheim_Museum,201469|WD~Solomon_R._Guggenheim_Museum,201469]] 
 
 ## #has_/text_of_/abstract 
 
